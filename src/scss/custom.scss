@@ -1,0 +1,90 @@
+
+html {
+  font-size: var(--base-font-size);
+  font-family: var(--base-font);
+  background-color: var(--body-bg);
+  color: var(--content-fg);
+  overflow-y: scroll;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  padding: 0;
+  margin: 0;
+  font-family: var(--headings-font);
+}
+
+h1 {
+  font-size: var(--largest-font-size);
+  font-weight: 800;
+}
+
+h2 {
+  padding-top: 2em;
+  font-size: var(--largest-font-size);
+  font-weight: 400;
+}
+
+h3 {
+  padding-top: 1.5em;
+  font-size: var(--larger-font-size);
+  font-weight: 400;
+}
+
+h4,
+h5 {
+  padding-top: 1.5em;
+  font-size: var(--base-font-size);
+}
+
+ul {
+  list-style: circle;
+}
+
+ol.breadcrumbs {
+  margin: 2rem;
+  text-align: center;
+  list-style: none;
+
+  > li {
+    display: inline;
+  }
+}
+
+ul.nobullets {
+  list-style: none;
+  padding-left: 0.5rem;
+}
+
+a,
+a:hover,
+a:active,
+:any-link {
+  color: var(--link-fg);
+  outline: none;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+:any-link:hover {
+  background-color: var(--link-bg-hover);
+}
+
+.footer {
+  background-color: var(--content-bg);
+  font-size: var(--small-font-size);
+
+  :any-link {
+    color: inherit;
+  }
+}
+
+.katex {
+  font-size: inherit;
+  font-weight: inherit;
+}

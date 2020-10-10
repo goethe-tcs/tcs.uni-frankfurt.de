@@ -1,0 +1,66 @@
+/**
+ * assumed DOM:
+ * body > .wrapper > .navbar, .container, .footer
+ */
+.wrapper {
+  max-width: 1164px;
+  margin: 0 auto;
+  min-width: min-content;
+  min-height: 100vh;
+  display: grid;
+  gap: 0;
+  justify-content: center;
+  grid-template:
+    'navbar'    fit-content(1000px)
+    'container' 1fr
+    'footer'    minmax(max-content, 0) / 1fr;
+}
+
+.navbar {
+  grid-area: navbar;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  grid-template-columns:
+    auto minmax(0, 1rem) max-content minmax(0, 1rem)
+    1fr repeat(3, max-content);
+  padding: 0.5rem;
+
+  .dash {
+    display: none;
+  }
+}
+
+.container {
+  grid-area: container;
+  justify-self: stretch;
+  background-color: var(--content-bg);
+  margin: 0;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+.footer {
+  padding: 1rem;
+  grid-area: footer;
+  text-align: right;
+}
+
+@media (min-width: $medium) {
+  // .wrapper {
+  //   grid-template:
+  //     'navbar container' 1fr
+  //     'navbar footer   ' minmax(max-content, 0) / 224px 1fr;
+  // }
+
+  .navbar {
+    padding: 10px;
+    // min-height: 100.867px;
+    // grid-template-columns: auto;
+    // grid-template-rows: 100px 1rem 100px 1rem 0 repeat(3, 100px);
+  }
+
+  .container {
+    padding: 3rem 3rem 1rem 3rem;
+  }
+}

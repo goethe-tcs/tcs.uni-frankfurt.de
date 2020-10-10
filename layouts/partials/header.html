@@ -1,0 +1,55 @@
+{{- .Scratch.Set "css" "http://localhost:1314/assets/dist/bundle.css" -}}
+{{- .Scratch.Set "js" "http://localhost:1314/assets/dist/bundle.js" -}}
+{{- if not .Site.IsServer -}}
+{{ .Scratch.Set "css" (index .Site.Data.manifest "main.css") -}}
+{{- .Scratch.Set "js" (index .Site.Data.manifest "main.js") -}}
+{{- end -}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <meta name="description" content="{{if .Description}}{{.Description}}{{else}}{{ $.Site.Params.description }}{{end}}">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/assets/dist/fonts.css">
+  {{ $css := .Scratch.Get "css" -}}
+  <link rel="stylesheet" href="{{ $css }}">
+  {{ $js := .Scratch.Get "js" -}}
+  <script async defer src="{{ $js }}"></script>
+  <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+SC:wght@400;700&display=swap"> -->
+  <!-- <link rel="stylesheet" href="/assets/dist/bundle.css">
+  <script async defer src="/assets/dist/bundle.js"></script> -->
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="navbar">
+      <a class="menu GU" href="https://www.uni-frankfurt.de">
+        <img alt="Goethe-Universität Frankfurt" class="GU-logo" src="/images/Goethe-Logo-weiss.svg">
+        <img alt="Goethe-Universität Frankfurt" class="Goethe" src="/images/Goethe-weiss.svg">
+      </a>
+      <div class="menu separator"></div>
+      <a class="menu TCS" href="/">
+        <div>
+          <div class="nowrap title-cs">CS</div>
+          <div class="nowrap title-theory"><span class="dash">&mdash;</span>Theory<span class="dash">&mdash;</span></div>
+        </div>
+      </a>
+      <div class="menu separator"></div>
+      <div class="menu separator"></div>
+      <!-- <a class="menu item" href="/members/">
+        <i class="fas fa-users"></i>
+        <div class="item-desc">Members</div>
+      </a> -->
+      <a class="menu item" href="/research/">
+        <i class="fas fa-flask"></i>
+        <div class="item-desc">Research</div>
+      </a>
+      <a class="menu item" href="/teaching/">
+        <i class="fas fa-chalkboard-teacher"></i>
+        <div class="item-desc">Teaching</div>
+      </a>
+    </nav>
+    <div class="container {{ .Layout }}">

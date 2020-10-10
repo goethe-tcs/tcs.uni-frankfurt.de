@@ -1,0 +1,69 @@
+.member h2 {
+  font-size: var(--larger-font-size);
+}
+
+.row-goldenratio {
+  display: grid;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  grid-template:
+    'profile' auto
+    'coordinates' auto
+    'photo'   auto
+    / 1fr;
+
+  @media (min-width: $medium) {
+    grid-template:
+      'profile     photo' auto
+      'coordinates coordinates' auto
+      / 1.61803fr 1fr;
+  }
+}
+
+.coordinates {
+  grid-area: coordinates;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.photo-container > .photo {
+  border-radius: 2.5rem;
+  overflow: hidden;
+  max-width: 290px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: $wide) {
+  .profiles {
+    text-align: left;
+    float: right;
+    padding-left: 3rem;
+  }
+}
+
+.profiles img {
+  filter: grayscale(100%);
+}
+
+.photo-container {
+  display: grid;
+  justify-content: center;
+
+  .photo img {
+    display: block;
+    max-width: 100%;
+  }
+}
+
+ul.coordinates {
+  list-style: none;
+
+  > li {
+    display: inline-block;
+    margin-left: 1ex;
+    margin-right: 1ex;
+  }
+}

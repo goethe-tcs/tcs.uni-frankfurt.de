@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableGitInfo = true
+
+title = "TCS@GU"
+
+[params]
+author = "Holger Dell"
+description = "Website of the Theoretical Computer Science Group at Goethe University Frankfurt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
