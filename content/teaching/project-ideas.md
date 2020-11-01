@@ -57,6 +57,7 @@ Your visualization project should do something *new*. For example, visualizing d
 **What you need to bring:**
 - Interest in graphical design, gamification, as well as teaching.
 - Good mathematical background.
+- For a Master thesis, you need to have taken at least one advanced course or seminar in algorithms, complexity, or graph theory.
 
 Since I want the results of visualization projects to be as accessible as possible, the applications will be browser-based and therefore use JavaScript (or a suitable other language, such as Python, in combination with WebAssembly).
 All products generated in your projects are developed under an open-source license, and when they're ready will be publicly available.

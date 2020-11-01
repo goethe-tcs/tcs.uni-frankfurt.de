@@ -9,9 +9,31 @@ Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Gr
 
 ### Organisation
 
-- Die Veranstaltung (4+2) füllt das **Modul** Aktuelle Themen der Theoretischen Informatik aus. [[qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)]
-- Die **Vorlesungen** finden je nach Zahl der Teilnehmer:innen und Coronalage im Hörsaal, online, oder offline statt. Der Termin ist Di-Mi 14-16
-- Die **Übungen** finden Fr 10-12 statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
+Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier ein (falls Sie sich bereits per Email angemeldet haben, sollten Sie das Formular nicht benutzen):
+<form action='https://api.tcs.uni-frankfurt.de/register' method='POST'>
+    Anrede:
+    <select name='anrede'>
+      <option value='Frau'>Frau</option>
+      <option value='Herr'>Herr</option>
+      <option value='Divers'>Divers</option>
+    </select>
+    <br>
+    Vorname: <input name='vorname'>
+    <br>
+    Nachname: <input name='nachname'>
+    <br>
+    Matrikelnummer: <input name='mtknr'>
+    <br>
+    HRZ-Emailadresse: <input name='mail'>
+    <br>
+    <input type='submit'>
+</form>
+
+**Weitere Details:**
+
+- Für welche Module Sie diese Veranstaltung einbringen können, können Sie im [qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) nachlesen.
+- Die **Vorlesungen** finden online statt. Der Termin ist Di-Mi 14-16.
+- Die **Übungen** finden Fr 10-12 online statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
 - Die **Klausur** findet am Ende des Semesters statt und wird je nach Zahl der Teilnehmer:innen mündlich oder schriftlich sein.
 
 
