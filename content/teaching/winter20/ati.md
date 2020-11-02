@@ -62,3 +62,8 @@ Nach der Veranstaltung kann der:die Student:in
 - Cygan et al. "Parameterized Algorithms" [[preprint pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) | [ISBN 978-3-319-21274-6](https://dblp.org/rec/html/books/sp/CyganFKLMPPS15)].
 - Vorlesungsskript der Vorlesung von Bringmann and Künnemann an der Universität des Saarlandes [[url](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer19/fine-complexity/)]
 - Diverse wissenschaftliche Publikationen aus dem Gebiet.
+
+Weitere Literatur:
+
+- Flum and Grohe "[Parameterized Complexity Theory](https://www.springer.com/de/book/9783540299523)"
+- Downey and Fellows "[Fundamentals of Parameterized Complexity](https://www.springer.com/de/book/9781447155584)"
