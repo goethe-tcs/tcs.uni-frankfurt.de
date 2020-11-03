@@ -36,6 +36,11 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 - Die **Übungen** finden Fr 10-12 online statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
 - Die **Klausur** findet am Ende des Semesters statt und wird je nach Zahl der Teilnehmer:innen mündlich oder schriftlich sein.
 
+### Einheiten
+
+In Teil 1 folgen wir dem Buch "Parameterized Algorithms".
+
+- Vertex-Cover: Reduktionsregeln, $O(k^2)$-Kernelisierung, einfache Branching-Algorithmen [mp4 Video]()
 
 ### Inhalt
 
@@ -67,3 +72,4 @@ Weitere Literatur:
 
 - Flum and Grohe "[Parameterized Complexity Theory](https://www.springer.com/de/book/9783540299523)"
 - Downey and Fellows "[Fundamentals of Parameterized Complexity](https://www.springer.com/de/book/9781447155584)"
+- [Parameterized complexity course](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer20/parameterized-algorithms) von Dániel Marx und Pranabendu Misra. (Mit Videos und Folien)

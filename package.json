@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "server": "webpack-dev-server & hugo server",
+    "server": "webpack-dev-server & GIT_CONFIG_NOSYSTEM=true hugo server",
     "clean": "bash -c 'rm -rf public/* static/assets/dist/*'",
-    "build": "yarn clean && (~/Documents/Activities/review/gen-statistics.py | head -c -1 > layouts/shortcodes/holger-reviews.html || true) && webpack --env.production && hugo --minify",
+    "build": "yarn clean && (~/Documents/Activities/review/gen-statistics.py | head -c -1 > layouts/shortcodes/holger-reviews.html || true) && webpack --env.production && GIT_CONFIG_NOSYSTEM=true hugo --minify",
     "upload": "rsync -rvz --delete public/ dell@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/",
     "parcel_deploy": "yarn clean && parcel build src/js/bundle.js --out-dir static/assets/dist --public-url /assets/dist --detailed-report --no-source-maps",
     "parcel_watch": "parcel watch src/js/bundle.js --out-dir static/assets/dist --public-url /assets/dist --no-hmr"
