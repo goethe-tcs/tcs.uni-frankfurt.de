@@ -40,7 +40,7 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 
 In Teil 1 folgen wir dem Buch "Parameterized Algorithms".
 
-- Vertex-Cover: Reduktionsregeln, $O(k^2)$-Kernelisierung, einfache Branching-Algorithmen [mp4 Video](/teaching/winter20/ati/01-VertexCover.mp4)
+- 01-Vertex-Cover: Reduktionsregeln, \\(O(k^2)\\)-Kernelisierung, einfache Branching-Algorithmen [mp4 Video](/teaching/winter20/ati/01-VertexCover.mp4)
 
 ### Inhalt
 
