@@ -6,6 +6,48 @@ Diese Vorlesung behandelt aktuelle Forschungsthemen aus der theoretischen Inform
 Es werden etwa hälftig algorithmische und komplexitätstheoretische Fragen und Ergebnisse abgedeckt.
 Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Grundwissen in diskreter Mathematik. Komplexitätstheorie und algorithmische Vertiefungsvorlesungen sind von Vorteil, werden aber nicht formal vorausgesetzt.
 
+### Vorlesungsmaterial
+
+In **Teil 1** folgen wir dem Buch "Parameterized Algorithms" [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)].
+Hier ist der (vorläufige) Plan:
+
+- Woche 1:
+  - [[video](/teaching/winter20/ati/01-VertexCover.mp4)] [Kapitel 1, 2.2.1, 3.1, 3.2] Vertex-Cover: Reduktionsregeln, \(O(k^2)\)-Kernelisierung, einfache Branching-Algorithmen 
+  - [[video](/teaching/winter20/ati/02-Definitionen.mp4)] [Kapitel 1, 2.1] Grundlegende Definitionen, Äquivalenz von Kernelisierung und FPT
+  - [[video](/teaching/winter20/ati/03-Kernels.mp4)] [Kapitel 2.2.3, 2.3, 2.5] Kernelisierung von Edge Clique Cover, Crown Reduktion für Vertex-Cover, Kernels via Lineare Programmierung
+  - Übungen: Kommen noch.
+
+- Woche 2:
+  - [3.1, 3.4, 4.1, 4.3.1] Beschränkte Suchbäume und Iterative Kompression 
+  - [5.1, 5.2, 5.3] Color-coding
+
+- Woche 3:
+  - Dynamische Programmierung (auf Bäumen, schmalen Gittern; Pfadweite) [7.1, 7.2]
+  - Baumweite, Weighted Independent Set, Satz von Courcelle [7.2, 7.3.1, 7.4]
+
+- Woche 4:
+  - Cops and Robbers, Balanced Separators, Berechnung von Baumweite [(7.5), 7.6]
+  - Verschiedenes (Graph Minors, Integer Programming, Steiner Tree)	[6.1.2, 6.2, 6.3]
+  - Excluded Grid Theorem, Bidimensionality	[7.7]
+
+- Woche 5:
+  - Algebraic Methods (Inclusion-Exclusion, Fast Möbius Transform, Fast Subset Convolution, Counting proper colorings)	[10.1.1, 10.2, 10.3, 10.3.1]
+  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
+  - Extensor-coding [Sec. 1.2-3.3 von BDH18]
+
+- Woche 6:
+  - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
+  - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
+
+- Woche 7:
+  - Fixed-Parameter Intractability (Parameterized reductions, W-Hierarchy)	13.1, 13.2, 13.3
+  - Hardness of Kernelization	15.1.1, 15.1.2
+
+- Weitere mögliche Themen:
+  - FPT in P (Maximum Matching by solution size, Diameter by vertex cover number)	Sec. 5 of [GMN15], Sec. A of [BHM18]
+  - Representative Sets (Long Directed Cycles)	12.3, 12.3.5
+  - ETH lower bounds (Definition of ETH/SETH, Sparsification Lemma, Lower bounds for 3-Coloring, Clique, Odd Set)	14.1, 14.2, 14.3.1, 14.4, 13.6.3
+  - (S)ETH lower bounds (Lower bounds for Grid Tiling, Unit Disk Independent Set, Dominating Set)	14.4.1, 14.5.3
 
 ### Organisation
 
@@ -36,19 +78,14 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 - Die **Übungen** finden Fr 10-12 online statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
 - Die **Klausur** findet am Ende des Semesters statt und wird je nach Zahl der Teilnehmer:innen mündlich oder schriftlich sein.
 
-### Einheiten
-
-In Teil 1 folgen wir dem Buch "Parameterized Algorithms".
-
-- 01-Vertex-Cover: Reduktionsregeln, \\(O(k^2)\\)-Kernelisierung, einfache Branching-Algorithmen [mp4 Video](/teaching/winter20/ati/01-VertexCover.mp4)
 
 ### Inhalt
 
 In dieser Vorlesung geht es um schnelle Algorithmen für "schwere" Berechnungsprobleme und immer auch um die Frage, ob noch schnellere Algorithmen möglich sind.
 Der Ausgangspunkt ist die Beobachtung, dass NP-Vollständigkeit und die Klassifikation von Problemen in Polynomialzeit und NP-schwer oft zu grobkörnig ist, um genaue Aussagen über die bestmöglich Laufzeit zu erzielen.
 
-Wenn ein Algorithmus in Zeit \\(O(n^3)\\) läuft, ist dennoch von höchstem Interesse, ob es nicht einen cleveren und noch unbekannten Algorithmus geben könnte, der nur Zeit \\(O(n^{2.99})\\) oder \\(O(n)\\) braucht.
-Und nur weil ein Problem NP-schwer ist und damit keinen Polynomialzeitalgorithmus hat, heißt das noch lange nicht, dass man das Problem nicht gelöst haben möchte. Daher ist die Frage interessant, wie schnell man das Problem denn nun lösen kann: Vielleicht in Zeit \\(O(n^n)\\), \\(O(2^n)\\) oder gar \\(O(1.3^k n)\\) wo \\(k\\) ein weiterer Parameter der Eingabe ist?
+Wenn ein Algorithmus in Zeit \(O(n^3)\) läuft, ist dennoch von höchstem Interesse, ob es nicht einen cleveren und noch unbekannten Algorithmus geben könnte, der nur Zeit \(O(n^{2.99})\) oder \(O(n)\) braucht.
+Und nur weil ein Problem NP-schwer ist und damit keinen Polynomialzeitalgorithmus hat, heißt das noch lange nicht, dass man das Problem nicht gelöst haben möchte. Daher ist die Frage interessant, wie schnell man das Problem denn nun lösen kann: Vielleicht in Zeit \(O(n^n)\), \(O(2^n)\) oder gar \(O(1.3^k n)\) wo \(k\) ein weiterer Parameter der Eingabe ist?
 
 Dieser Kurs vermittelt spannende algorithmische Techniken, um die Komplexität von NP-schweren und Polynomialzeitproblemen genauer zu analysieren.
 Die Übungen bilden einen wichtigen Teil der Veranstaltung: Darin werden Sie algorithmische Techniken selbständig anwenden und auch Komplexitätsannahmen benutzen, um zu zeigen, dass bestimmte Probleme keine schnelleren Algorithmen zulassen.
