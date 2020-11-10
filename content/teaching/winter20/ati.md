@@ -15,10 +15,11 @@ Hier ist der (vorläufige) Plan:
   - [[video](/teaching/winter20/ati/01-VertexCover.mp4)] [Kapitel 1, 2.2.1, 3.1, 3.2] Vertex-Cover: Reduktionsregeln, \(O(k^2)\)-Kernelisierung, einfache Branching-Algorithmen 
   - [[video](/teaching/winter20/ati/02-Definitionen.mp4)] [Kapitel 1, 2.1] Grundlegende Definitionen, Äquivalenz von Kernelisierung und FPT
   - [[video](/teaching/winter20/ati/03-Kernels.mp4)] [Kapitel 2.2.3, 2.3, 2.5] Kernelisierung von Edge Clique Cover, Crown Reduktion für Vertex-Cover, Kernels via Lineare Programmierung
-  - Übungen: Kommen noch.
+  - [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment01.pdf)] Erstes Übungsblatt (bitte ignorieren Sie organisatorische Anmerkungen auf dem Blatt, es stammt aus einer alten Iteration). Sie werden die Lösungen nächste Woche in der Übungsgruppe vorstellen.
 
 - Woche 2:
-  - [3.1, 3.4, 4.1, 4.3.1] Beschränkte Suchbäume und Iterative Kompression 
+  - [[video](/teaching/winter20/ati/04-BoundedSearchTrees.mp4)] [3.1, 3.4] Bounded Search Trees (Vertex Cover Above LP)
+  - [4.1, 4.3.1] Iterative Kompression 
   - [5.1, 5.2, 5.3] Color-coding
 
 - Woche 3:
@@ -99,9 +100,10 @@ Nach der Veranstaltung kann der:die Student:in
 - wichtige Ergebnisse, Algorithmen und Beweistechniken aus dem Gebiet reproduzieren und auf ähnliche Probleme übertragen,
 - die Möglichkeiten und Grenzen der Methoden des Gebiets einschätzen.
 
-### Literatur
+### Literatur und Links
 
 - Cygan et al. "Parameterized Algorithms" [[preprint pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) | [ISBN 978-3-319-21274-6](https://dblp.org/rec/html/books/sp/CyganFKLMPPS15)].
+- Eine vorherige Iteration dieses Kurses: [Multivariate Algorithmics](https://bit.ly/MulAlg18) (2018).
 - Vorlesungsskript der Vorlesung von Bringmann and Künnemann an der Universität des Saarlandes [[url](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer19/fine-complexity/)]
 - Diverse wissenschaftliche Publikationen aus dem Gebiet.
 
