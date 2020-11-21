@@ -12,7 +12,7 @@ toc: no
 
 ### SoSe 2021
 
-- Vorlesung (4+2): Algorithmen und Datenstrukturen 1
+- Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
 - Seminar: Algorithmen und Komplexität
 
 

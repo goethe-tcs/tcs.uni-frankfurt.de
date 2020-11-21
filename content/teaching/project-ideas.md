@@ -28,7 +28,7 @@ _Engineering_, _Visualization_, and _Theory_.
 
 **More specific aspects of a possible projects:**
 - Develop a prototype implementation in a suitable high-level programming language or framework (such as Python, SciKit, and Matlab. Other languages are also possible if you're more comfortable with that)
-- Contribute to a high-performance implementation in a suitable programming language (such as Rust. If you think you can write high-performing software in a different language, you are welcome as well).
+- Contribute to a high-performance implementation in a suitable programming language (such as Rust or C++).
 - Design and run experiments that test the correctness, performance, and scalability of implementations.
 - Participate in a research-level programming competition.
 
@@ -95,7 +95,7 @@ As supervisor, I'm in a strange role conflict: During the project, I am your coa
 Before the project is started formally, we will together design and agree on an informal **project plan** (1-2 pages). Typically, when you first ask for a topic, I will briefly outline an initial project idea.
 You will then familiarize yourself with the relevant literature to some extent, we discuss the idea further, and you turn it into a more detailed project plan.
 
-The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline. The main benefits of the project plan are: 1) You learn as best as is feasible what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading a little bit more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
+The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline (I do not want a Gantt chart). The main benefits of the project plan are: 1) You learn as best as is feasible what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading a little bit more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
 
 ### Expectations
 
@@ -104,7 +104,7 @@ That said, I will meet with you throughout the semester to discuss the project, 
 We will typically meet once every 2-3 weeks---more if needed. I will also be available electronically.
 If the project involves coding, I will do some code review.
 Every project involves scientific writing, and I will read and give feedback on your written drafts.
-However, I will not provide iterative feedback, because this would blur the line too much between you writing your thesis and me writing your thesis, so in total I will read and comment on at most two full drafts so long as you present it to me with ample time before the deadline (at least two weeks).
+However, I will not provide iterative feedback, because this would blur the line too much between you writing your thesis and me writing your thesis, so in total I will read and comment on at most one full draft so long as you present it to me with ample time before the deadline (at least two weeks).
 
 ### Formalities
 

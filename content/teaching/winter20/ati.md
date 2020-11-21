@@ -19,17 +19,29 @@ Hier ist der (vorläufige) Plan:
 
 - Woche 2:
   - [[video](/teaching/winter20/ati/04-BoundedSearchTrees.mp4)] [3.1, 3.4] Bounded Search Trees (Vertex Cover Above LP)
-  - [4.1, 4.3.1] Iterative Kompression 
-  - [5.1, 5.2, 5.3] Color-coding
+  - [[video](/teaching/winter20/ati/05-IterativeCompression.mp4)] [4.1, 4.3.1] Iterative Kompression (Vertex Cover, Feedback Vertex Set)
+  - [[video](/teaching/winter20/ati/06-ColorCoding.mp4)] [5.1, 5.2] Randomisierte Algorithmen (Feedback Vertex Set, Color-coding)
+  - Übungen: Aufgaben 2.1, 2.2, 2.3 von Blatt 2 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment02.pdf)] und Aufgaben 3.1, 3.3, 3.5 von Blatt 3 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment03.pdf)]. Die Lösungen werden am 20.11. besprochen.
 
 - Woche 3:
-  - Dynamische Programmierung (auf Bäumen, schmalen Gittern; Pfadweite) [7.1, 7.2]
-  - Baumweite, Weighted Independent Set, Satz von Courcelle [7.2, 7.3.1, 7.4]
+  - [[video](/teaching/winter20/ati/Woche03-intro.mp4) 6 min] Überblick über die Themen der Woche
+  - [[video](/teaching/winter20/ati/07-Trees-NarrowGrids.mp4) 39 min] [7.1] Dynamische Programmierung (auf Bäumen, schmalen Gittern)
+  - [[video](/teaching/winter20/ati/08-Pfadweite.mp4) 44 min] [7.2] Pfadweite (Definition, Separationseigenschaft, nette Pfadzerlegungen)
+  - [[video](/teaching/winter20/ati/09-Baumzerlegung.mp4) 19 min] [7.2] Baumweite (Definition, Separationseigenschaft, nette Baumzerlegungen)
+  - [[video](/teaching/winter20/ati/10-WIS-DP-tw.mp4) 35 min] [7.3.1] Dynamische Programmierung auf Graphen beschränkter Baumweite
+  - [[video](/teaching/winter20/ati/11-Courcelle.mp4) 35 min] [7.4] Satz von Courcelle
+  - Übungsgruppe:
+    - Die Aufgaben zu den Themen dieser Woche sind auf "Problem set 5" [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment05.pdf)]. Die Lösungen werden am 27.11. besprochen.
+    - In der Übungsgruppe am 20.11. besprechen werden wir die Übungsaufgaben der Wochen 1 und 2!
 
 - Woche 4:
-  - Cops and Robbers, Balanced Separators, Berechnung von Baumweite [(7.5), 7.6]
-  - Verschiedenes (Graph Minors, Integer Programming, Steiner Tree)	[6.1.2, 6.2, 6.3]
-  - Excluded Grid Theorem, Bidimensionality	[7.7]
+  - [[video](/teaching/winter20/ati/Woche04-0-Intro.mp4) 6 min] Intro
+  - [[video](/teaching/winter20/ati/Woche04-2-SeparatorenLemmas.mp4) 45 min] [7.6] Berechnung von Baumweite, Lemmas zu Balancierte Separatoren
+  - [[video](/teaching/winter20/ati/Woche04-3-Korollar-7.21.mp4) 12 min] [7.6] Korollar 7.21
+  - [[video](/teaching/winter20/ati/Woche04-4-BaumweiteAlgorithmus.mp4) 52 min] [7.6] Baumweite berechnen: Algorithmus und Korrektheitsbeweis
+  - [[video](/teaching/winter20/ati/Woche04-1-CopsRobber.mp4) 11 min] Cops and Robber [7.5]
+  - [[video](/teaching/winter20/ati/Woche04-5-Graphminoren.mp4) 26 min] Graphminoren [6.3], Ausgeschlossene Minoren und Gitter [7.7]
+  - [[video](/teaching/winter20/ati/Woche04-6-WinWin.mp4) 14 min] Win/Win-Algorithmen und Bidimensionalität [7.7]
 
 - Woche 5:
   - Algebraic Methods (Inclusion-Exclusion, Fast Möbius Transform, Fast Subset Convolution, Counting proper colorings)	[10.1.1, 10.2, 10.3, 10.3.1]
@@ -78,7 +90,7 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 - Die **Vorlesungen** finden online statt. Der Termin ist Di-Mi 14-16.
 - Die **Übungen** finden Fr 10-12 online statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
 - Die **Klausur** findet am Ende des Semesters statt und wird je nach Zahl der Teilnehmer:innen mündlich oder schriftlich sein.
-
+- **Zeitaufwand**: 10 ECTS mit je 25h = 250h. Mit 50 Stunden Klausurvorbereitung landen wir bei 200h/14 = 14h pro Woche. Davon sind 4h Vorlesung, 2h Übungsgruppe und 8h Übungsaufgaben.
 
 ### Inhalt
 
