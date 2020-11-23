@@ -1,0 +1,89 @@
+/* === Cormorant Garamond - regular */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/CormorantGaramond-Regular.eot');
+  src: local('Cormorant Garamond'),
+    url('../assets/fonts/CormorantGaramond-Regular.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantGaramond-Regular.woff2') format('woff2'),
+    url('../assets/fonts/CormorantGaramond-Regular.woff') format('woff'),
+    url('../assets/fonts/CormorantGaramond-Regular.ttf') format('truetype'),
+    url('../assets/fonts/CormorantGaramond-Regular.svg') format('svg');
+}
+
+/* === Cormorant Garamond - italic */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../assets/fonts/CormorantGaramond-Italic.eot');
+  src: local('Cormorant Garamond'),
+    url('../assets/fonts/CormorantGaramond-Italic.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantGaramond-Italic.woff2') format('woff2'),
+    url('../assets/fonts/CormorantGaramond-Italic.woff') format('woff'),
+    url('../assets/fonts/CormorantGaramond-Italic.ttf') format('truetype'),
+    url('../assets/fonts/CormorantGaramond-Italic.svg') format('svg');
+}
+
+/* === Cormorant Garamond - 700 */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/CormorantGaramond-Bold.eot');
+  src: local('Cormorant Garamond'),
+    url('../assets/fonts/CormorantGaramond-Bold.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantGaramond-Bold.woff2') format('woff2'),
+    url('../assets/fonts/CormorantGaramond-Bold.woff') format('woff'),
+    url('../assets/fonts/CormorantGaramond-Bold.ttf') format('truetype'),
+    url('../assets/fonts/CormorantGaramond-Bold.svg') format('svg');
+}
+
+/* === Cormorant Garamond - 700italic */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../assets/fonts/CormorantGaramond-BoldItalic.eot');
+  src: local('Cormorant Garamond'),
+    url('../assets/fonts/CormorantGaramond-BoldItalic.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantGaramond-BoldItalic.woff2') format('woff2'),
+    url('../assets/fonts/CormorantGaramond-BoldItalic.woff') format('woff'),
+    url('../assets/fonts/CormorantGaramond-BoldItalic.ttf') format('truetype'),
+    url('../assets/fonts/CormorantGaramond-BoldItalic.svg') format('svg');
+}
+
+/* === Cormorant SC - regular */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/CormorantSc-Regular.eot');
+  src: local('Cormorant SC'),
+    url('../assets/fonts/CormorantSc-Regular.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantSc-Regular.woff2') format('woff2'),
+    url('../assets/fonts/CormorantSc-Regular.woff') format('woff'),
+    url('../assets/fonts/CormorantSc-Regular.ttf') format('truetype'),
+    url('../assets/fonts/CormorantSc-Regular.svg') format('svg');
+}
+
+/* === Cormorant SC - 700 */
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/CormorantSc-Bold.eot');
+  src: local('Cormorant SC'),
+    url('../assets/fonts/CormorantSc-Bold.eot') format('embedded-opentype'),
+    url('../assets/fonts/CormorantSc-Bold.woff2') format('woff2'),
+    url('../assets/fonts/CormorantSc-Bold.woff') format('woff'),
+    url('../assets/fonts/CormorantSc-Bold.ttf') format('truetype'),
+    url('../assets/fonts/CormorantSc-Bold.svg') format('svg');
+}

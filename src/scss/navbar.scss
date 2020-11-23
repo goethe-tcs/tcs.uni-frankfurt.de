@@ -1,9 +1,9 @@
 .navbar {
   align-content: start;
-  overflow: hidden;
   background-color: var(--navbar-bg-gradient-start);
   color: var(--navbar-fg);
   font-family: var(--sidebar-font);
+  overflow: hidden;
   // background-image:
   //  linear-gradient(
   //    var(--navbar-bg-gradient-start),
@@ -20,44 +20,44 @@
   }
 
   img.GU-logo {
-    max-width: 122px;
-    max-height: 66px;
-    width: 100%;
-    height: auto;
     display: none;
+    height: auto;
+    max-height: 66px;
+    max-width: 122px;
+    width: 100%;
   }
 
   img.Goethe {
     display: block;
-    width: 50px;
     height: auto;
+    width: 50px;
   }
 
   .menu {
-    height: 100%;
-    width: 100%;
+    align-content: start;
     box-sizing: border-box;
     display: grid;
+    height: 100%;
     justify-content: center;
-    align-content: start;
-    padding: 10px 12px;
     margin: 0;
+    max-width: 200px;
     min-height: 50px;
     min-width: 50px;
-    max-width: 200px;
+    padding: 10px 12px;
     text-align: center;
+    width: 100%;
 
     &.separator {
-      min-width: 0;
       min-height: 0;
+      min-width: 0;
     }
   }
 
   .TCS {
-    box-sizing: border-box;
-    font-family: var(--logo-font);
-    display: grid;
     align-content: end;
+    box-sizing: border-box;
+    display: grid;
+    font-family: var(--logo-font);
   }
 
   .title-cs {
@@ -105,8 +105,8 @@
     }
 
     .TCS {
-      height: 100%;
       box-sizing: border-box;
+      height: 100%;
     }
 
     // .dash {

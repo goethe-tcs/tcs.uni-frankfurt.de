@@ -1,11 +1,17 @@
 {
   "scripts": {
     "server": "webpack-dev-server & GIT_CONFIG_NOSYSTEM=true hugo server",
-    "clean": "bash -c 'rm -rf public/* static/assets/dist/*'",
-    "build": "yarn clean && (~/Documents/Activities/review/gen-statistics.py | head -c -1 > layouts/shortcodes/holger-reviews.html || true) && webpack --env.production && GIT_CONFIG_NOSYSTEM=true hugo --minify",
+    "clean": "bash -c 'rm -rf static/assets/dist/*'",
+    "build": "yarn clean && (~/Documents/Activities/review/gen-statistics.py | head -c -1 > layouts/shortcodes/holger-reviews.html || true) && webpack --env production && GIT_CONFIG_NOSYSTEM=true hugo --minify",
     "upload": "rsync --update -rvz --progress --delete public/ dell@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/",
-    "parcel_deploy": "yarn clean && parcel build src/js/bundle.js --out-dir static/assets/dist --public-url /assets/dist --detailed-report --no-source-maps",
-    "parcel_watch": "parcel watch src/js/bundle.js --out-dir static/assets/dist --public-url /assets/dist --no-hmr"
+    "parcel_deploy": "yarn clean && parcel build src/js/bundle.js --dist-dir static/assets/dist --public-url /assets/dist --no-source-maps",
+    "parcel_watch": "parcel watch src/js/bundle.js --dist-dir static/assets/dist --public-url /assets/dist --no-hmr"
+  },
+  "targets": {
+    "main": {
+      "source": "src/js/bundle.js",
+      "distDir": "static/assets/dist"
+    }
   },
   "cssnano": {
     "preset": [
@@ -20,20 +26,20 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "academicons": "^1.8.6",
-    "google-fonts-plugin": "^5.0.2",
     "katex": "^0.12.0",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
-    "@beyonk/google-fonts-webpack-plugin": "^1.5.0",
     "autoprefixer": "^10.0.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^4.3.0",
     "cssnano": "^4.1.10",
     "cssnano-preset-default": "^4.0.7",
     "file-loader": "^6.1.1",
+    "http-server": "^0.12.3",
     "mini-css-extract-plugin": "^1.0.0",
+    "parcel": "^2.0.0-beta.1",
     "path": "^0.12.7",
     "postcss": "^8.1.1",
     "postcss-cli": "^7.1.1",
@@ -47,10 +53,9 @@
     "stylelint": "^13.0.0",
     "stylelint-config-sass-guidelines": "^7.1.0",
     "url-loader": "^4.1.1",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0",
-    "webpack-manifest-plugin": "^2.2.0"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-manifest-plugin": "^3.0.0-rc.0"
   },
   "stylelint": {
     "extends": "stylelint-config-sass-guidelines"

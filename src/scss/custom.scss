@@ -1,9 +1,9 @@
 
 html {
-  font-size: var(--base-font-size);
-  font-family: var(--base-font);
   background-color: var(--body-bg);
   color: var(--content-fg);
+  font-family: var(--base-font);
+  font-size: var(--base-font-size);
   overflow-y: scroll;
 }
 
@@ -12,9 +12,9 @@ h2,
 h3,
 h4,
 h5 {
-  padding: 0;
-  margin: 0;
   font-family: var(--headings-font);
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -23,21 +23,21 @@ h1 {
 }
 
 h2 {
-  padding-top: 2em;
   font-size: var(--largest-font-size);
   font-weight: 400;
+  padding-top: 2em;
 }
 
 h3 {
-  padding-top: 1.5em;
   font-size: var(--larger-font-size);
   font-weight: 400;
+  padding-top: 1.5em;
 }
 
 h4,
 h5 {
-  padding-top: 1.5em;
   font-size: var(--base-font-size);
+  padding-top: 1.5em;
 }
 
 ul {
@@ -45,9 +45,9 @@ ul {
 }
 
 ol.breadcrumbs {
+  list-style: none;
   margin: 2rem;
   text-align: center;
-  list-style: none;
 
   > li {
     display: inline;

@@ -6,7 +6,6 @@ const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const ManifestPlugin = require('webpack-manifest-plugin')
-const GoogleFontsPlugin = require('@beyonk/google-fonts-webpack-plugin')
 
 module.exports = env => {
   const isProduction = Boolean(env && env.production)
@@ -18,44 +17,16 @@ module.exports = env => {
     entry: path.resolve(__dirname, 'src/js/bundle.js'),
     output: {
       path: path.resolve(__dirname, 'static/'),
-      filename: `${DISTDIR}/${isProduction ? '[hash].' : ''}bundle.js`,
+      filename: `${DISTDIR}/${isProduction ? '[contenthash].' : ''}bundle.js`,
       publicPath: '/'
     },
     plugins: [
       new MiniCssExtractPlugin({
-        filename: `${DISTDIR}/${isProduction ? '[hash].' : ''}bundle.css`
+        filename: `${DISTDIR}/${isProduction ? '[contenthash].' : ''}bundle.css`
       }),
       new ManifestPlugin({
         fileName: '../data/manifest.json'
       }),
-      new GoogleFontsPlugin({
-        fonts: [
-          {
-            family: 'Cormorant Garamond',
-            variants: [
-              '400',
-              '400italic',
-              '700',
-              '700italic'
-            ],
-            subsets: [
-              'latin-ext'
-            ]
-          },
-          {
-            family: 'Cormorant SC',
-            variants: [
-              '400',
-              '700'
-            ],
-            subsets: [
-              'latin-ext'
-            ]
-          }
-        ],
-        path: 'fonts/',
-        filename: `${DISTDIR}/fonts.css`
-      })
     ],
     devServer: {
       port: 1314

@@ -3,27 +3,27 @@
  * body > .wrapper > .navbar, .container, .footer
  */
 .wrapper {
-  max-width: 1164px;
-  margin: 0 auto;
-  min-width: min-content;
-  min-height: 100vh;
   display: grid;
   gap: 0;
-  justify-content: center;
   grid-template:
     'navbar'    fit-content(1000px)
     'container' 1fr
     'footer'    minmax(max-content, 0) / 1fr;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1164px;
+  min-height: 100vh;
+  min-width: min-content;
 }
 
 .navbar {
-  grid-area: navbar;
-  display: grid;
   align-content: center;
-  justify-content: center;
+  display: grid;
+  grid-area: navbar;
   grid-template-columns:
     auto minmax(0, 1rem) max-content minmax(0, 1rem)
     1fr repeat(3, max-content);
+  justify-content: center;
   padding: 0.5rem;
 
   .dash {
@@ -32,17 +32,17 @@
 }
 
 .container {
+  background-color: var(--content-bg);
+  box-sizing: border-box;
   grid-area: container;
   justify-self: stretch;
-  background-color: var(--content-bg);
   margin: 0;
-  box-sizing: border-box;
   padding: 1rem;
 }
 
 .footer {
-  padding: 1rem;
   grid-area: footer;
+  padding: 1rem;
   text-align: right;
 }
 
@@ -61,6 +61,6 @@
   }
 
   .container {
-    padding: 3rem 3rem 1rem 3rem;
+    padding: 3rem 3rem 1rem;
   }
 }

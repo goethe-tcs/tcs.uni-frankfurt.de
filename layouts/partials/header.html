@@ -14,14 +14,10 @@
   <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="stylesheet" href="/assets/dist/fonts.css">
   {{ $css := .Scratch.Get "css" -}}
   <link rel="stylesheet" href="{{ $css }}">
   {{ $js := .Scratch.Get "js" -}}
   <script async defer src="{{ $js }}"></script>
-  <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+SC:wght@400;700&display=swap"> -->
-  <!-- <link rel="stylesheet" href="/assets/dist/bundle.css">
-  <script async defer src="/assets/dist/bundle.js"></script> -->
 </head>
 <body>
   <div class="wrapper">

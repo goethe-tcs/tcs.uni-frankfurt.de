@@ -8,7 +8,6 @@ position: |
     affiliated with <a href="https://barc.ku.dk">BARC</a>
 contact:
   - "fa fa-search": 'Campus Bockenheim ◦ "Matheturm" ◦ Room 509'
-#  - "fa fa-phone": '[Zoom](https://itucph.zoom.us/my/holgerdell)'
   - "fa fa-envelope": '<i>my lastname</i>@<span style="display: none;">ignoreme-</span><span>cs.uni-frankfurt.de</span>'
 photo: /images/161019-HD-quadratic.jpg
 profiles:
