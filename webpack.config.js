@@ -5,7 +5,7 @@ const path = require('path')
 const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const ManifestPlugin = require('webpack-manifest-plugin')
+const { WebpackManifestPlugin } = require('webpack-manifest-plugin')
 
 module.exports = env => {
   const isProduction = Boolean(env && env.production)
@@ -24,7 +24,7 @@ module.exports = env => {
       new MiniCssExtractPlugin({
         filename: `${DISTDIR}/${isProduction ? '[contenthash].' : ''}bundle.css`
       }),
-      new ManifestPlugin({
+      new WebpackManifestPlugin({
         fileName: '../data/manifest.json'
       }),
     ],

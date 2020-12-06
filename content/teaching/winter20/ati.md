@@ -21,7 +21,7 @@ Hier ist der (vorläufige) Plan:
   - [[video](/teaching/winter20/ati/04-BoundedSearchTrees.mp4)] [3.1, 3.4] Bounded Search Trees (Vertex Cover Above LP)
   - [[video](/teaching/winter20/ati/05-IterativeCompression.mp4)] [4.1, 4.3.1] Iterative Kompression (Vertex Cover, Feedback Vertex Set)
   - [[video](/teaching/winter20/ati/06-ColorCoding.mp4)] [5.1, 5.2] Randomisierte Algorithmen (Feedback Vertex Set, Color-coding)
-  - Übungen: Aufgaben 2.1, 2.2, 2.3 von Blatt 2 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment02.pdf)] und Aufgaben 3.1, 3.3, 3.5 von Blatt 3 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment03.pdf)]. Die Lösungen werden am 20.11. besprochen.
+  - Übungen: Aufgaben 2.1, 2.2, 2.3 von Blatt 2 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment02.pdf)] und Aufgaben 3.1, 3.3, 3.4 von Blatt 3 [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment03.pdf)]. Die Lösungen werden am 20.11. besprochen.
 
 - Woche 3 (Nov 16-20):
   - [[video](/teaching/winter20/ati/Woche03-intro.mp4) 6 min] Überblick über die Themen der Woche
@@ -44,20 +44,28 @@ Hier ist der (vorläufige) Plan:
   - Übungsaufgaben 7.35, 7.37, 7.40, 7.54 im Buch. Diese Aufgaben werden erst nächste Woche besprochen.
   - Übungsgruppe am **27.11.**: Wir besprechen die Lösungen der Aufgaben aus **Woche 3**.
 
-- Woche 5 (Nov 30 - Dec 4):
-  - Algebraic Methods (Inclusion-Exclusion, Fast Möbius Transform, Fast Subset Convolution, Counting proper colorings)	[10.1.1, 10.2, 10.3, 10.3.1]
-  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
-  - Extensor-coding [Sec. 1.2-3.3 von BDH18]
+- Woche 5 (Nov 30 - Dec 4): Algebraische Methoden
+  - [[video](/teaching/winter20/ati/Woche05-0-Intro.mp4) 3 min] Überblick über die Themen der Woche
+  - [[video](/teaching/winter20/ati/Woche05-1-InclusionExclusion.mp4) 16 min] Methode: Das Prinzip von Inklusion und Exklusion [10.1]
+  - [[video](/teaching/winter20/ati/Woche05-2-HamCycles.mp4) 20 min] Beispiel: Hamiltonkreise zählen mit Inklusion-Exklusion [10.1.1]
+  - [[video](/teaching/winter20/ati/Woche05-3-SteinerTrees.mp4) 41 min] Beispiel: Steinerbäume finden mit Inklusion-Exklusion [10.1.2]
+  - [[video](/teaching/winter20/ati/Woche05-4-FastZetaTransform.mp4) 27 min] Methode: Schnelle Möbius Transformation [10.2]
+  - [[video](/teaching/winter20/ati/Woche05-5-SubsetConvolution.mp4) 29 min] Methode: Schnelle Teilmengenfaltung, echte Färbungen zählen [10.3, 10.3.1]
+  - Übungsaufgaben: Aufgaben 10.6 und 10.9 im Buch, für mutige auch Problem 7.4 auf diesem Übungsblatt [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment07.pdf)].
+  - Übungsgruppe am **4.12.**.
 
 - Woche 6 (Dec 7-11):
+  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
   - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
   - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
+  - Übungsgruppe am **11.12.**: Wir besprechen die Lösungen der Blattaufgabe 3.4 aus **Woche 2**, Blattaufgabe 5.4 aus **Woche 3**, und die Buchaufgaben der **Woche 4**.
 
 - Woche 7 (Dec 14-18):
   - Fixed-Parameter Intractability (Parameterized reductions, W-Hierarchy)	13.1, 13.2, 13.3
   - Hardness of Kernelization	15.1.1, 15.1.2
 
 - Weitere mögliche Themen:
+  - Extensor-coding [Sec. 1.2-3.3 von BDH18]
   - FPT in P (Maximum Matching by solution size, Diameter by vertex cover number)	Sec. 5 of [GMN15], Sec. A of [BHM18]
   - Representative Sets (Long Directed Cycles)	12.3, 12.3.5
   - ETH lower bounds (Definition of ETH/SETH, Sparsification Lemma, Lower bounds for 3-Coloring, Clique, Odd Set)	14.1, 14.2, 14.3.1, 14.4, 13.6.3
