@@ -51,13 +51,14 @@ Hier ist der (vorläufige) Plan:
   - [[video](/teaching/winter20/ati/Woche05-3-SteinerTrees.mp4) 41 min] Beispiel: Steinerbäume finden mit Inklusion-Exklusion [10.1.2]
   - [[video](/teaching/winter20/ati/Woche05-4-FastZetaTransform.mp4) 27 min] Methode: Schnelle Möbius Transformation [10.2]
   - [[video](/teaching/winter20/ati/Woche05-5-SubsetConvolution.mp4) 29 min] Methode: Schnelle Teilmengenfaltung, echte Färbungen zählen [10.3, 10.3.1]
-  - Übungsaufgaben: Aufgaben 10.6 und 10.9 im Buch, für mutige auch Problem 7.4 auf diesem Übungsblatt [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment07.pdf)].
+  - Übungsaufgaben: Aufgaben 10.6 und 10.9 im Buch, für Mutige auch Problem 7.4 auf diesem Übungsblatt [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment07.pdf)].
   - Übungsgruppe am **4.12.**.
 
 - Woche 6 (Dec 7-11):
-  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
-  - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
-  - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
+  - [todo] Überblick über die Themen der Woche
+  - [[video](/teaching/winter20/ati/Woche06-1-kPath.mp4) 84 min] \(k\)-Pfade in Zeit \(O(2^k)\) finden [10.4]
+  - [todo] Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
+  - Übungsaufgabe: 10.19 im Buch.
   - Übungsgruppe am **11.12.**: Wir besprechen die Lösungen der Blattaufgabe 3.4 aus **Woche 2**, Blattaufgabe 5.4 aus **Woche 3**, und die Buchaufgaben der **Woche 4**.
 
 - Woche 7 (Dec 14-18):
@@ -65,6 +66,9 @@ Hier ist der (vorläufige) Plan:
   - Hardness of Kernelization	15.1.1, 15.1.2
 
 - Weitere mögliche Themen:
+  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
+  - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
+  - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
   - Extensor-coding [Sec. 1.2-3.3 von BDH18]
   - FPT in P (Maximum Matching by solution size, Diameter by vertex cover number)	Sec. 5 of [GMN15], Sec. A of [BHM18]
   - Representative Sets (Long Directed Cycles)	12.3, 12.3.5
@@ -100,9 +104,10 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 
 - Für welche Module Sie diese Veranstaltung einbringen können, können Sie im [qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) nachlesen.
 - Die **Vorlesungen** finden online statt. Der Termin ist Di-Mi 14-16.
-- Die **Übungen** finden Fr 10-12 online statt. Alle 1-2 Wochen gibt es ein Übungsblatt, das in den Übungen besprochen wird.
-- Die **Klausur** findet am Ende des Semesters statt und wird je nach Zahl der Teilnehmer:innen mündlich oder schriftlich sein.
-- **Zeitaufwand**: 10 ECTS mit je 25h = 250h. Mit 50 Stunden Klausurvorbereitung landen wir bei 200h/14 = 14h pro Woche. Davon sind 4h Vorlesung, 2h Übungsgruppe und 8h Übungsaufgaben.
+- Die **Übungen** finden Fr 10-12 online statt. Jede Woche gibt es Übungen, deren Lösungen in der Übungsgruppe besprochen werden.
+- Die schriftliche **Klausur** findet am 25.02.2021 um 9:30 Uhr statt, in Raum CB, H 2. Dauer: 3h.
+- Die vermutlich schriftliche **Nachklausur** findet am 25.03.2021 um 9:00 Uhr statt, in Raum CB, H 14. Dauer: 3h.
+- **Zeitaufwand**: 10 ECTS mit je 25h = 250h. Mit 50 Stunden Klausurvorbereitung landen wir bei 200h/14 = 14h pro Woche. Davon sind 4h Vorlesung, 2h Übungsgruppe und 8h Übungsaufgaben+Vorlesungsnachbereitung.
 
 ### Inhalt
 
