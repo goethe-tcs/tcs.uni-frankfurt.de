@@ -1,5 +1,5 @@
 static/assets/dist/
-static/*.mp4
+*.mp4
 public/
 yarn.lock
 node_modules/
