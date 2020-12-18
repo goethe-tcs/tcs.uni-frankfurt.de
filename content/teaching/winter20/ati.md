@@ -57,15 +57,20 @@ Hier ist der (vorläufige) Plan:
 - Woche 6 (Dec 7-11):
   - [todo] Überblick über die Themen der Woche
   - [[video](/teaching/winter20/ati/Woche06-1-kPath.mp4) 84 min] \(k\)-Pfade in Zeit \(O(2^k)\) finden [10.4]
-  - [todo] Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
   - Übungsaufgabe: 10.19 im Buch.
   - Übungsgruppe am **11.12.**: Wir besprechen die Lösungen der Blattaufgabe 3.4 aus **Woche 2**, Blattaufgabe 5.4 aus **Woche 3**, und die Buchaufgaben der **Woche 4**.
 
-- Woche 7 (Dec 14-18):
-  - Fixed-Parameter Intractability (Parameterized reductions, W-Hierarchy)	13.1, 13.2, 13.3
-  - Hardness of Kernelization	15.1.1, 15.1.2
+- Woche 7 (Dec 14-18): Fixed-Parameter Intractability
+  - [[video](/teaching/winter20/ati/Woche07-1-Reduktionen.mp4) 21 min] Parameterized reductions 13.1
+  - [[video](/teaching/winter20/ati/Woche07-2-Clique-IndSet-VertexCover.mp4) 12 min] Clique, Independent Set, Vertex Cover 13.1
+  - [[video](/teaching/winter20/ati/Woche07-3-MulticoloredClique-and-friends.mp4) 37 min] Multicolored Clique and Friends 13.2
+  - [[video](/teaching/winter20/ati/Woche07-4-DomSet-and-friends.mp4) 15 min] Dominating Set and Friends 13.2
+  - [[video](/teaching/winter20/ati/Woche07-5-W-hierarchy.mp4) 24 min] W-Hierarchy 13.3
+  - [todo/maybe] Hardness of Kernelization 15.1.1, 15.1.2
+  - Übungsgruppe am **18.12.**: Wir besprechen die Lösungen der Aufgaben aus **Woche 5** und **Woche 6**.
 
 - Weitere mögliche Themen:
+  - [todo] Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
   - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
   - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
   - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
