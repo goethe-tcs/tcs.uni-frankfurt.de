@@ -8,11 +8,13 @@ toc: yes
 ---
 
 This document is addressed to Bachelor and Master students at Goethe University and at ITU, who wish to write their research project or thesis project in theoretical computer science.
-This area includes aspects of _Algorithms_, _Complexity_, _Algorithm Engineering_ and _Discrete Mathematics_.
-Most student projects in Theoretical Computer Science belong to one of three themes:
-_Engineering_, _Visualization_, and _Theory_.
+
 
 ## Topics
+
+Student projects under my supervision typically belong to one of four themes:
+_Engineering_, _Visualization_, _AI Alignment_, and _Theory_.
+
 ### Algorithmic Engineering
 
 **Goal:** implement algorithms that may never have been implemented before! Test them rigorously, and compare their performance to other algorithms and implementations.
@@ -70,6 +72,24 @@ All products generated in your projects are developed under an open-source licen
 - If you have experience with developing for VR/AR, I would be excited to try some algorithm visualizations in this setting.
 
 
+### Human-aligned artificial intelligence
+
+**Goal:** perform a literature review, or contribute to original research on the alignment problem. In particular, I would be most interested in connections between traditional, technical topics in theoretical computer science (algorithms, complexity, game theory, logics, cryptography) and the alignment problem.
+
+**What you get out of it:**
+- Exposure to one of the most important problems of our time.
+
+**What you need to bring:**
+- Good background in relevant courses (for example, algorithms, complexity, machine learning, decision theory, etc.)
+- A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you.
+
+**Some Random Resources:**
+- [Effective Thesis in Computer Science](https://effectivethesis.org/theses/?discipline=computer+science#disciplines)
+- [AGI safety from first principles](https://www.lesswrong.com/s/mzgtmmTKKn5MuCzFJ)
+- [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
+- [Is Optimization a Sufficient Language for Understanding Deep Learning?](http://www.offconvex.org/2019/06/03/trajectories/)
+
+
 ### Theory of Algorithms and Complexity
 
 **Goal:** perform a literature review, or contribute to original research in theoretical computer science.
@@ -86,16 +106,24 @@ All products generated in your projects are developed under an open-source licen
 - Literature review: Read one or several recent research papers in theoretical computer science, present the results in an oral presentation, and write a report on the papers (for example, your task could be to rewrite a proof from a research paper, or prove a special case of a theorem in a simpler, shorter way).
 - Open-ended research: You get a specific research question from me and your goal is to solve it. Typically, this involves finding a new algorithm and proving its correctness, or studying the complexity of a specific computational problem.
 
+
 ## Supervision Process and Grading
 
 As supervisor, I'm in a strange role conflict: During the project, I am your coach and want you to succeed, and in the end I'm expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
 
+### Choosing a topic
+
+Which topic you choose should depend on your interests and career plans.
+If you want to do a PhD in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
+If you want a low-risk topic that will definitely yield results within the timeframe, choose Algorithmic Engineering or Visualization.
+
+Assuming that I have one ready, you can also ask me for a few topics. I will then briefly outline an initial, concrete project idea, and you can familiarize yourself with the relevant literature to some extent.
+You can also propose your own topic, but I'm picky! I want there to be some scientific component in your thesis, that is, it should rely on and refer to knowledge and skills that you have learnt during your studies.
+
 ### Project Plan
 
-Before the project is started formally, we will together design and agree on an informal **project plan** (1-2 pages). Typically, when you first ask for a topic, I will briefly outline an initial project idea.
-You will then familiarize yourself with the relevant literature to some extent, we discuss the idea further, and you turn it into a more detailed project plan.
-
-The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline (I do not want a Gantt chart). The main benefits of the project plan are: 1) You learn as best as is feasible what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading a little bit more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
+Before the project is started formally, I want you to design and agree with me on an informal **project plan** (1-2 pages).
+The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline (I do **not** want a Gantt chart). The main benefits of the project plan are: 1) You learn as best as is feasible what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading a little bit more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
 
 ### Expectations
 
