@@ -66,21 +66,42 @@ Hier ist der (vorläufige) Plan:
   - [[video](/teaching/winter20/ati/Woche07-3-MulticoloredClique-and-friends.mp4) 37 min] Multicolored Clique and Friends 13.2
   - [[video](/teaching/winter20/ati/Woche07-4-DomSet-and-friends.mp4) 15 min] Dominating Set and Friends 13.2
   - [[video](/teaching/winter20/ati/Woche07-5-W-hierarchy.mp4) 24 min] W-Hierarchy 13.3
-  - [todo/maybe] Hardness of Kernelization 15.1.1, 15.1.2
+  - Übungsaufgaben: 13.1, 13.2, 13.23
   - Übungsgruppe am **18.12.**: Wir besprechen die Lösungen der Aufgaben aus **Woche 5** und **Woche 6**.
 
-- Weitere mögliche Themen:
-  - [todo] Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
-  - Fast Subset Convolution (Counting Perfect Matchings), Cut & Count (Steiner Tree)	[11.1.1, 11.2.1]
-  - Cuts and Separators (Minimum Cuts, Important Cuts, Edge Multiway Cut)	[8.1, 8.2, 8.3]
-  - Cuts and Separators (Bounding the number of important cuts, Steiner Tree) [8.2, 10.1.2]
-  - Extensor-coding [Sec. 1.2-3.3 von BDH18]
-  - FPT in P (Maximum Matching by solution size, Diameter by vertex cover number)	Sec. 5 of [GMN15], Sec. A of [BHM18]
-  - Representative Sets (Long Directed Cycles)	12.3, 12.3.5
-  - ETH lower bounds (Definition of ETH/SETH, Sparsification Lemma, Lower bounds for 3-Coloring, Clique, Odd Set)	14.1, 14.2, 14.3.1, 14.4, 13.6.3
-  - (S)ETH lower bounds (Lower bounds for Grid Tiling, Unit Disk Independent Set, Dominating Set)	14.4.1, 14.5.3
+In **Teil 2** folgen wir in wesentlichen Teilen der Vorlesung von Bringmann/Künnemann (henceforth refered to as BK).
 
-In **Teil 2** (Wochen 8-13) folgen wir in wesentlichen Teilen der Vorlesung von Bringmann/Künnemann. Ein (vorläufiger) Plan folgt noch.
+- Woche 8 & 9 (Jan 18-29): Introduction to Fine-grained complexity
+  - [[video](/teaching/winter20/ati/Woche08-1-Intro.mp4) 5 min] Introduction
+  - [[video](/teaching/winter20/ati/Woche08-2-Schoening.mp4) 45 min] [[lecture notes](/teaching/winter20/ati/schoening.pdf)] Schoening's Algorithm for k-CNF-SAT
+  - [[video](/teaching/winter20/ati/Woche08-3-SETH.mp4) 16 min] Strong Exponential Time Hypothesis (SETH)
+  - [[video](/teaching/winter20/ati/Woche08-4-OV.mp4) 14 min] The Orthogonal Vector Problem
+  - [[video](/teaching/winter20/ati/Woche08-5-CNFSAT-to-OV.mp4) 25 min]: **new** Reduction from CNF-SAT to OV
+  - please read [BK, chapter 1](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/lec1.pdf) and [BK, chapter 2](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/lec2.pdf)
+  - Exercises: Exercises 1 and 2a from [ex00.pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/ex00.pdf) and Exercises 1, 2b, 4 from [ex01.pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/ex01.pdf)
+  - Übungsgruppe am **22.01.** und **28.01.**: Wir besprechen Übungsaufgaben und Fragen.
+
+- Woche 10 (Feb 1-5): The Polynomial Method 
+  - [[video](/teaching/winter20/ati/Woche10-1-Ziel.mp4) 19 min] Ziel: Subquadratischer Algorithmus für OV wenn \(d=O(\log n)\).
+  - [[video](/teaching/winter20/ati/Woche10-2-MatrixMult.mp4) 10 min] Schnelle Multiplikation von Rechtecksmatrizen
+  - [[video](/teaching/winter20/ati/Woche10-3-MultivariatePolynomialEvaluation.mp4) 20 min] Schnelle Evaluation von Multivariaten Polynomen
+  - [[video](/teaching/winter20/ati/Woche10-4-Conversion-to-Polynomial.mp4) 10 min] Boolsche Formel für OV wird übersetzt in Arithmetische Formel
+  - [todo] further videos coming by Wednesday
+  - please read [BK, chapter 4](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/lec4.pdf)
+  - Exercises: Exercise 1 and 2 from [ex02.pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/ex02.pdf)
+  - Übungsgruppe am **03.02.** um 12:30: Wir besprechen Übungsaufgaben und Fragen.
+  - Übungsgruppe am **05.02.**: Wir besprechen Übungsaufgaben und Fragen.
+
+- Woche 11 (Feb 8-12): The Polynomial Method for APSP
+  - please read [BK, chapter 5](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/lec5.pdf)
+  - Exercises: Exercise 3 and 5 from [ex03.pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/ex03.pdf)
+  - Übungsgruppe am **11.02.**: Wir besprechen Übungsaufgaben und Fragen.
+
+- Woche 12 (Feb 15-19): Review of the semester
+  - Zwei Videositzungen (je 1h, Termin wird noch gefunden), in denen wir Themen des Semesters wiederholen:
+    - Parameterized algorithms
+    - Fine-grained complexity
+  - Übungsgruppe am **18.02.**: Wir besprechen noch offene Übungsaufgaben und Fragen.
 
 
 ### Organisation
@@ -110,8 +131,7 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 - Für welche Module Sie diese Veranstaltung einbringen können, können Sie im [qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) nachlesen.
 - Die **Vorlesungen** finden online statt. Der Termin ist Di-Mi 14-16.
 - Die **Übungen** finden Fr 10-12 online statt. Jede Woche gibt es Übungen, deren Lösungen in der Übungsgruppe besprochen werden.
-- Die schriftliche **Klausur** findet am 25.02.2021 um 9:30 Uhr statt, in Raum CB, H 2. Dauer: 3h.
-- Die vermutlich schriftliche **Nachklausur** findet am 25.03.2021 um 9:00 Uhr statt, in Raum CB, H 14. Dauer: 3h.
+- Die **mündliche Prüfung** findet am 25.02.2021 (+/- ein Tag) statt, Termine werden einzeln vereinbart.
 - **Zeitaufwand**: 10 ECTS mit je 25h = 250h. Mit 50 Stunden Klausurvorbereitung landen wir bei 200h/14 = 14h pro Woche. Davon sind 4h Vorlesung, 2h Übungsgruppe und 8h Übungsaufgaben+Vorlesungsnachbereitung.
 
 ### Inhalt

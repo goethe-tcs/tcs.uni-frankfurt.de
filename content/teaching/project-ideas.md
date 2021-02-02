@@ -13,7 +13,25 @@ This document is addressed to Bachelor and Master students at Goethe University 
 ## Topics
 
 Student projects under my supervision typically belong to one of four themes:
-_Engineering_, _Visualization_, _AI Alignment_, and _Theory_.
+_Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
+
+
+### Theory of Algorithms and Complexity
+
+**Goal:** perform a literature review, or contribute to original research in theoretical computer science.
+
+**What you get out of it:**
+- Exposure to beautiful mathematical ideas.
+- Experience with research and scientific writing.
+- Preparation for a PhD in theoretical computer science or an adjacent field.
+
+**What you need to bring:**
+- Strong mathematical background.
+
+**More specific project topics:**
+- Literature review: Read one or several recent research papers in theoretical computer science, present the results in an oral presentation, and write a report on the papers. For example, your task could be to rewrite a proof from a research paper, or prove a special case of a theorem in a better or shorter way.
+- Open-ended research: You get a specific research question from me and your goal is to solve it. Typically, this involves finding a new algorithm and proving its correctness, or studying the complexity of a specific computational problem.
+
 
 ### Algorithmic Engineering
 
@@ -40,7 +58,7 @@ Software and benchmarks generated in your projects are developed under an open-s
 ### Visualization of Algorithmic Concepts
 
 **Goal:** develop beautiful and easy-to-use educational visualizations of algorithmic and mathematical concepts.
-Make no mistake, the project should still include scientific writing in the form of a comprehensive Bachelor or Master thesis that describes the topic on a formal level, reviews the literature (both of the concept involved and its possibly pre-existing visualizations), and justifies your choices.
+Make no mistake, the project should still include scientific writing in the form of a comprehensive Bachelor or Master thesis that describes the topic on a formal level, reviews the literature (both of the concept involved and its possibly pre-existing visualizations), discusses some experiments (maybe with different possible visualization and interaction patterns), and justifies your choices.
 
 **Examples:** Past projects that are at the level of a Bachelor thesis include
 [Algorithms with Albot](https://enutie.github.io/),
@@ -48,18 +66,17 @@ Make no mistake, the project should still include scientific writing in the form
 [Graph Width Visualizer](http://www.graphwidth.com/).
 
 **Non-examples:**
-Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done to death by others, so if that's your idea, you need to 1) give me 50 links to existing visualizations of this topic, and 2) provide a very strong argument about why your visualization idea is better.
-
+Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done to death by others, so if that's your idea, you need to 1) give me 20 links to existing visualizations of this topic, and 2) provide a very strong argument about why your visualization idea is better.
 
 **What you get out of it:**
-- In-depth understanding of some non-trivial algorithms and mathematical concepts.
+- In-depth understanding of some non-trivial algorithms and mathematical concepts. (You will likely visualize something that you haven't seen before)
 - Experience with software development and UX design.
-- Visually pleasing products that you can use to explain algorithmic concepts to your friends and family, and I can use to explain them to students and researchers.
+- Visually pleasing products that you can use to explain algorithmic concepts to your friends and family.
 
 **What you need to bring:**
 - Interest in graphical design, gamification, as well as teaching.
 - Good mathematical background.
-- For a Master thesis, you need to have taken at least one advanced course or seminar in algorithms, complexity, or graph theory.
+- For a Master thesis, you need to have taken at least one advanced course or seminar in algorithms, complexity, graph theory, or a related course.
 
 Since I want the results of visualization projects to be as accessible as possible, the applications will be browser-based and therefore use JavaScript (or a suitable other language, such as Python, in combination with WebAssembly).
 All products generated in your projects are developed under an open-source license, and when they're ready will be publicly available.
@@ -74,37 +91,21 @@ All products generated in your projects are developed under an open-source licen
 
 ### Human-aligned artificial intelligence
 
-**Goal:** perform a literature review, or contribute to original research on the alignment problem. In particular, I would be most interested in connections between traditional, technical topics in theoretical computer science (algorithms, complexity, game theory, logics, cryptography) and the alignment problem.
+**Goal:** perform a literature review, or contribute to original research on the alignment problem. In particular, I would be most interested in connections to traditional, technical topics in theoretical computer science (algorithms, complexity, game theory, logics, cryptography). Topics such as "safe machine learning" are also possible.
 
 **What you get out of it:**
-- Exposure to one of the most important problems of our time.
+- Exposure to one of the most important problems in humanity's mid-term future.
 
 **What you need to bring:**
-- Good background in relevant courses (for example, algorithms, complexity, machine learning, decision theory, etc.)
-- A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you.
+- Good background in relevant courses (for example, algorithms, complexity, machine learning, decision theory, etc.); some background in philosophy would be beneficial, too.
+- A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you
 
-**Some Random Resources:**
+**Some introductory resources:**
+- Talk by [Brian Christian](https://brianchristian.org/) at the Simons Institute: [The Alignment Problem: Machine Learning and Human Values](https://www.youtube.com/watch?v=CzoVn8LUaDs)
 - [Effective Thesis in Computer Science](https://effectivethesis.org/theses/?discipline=computer+science#disciplines)
 - [AGI safety from first principles](https://www.lesswrong.com/s/mzgtmmTKKn5MuCzFJ)
 - [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
 - [Is Optimization a Sufficient Language for Understanding Deep Learning?](http://www.offconvex.org/2019/06/03/trajectories/)
-
-
-### Theory of Algorithms and Complexity
-
-**Goal:** perform a literature review, or contribute to original research in theoretical computer science.
-
-**What you get out of it:**
-- Exposure to beautiful mathematical ideas.
-- Experience with research and scientific writing.
-- Preparation for a PhD in theoretical computer science or an adjacent field.
-
-**What you need to bring:**
-- Strong mathematical background.
-
-**More specific project topics:**
-- Literature review: Read one or several recent research papers in theoretical computer science, present the results in an oral presentation, and write a report on the papers (for example, your task could be to rewrite a proof from a research paper, or prove a special case of a theorem in a simpler, shorter way).
-- Open-ended research: You get a specific research question from me and your goal is to solve it. Typically, this involves finding a new algorithm and proving its correctness, or studying the complexity of a specific computational problem.
 
 
 ## Supervision Process and Grading
