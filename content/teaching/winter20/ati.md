@@ -86,7 +86,9 @@ In **Teil 2** folgen wir in wesentlichen Teilen der Vorlesung von Bringmann/Kün
   - [[video](/teaching/winter20/ati/Woche10-2-MatrixMult.mp4) 10 min] Schnelle Multiplikation von Rechtecksmatrizen
   - [[video](/teaching/winter20/ati/Woche10-3-MultivariatePolynomialEvaluation.mp4) 20 min] Schnelle Evaluation von Multivariaten Polynomen
   - [[video](/teaching/winter20/ati/Woche10-4-Conversion-to-Polynomial.mp4) 10 min] Boolsche Formel für OV wird übersetzt in Arithmetische Formel
-  - [todo] further videos coming by Wednesday
+  - [[video](/teaching/winter20/ati/Woche10-5-RazborovSmolensky.mp4) 37 min] Probabilistische Polynome, Satz von Razborov und Smolensky
+  - [[video](/teaching/winter20/ati/Woche10-6-ProbPolyOV.mp4) 19 min] Probabilistisches Polynom für OV
+  - [[video](/teaching/winter20/ati/Woche10-7-WrapUp.mp4) 28 min] Zusammenfassung, Gesamtalgorithmus, Korrektheit, Laufzeit
   - please read [BK, chapter 4](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/lec4.pdf)
   - Exercises: Exercise 1 and 2 from [ex02.pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer19/finegrained/ex02.pdf)
   - Übungsgruppe am **03.02.** um 12:30: Wir besprechen Übungsaufgaben und Fragen.

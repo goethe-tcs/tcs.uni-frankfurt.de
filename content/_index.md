@@ -16,6 +16,7 @@ If you want to join the goup as a PhD student, postdoc, or visitor, here are som
 2) You can apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
 3) You can apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/).
 
-### Teaching in WiSe 2020/21
-- Vorlesung: [Aktuelle Themen der Theoretischen Informatik](teaching/winter20/ati)
-- Seminar: [Algorithmen und Komplexität](teaching/winter20/seminar)
+### Teaching in SoSe 2021
+
+- Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](teaching/summer21/algo1)
+- Seminar: [Algorithmen und Komplexität](teaching/summer21/seminar)
