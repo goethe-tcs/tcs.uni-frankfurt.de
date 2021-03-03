@@ -16,26 +16,27 @@ Student projects under my supervision typically belong to one of four themes:
 _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 
 
-### Theory of Algorithms and Complexity
+### Theory
 
 **Goal:** perform a literature review, or contribute to original research in theoretical computer science.
 
 **What you get out of it:**
 - Exposure to beautiful mathematical ideas.
-- Experience with research and scientific writing.
+- Experience with literature search, scientific writing, and research.
 - Preparation for a PhD in theoretical computer science or an adjacent field.
+- The most successful projects may lead to a scientific publication.
 
 **What you need to bring:**
 - Strong mathematical background.
 
-**More specific project topics:**
-- Literature review: Read one or several recent research papers in theoretical computer science, present the results in an oral presentation, and write a report on the papers. For example, your task could be to rewrite a proof from a research paper, or prove a special case of a theorem in a better or shorter way.
-- Open-ended research: You get a specific research question from me and your goal is to solve it. Typically, this involves finding a new algorithm and proving its correctness, or studying the complexity of a specific computational problem.
+**Flavors:**
+- *Literature review:* Choose a topic in theoretical computer science and write a literature review of existing research on this topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, presenting your findings in an oral presentation, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper, or prove a special case of a theorem in a better or shorter way.
+- *Open-ended research:* You get a specific research question from me and your goal is to solve it. Typically, this involves designing a new algorithm and proving its correctness, or studying the complexity of a specific computational problem. Note that it is _much_ harder for me to come up with such topics, so they will be close to my immediate research interests. Moreover, this type of project is _much_ harder to plan and execute.
 
 
 ### Algorithmic Engineering
 
-**Goal:** implement algorithms that may never have been implemented before! Test them rigorously, and compare their performance to other algorithms and implementations.
+**Goal:** implement algorithms that may have never been implemented before! Test them rigorously, and compare their performance to other algorithms and implementations.
 
 **What you get out of it:**
 - Exposure to algorithms that can range in difficulty.
@@ -63,10 +64,10 @@ Make no mistake, the project should still include scientific writing in the form
 **Examples:** Past projects that are at the level of a Bachelor thesis include
 [Algorithms with Albot](https://enutie.github.io/),
 [Color Refinement](https://holgerdell.com/cr/), and
-[Graph Width Visualizer](http://www.graphwidth.com/).
+Graph Width Visualizer.
 
 **Non-examples:**
-Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done to death by others, so if that's your idea, you need to 1) give me 20 links to existing visualizations of this topic, and 2) provide a very strong argument about why your visualization idea is better.
+Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done before (a lot), so if that's your proposal, you need to provide a very strong argument why your visualization idea is novel.
 
 **What you get out of it:**
 - In-depth understanding of some non-trivial algorithms and mathematical concepts. (You will likely visualize something that you haven't seen before)
@@ -116,15 +117,15 @@ As supervisor, I'm in a strange role conflict: During the project, I am your coa
 
 Which topic you choose should depend on your interests and career plans.
 If you want to do a PhD in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
-If you want a low-risk topic that will definitely yield results within the timeframe, choose Algorithmic Engineering or Visualization.
+If you want a low-risk topic that will be most likely to yield results within the given timeframe, choose a literature review, or an implementation project in Algorithmic Engineering or Visualization.
 
 Assuming that I have one ready, you can also ask me for a few topics. I will then briefly outline an initial, concrete project idea, and you can familiarize yourself with the relevant literature to some extent.
-You can also propose your own topic, but I'm picky! I want there to be some scientific component in your thesis, that is, it should rely on and refer to knowledge and skills that you have learnt during your studies.
+You can also propose your own topic, but I'm picky! I want there to be some scientific component in your thesis, that is, it should rely on and refer to knowledge and skills that you have learned during your studies.
 
 ### Project Plan
 
 Before the project is started formally, I want you to design and agree with me on an informal **project plan** (1-2 pages).
-The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline (I do **not** want a Gantt chart). The main benefits of the project plan are: 1) You learn as best as is feasible what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading a little bit more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
+The plan describes the state-of-the-art, as well as general and specific goals for the project, and a rough timeline (I do **not** want a Gantt chart). The main benefits of the project plan are: 1) You learn what you are getting into by accepting the project, 2) during the project, you can come back to the plan to re-focus your efforts, and 3) it makes grading more objective in that grades will be determined based on how well the final outcome matches with the project plan. Of course, I know extremely well that plans can go wrong, so it is possible to change course if there is a good reason to do so---for example, if the original idea simply doesn't work as expected.
 
 ### Expectations
 
@@ -137,7 +138,7 @@ However, I will not provide iterative feedback, because this would blur the line
 
 ### Formalities
 
-If the project has not formally started yet and I haven't heard from you in three weeks, then I may give the topic to another student. (Note that formally starting the project requires several people signing a form, or the project being officially registered with the university.)
+If the project has not formally started yet, and I haven't heard from you in three weeks, then I may give the topic to another student. (Note that formally starting the project requires several people signing a form, or the project being officially registered with the university.)
 
 Lesen Sie den Bachelor/Masterarbeits-Abschnitt Ihrer Studienordnung und übernehmen Sie Mitverantwortung dafür, dass er befolgt wird:
 [§35 in BSc Informatik 2019](https://www.cs.uni-frankfurt.de/images/pdf/informatik/bachelor19/bachelorordnung.pdf),

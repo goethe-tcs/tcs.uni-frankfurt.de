@@ -30,6 +30,7 @@ Wenn Sie ein anspruchsvolles Paper haben wollen, für das ich mich selbst besond
 - Sparse Nonnegative Convolution is Equivalent to Dense Nonnegative Convolution
 - [Bipartite Perfect Matching as a Real Polynomial](https://arxiv.org/abs/2001.07642)
 - Strong Co-Nondeterministic Lower Bounds for NP Cannot Be Proved Feasibly
+- [3.1n−o(n) Circuit Lower Bounds for Explicit Functions](https://eccc.weizmann.ac.il/report/2021/023/)
 - [Robust testing of low dimensional functions](https://arxiv.org/abs/2004.11642)
 
 ### Ziele
