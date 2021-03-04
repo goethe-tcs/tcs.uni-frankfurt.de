@@ -17,8 +17,8 @@ Freude an Algorithmen und Datenstrukturen sowie Mathematik sind wichtig. Vorwiss
 ### Vorschläge
 Sie sind frei in der Wahl des Papers, solange Sie nicht das selbe Paper wie jemand anders auswählen. Dennoch habe ich zur Inspiration hier ein paar der Paper zusammengestellt.
 
-Wenn Sie im Bachelor sind, dies Ihr erstes Seminar ist oder sich vor Theorie fürchten, und Sie sich ein besonders zugängliches Paper wünschen, können Sie sich beispielsweise eins dieser SOSA 2021 Paper aussuchen:
-- [One (more) line on the most Ancient Algorithm in History](https://doi.org/10.1137/1.9781611976014.3): In diesem sehr kurzen Paper geht es um eine neue Analyse des Euklidischen Algorithmus.
+Wenn Sie im Bachelor sind, dies Ihr erstes Seminar ist, oder sich vor Theorie fürchten, und Sie sich ein besonders zugängliches Paper wünschen, können Sie sich beispielsweise eins dieser SOSA 2021 Paper aussuchen:
+- [One (more) line on the most Ancient Algorithm in History](https://doi.org/10.1137/1.9781611976014.3): In diesem sehr kurzen Paper geht es um eine neue Analyse des Euklidischen Algorithmus. Vermutlich ist es zu kurz für ein Seminarthema.
 - [On the Change-Making Problem](https://epubs.siam.org/doi/10.1137/1.9781611976014.7): Effizienter Algorithmus, um mit Münzen passend zu bezahlen.
 
 Ein (vermutlich schönes) Paper mit nicht ganz so vielen Vorraussetzungen:
@@ -26,12 +26,15 @@ Ein (vermutlich schönes) Paper mit nicht ganz so vielen Vorraussetzungen:
 
 Wenn Sie ein anspruchsvolles Paper haben wollen, für das ich mich selbst besonders interessiere, empfehle ich eins der folgenden Themen:
 - [A full complexity dichotomy for immanant families](https://arxiv.org/abs/2102.04340)
+- [Almost-Everywhere Circuit Lower Bounds from Non-Trivial Derandomization](https://eccc.weizmann.ac.il/report/2020/150/)
 - Pseudodeterministic Algorithms and the Structure of Probabilistic Time
-- Sparse Nonnegative Convolution is Equivalent to Dense Nonnegative Convolution
-- [Bipartite Perfect Matching as a Real Polynomial](https://arxiv.org/abs/2001.07642)
-- Strong Co-Nondeterministic Lower Bounds for NP Cannot Be Proved Feasibly
 - [3.1n−o(n) Circuit Lower Bounds for Explicit Functions](https://eccc.weizmann.ac.il/report/2021/023/)
+- [Simple and fast derandomization from very hard functions: Eliminating randomness at almost no cost](https://eccc.weizmann.ac.il/report/2020/148/)
+- Vertex Connectivity in Poly-logarithmic Max-flows
+- Sparse Nonnegative Convolution is Equivalent to Dense Nonnegative Convolution
+- Strong Co-Nondeterministic Lower Bounds for NP Cannot Be Proved Feasibly
 - [Robust testing of low dimensional functions](https://arxiv.org/abs/2004.11642)
+- [Bipartite Perfect Matching as a Real Polynomial](https://arxiv.org/abs/2001.07642)
 
 ### Ziele
 
@@ -48,15 +51,15 @@ Sobald Sie eine Publikation als Thema ausgewählt haben, sollen Sie in der Vorbe
 
 - Dieses Seminar bietet Platz für 12 theorieinteressierte Studierende.
 - Die **Vorbesprechung** findet in Kalenderwoche 15 oder 16 statt, und dient hauptsächlich der Themenvergabe und Terminplanung.
-- Kurze **Lagebesprechungen** finden in KW 17-21 nach Bedarf statt, damit Sie sich darüber austauschen können, wie Sie mit dem Lesen des Papers vorankommen.
-- Das **Seminar** findet dann an 12 Terminen (vermutlich im Zeitraum KW 22-28) während des Semesters statt.
+- **Lagebesprechungen** finden in KW 17-23 statt, darin besprechen wir Ihren jeweiligen Stand informell. Sie bereiten also Fragen vor, zu den Grundlagen, der Literatur, oder dem Paper selbst. Sie berichten, wie weit Sie mit dem Thema vorangekommen sind, was Sie schon verstanden haben, und was Sie noch nicht verstehen. Ich hoffe, dass dieses Format allen Teilnehmern etwas bringt, ansonsten ändern wir das Format gerne wieder.
+- **Vorträge** findet dann an 5 Terminen (vermutlich im Zeitraum KW 24-28) während des Semesters statt.
 
 
 ### Formale Anforderungen
 
 Um das Seminar zu bestehen, werden folgende Aktivitäten erwartet:
 
-- Sie halten einen Vortrag von 45-60 Minuten Länge über das gewählte Thema.
+- Sie halten einen Vortrag von ca. 60-80 Minuten Länge über das gewählte Thema.
 - Sie senden uns mindestens 7 Tage vor dem Vortrag einen Entwurf der Folien oder Ihres geplanten Tafelanschriebs zu. Sie erhalten dann Feedback zu Ihren Folien und zur Struktur Ihres Vortrags.
 - Sie treffen sich mindestens einmal und mindestens 5 Tage vor dem Vortrag mit dem Professor oder einem Mitarbeiter, um den Vortrag zu besprechen. Dabei haben Sie Gelegenheit, Ihre inhaltlichen Fragen zum Thema zu stellen.
 
@@ -74,6 +77,7 @@ Nach dem Vortrag gibt es eine Feedbackrunde im Plenum. Die vorläufige Benotung 
 - Wie nützlich waren die im Vortrag gezeigten Visualisierungen?
 - Wie verständlich konnten Sie die Inhalte des Vortrags an die anderen Studierenden vermitteln?
 - Wie unterhaltsam war Ihr Vortrag?
+- Je kürzer oder einfacher das Paper ist, desto mehr Wert wird auf den Vortragsstil, das selbstständige Arbeiten, die Darstellung der umliegenden Literatur, und die Motivation gelegt (also z.B. warum ist das Paper interessant und auf welche Forschungsfragen hat das Ergebnis einen Einfluss?). Alternativ können Sie auch zwei kurze Paper bearbeiten.
 
 ### Allgemeine Tipps
 
