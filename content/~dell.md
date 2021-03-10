@@ -7,7 +7,8 @@ position: |
     Associate Professor at <a href="https://algorithms.itu.dk">ITU Copenhagen</a>,
     affiliated with <a href="https://barc.ku.dk">BARC</a>
 contact:
-  - "fa fa-search": 'Campus Bockenheim ◦ "Matheturm" ◦ Room 509'
+  - "fa fa-phone": '+49-69-798-28327'
+  - "fa fa-search": 'Campus Bockenheim ◦ Informatikgebäude ◦ Room 302'
   - "fa fa-envelope": '<i>my lastname</i>@<span style="display: none;">ignoreme-</span><span>cs.uni-frankfurt.de</span>'
 photo: /images/161019-HD-quadratic.jpg
 profiles:
