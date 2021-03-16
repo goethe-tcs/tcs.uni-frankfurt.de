@@ -89,6 +89,8 @@ All products generated in your projects are developed under an open-source licen
 - Extract run-time data from real implementations and visualize this data effectively.
 - If you have experience with developing for VR/AR, I would be excited to try some algorithm visualizations in this setting.
 
+**Links to existing visualization projects.**
+- [University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Human-aligned artificial intelligence
 
