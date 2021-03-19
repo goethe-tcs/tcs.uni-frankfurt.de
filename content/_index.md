@@ -7,6 +7,7 @@ Part of the [Computer Science Department](https://www.cs.uni-frankfurt.de) at [G
 ### Members
 - [Holger Dell](/~dell) (Professor)
 - [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
+- Melvin Kallmayer (Research Assistant)
 
 #### Join the group
 If you are a Bachelor or Master student at Goethe University, you can write your thesis in this group. Check out [Project Ideas](/teaching/project-ideas/).
