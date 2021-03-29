@@ -120,9 +120,11 @@ As supervisor, I'm in a strange role conflict: During the project, I am your coa
 Which topic you choose should depend on your interests and career plans.
 If you want to do a PhD in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
 If you want a low-risk topic that will be most likely to yield results within the given timeframe, choose a literature review, or an implementation project in Algorithmic Engineering or Visualization.
+In any case, choose something that you are genuinely excited about!
+Life's too short.
 
 Assuming that I have one ready, you can also ask me for a few topics. I will then briefly outline an initial, concrete project idea, and you can familiarize yourself with the relevant literature to some extent.
-You can also propose your own topic, but I'm picky! I want there to be some scientific component in your thesis, that is, it should rely on and refer to knowledge and skills that you have learned during your studies.
+You can also propose your own topic, but I'm picky. I want there to be some scientific component in your thesis, that is, it should rely on and refer to knowledge and skills that you have learned during your studies.
 
 ### Project Plan
 
