@@ -12,7 +12,7 @@ toc: yes
 - **Kernzeiten: Dienstag und Donnerstag 8–10.** (für Vorlesung, Übungen und Fragestunden)
 - Nebenzeiten: Freitag 14–16. (für Übungen und Fragestunden)
 - Beachten Sie: Die Vorlesung hat ein anderes Format als üblich, weshalb es keine getrennten Übungsgruppen geben wird. Stattdessen gibt es Freitag 14–16 Uhr eine Art Fragestunde/Helpdesk als Zusatzangebot.
-- **Anmeldung:** Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) für die Vorlesung an.
+- **Anmeldung:** Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) für die Vorlesung an. (In AUGE müssen Sie dreimal denselben Termin angeben.)
 <!--
     - In [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113). (Die Vorlesung hat ein anderes Format als üblich, weshalb es keine getrennten Übungsgruppen geben wird. Stattdessen gibt es Freitag 14–16 Uhr eine Art optionale Fragestunde als Zusatzangebot. Das Anmeldesystem AUGE ist dafür leider nicht richtig ausgelegt, deswegen erhalten Sie dort eine verwirrende Ansicht. Bitte melden Sie sich trotzdem an darüber an.)
     - .
@@ -66,7 +66,7 @@ CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 �
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche, Topologisches Sortieren**\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5<br>
 
-1. **Priority Queues, Heaps**\
+1. **Prioritätswarteschlangen, Heaps**\
 CLRS Kapitel 6 + Appendix B.5 · Plan · Video · [Folien](priorityqueues.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, Rot-Schwarz-Bäume**\
@@ -118,7 +118,7 @@ Wenn Ihre Lösung akzeptiert wird, erhalten Sie einen _Stern_ ⭐, der mögliche
 
 ## Klausur
 
-- Klausurtermin: 02.08.2021
+- Klausurtermin: 09.08.2021
 - Nachklausurtermin: 11.10.2021
 
 Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
@@ -138,11 +138,11 @@ Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt ve
 - **DMS**: _Algorithmen und Datenstrukturen_ von Martin Dietzfelbinger, Kurt Mehlhorn und Peter Sanders [[UB](https://hds.hebis.de/ubffm/Record/HEB224838512)] _(kompakter, besser organisiert, und formaler als CLRS, gut zum Nachschlagen von Detailfragen.)_
 - **Sa**: Skript „Datenstrukturen“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_ds.pdf)] _(ähnliche Auswahl von Themen; wurde in den vergangenen Jahren an der Goethe-Uni benutzt.)_
 - **Sb**: Skript „Theoretische Informatik 1“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_gl1_ws1213.pdf)] _(für ALGO1 ist nur das Kapitel „Effiziente Algorithmen“ relevant.)_
-- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://hds.hebis.de/ubffm/Record/HEB129608459)] _(Ein modernes Buch, dass die verschiedenen Designmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
+- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://hds.hebis.de/ubffm/Record/HEB129608459)] _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
 - **SWa**: Sedgewick, Wayne, Algorithms, Fourth Edition, 2011. _(konkreter und leichter zugänglich als CLRS und DMS, denn hier werden alle besprochenen Datenstrukturen und Algorithmen penibel implementiert, in [Java](https://github.com/kevin-wayne/algs4/) oder [Python](https://github.com/itu-algorithms/itu.algs4).)_
 - **SWb**: Sedgewick, Wayne. Introduction to Programming in Java, 2017. [[pdf](https://introcs.cs.princeton.edu/java/home/chapter1.pdf)] _(Nützlich, falls Sie die Grundlagen der Programmierung auffrischen möchten.)_
 
 ## Weitere Hinweise
 
-- Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die [Äquivalenzregelung des Prüfungsamts](https://www.informatik.uni-frankfurt.de/images/pdf/PA/aequivalenz_bach_11_19.pdf). In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Für Algo1b sind relevant: Graphalgorithmen. Für Algo1a ist außer Sortieren alles andere relevant.
+- Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die [Äquivalenzregelung des Prüfungsamts](https://www.informatik.uni-frankfurt.de/images/pdf/PA/aequivalenz_bach_11_19.pdf). In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen. Beachten Sie, dass der Plan und damit auch die folgende Einteilung **vorläufig** sind: Für Algo1b sind die drei Wochen zu Graphalgorithmen relevant (Darstellung, Minimale Spannbäume, Kürzeste Wege) sowie die drei Wochen Greedy-Algorithmen, Dynamische Programmierung, Flussprobleme. Alle anderen Wochen zählen zu Algo1a. Die Ausnahme bildet Suchen und Sortieren: Hier ist nur der Suchen-Teil relevant für Algo1a, denn Sortieren ist Teil der ALGO2 Prüfung.
 - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.
