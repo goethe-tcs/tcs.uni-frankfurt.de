@@ -13,10 +13,6 @@ toc: yes
 - Nebenzeiten: Freitag 14–16. (für Übungen und Fragestunden)
 - Beachten Sie: Die Vorlesung hat ein anderes Format als üblich, weshalb es keine getrennten Übungsgruppen geben wird. Stattdessen gibt es Freitag 14–16 Uhr eine Art Fragestunde/Helpdesk als Zusatzangebot.
 - **Anmeldung:** Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) für die Vorlesung an. (In AUGE müssen Sie dreimal denselben Termin angeben.)
-<!--
-    - In [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113). (Die Vorlesung hat ein anderes Format als üblich, weshalb es keine getrennten Übungsgruppen geben wird. Stattdessen gibt es Freitag 14–16 Uhr eine Art optionale Fragestunde als Zusatzangebot. Das Anmeldesystem AUGE ist dafür leider nicht richtig ausgelegt, deswegen erhalten Sie dort eine verwirrende Ansicht. Bitte melden Sie sich trotzdem an darüber an.)
-    - .
--->
 
 ### Dozent
 - [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–17 Uhr im [BBB](https://bbb.uni-frankfurt.de/b/hol-ncl-30h-kvo))
