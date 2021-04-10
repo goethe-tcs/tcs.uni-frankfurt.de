@@ -8,14 +8,20 @@ toc: yes
 
 ## Allgemeine Infos
 
-- Der Kurs findet _nur synchron_ und _vollständig online_ statt.
-- **Kernzeiten: Dienstag und Donnerstag 8–10.** (für Vorlesung, Übungen und Fragestunden)
-- Nebenzeiten: Freitag 14–16. (für Übungen und Fragestunden)
-- Beachten Sie: Die Vorlesung hat ein anderes Format als üblich, weshalb es keine getrennten Übungsgruppen geben wird. Stattdessen gibt es Freitag 14–16 Uhr eine Art Fragestunde/Helpdesk als Zusatzangebot.
-- **Anmeldung:** Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) für die Vorlesung an. (In AUGE müssen Sie dreimal denselben Termin angeben.)
+Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktisch so konzipiert, dass Student:innen in kleinen Gruppen gemeinsam Übungsaufgaben diskutieren und währenddessen individuell von einem freundlichen und kompetenten Team betreut werden.
+
+### Ort und Zeit
+
+- **Dienstag und Donnerstag 8:00–10:00** in [Zoom](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (zum Bearbeiten der Übungen in kleinen Gruppen). Der erste Termin ist Dienstag, der 13.04.2021 ausnahmsweise erst um 08:15, und es wird darin bereits inhaltlich losgehen.
+- Außerdem Freitag 14–16 in [Zoom](https://uni-frankfurt.zoom.us/j/99640206679?pwd=Q1F6V1pMdnhDMUwrR1lQK1Jvb0ZFUT09) (als Zusatzangebot zur Gruppenarbeit mit Kommiliton:innen und zur Interaktion mit Tutor:innen)
+- Nutzen Sie auch den [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
+
+### Anmeldung
+
+Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben.
 
 ### Dozent
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–17 Uhr im [BBB](https://bbb.uni-frankfurt.de/b/hol-ncl-30h-kvo))
+- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–17 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
 
 ### Tutor:innen
 - Niklas Fleischer
@@ -33,7 +39,7 @@ toc: yes
 - Tolga Tel
 - Marc Viel
 
-### Voraussetzungen
+## Voraussetzungen
 
 Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende mathematische Fähigkeiten. Mit [diesem Selbsttest](voraussetzungen.pdf) können Sie vorab Ihre Fähigkeiten prüfen und auffrischen.
 
@@ -43,24 +49,22 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 ## Wochenplan
 
-Die erste Vorlesung findet auf Zoom statt, am 13.4.2021 pünktlich um 08:15.
-
 Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig:
 
 1. **Einführung und Peaks**\
-CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · Video · [Folien](introduction.pdf)<br>
+CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [Video](introduction.mp4) · [Folien](introduction.pdf)<br>
 
 1. **Suchen und Sortieren**\
-CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · Video · [Folien](searchingandsorting.pdf)<br>
+CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [Video 1](searching.mp4) · [Video 2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
 
 1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
-CLRS Kapitel 3, 4.3-4.5 · Plan · Video · [Folien](analysis.pdf)<br>
+CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf)<br>
 
-1. **Elementare Datenstrukturen: Stacks, Queues, Verkette Listen, Bäume**\
-CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · Plan · Video · [Folien](introtodatastructures.pdf)<br>
+1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
+CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · Plan · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
 
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche, Topologisches Sortieren**\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · Plan · Video · [Folien](introtographs.pdf)<br>
 
 1. **Prioritätswarteschlangen, Heaps**\
 CLRS Kapitel 6 + Appendix B.5 · Plan · Video · [Folien](priorityqueues.pdf)<br>
@@ -118,6 +122,7 @@ Wenn Ihre Lösung akzeptiert wird, erhalten Sie einen _Stern_ ⭐, der mögliche
 - Nachklausurtermin: 11.10.2021
 
 Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
+Umfang, Schwierigkeit und Themen der Klausuren orientieren sich stark an den Vorjahren.
 
 Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden.
 Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
@@ -127,6 +132,7 @@ Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt ve
 - Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. _Mange tak Philip og Inge!_
 - Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](http://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](http://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/).
+- Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
 ## Zusätzliche Literatur
 
