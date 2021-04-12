@@ -17,7 +17,7 @@ Internet: <https://www.uni-frankfurt.de>
 
 Die Johann Wolfgang Goethe-Universität ist eine Stiftung des öffentlichen Rechts.
 
-*Gesetzlicher Vertreter:* Die Präsidentin der Goethe-Universität, Prof. Dr. Birgitta Wolff\
+*Gesetzlicher Vertreter:* Der Präsident der Goethe-Universität, Prof. Dr. Enrico Schleiff\
 *Umsatzusteuer-Identifikationsnummer gem. § 27a Umsatzusteuergesetz:* DE 114110511
 
 **Zuständige Aufsichtsbehörde**\
@@ -66,7 +66,7 @@ Die behördlichen Datenschutzbeauftragten\
 Theodor-W.-Adorno-Platz 1\
 60323 Frankfurt am Main\
 Internet: <https://www.uni-frankfurt.de/47859992/datenschutzbeauftragte>\
-Email: <dsb@uni-frankfurt.de>
+E-Mail: <dsb@uni-frankfurt.de>
 
 ### Rechte und Beschwerdemöglichkeiten
 
@@ -102,7 +102,7 @@ Professur:
 Personenbezogene Daten sind Informationen, mit deren Hilfe eine
 natürliche Person bestimmbar ist, also Angaben, durch die Personen
 identifizierbar sind. Dazu gehören insbesondere Namen, E-Mail-Adressen,
-Matrikelnummern, Telefonnummern, oder eingereichte Dokumente.
+Matrikelnummern, Telefonnummern oder eingereichte Dokumente.
 
 Personenbezogene Daten werden von uns nur dann erhoben, genutzt und
 weitergegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die
@@ -123,17 +123,17 @@ und personalrechtlicher Regelungen erhoben und verarbeitet.
 #### Logdaten
 
 Beim Einloggen auf den Rechnern der Professur, beim Abrufen der
-Webseite, bzw. beim Abruf und Versenden von Emails werden folgende Daten
+Webseite, bzw. beim Abruf und Versenden von E-Mails werden folgende Daten
 in den Logdateien gespeichert:
 
-**Einloggen und Emailabruf**
+**Einloggen und E-Mail-Abruf**
 - Loginname
 - IP-Adresse (bei Remote-Zugriffen)
 - Datum
 - Uhrzeit Beginn der Session
 - Uhrzeit Ende der Session
 
-**Emailversand**
+**E-Mail-Versand**
 - Absender
 - Empfänger
 - IP-Adressen der übermittelnden Rechner
@@ -153,13 +153,13 @@ eines möglichen Missbrauchs. Diese Nutzung basiert auf EU DSGVO Artikel
 6 Absatz 1 f). Die rechtliche Grundlage ist insbesondere die
 IuK-Nutzungsordnung der Goethe-Universität. Alle Logdateien werden
 auto­matisiert nach spätestens 4 Wochen gelöscht. Bei berechtigtem
-Interesse der Goethe-Universität oder auf Grund einer gesetzlichen
+Interesse der Goethe-Universität oder aufgrund einer gesetzlichen
 Vorschrift (z.B. Gesetz, Rechtsverordnung, Satzung der Goethe-
-Universität, Urheberecht etc.) kann es zur Beweissicherung oder bei
+Universität, Urheberecht, etc.) kann es zur Beweissicherung oder bei
 Rechtsansprüchen Dritter sowohl zu einer längeren Speicherung als auch
 einer Übermittlung an Dritte kommen.
 
-Bei Übermittlung der Emails kommt es zur kurzeitigen Zwischenspeicherung
+Bei Übermittlung der E-Mails kommt es zur kurzzeitigen Zwischenspeicherung
 der Daten auf den beteiligten Servern. Nach erfolgreicher Zustellung
 werden diese Daten umgehend gelöscht. Bleibt die Zustellung erfolglos,
 werden die Daten nach 5 Tagen gelöscht.
@@ -179,6 +179,5 @@ Anfrage sowie für den Fall, dass Anschluss­fragen entstehen,
 gespeichert. Nach Bearbeitung Ihres Anliegens bzw. nach Erfüllung der
 Rechtspflicht oder des genutzten Dienstes werden die Daten gelöscht, es
 sei denn, die Aufbewahrung der Daten ist zur Umsetzung berechtigter
-Interessen der Goethe Universität oder auf Grund einer gesetzlichen
-Vorschrift (z.B. Gesetz, Rechtsverordnung, Satzung der Goethe
-Universität etc.) erforderlich.
+Interessen der Goethe-Universität oder aufgrund einer gesetzlichen
+Vorschrift (z. B. Gesetz, Rechtsverordnung, Satzung der Goethe-Universität etc.) erforderlich.
