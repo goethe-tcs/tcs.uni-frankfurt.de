@@ -52,7 +52,7 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig:
 
 1. **Einführung und Peaks**\
-CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [Video](introduction.mp4) · [Folien](introduction.pdf)<br>
+CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [Video](introduction.mp4) · [Folien](introduction.pdf) · [Organisationsfolien](organisation.pdf)<br>
 
 1. **Suchen und Sortieren**\
 CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [Video 1](searching.mp4) · [Video 2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
