@@ -12,12 +12,10 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 
 ### Ort und Zeit
 
-- **Dienstag und Donnerstag 8:00–10:00** startet die Lagebesprechung unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439). Danach gibt's Gruppenarbeit, Helpdesks, Lösungsbesprechungen, Zoomlinks können Sie in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) nachlesen.
-- Zusätzlich werden Freitags 14–16 als Gruppenarbeit und Helpdesks angeboten, Zoomlinks ebenfalls in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
+- **Dienstag und Donnerstag 8:00–10:00** startet die Lagebesprechung unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439). Nach der Lagebesprechung gibt's Gruppenarbeit, Helpdesks, Lösungsbesprechungen; die Zoomlinks hierfür können Sie in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) nachlesen.
+- Zusätzlich werden Freitags 14–16 Gruppenarbeit und Helpdesks angeboten, Zoomlinks ebenfalls in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
 - Nutzen Sie auch den [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
-- **Dienstag/Donnerstag 8:00 Uhr** beginnt die Lagebesprechung immer unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439).
-- Alle anderen Zoomlinks des Tages (Gruppenarbeit, Helpdesks, Lösungsbesprechung, Freitags) entnehmen Sie [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
 ### Anmeldung
 
 Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben.
