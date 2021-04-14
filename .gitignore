@@ -8,3 +8,4 @@ data/manifest.json
 .cache
 .parcel-cache
 .npm-packages
+.vscode
