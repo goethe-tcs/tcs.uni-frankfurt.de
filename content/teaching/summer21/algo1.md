@@ -12,13 +12,13 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 
 ### Ort und Zeit
 
-- **Dienstag und Donnerstag 8:00–10:00** startet die Lagebesprechung unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439). Nach der Lagebesprechung gibt's Gruppenarbeit, Helpdesks, Lösungsbesprechungen; die Zoomlinks hierfür können Sie in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) nachlesen.
-- Zusätzlich werden Freitags 14–16 Gruppenarbeit und Helpdesks angeboten, Zoomlinks ebenfalls in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
+- **Dienstag und Donnerstag 8:00–10:00.** Die _Lagebesprechung_ startet um 08:00 unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439). Nach der Lagebesprechung gibt's parallel _Gruppenarbeit_, _Helpdesks_, _Lösungsbesprechungen_; die Zoomlinks hierfür können Sie in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) nachlesen.
+- Zusätzlich werden **Freitags 14–16** _Gruppenarbeit_ und _Helpdesks_ angeboten, die Zoomlinks sind ebenfalls in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) zu finden.
 - Nutzen Sie auch den [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
 ### Anmeldung
 
-Bitte melden Sie sich im [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben.
+Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
 
 ### Dozent
 - [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–17 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
@@ -61,13 +61,13 @@ CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [Video 1](search
 CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf)<br>
 
 1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
-CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · Plan · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
+CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
 
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche, Topologisches Sortieren**\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · Plan · Video · [Folien](introtographs.pdf)<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · Video · [Folien](introtographs.pdf)<br>
 
 1. **Prioritätswarteschlangen, Heaps**\
-CLRS Kapitel 6 + Appendix B.5 · Plan · Video · [Folien](priorityqueues.pdf)<br>
+CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · Video · [Folien](priorityqueues.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, Rot-Schwarz-Bäume**\
 CLRS Kapitel 12–13 ohne 12.4<br>
