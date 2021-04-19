@@ -69,8 +69,8 @@ CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](int
 1. **Prioritätswarteschlangen, Heaps**\
 CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · Video · [Folien](priorityqueues.pdf)<br>
 
-1. **Traversierung, binäre Suchbäume, Rot-Schwarz-Bäume**\
-CLRS Kapitel 12–13 ohne 12.4<br>
+1. **Traversierung, binäre Suchbäume, AVL-Bäume**\
+CLRS Kapitel 12 ohne 12.4<br>
 
 1. **Disjunkte Mengen, Union-Find**\
 CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf))<br>
