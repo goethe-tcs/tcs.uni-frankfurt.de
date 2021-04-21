@@ -21,7 +21,7 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
 
 ### Dozent
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–17 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
+- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–16:45 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
 
 ### Tutor:innen
 - Niklas Fleischer

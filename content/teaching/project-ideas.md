@@ -105,6 +105,7 @@ All products generated in your projects are developed under an open-source licen
 
 **Some introductory resources:**
 - Talk by [Brian Christian](https://brianchristian.org/) at the Simons Institute: [The Alignment Problem: Machine Learning and Human Values](https://www.youtube.com/watch?v=CzoVn8LUaDs)
+- [Research guide](https://intelligence.org/research-guide/) by [Machine Intelligence Research Institute](https://intelligence.org/).
 - [Effective Thesis in Computer Science](https://effectivethesis.org/theses/?discipline=computer+science#disciplines)
 - [AGI safety from first principles](https://www.lesswrong.com/s/mzgtmmTKKn5MuCzFJ)
 - [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
