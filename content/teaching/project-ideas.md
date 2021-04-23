@@ -104,6 +104,7 @@ All products generated in your projects are developed under an open-source licen
 - A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you
 
 **Some introductory resources:**
+- [AI Alignment Research Overview](https://docs.google.com/document/d/1FbTuRvC4TFWzGYerTKpBU7FJlyvjeOvVYF2uYNFSlOc/edit?usp=sharing) by Jacob Steinhardt
 - Talk by [Brian Christian](https://brianchristian.org/) at the Simons Institute: [The Alignment Problem: Machine Learning and Human Values](https://www.youtube.com/watch?v=CzoVn8LUaDs)
 - [Research guide](https://intelligence.org/research-guide/) by [Machine Intelligence Research Institute](https://intelligence.org/).
 - [Effective Thesis in Computer Science](https://effectivethesis.org/theses/?discipline=computer+science#disciplines)
