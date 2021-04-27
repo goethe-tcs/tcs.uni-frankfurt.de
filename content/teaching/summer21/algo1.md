@@ -58,7 +58,7 @@ CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [Video](introduction.mp
 CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [Video 1](searching.mp4) · [Video 2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
 
 1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
-CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf)<br>
+CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf) · [Lagebesprechung](Woche03_Dienstag.pdf)<br>
 
 1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
 CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
