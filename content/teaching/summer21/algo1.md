@@ -51,48 +51,54 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig:
 
-1. **Einführung und Peaks**\
+1. **Einführung und Peaks** <span style="color: grey;">· a</span>\
 CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [Video](introduction.mp4) · [Folien](introduction.pdf) · [Organisationsfolien](organisation.pdf)<br>
 
-1. **Suchen und Sortieren**\
+1. **Suchen und Sortieren** <span style="color: grey;">· a</span>\
 CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [Video 1](searching.mp4) · [Video 2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
 
-1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
+1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem** <span style="color: grey;">· a</span>\
 CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](Woche03_Dienstag.pdf)<br>
 
-1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
+1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume** <span style="color: grey;">· a</span>\
 CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
 
-1. **Darstellung von Graphen, Breitensuche, Tiefensuche, Topologisches Sortieren**\
+1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · Video · [Folien](introtographs.pdf)<br>
 
-1. **Prioritätswarteschlangen, Heaps**\
+1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · Video · [Folien](directedgraphs.pdf)<br>
+
+1. **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
 CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · Video · [Folien](priorityqueues.pdf)<br>
 
-1. **Traversierung, binäre Suchbäume, AVL-Bäume**\
-CLRS Kapitel 12 ohne 12.4<br>
+1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
+CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · Video · Folien<br>
 
-1. **Disjunkte Mengen, Union-Find**\
-CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf))<br>
+1. **Minimale Spannbäume: Borůvkas Algorithmus, Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
+E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · Video · Folien<br>
 
-1. **Minimale Spannbäume: Borůvkas Algorithmus, Jarník–Prims Algorithmus, Kruskals Algorithmus**\
-E Kapitel 7 (oder CLRS Kapitel 23)<br>
+1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
+E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · Video · Folien<br>
 
-1. **Dijkstras Algorithmus, kürzeste Wege**\
-E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4)<br>
+1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
+CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf)· Video · [Folien](hashing.pdf)<br>
 
-1. **Wörterbücher, Hashing**\
-CLRS Kapitel 11 ohne 11.5 · Plan · Video · [Folien](hashing.pdf)<br>
+1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
+CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · Video · Folien<br>
 
-1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
-CLRS Kapitel 16 bis 16.3<br>
+1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
+CLRS Kapitel 16 bis 16.3 · Plan · Video · Folien<br>
 
-1. **Dynamische Programmierung, längste gemeinsame DNA-Teilsequenz**\
-CLRS Kapitel 15.4<br>
+1. **Dynamische Programmierung, längste gemeinsame DNA-Teilsequenz** <span style="color: grey;">· b</span>\
+CLRS Kapitel 15.4 · Plan · Video · Folien<br>
 
-1. **Flussprobleme, lineare Programmierung**\
+<!--
+1. **Flussprobleme, lineare Programmierung** <span style="color: grey;">· b</span>\
 E Kapitel 10 bis 10.4 (oder CLRS Kapitel 26)
-<!--1. Strassens Algorithmus,  (CLRS, Kapitel 4.2)-->
+
+1. Strassens Algorithmus,  (CLRS, Kapitel 4.2)
+-->
 
 ## Übungen
 
@@ -148,6 +154,7 @@ Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt ve
 
 ## Weitere Hinweise
 
-- Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die [Äquivalenzregelung des Prüfungsamts](https://www.informatik.uni-frankfurt.de/images/pdf/PA/aequivalenz_bach_11_19.pdf). In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen. Beachten Sie, dass der Plan und damit auch die folgende Einteilung **vorläufig** sind: Für Algo1b sind die drei Wochen zu Graphalgorithmen relevant (Darstellung, Minimale Spannbäume, Kürzeste Wege) sowie die drei Wochen Greedy-Algorithmen, Dynamische Programmierung, Flussprobleme. Alle anderen Wochen zählen zu Algo1a. Die Ausnahme bildet Suchen und Sortieren: Hier ist nur der Suchen-Teil relevant für Algo1a, denn Sortieren ist Teil der ALGO2 Prüfung.
+- Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die [Äquivalenzregelung des Prüfungsamts](https://www.informatik.uni-frankfurt.de/images/pdf/PA/aequivalenz_bach_11_19.pdf). In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen, jede Woche ist in grau mit a oder b markiert. Beachten Sie, das diese Einteilung vorläufig ist, und dass Algo1b auf Algo1a aufbaut, weshalb für viele Themen in Algo1b immer auch die Grundlagen aus Algo1a wichtig sind.
+- Nur der Suchen-Teil von Suchen und Sortieren ist klausurrelevant für ALGO1, denn Sortieren ist Teil der ALGO2 Prüfung.
 - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
 - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.
