@@ -64,7 +64,7 @@ CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [Video](analysis.m
 CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
 
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · Video · [Folien](introtographs.pdf)<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · [Video 1](introtographs1.mp4) · [Video 2](introtographs2.mp4) · [Video 3](introtographs3.mp4) · [Folien](introtographs.pdf)<br>
 
 1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · Video · [Folien](directedgraphs.pdf)<br>
