@@ -11,30 +11,36 @@ There are three options:
 2) Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
 3) Apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/).
 
-<!--
+
 ## Open call for applications
 
-The research group by [Holger Dell](https://holgerdell.com) at
+The research group lead by [Holger Dell](https://holgerdell.com) at
 Goethe University Frankfurt is inviting applications for two PhD or
-Postdoc positions, starting at the earliest possible date.
-Potential topics include research of the type that is published at
-top-tier conferences such as STOC/FOCS/SODA. This includes, but is not
-limited to, complexity theory, (algebraic) graph algorithms, the theory
-of machine learning, fine-grained complexity, and parameterized complexity.
+Postdoc positions, starting as soon as possible.
+The group conducts research on fundamental questions
+of computation and information, is driven by curiosity, and provides a
+friendly, open-minded, and positive social environment. Potential
+future research topics of the group include, but are not limited to,
+algebraic graph algorithms, the theory of machine learning on graphs,
+circuit complexity, pseudorandomness, fine-grained and parameterized
+complexity. Excellent teaching is important to the group, and both
+positions include some teaching duties.
 
 ### Tasks
 
-- Identify and work on the most important research problems in
-  theoretical computer science, and publish in top-tier conferences.
+- Identify and work on the most interesting research problems in
+  theoretical computer science.
+- Publish the findings at top-tier venues.
 - Support undergraduate and graduate teaching activities.
 - Pursue further scientific qualification (e.g., doctorate).
 
 ### We Offer
 
-- A friendly, ambitious, and positive social environment.
+- A friendly, open-minded, and positive social environment.
 - Individual guidance and a rich network of collaboration partners.
 - Possibility to attend workshops, conferences, and summer schools.
-- A vibrant city.
+- Competitive salary (100% E 13, roughly 50k € gross per year)
+- A vibrant, international, well-connected city.
 
 ### We Expect
 
@@ -42,22 +48,20 @@ of machine learning, fine-grained complexity, and parameterized complexity.
   fundamental research.
 - Sociability and an ambition to make teaching great.
 - A finished or almost finished Master's degree (or equivalent) with
-  very good grades in Computer Science, Mathematics, Physics, or
+  good grades in Computer Science, Mathematics, Physics, or
   similar. For postdoc candidates, a PhD is required.
 - Robust knowledge in discrete mathematics or theoretical computer
   science.
-- Good command of English in both speaking and writing. Most teaching
-  is done in German, so some knowledge of German is an advantage.
+- Good command of English in both speaking and writing. Some knowledge of German is an advantage for the teaching, as not all students are fluent in English.
+- (for the postdoc position) A track record in the form of publications.
 
 ### Apply!
 
-The Goethe University Frankfurt promotes gender equality at work, which is
-why women are particularly invited to apply.
-
 Please compile your application (including a short research statement,
 CV, transcripts of grades, name and contact details of one or two
-references) to a single pdf file and e-mail it to the secretary
-C. Gressler (gressler@em.uni-frankfurt.de).  If you have a thesis or
-thesis draft, please include that as well.  Feel free to contact Holger
-Dell (dell+2021+applications@cs.uni-frankfurt.de) in case you have any questions.
-Candidates will be considered until the position is filled. -->
+references) as a single pdf file and e-mail it to tcs-applications@dlist.uni-frankfurt.de.  If you have a thesis or
+thesis draft, please include that as well. Please indicate clearly whether you're applying for a PhD or a postdoc position.
+The application deadline is June 15 2021, but candidates will be considered until the position is filled.
+
+The Goethe University Frankfurt promotes gender equality at work, which is
+why women are particularly invited to apply.

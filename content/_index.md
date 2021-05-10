@@ -9,10 +9,16 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 - [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
 - Melvin Kallmayer (Research Assistant)
 
-Interested to join the group as a PhD student, postdoc, or visitor? Here are [some options](positions/).
+**We're hiring.** See our [call for applications](positions/).
 
-### For students
+### Links for students
 - **Bachelor/Master thesis.** Check out the [Project Ideas](/teaching/project-ideas/) if you are looking for a thesis topic.
-- **Teaching in SoSe 2021.**
+- **Teaching in summer 2021.**
     - Vorlesung: [Algorithmen und Datenstrukturen 1](teaching/summer21/algo1)
     - Seminar: [Algorithmen und Komplexität](teaching/summer21/seminar)
+
+### Related research groups in Frankfurt and beyond
+- [Algorithms, Dynamics, and Information Flow in Networks](https://adyn.cs.uni-frankfurt.de/) (DFG research unit)
+- [Algorithm Engineering](https://ae.cs.uni-frankfurt.de/) (research group)
+- [Algorithms & Complexity](https://algo.cs.uni-frankfurt.de/) (research group)
+- [Discrete Mathematics](https://www.uni-frankfurt.de/46104797/Diskrete_Mathematik) (group of research groups)
