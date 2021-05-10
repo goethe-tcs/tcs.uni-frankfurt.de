@@ -7,7 +7,7 @@ estimated_reading_time: yes
 toc: yes
 ---
 
-This document is addressed to Bachelor and Master students at Goethe University and at ITU, who wish to write their research project or thesis project in theoretical computer science.
+This document is addressed to Bachelor and Master students at Goethe University, who wish to write their research project or thesis project in theoretical computer science.
 
 
 ## Topics
