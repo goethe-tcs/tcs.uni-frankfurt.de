@@ -17,8 +17,13 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
     - Vorlesung: [Algorithmen und Datenstrukturen 1](teaching/summer21/algo1)
     - Seminar: [Algorithmen und Komplexität](teaching/summer21/seminar)
 
-### Related research groups in Frankfurt and beyond
+### Related research groups
+In Frankfurt, these research groups are most closely related:
 - [Algorithms, Dynamics, and Information Flow in Networks](https://adyn.cs.uni-frankfurt.de/) (DFG research unit)
 - [Algorithm Engineering](https://ae.cs.uni-frankfurt.de/) (research group)
 - [Algorithms & Complexity](https://algo.cs.uni-frankfurt.de/) (research group)
 - [Discrete Mathematics](https://www.uni-frankfurt.de/46104797/Diskrete_Mathematik) (group of research groups)
+
+Beyond Frankfurt, we have strong links with
+- [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk/) (Copenhagen)
+- [Max Planck Institut Informatik](https://www.mpi-inf.mpg.de/departments/algorithms-complexity) (Saarbrücken)

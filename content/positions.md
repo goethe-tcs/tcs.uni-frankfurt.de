@@ -14,17 +14,18 @@ There are three options:
 
 ## Open call for applications
 
-The research group lead by [Holger Dell](https://holgerdell.com) at
-Goethe University Frankfurt is inviting applications for two PhD or
+We, the research group of [Holger Dell](/~dell/) at [Frankfurt University](https://www.uni-frankfurt.de/), are inviting applications for two PhD or
 Postdoc positions, starting as soon as possible.
-The group conducts research on fundamental questions
-of computation and information, is driven by curiosity, and provides a
-friendly, open-minded, and positive social environment. Potential
-future research topics of the group include, but are not limited to,
+We are driven by our curiosity for fundamental questions
+of computation and information, and we provide a
+friendly, open-minded, and positive social environment.
+Potential future research topics include, but are not limited to,
 algebraic graph algorithms, the theory of machine learning on graphs,
 circuit complexity, pseudorandomness, fine-grained and parameterized
-complexity. Excellent teaching is important to the group, and both
-positions include some teaching duties.
+complexity.
+Teaching is also important to us,
+and we use modern, student-centered learning approaches in our classes.
+Both positions include some teaching opportunities.
 
 ### Tasks
 
