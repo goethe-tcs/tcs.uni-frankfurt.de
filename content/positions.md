@@ -3,15 +3,6 @@ title: Join the Theoretical Computer Science group
 layout: single
 ---
 
-## Overview
-
-There are three options:
-
-1) Apply for the PhD/postdoc positions in this group, see below for further information.
-2) Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
-3) Apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/).
-
-
 ## Open call for applications
 
 We, the research group of [Holger Dell](/~dell/) at [Frankfurt University](https://www.uni-frankfurt.de/), are inviting applications for two PhD or
@@ -19,18 +10,22 @@ Postdoc positions, starting as soon as possible.
 We are driven by our curiosity for fundamental questions
 of computation and information, and we provide a
 friendly, open-minded, and positive social environment.
-Potential future research topics include, but are not limited to,
-algebraic graph algorithms, the theory of machine learning on graphs,
-circuit complexity, pseudorandomness, fine-grained and parameterized
-complexity.
-Teaching is also important to us,
-and we use modern, student-centered learning approaches in our classes.
+Future research includes fun topics, such as
+algebraic graph algorithms,
+machine learning on graphs,
+applications of TCS in the sciences, 
+algorithm engineering,
+circuit complexity,
+pseudorandomness,
+fine-grained and parameterized complexity.
 Both positions include some teaching opportunities.
+Teaching is important to us, and we use modern, student-centered
+learning approaches in our classes.
 
 ### Tasks
 
-- Identify and work on the most interesting research problems in
-  theoretical computer science.
+- Identify and work on fun and fascinating research problems in
+  theoretical computer science and ajacent areas.
 - Publish the findings at top-tier venues.
 - Support undergraduate and graduate teaching activities.
 - Pursue further scientific qualification (e.g., doctorate).
@@ -41,6 +36,7 @@ Both positions include some teaching opportunities.
 - Individual guidance and a rich network of collaboration partners.
 - Possibility to attend workshops, conferences, and summer schools.
 - Competitive salary (100% E 13, roughly 50k € gross per year)
+- The position is for 3 years, with possibility for an extension.
 - A vibrant, international, well-connected city.
 
 ### We Expect
@@ -64,5 +60,9 @@ references) as a single pdf file and e-mail it to tcs-applications@dlist.uni-fra
 thesis draft, please include that as well. Please indicate clearly whether you're applying for a PhD or a postdoc position.
 The application deadline is June 15 2021, but candidates will be considered until the position is filled.
 
-The Goethe University Frankfurt promotes gender equality at work, which is
-why women are particularly invited to apply.
+The Goethe University Frankfurt promotes gender equality at work, and women are particularly invited to apply.
+
+## Other options
+
+1) Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
+2) Apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/).

@@ -49,43 +49,43 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 ## Wochenplan
 
-Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig:
+Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig (🔥 = aktuelle Woche):
 
 1. **Einführung und Peaks** <span style="color: grey;">· a</span>\
-CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [⭐](star01-2D-hills.pdf) · [Video](introduction.mp4) · [Folien](introduction.pdf) · [Organisationsfolien](organisation.pdf)<br>
+CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [⭐](star01-2D-hills.pdf) · [📺](introduction.mp4) · [Folien](introduction.pdf) · [Organisationsfolien](organisation.pdf)<br>
 
 1. **Suchen und Sortieren** <span style="color: grey;">· a</span>\
-CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [⭐](star02-crossing-lines.pdf) · [Video 1](searching.mp4) · [Video 2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
+CLRS Kapitel 2 · [Plan](searchingandsorting-wochenplan.pdf) · [⭐](star02-crossing-lines.pdf) · [📺1](searching.mp4) · [📺2](sorting.mp4) · [Folien](searchingandsorting.pdf)<br>
 
 1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem** <span style="color: grey;">· a</span>\
-CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [⭐](star03-bitstrings.pdf) · [Video](analysis.mp4) · [Folien](analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](Woche03_Dienstag.pdf)<br>
+CLRS Kapitel 3, 4.3-4.5 · [Plan](analysis-wochenplan.pdf) · [⭐](star03-bitstrings.pdf) · [📺](analysis.mp4) · [Folien](analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](Woche03_Dienstag.pdf)<br>
 
 1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume** <span style="color: grey;">· a</span>\
-CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [⭐](star04-balance.pdf) · [Video](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
+CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](introtodatastructures-wochenplan.pdf) · [⭐](star04-balance.pdf) · [📺](introtodatastructures.mp4) · [Folien](introtodatastructures.pdf)<br>
 
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · [⭐](star05-three-color-algorithm.pdf) · [Video 1](introtographs1.mp4) · [Video 2](introtographs2.mp4) · [Video 3](introtographs3.mp4) · [Folien](introtographs.pdf)<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · [⭐](star05-three-color-algorithm.pdf) · [📺1](introtographs1.mp4) · [📺2](introtographs2.mp4) · [📺3](introtographs3.mp4) · [Folien](introtographs.pdf)<br>
 
-1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · ☆ · [Video 1](directedgraphs-1.mp4) · [Video 2](directedgraphs-2.mp4) · [Folien](directedgraphs.pdf)<br>
+1. 🔥 **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · [⭐](star06-palindromic-paths.pdf) · [📺1](directedgraphs-1.mp4) · [📺2](directedgraphs-2.mp4) · [Folien](directedgraphs.pdf)<br>
 
 1. **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
-CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · ☆ · [Video 1](priorityqueues-1.mp4) · [Video 2](priorityqueues-2.mp4) · [Video 3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
+CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · ☆ · [📺1](priorityqueues-1.mp4) · [📺2](priorityqueues-2.mp4) · [📺3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
 
 1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
-CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · ☆ · Video · Folien<br>
+CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · ☆ · Video · [Folien](unionfind.pdf)<br>
 
 1. **Minimale Spannbäume: Borůvkas Algorithmus, Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
-E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · ☆ · Video · Folien<br>
+E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · ☆ · Video · [Folien](minimumspanningtrees.pdf)<br>
 
 1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
-E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · ☆ · Video · Folien<br>
+E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · ☆ · Video · [Folien](shortestpaths.pdf)<br>
 
 1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
 CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · Video · [Folien](hashing.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
-CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · ☆ · Video · Folien<br>
+CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · ☆ · Video · [Folien](binarysearchtrees.pdf)<br>
 
 1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
 CLRS Kapitel 16 bis 16.3 · Plan · ☆ · Video · Folien<br>

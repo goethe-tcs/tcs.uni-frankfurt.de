@@ -8,13 +8,12 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 - [Holger Dell](/~dell) (Professor)
 - [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
 - Melvin Kallmayer (Research Assistant)
-
-**We're hiring.** See our [call for applications](positions/).
+- **You (PhD/Postdoc)? We're hiring. See our [call for applications](positions/).**
 
 ### Links for students
 - **Bachelor/Master thesis.** Check out the [Project Ideas](/teaching/project-ideas/) if you are looking for a thesis topic.
 - **Teaching in summer 2021.**
-    - Vorlesung: [Algorithmen und Datenstrukturen 1](teaching/summer21/algo1)
+    - Lecture: [Algorithmen und Datenstrukturen 1](teaching/summer21/algo1)
     - Seminar: [Algorithmen und Komplexität](teaching/summer21/seminar)
 
 ### Related research groups
