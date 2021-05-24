@@ -12,9 +12,10 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 
 ### Ort und Zeit
 
-- **Dienstag und Donnerstag 8:00–10:00.** Die _Lagebesprechung_ startet um 08:00 unter [diesem Zoomlink](https://uni-frankfurt.zoom.us/j/91770287699?pwd=THkzT00xdERhWjZIRmFZTFQxclpWZz09) (Zoom id 917 7028 7699, Passcode 339439). Nach der Lagebesprechung gibt's parallel _Gruppenarbeit_, _Helpdesks_, _Lösungsbesprechungen_; die Zoomlinks hierfür können Sie in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) nachlesen.
-- Zusätzlich werden **Freitags 14–16** _Gruppenarbeit_ und _Helpdesks_ angeboten, die Zoomlinks sind ebenfalls in [diesem Dokument](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub) zu finden.
-- Nutzen Sie auch den [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
+- **Dienstag und Donnerstag 8:00–10:00.** Lagebesprechung, Gruppenarbeit, Helpdesks, Lösungsvorschläge.
+- **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks.
+- [Zoomlinks und genauer Fahrplan](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
+- [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
 ### Anmeldung
 
@@ -66,10 +67,10 @@ CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 �
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](introtographs-wochenplan.pdf) · [⭐](star05-three-color-algorithm.pdf) · [📺1](introtographs1.mp4) · [📺2](introtographs2.mp4) · [📺3](introtographs3.mp4) · [Folien](introtographs.pdf)<br>
 
-1. 🔥 **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · [⭐](star06-palindromic-paths.pdf) · [📺1](directedgraphs-1.mp4) · [📺2](directedgraphs-2.mp4) · [Folien](directedgraphs.pdf)<br>
+1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · [⭐](star06-palindromic-walks.pdf) · [📺1](directedgraphs-1.mp4) · [📺2](directedgraphs-2.mp4) · [Folien](directedgraphs.pdf)<br>
 
-1. **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
+1. 🔥 **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
 CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · ☆ · [📺1](priorityqueues-1.mp4) · [📺2](priorityqueues-2.mp4) · [📺3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
 
 1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
@@ -154,6 +155,7 @@ Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt ve
 
 ## Weitere Hinweise
 
+- Um die Lerninhalte durch Programmieraufgaben zu vertiefen eignen sich [diese Kattis-Probleme](kattis/).
 - Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die [Äquivalenzregelung des Prüfungsamts](https://www.informatik.uni-frankfurt.de/images/pdf/PA/aequivalenz_bach_11_19.pdf). In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen, jede Woche ist in grau mit a oder b markiert. Beachten Sie, dass diese Einteilung vorläufig ist, und dass Algo1b auf Algo1a aufbaut, weshalb für viele Themen in Algo1b immer auch die Grundlagen aus Algo1a wichtig sind.
 - Nur der Suchen-Teil von Suchen und Sortieren ist klausurrelevant für ALGO1, denn Sortieren ist Teil der ALGO2 Prüfung.
 - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
