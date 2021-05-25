@@ -4,19 +4,18 @@ layout: single
 toc: no
 ---
 
+### Bachelor/Master thesis projects
+- See [Project Ideas](project-ideas)
+
 ### SoSe 2021
 
 - Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
 - Seminar: [Algorithmen und Komplexität](summer21/seminar)
-- [Project Ideas](project-ideas): Students can write their Bachelor/Master thesis in the group of theoretical computer science.
 
 ### WiSe 2020/21
 
 - Vorlesung (4+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
 - Seminar: [Algorithmen und Komplexität](winter20/seminar)
-
-
-
 
 ### Past courses offered by Holger Dell:
 
