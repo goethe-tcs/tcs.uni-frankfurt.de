@@ -9,3 +9,11 @@ data/manifest.json
 .parcel-cache
 .npm-packages
 .vscode
+static/teaching/summer21/algo1/*.pdf
+static/teaching/summer21/algo1/*.in
+static/teaching/summer21/algo1/*.out
+src/js/bundle.css
+src/js/*.woff*
+src/js/*.svg
+src/js/*.eot
+src/js/*.ttf
