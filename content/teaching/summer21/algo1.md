@@ -74,16 +74,16 @@ CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](dir
 CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · ☆ · [📺1](priorityqueues-1.mp4) · [📺2](priorityqueues-2.mp4) · [📺3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
 
 1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
-CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · ☆ · Video · [Folien](unionfind.pdf)<br>
+CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · ☆ · [📺1](unionfind-1.mp4) · [📺2](unionfind-2.mp4) · [Folien](unionfind.pdf)<br>
 
 1. **Minimale Spannbäume: Borůvkas Algorithmus, Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
-E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · ☆ · Video · [Folien](minimumspanningtrees.pdf)<br>
+E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · ☆ · [📺1](minimumspanningtrees-properties.mp4) · [📺2](minimumspanningtrees-prim.mp4) · [📺3](minimumspanningtrees-kruskal.mp4) · [Folien](minimumspanningtrees.pdf)<br>
 
 1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
-E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · ☆ · Video · [Folien](shortestpaths.pdf)<br>
+E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · ☆ · [📺1](shortestpaths-properties.mp4) · [📺2](shortestpaths-dijkstra.mp4)  · [📺3](shortestpaths-DAGs.mp4) · [Folien](shortestpaths.pdf)<br>
 
 1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
-CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · Video · [Folien](hashing.pdf)<br>
+CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · [📺1](hashing-1.mp4) · [📺2](hashing-2.mp4) · [Folien](hashing.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
 CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · ☆ · Video · [Folien](binarysearchtrees.pdf)<br>
