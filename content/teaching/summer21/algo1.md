@@ -71,7 +71,7 @@ CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](int
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](directedgraphs-wochenplan.pdf) · [⭐](star06-palindromic-walks.pdf) · [📺1](directedgraphs-1.mp4) · [📺2](directedgraphs-2.mp4) · [Folien](directedgraphs.pdf)<br>
 
 1. 🔥 **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
-CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · ☆ · [📺1](priorityqueues-1.mp4) · [📺2](priorityqueues-2.mp4) · [📺3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
+CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · [⭐](star07-seatallocation.pdf) · [📺1](priorityqueues-1.mp4) · [📺2](priorityqueues-2.mp4) · [📺3](priorityqueues-3.mp4) · [Folien](priorityqueues.pdf)<br>
 
 1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
 CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · ☆ · [📺1](unionfind-1.mp4) · [📺2](unionfind-2.mp4) · [Folien](unionfind.pdf)<br>
