@@ -127,8 +127,8 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Klausur
 
-- Klausurtermin: 09.08.2021
-- Nachklausurtermin: 11.10.2021
+- Klausurtermin: 9. August 2021
+- Nachklausurtermin: 6. Oktober 2021
 
 Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
 Umfang, Schwierigkeit und Themen der Klausuren orientieren sich stark an den Vorjahren.
@@ -152,6 +152,7 @@ Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt ve
 - **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://hds.hebis.de/ubffm/Record/HEB129608459)] _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
 - **SWa**: Sedgewick, Wayne, Algorithms, Fourth Edition, 2011. _(konkreter und leichter zugänglich als CLRS und DMS, denn hier werden alle besprochenen Datenstrukturen und Algorithmen penibel implementiert, in [Java](https://github.com/kevin-wayne/algs4/) oder [Python](https://github.com/itu-algorithms/itu.algs4).)_
 - **SWb**: Sedgewick, Wayne. Introduction to Programming in Java, 2017. [[pdf](https://introcs.cs.princeton.edu/java/home/chapter1.pdf)] _(Nützlich, falls Sie die Grundlagen der Programmierung auffrischen möchten.)_
+- **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://lbsopac.rz.uni-frankfurt.de/DB=30/PPNSET?PPN=45444821X)] _(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)_
 
 ## Weitere Hinweise
 
