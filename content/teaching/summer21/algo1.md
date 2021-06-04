@@ -76,7 +76,7 @@ CLRS Kapitel 6 + Appendix B.5 · [Plan](priorityqueues-wochenplan.pdf) · [⭐](
 1. 🔥 **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
 CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](unionfind-wochenplan.pdf) · [⭐](star08-unionfindmove.pdf) · [📺1](unionfind-1.mp4) · [📺2](unionfind-2.mp4) · [Folien](unionfind.pdf)<br>
 
-1. **Minimale Spannbäume: Borůvkas Algorithmus, Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
+1. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
 E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · ☆ · [📺1](minimumspanningtrees-properties.mp4) · [📺2](minimumspanningtrees-prim.mp4) · [📺3](minimumspanningtrees-kruskal.mp4) · [Folien](minimumspanningtrees.pdf)<br>
 
 1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
