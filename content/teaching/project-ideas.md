@@ -7,18 +7,50 @@ estimated_reading_time: yes
 toc: yes
 ---
 
-This document is addressed to Bachelor and Master students at Goethe University, who wish to write their research project or thesis project in theoretical computer science.
+## Who is this document for?
+
+This document is addressed to Bachelor and Master students at Goethe University, who wish to write their research or thesis project in theoretical computer science.
 
 
-## Topics
+## Types
 
-Student projects under my supervision typically belong to one of four themes:
+Depending on your interests and talents, different _types_ of projects are possible:
+- problem solving
+- implementation and experimentation
+- literature review
+
+Often, there is some overlap between different types.
+
+### Problem solving
+
+In this type of project, you will prove new theorems in theoretical computer science.
+This could be upper bounds (algorithms, data structures) or lower bounds (hardness reductions, complexity).
+A project with a limited scope would be to analyze the proof of an existing theorem in a special case, and write it up as elegantly as possible.
+Problem solving projects are *much more challenging* than a typical thesis project.
+
+
+### Implementation and Experimentation
+
+In this type of project, you will:
+- Contribute to an open source implementation of a piece of software.
+- Use industry-standard programming languages that are suitable for the chosen topic. Typical programming languages are Rust, C/C++, Python, JavaScript.
+- Use industry-standard collaboration tools (git).
+- Depending on your chosen topic, perform experiments and optimize your software.
+- Write a thesis that reviews the chosen topic, your approach, describes your implementation, and your experiments.
+- If you are the first contributer of the software, it is recommended that you publish it on your github page.
+
+### Literature review
+
+In this type of project, you will choose a topic in theoretical computer science and write a literature review of existing research on this topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper.
+
+
+## Themes
+Depending on your interests and talents, different _themes_ of project topics are possible:
 _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
-
 
 ### Theory
 
-**Goal:** perform a literature review, or contribute to original research in theoretical computer science.
+**Goal:** perform a literature review or solve problem in theoretical computer science.
 
 **What you get out of it:**
 - Exposure to beautiful mathematical ideas.
@@ -28,10 +60,6 @@ _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 
 **What you need to bring:**
 - Strong mathematical background.
-
-**Flavors:**
-- *Literature review:* Choose a topic in theoretical computer science and write a literature review of existing research on this topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, presenting your findings in an oral presentation, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper, or prove a special case of a theorem in a better or shorter way.
-- *Open-ended research:* You get a specific research question from me and your goal is to solve it. Typically, this involves designing a new algorithm and proving its correctness, or studying the complexity of a specific computational problem. Note that it is _much_ harder for me to come up with such topics, so they will be close to my immediate research interests. Moreover, this type of project is _much_ harder to plan and execute.
 
 
 ### Algorithmic Engineering
