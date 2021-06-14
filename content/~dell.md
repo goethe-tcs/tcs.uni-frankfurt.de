@@ -42,11 +42,19 @@ At Saarland University, I have supervised two PhD students:
 and
 [Marc Roth](https://www.roth-marc.com/) (now: Postdoctoral Junior Research Fellow at Merton College, Oxford University).
 
-##  <i class="fas fa-search"></i> Postal Address
+##  <i class="fas fa-search"></i> Addresses
 
-**At Goethe University:**\
-Goethe-Universität, Institut für Informatik\
-Robert-Mayer-Str. 11-15\
+**Mail:**\
+Prof. Holger Dell\
+Goethe-Universität Frankfurt\
+Robert-Mayer-Str. 11–15\
+60325 Frankfurt am Main\
+Germany
+
+**Packages:**\
+Prof. Holger Dell\
+Goethe-Universität, HPF 41\
+Senckenberganlage 31–33\
 60325 Frankfurt am Main\
 Germany
 
