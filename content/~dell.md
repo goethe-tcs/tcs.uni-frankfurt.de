@@ -2,7 +2,7 @@
 title: Holger Dell
 layout: member
 position: |
-    Professor of Theoretical Computer Science at [Goethe-Universität](https://www.uni-frankfurt.de)
+    Professor of Theoretical Computer Science at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de)
 
     Associate Professor at <a href="https://algorithms.itu.dk">ITU Copenhagen</a>,
     affiliated with <a href="https://barc.ku.dk">BARC</a>
