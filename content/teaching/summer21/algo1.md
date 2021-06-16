@@ -80,7 +80,7 @@ CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.comput
 E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf) · [⭐](star09-bottleneck.pdf) · [📺1](minimumspanningtrees-properties.mp4) · [📺2](minimumspanningtrees-prim.mp4) · [📺3](minimumspanningtrees-kruskal.mp4) · [Folien](minimumspanningtrees.pdf)<br>
 
 1. 🔥 **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
-E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · ☆ · [📺1](shortestpaths-properties.mp4) · [📺2](shortestpaths-dijkstra.mp4)  · [📺3](shortestpaths-DAGs.mp4) · [Folien](shortestpaths.pdf)<br>
+E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · [⭐](star10-reinsertion.pdf) · [📺1](shortestpaths-properties.mp4) · [📺2](shortestpaths-dijkstra.mp4)  · [📺3](shortestpaths-DAGs.mp4) · [Folien](shortestpaths.pdf)<br>
 
 1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
 CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · [📺1](hashing-1.mp4) · [📺2](hashing-2.mp4) · [Folien](hashing.pdf)<br>
