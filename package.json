@@ -1,16 +1,9 @@
 {
   "scripts": {
-    "server": "webpack-dev-server & GIT_CONFIG_NOSYSTEM=true hugo server",
+    "serve": "echo Serving on http://localhost:1313/; webpack serve --env development & GIT_CONFIG_NOSYSTEM=true hugo server",
     "clean": "bash -c 'rm -rf static/assets/dist/*'",
     "build": "(~/Documents/Activities/review/gen-statistics.py | head -c -1 > layouts/shortcodes/holger-reviews.html || true) && webpack --env production && GIT_CONFIG_NOSYSTEM=true hugo --minify && for a in $(find static_large_files/ -type f,l | sed -e 's/^static_large_files\\///'); do cp -a --reflink \"static_large_files/$a\" \"public/$a\"; done",
-    "upload": "rsync --update -lrvz --progress --delete public/ dell@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/",
-    "parcel_build": "yarn clean && parcel build src/js/bundle.js --dist-dir static/assets/dist --public-url /assets/dist --no-source-maps && GIT_CONFIG_NOSYSTEM=true hugo --minify",
-    "parcel_watch": "parcel watch src/js/bundle.js --dist-dir static/assets/dist --public-url /assets/dist --no-hmr"
-  },
-  "targets": {
-    "main": {
-      "distDir": "static/assets/dist"
-    }
+    "upload": "rsync --update -lrvz --progress --delete public/ dell@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
   },
   "cssnano": {
     "preset": [
@@ -26,7 +19,8 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "academicons": "^1.8.6",
     "katex": "^0.12.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "webpack-dev-server": "^3.11.2"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -54,7 +48,7 @@
     "stylelint-config-sass-guidelines": "^7.1.0",
     "url-loader": "^4.1.1",
     "webpack": "^5.0.0",
-    "webpack-cli": "^4.2.0",
+    "webpack-cli": "^4.7.2",
     "webpack-manifest-plugin": "^3.0.0-rc.0",
     "webpack-nano": "^1.1.1"
   },
