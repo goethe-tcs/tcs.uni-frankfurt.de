@@ -88,11 +88,12 @@ CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · [📺1](ha
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
 CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · ☆ · Video · [Folien](binarysearchtrees.pdf)<br>
 
-1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
-CLRS Kapitel 16 bis 16.3 · [Plan](greedyalgorithms-wochenplan.pdf) · ☆ · Video · Folien<br>
+1. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
+E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · ☆ · Video · [Folien](dynamicprogramming.pdf)<br>
 
-1. **Dynamische Programmierung, längste gemeinsame DNA-Teilsequenz** <span style="color: grey;">· b</span>\
-CLRS Kapitel 15.4 · [Plan](dynamicprogramming-wochenplan.pdf) · ☆ · Video · Folien<br>
+1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
+E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · ☆ · Video · Folien<br>
+
 
 <!--
 1. **Flussprobleme, lineare Programmierung** <span style="color: grey;">· b</span>\
