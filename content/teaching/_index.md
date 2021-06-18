@@ -17,7 +17,7 @@ toc: no
 - Vorlesung (4+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
 - Seminar: [Algorithmen und Komplexität](winter20/seminar)
 
-### Past courses offered by Holger Dell:
+### Past courses offered by Holger Dell
 
 - [Algorithms and Data Structures](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=423) (Spring 2020, IT University of Copenhagen).
 - [Applied Algorithms](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=203) (Fall 2019/20, IT University of Copenhagen).
