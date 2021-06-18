@@ -58,7 +58,7 @@ Please compile your application (including a short research statement,
 CV, transcripts of grades, name and contact details of one or two
 references) as a single pdf file and e-mail it to tcs-applications@dlist.uni-frankfurt.de.  If you have a thesis or
 thesis draft, please include that as well. Please indicate clearly whether you're applying for a PhD or a postdoc position.
-The application deadline is June 15 2021, but candidates will be considered until the position is filled.
+The application deadline is July 6, 2021, but candidates will be considered until the position is filled.
 
 The Goethe University Frankfurt promotes gender equality at work, and women are particularly invited to apply.
 
