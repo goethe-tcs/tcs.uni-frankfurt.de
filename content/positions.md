@@ -25,7 +25,7 @@ learning approaches in our classes.
 ### Tasks
 
 - Identify and work on fun and fascinating research problems in
-  theoretical computer science and ajacent areas.
+  theoretical computer science and adjacent areas.
 - Publish the findings at top-tier venues.
 - Support undergraduate and graduate teaching activities.
 - Pursue further scientific qualification (e.g., doctorate).
@@ -56,7 +56,7 @@ learning approaches in our classes.
 
 Please compile your application (including a short research statement,
 CV, transcripts of grades, name and contact details of one or two
-references) as a single pdf file and e-mail it to tcs-applications@dlist.uni-frankfurt.de.  If you have a thesis or
+references) as a single PDF file and e-mail it to tcs-applications@dlist.uni-frankfurt.de.  If you have a thesis or
 thesis draft, please include that as well. Please indicate clearly whether you're applying for a PhD or a postdoc position.
 The application deadline is July 6, 2021, but candidates will be considered until the position is filled.
 
