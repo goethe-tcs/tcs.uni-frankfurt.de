@@ -50,7 +50,7 @@ _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 
 ### Theory
 
-**Goal:** perform a literature review or solve problem in theoretical computer science.
+**Goal:** perform a literature review or solve open problems in theoretical computer science.
 
 **What you get out of it:**
 - Exposure to beautiful mathematical ideas.
