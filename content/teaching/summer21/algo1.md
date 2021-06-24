@@ -83,7 +83,7 @@ E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](minimumspanningtrees-wochenplan.pdf
 E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](shortestpaths-wochenplan.pdf) · [⭐](star10-reinsertion.pdf) · [📺1](shortestpaths-properties.mp4) · [📺2](shortestpaths-dijkstra.mp4)  · [📺3](shortestpaths-DAGs.mp4) · [Folien](shortestpaths.pdf)<br>
 
 1. 🔥 **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
-CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · [📺1](hashing-1.mp4) · [📺2](hashing-2.mp4) · [Folien](hashing.pdf)<br>
+CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · ☆ · [📺1](hashing-1.mp4) · [📺2](hashing-2.mp4) · [Folien](hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
 CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · ☆ · [📺1](binarysearchtrees-intro.mp4) · [📺2](binarysearchtrees-avl.mp4) · [📺3](binarysearchtrees-algorithms-on-trees.mp4) · [Folien](binarysearchtrees.pdf)<br>
