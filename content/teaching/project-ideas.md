@@ -7,27 +7,19 @@ estimated_reading_time: yes
 toc: yes
 ---
 
-## Who is this document for?
 
+## Who is this document for?
 This document is addressed to Bachelor and Master students at Goethe University, who wish to write their research or thesis project in theoretical computer science.
 
 
 ## Types
 
 Depending on your interests and talents, different _types_ of projects are possible:
-- problem solving
 - implementation and experimentation
 - literature review
+- problem-solving
 
 Often, there is some overlap between different types.
-
-### Problem solving
-
-In this type of project, you will prove new theorems in theoretical computer science.
-This could be upper bounds (algorithms, data structures) or lower bounds (hardness reductions, complexity).
-A project with a limited scope would be to analyze the proof of an existing theorem in a special case, and write it up as elegantly as possible.
-Problem solving projects are *much more challenging* than a typical thesis project.
-
 
 ### Implementation and Experimentation
 
@@ -37,11 +29,18 @@ In this type of project, you will:
 - Use industry-standard collaboration tools (git).
 - Depending on your chosen topic, perform experiments and optimize your software.
 - Write a thesis that reviews the chosen topic, your approach, describes your implementation, and your experiments.
-- If you are the first contributer of the software, it is recommended that you publish it on your github page.
+- It is recommended that you publish it on your github page.
 
 ### Literature review
 
 In this type of project, you will choose a topic in theoretical computer science and write a literature review of existing research on this topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper.
+
+### Problem-solving
+
+In this type of project, you will prove new theorems in theoretical computer science.
+This could be upper bounds (algorithms, data structures) or lower bounds (hardness reductions, complexity).
+A project with a limited scope would be to analyze the proof of an existing theorem in a special case, and write it up as elegantly as possible.
+Problem-solving projects are *much more challenging* than a typical thesis project.
 
 
 ## Themes
@@ -129,7 +128,7 @@ All products generated in your projects are developed under an open-source licen
 
 **What you need to bring:**
 - Good background in relevant courses (for example, algorithms, complexity, machine learning, decision theory, etc.); some background in philosophy would be beneficial, too.
-- A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you
+- A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you.
 
 **Some introductory resources:**
 - [AI Alignment Research Overview](https://docs.google.com/document/d/1FbTuRvC4TFWzGYerTKpBU7FJlyvjeOvVYF2uYNFSlOc/edit?usp=sharing) by Jacob Steinhardt
@@ -148,7 +147,8 @@ As supervisor, I'm in a strange role conflict: During the project, I am your coa
 ### Choosing a topic
 
 Which topic you choose should depend on your interests and career plans.
-If you want to do a PhD in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
+For example, if you want to become a **software engineer**, then you can train your coding skills and build up your github profile in Algorithm Engineering type projects, all while getting some exposure to algorithms research.
+If you want to do a **PhD** in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
 If you want a low-risk topic that will be most likely to yield results within the given timeframe, choose a literature review, or an implementation project in Algorithmic Engineering or Visualization.
 In any case, choose something that you are genuinely excited about!
 Life's too short.
@@ -169,6 +169,16 @@ We will typically meet once every 2-3 weeks---more if needed. I will also be ava
 If the project involves coding, I will do some code review.
 Every project involves scientific writing, and I will read and give feedback on your written drafts.
 However, I will not provide iterative feedback, because this would blur the line too much between you writing your thesis and me writing your thesis, so in total I will read and comment on at most one full draft so long as you present it to me with ample time before the deadline (at least two weeks).
+
+### Writing Advice
+
+The Bachelor thesis is likely the first longer scientific text that you will write.
+There are many resources on the internet that can help you. Start with these:
+
+- [Writing a Bachelor Thesis in Computer Science](https://liacs.leidenuniv.nl/~nijssensgr/bachelorklas-2014-2015/writing.pdf) by Siegfried Nijssen
+- [Checklist and advice for projects and theses](https://www.itu.dk/people/sestoft/itu/thesis-checklist.html) by Peter Sestoft
+
+I expect all my students to go to the [schreibzentrum](https://www.starkerstart.uni-frankfurt.de/67276085/Schreibberatung) before they start their project. They provide individual help with planning your project and with writing your thesis.
 
 ### Formalities
 
