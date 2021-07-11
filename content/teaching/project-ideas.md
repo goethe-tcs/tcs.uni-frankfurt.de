@@ -7,12 +7,11 @@ estimated_reading_time: yes
 toc: yes
 ---
 
-
 ## Who is this document for?
-This document is addressed to Bachelor and Master students at Goethe University, who wish to write their research or thesis project in theoretical computer science.
 
+This document is intended for students at Goethe University who want to write a Bachelor/Master thesis in the theoretical computer science group.
 
-## Types
+## Project Types
 
 Depending on your interests and talents, different _types_ of projects are possible:
 - implementation and experimentation
@@ -29,7 +28,7 @@ In this type of project, you will:
 - Use industry-standard collaboration tools (git).
 - Depending on your chosen topic, perform experiments and optimize your software.
 - Write a thesis that reviews the chosen topic, your approach, describes your implementation, and your experiments.
-- It is recommended that you publish it on your github page.
+- It is recommended that you publish it on your GitHub page.
 
 ### Literature review
 
@@ -43,7 +42,7 @@ A project with a limited scope would be to analyze the proof of an existing theo
 Problem-solving projects are *much more challenging* than a typical thesis project.
 
 
-## Themes
+## Themes and Topics
 Depending on your interests and talents, different _themes_ of project topics are possible:
 _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 
@@ -68,7 +67,7 @@ _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 **What you get out of it:**
 - Exposure to algorithms that can range in difficulty.
 - Experience with coding, hardware requirements, performance experiments, and scientific writing.
-- Preparation for a PhD in algorithm engineering or an adjacent field.
+- Preparation for a PhD in algorithmic engineering or an adjacent field.
 
 **What you need to bring:**
 - Ambition to improve on the state-of-the-art.
@@ -144,10 +143,21 @@ All products generated in your projects are developed under an open-source licen
 
 As supervisor, I'm in a strange role conflict: During the project, I am your coach and want you to succeed, and in the end I'm expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
 
+### Timeline
+
+Writing a Bachelor/Master thesis consists of several steps:
+- Choose a topic
+- Write a project plan
+- Register the thesis with the Prüfungsamt
+- Do the main work [9 weeks Bachelor / 6 months Master]
+- Submit the thesis to the Prüfungsamt
+- Give a talk on your thesis
+
 ### Choosing a topic
 
-Which topic you choose should depend on your interests and career plans.
-For example, if you want to become a **software engineer**, then you can train your coding skills and build up your github profile in Algorithm Engineering type projects, all while getting some exposure to algorithms research.
+First, choose a _type_ and _theme_ for your project, and let me know in your first E-Mail which ones you're interested in.
+What you choose should depend on your interests and career plans.
+For example, if you want to become a **software engineer**, then you can train your coding skills and build up your GitHub profile in Algorithmic Engineering or Visualization type projects, all while getting some exposure to algorithms research.
 If you want to do a **PhD** in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
 If you want a low-risk topic that will be most likely to yield results within the given timeframe, choose a literature review, or an implementation project in Algorithmic Engineering or Visualization.
 In any case, choose something that you are genuinely excited about!
@@ -165,7 +175,7 @@ The plan describes the state-of-the-art, as well as general and specific goals f
 
 Your project is *yours*. It is not my responsibility to monitor your progress or to make sure that you get a good grade.
 That said, I will meet with you throughout the semester to discuss the project, make suggestions for improvements, and also give feedback on which aspects aren't fully satisfactory yet.
-We will typically meet once every 2-3 weeks---more if needed. I will also be available electronically.
+I will also be available electronically.
 If the project involves coding, I will do some code review.
 Every project involves scientific writing, and I will read and give feedback on your written drafts.
 However, I will not provide iterative feedback, because this would blur the line too much between you writing your thesis and me writing your thesis, so in total I will read and comment on at most one full draft so long as you present it to me with ample time before the deadline (at least two weeks).
