@@ -88,11 +88,11 @@ CLRS Kapitel 11 ohne 11.5 · [Plan](hashing-wochenplan.pdf) · [⭐](star11-hash
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
 CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · [⭐](star12-zero.pdf) · [📺1](binarysearchtrees-intro.mp4) · [📺2](binarysearchtrees-avl.mp4) · [📺3](binarysearchtrees-algorithms-on-trees.mp4) · [Folien](binarysearchtrees.pdf)<br>
 
-1. 🔥 **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
-E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · ☆ · [📺1](dynamicprogramming-fibonacci.mp4) · [📺2](dynamicprogramming-words.mp4) · [📺3](dynamicprogramming-editdistance.mp4) · [📺4](dynamicprogramming-subsetsum.mp4) · [📺5](dynamicprogramming-MIS-on-trees.mp4) · [Folien](dynamicprogramming.pdf)<br>
+1. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
+E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · [⭐](star13-secondary-structure.pdf) · [📺1](dynamicprogramming-fibonacci.mp4) · [📺2](dynamicprogramming-words.mp4) · [📺3](dynamicprogramming-editdistance.mp4) · [📺4](dynamicprogramming-subsetsum.mp4) · [📺5](dynamicprogramming-MIS-on-trees.mp4) · [Folien](dynamicprogramming.pdf)<br>
 
-1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
-E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · ☆ · Video · Folien<br>
+1. 🔥 **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
+E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · ☆ · [📺1](greedyalgorithms-intro.mp4) · [📺2](greedyalgorithms-tapes.mp4) · [📺3](greedyalgorithms-scheduling.mp4) · [📺4](greedyalgorithms-huffman.mp4) · [📺5](greedyalgorithms-stablematching.mp4) · [Folien](greedyalgorithms.pdf)<br>
 
 
 <!--
