@@ -129,14 +129,22 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Klausur
 
+Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
+Umfang, Schwierigkeit und Themen der Klausur orientieren sich stark an den Vorjahren.
+
 - Klausurtermin: 9. August 2021
 - Nachklausurtermin: 6. Oktober 2021
 
-Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
-Umfang, Schwierigkeit und Themen der Klausuren orientieren sich stark an den Vorjahren.
+Die genaue Aufteilung auf Uhrzeiten und Räume wird noch bekannt gegeben.
+Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen.
+Alle elektronischen Geräte sind untersagt.
+
+- **Maske:** Es ist verpflichtend, eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
+- **Corona-Schnelltest:** Ich bitte Sie eindringlich, in den 24 Stunden vor der Klausur einen Corona-Schnelltest wahrzunehmen.
 
 Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden.
 Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
+
 
 ## Verwandte Vorlesungen
 
