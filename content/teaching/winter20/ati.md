@@ -105,7 +105,7 @@ In **Teil 2** folgen wir in wesentlichen Teilen der Vorlesung von Bringmann/Kün
     - Fine-grained complexity
   - Übungsgruppe am **18.02.**: Wir besprechen noch offene Übungsaufgaben und Fragen.
 
-
+<!--
 ### Organisation
 
 Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier ein (falls Sie sich bereits per Email angemeldet haben, sollten Sie das Formular nicht benutzen):
@@ -127,6 +127,7 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
     <br>
     <input type='submit'>
 </form>
+-->
 
 **Weitere Details:**
 

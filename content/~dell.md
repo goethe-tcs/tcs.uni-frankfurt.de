@@ -38,7 +38,7 @@ Before, I was a PostDoc+ at Saarland University, UC Berkeley, Paris Diderot, and
 I obtained my PhD at HU Berlin in 2011, under the supervision of [Martin Grohe](https://www.lics.rwth-aachen.de/cms/LICS/Der-Lehrstuhl/Team/Dozierende/~ocwf/Martin-Grohe/).
 
 At Saarland University, I have supervised two PhD students:
-[Cornelius Brand](https://www.mmci.uni-saarland.de/en/cbrand) (now: Postdoctoral Fellow at Charles University, Prague)
+[Cornelius Brand](https://sites.google.com/view/corneliusbrand/) (now: Postdoctoral Fellow at Charles University, Prague)
 and
 [Marc Roth](https://www.roth-marc.com/) (now: Postdoctoral Junior Research Fellow at Merton College, Oxford University).
 

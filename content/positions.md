@@ -3,6 +3,7 @@ title: Join the Theoretical Computer Science group
 layout: single
 ---
 
+<!--
 ## Open call for applications
 
 We, the research group of [Holger Dell](/~dell/) at [Frankfurt University](https://www.uni-frankfurt.de/), are inviting applications for two PhD or
@@ -63,6 +64,11 @@ The application deadline is July 6, 2021, but candidates will be considered unti
 The Goethe University Frankfurt promotes gender equality at work, and women are particularly invited to apply.
 
 ## Other options
+-->
+
+## Scholarships
+
+You can apply for scholarships to join the TCS group:
 
 1) Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
 2) Apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/).

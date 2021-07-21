@@ -8,7 +8,7 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 - [Holger Dell](/~dell) (Professor)
 - [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
 - Melvin Kallmayer (Research Assistant)
-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).**
+<!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
 
 ### Links for students
 - **Bachelor/Master thesis.** Check out the [Project Ideas](/teaching/project-ideas/) if you are looking for a thesis topic.
