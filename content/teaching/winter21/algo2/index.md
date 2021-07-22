@@ -55,7 +55,7 @@ Sie brauchen für den Kurs die Fähigkeiten aus Algorithmen und Datenstrukturen 
 Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!--(🔥 = aktuelle Woche)-->:
 
 1. **Sprachen und Boolesche Schaltkreise**\
-Übungen · 📺 · Folien · Organisationsfolien<br>
+Übungen · 📽️ · Folien · Organisationsfolien<br>
 
 1. **Sortieren und untere Schranken**
 
