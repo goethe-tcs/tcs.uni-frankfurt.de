@@ -51,7 +51,7 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 ## Wochenplan
 
-Die Veranstaltung dauert 14 Wochen, die Pläne sind vorläufig (🔥 = aktuelle Woche):
+Die Veranstaltung dauert 14 Wochen:
 
 1. **Einführung und Peaks** <span style="color: grey;">· a</span>\
 CLRS Kapitel 1 · [Plan](introduction-wochenplan.pdf) · [⭐](star01-2D-hills.pdf) · [📺](introduction.mp4) · [Folien](introduction.pdf) · [Organisationsfolien](organisation.pdf)<br>
@@ -92,7 +92,7 @@ CLRS Kapitel 12 ohne 12.4 · [Plan](binarysearchtrees-wochenplan.pdf) · [⭐](s
 1. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
 E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · [⭐](star13-secondary-structure.pdf) · [📺1](dynamicprogramming-fibonacci.mp4) · [📺2](dynamicprogramming-words.mp4) · [📺3](dynamicprogramming-editdistance.mp4) · [📺4](dynamicprogramming-subsetsum.mp4) · [📺5](dynamicprogramming-MIS-on-trees.mp4) · [Folien](dynamicprogramming.pdf)<br>
 
-1. 🔥 **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
+1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
 E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📺1](greedyalgorithms-intro.mp4) · [📺2](greedyalgorithms-tapes.mp4) · [📺3](greedyalgorithms-scheduling.mp4) · [📺4](greedyalgorithms-huffman.mp4) · [📺5](greedyalgorithms-stablematching.mp4) · [Folien](greedyalgorithms.pdf)<br>
 
 
