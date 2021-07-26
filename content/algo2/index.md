@@ -6,15 +6,12 @@ qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=
 toc: yes
 ---
 
-## Allgemeine Infos
+## Allgemeines
 
-Der Kurs kann ohne Nachteile online oder in Präsenz belegt werden.
-Das Lehrkonzept sieht vor, dass Student:innen in kleinen Gruppen gemeinsam Übungsaufgaben lösen und währenddessen individuell von einem freundlichen und kompetenten Team betreut werden.
+- **Kursformat:** Voraussichtlich *HyFlex* (der Kurs kann flexibel online oder in Präsenz belegt werden) und *flipped* (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine).
+- **Anmeldung:** Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig!
+- **Klausuranmeldung:** Die Anmeldung zur Klausur erfolgt nur über das Prüfungsamt. Etwaige Anfragen zu Nachteilsausgleich etc. gehen an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
 
-### Anmeldung
-
-Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
-Eine Anmeldung per E-Mail ist **nicht** nötig!
 
 ### Empfohlene Wochenplanung
 
@@ -36,10 +33,20 @@ Eine Anmeldung per E-Mail ist **nicht** nötig!
 
 
 ### Dozent
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–16:45 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
+
+- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/)
 
 ### Tutor:innen
 
+- Marius Hagemann
+- Alexander Hengstmann
+- Tolga Tel
+- Aura Sofia Lohr
+- Julian Lorenz
+- Julian Mende
+- Timo Mertin
+- Jonas Strauch
+- Marc Viel
 
 ## Voraussetzungen
 
@@ -75,18 +82,12 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!--(🔥 = aktuel
 
 1. **Der Satz von Rice**
 
-## Übungen
-
-Alleine ein Buch lesen oder Videos anschauen können Sie auch ohne diesen Kurs.
-Mit 1–2 anderen Student:innen zusammen Übungsaufgaben bearbeiten, und dabei unsere Unterstützung und unser Feedback erfahren, das sind die Qualitäten, die Sie ohne diesen Kurs nicht haben.
-Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit Tutor:innen oder dem Dozenten das zentrale Angebot dieses Kurses.
-
 ## Klausur
 
 - Klausurtermin: ? 2022
 - Nachklausurtermin: ? 2022
 
-Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
+Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO2.
 Umfang, Schwierigkeit und Themen der Klausuren orientieren sich stark an den Vorjahren.
 
 ## Weitere Hinweise

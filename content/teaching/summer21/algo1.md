@@ -95,14 +95,6 @@ E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · [�
 1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
 E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📽️1](greedyalgorithms-intro.mp4) · [📽️2](greedyalgorithms-tapes.mp4) · [📽️3](greedyalgorithms-scheduling.mp4) · [📽️4](greedyalgorithms-huffman.mp4) · [📽️5](greedyalgorithms-stablematching.mp4) · [Folien](greedyalgorithms.pdf)<br>
 
-
-<!--
-1. **Flussprobleme, lineare Programmierung** <span style="color: grey;">· b</span>\
-E Kapitel 10 bis 10.4 (oder CLRS Kapitel 26)
-
-1. Strassens Algorithmus,  (CLRS, Kapitel 4.2)
--->
-
 ## Übungen
 
 Alleine ein Buch lesen oder Videos anschauen können Sie auch ohne diesen Kurs.

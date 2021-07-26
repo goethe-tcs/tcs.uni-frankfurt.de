@@ -7,6 +7,11 @@ toc: no
 ### Bachelor/Master thesis projects
 - See [Project Ideas](project-ideas)
 
+### WiSe 2021/22
+
+- Vorlesung (4+2): [Algorithmen und Datenstrukturen 2](/algo2)
+- Seminar
+
 ### SoSe 2021
 
 - Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
