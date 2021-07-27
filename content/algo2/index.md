@@ -7,12 +7,13 @@ toc: yes
 ---
 
 ## Ort und Zeit
+(Diese Pläne sind vorläufig.)
 
 - **Synchrontermine.**
-  - Di 8:15–09:45. [Zoomlink] und Hörsaal VI. (Übungen bearbeiten und besprechen)
-  - Do 8:15–09:45. [Zoomlink] und Hörsaal IV. (Übungen bearbeiten und besprechen)
-  - Fr 14:15–15:45. [Zoomlink] und Hörsaal ??. (Übungen besprechen)
-- **Helpdesk.** Mo-Do 15-16 Uhr. [Zoomlink] und Raum ??. (Einzelgespräch mit Tutor:in)
+  - Di 8:15–09:45. [Zoomlink] und Hörsaal VI. (Übungen bearbeiten und besprechen.)
+  - Do 8:15–09:45. [Zoomlink] und Hörsaal IV. (Übungen bearbeiten und besprechen.)
+  - Fr 14:15–15:45. [Zoomlink] und Hörsaal ??. (Übungen besprechen.)
+- **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum ??. (Einzelgespräch mit Tutor:in.)
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
 
 ## Wochenplan
@@ -87,4 +88,4 @@ Literatur · 📽️ · Folien · Übungen<br>
   - Sie müssen sich rechtzeitig über QIS oder das Prüfungsamt für die Klausur anmelden.
   - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren findet nicht statt.
   - Die Klausur ist nicht zulassungsbeschränkt.
-  - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), diese sind aber aufgrund der Umstrukturierung der Vorlesungen vor ein paar Jahren nur bedingt nützlich.
+  - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), diese sind aber nur bedingt nützlich.
