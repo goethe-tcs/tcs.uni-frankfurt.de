@@ -61,7 +61,7 @@ Literatur · 📽️ · Folien · Übungen<br>
 
 - **Kursformat.** Voraussichtlich *HyFlex* (der Kurs kann flexibel online oder in Präsenz belegt werden) und *flipped* (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine).
 - **Voraussetzungen.** Die Kompetenzen aus Diskrete Modellierung, Algorithmen und Datenstrukturen 1, und den Mathevorlesungen werden vorausgesetzt. <!-- Mit [diesem Selbsttest](voraussetzungen.pdf) können Sie vorab Ihre Kompetenzen prüfen und auffrischen.-->
-- **Anmeldung.** Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über das Prüfungsamt.
+- **Anmeldung.** Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
 
 
@@ -84,5 +84,7 @@ Literatur · 📽️ · Folien · Übungen<br>
 - Klausurtermin: ? 2022
 - Nachklausurtermin: ? 2022
 - **Weitere Hinweise.**
-  - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
+  - Sie müssen sich rechtzeitig über QIS oder das Prüfungsamt für die Klausur anmelden.
+  - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren findet nicht statt.
+  - Die Klausur ist nicht zulassungsbeschränkt.
   - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), diese sind aber aufgrund der Umstrukturierung der Vorlesungen vor ein paar Jahren nur bedingt nützlich.
