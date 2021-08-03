@@ -6,6 +6,26 @@ qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=
 toc: yes
 ---
 
+
+## Klausur
+
+- **Klausurtermin:** 9. August 2021
+
+- **Aufteilung auf Uhrzeiten und Räume:** Wird noch bekannt gegeben, halten Sie sich den gesamten Tag (8:00 bis 19:00) frei.
+
+- **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de).
+
+- **Hilfsmittel:** Ein Kugelschreiber oder Füller (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
+
+- **Corona:**
+    - **Formular mitbringen:** Drucken Sie das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Sie es aus, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
+    - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
+    - **Schnelltest:** Hier noch eine persönliche Bitte. Wenn Sie noch nicht geimpft oder genesen sind, nehmen Sie in den 24 Stunden vor der Klausur bitte einen Corona-Schnelltest wahr. Falls der Test positiv ist, kommen Sie nicht zur Klausur! Lassen Sie so schnell wie möglich einen PCR-Test machen und senden Sie das Ergebnis an das Prüfungsamt [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de). (Die 3 Gs werden am Einlass der Klausur _nicht_ kontrolliert.)
+
+- **Nachteilsausgleich:** Melden Sie Ihren Nachteilsausgleich bis spätestens Freitag, den 6. August, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
+
+- **Nachklausur:** 6. Oktober 2021
+
 ## Allgemeine Informationen
 
 Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktisch so konzipiert, dass Student:innen in kleinen Gruppen gemeinsam Übungsaufgaben diskutieren und währenddessen individuell von einem freundlichen und kompetenten Team betreut werden.
@@ -117,25 +137,8 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 - Sie dürfen auch keine Lösungsansätze zu ähnlichen Aufgaben aus vergangenen Jahren oder aus ähnlichen Kursen oder aus dem Internet oder von irgendwoher sonst anschauen.
 - Sie dürfen die Lösung einer ⭐-Aufgabe weder weitergeben noch von sich abschreiben lassen noch irgendwo für Andere sichtbar hochladen noch liegen lassen.
 - Wenn Sie gegen diese Regeln verstoßen, werden beim *ersten* Vergehen *alle* Mitglieder der betroffenen Lerngruppen von allen ⭐-Programmen dieser Professur ausgeschlossen. Wenn Sie von sich abschreiben lassen oder selbst abschreiben, schaden Sie also immer mindestens zwei ganzen Lerngruppen.
+- Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden. Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
 
-
-## Klausur
-
-Die Klausur ist die einzige verpflichtende Komponente des Moduls B-ALGO1.
-Umfang, Schwierigkeit und Themen der Klausur orientieren sich stark an den Vorjahren.
-
-- Klausurtermin: 9. August 2021
-- Nachklausurtermin: 6. Oktober 2021
-
-Die genaue Aufteilung auf Uhrzeiten und Räume wird noch bekannt gegeben.
-Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen.
-Alle elektronischen Geräte sind untersagt.
-
-- **Maske:** Es ist verpflichtend, eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
-- **Corona-Schnelltest:** Ich bitte Sie eindringlich, in den 24 Stunden vor der Klausur einen Corona-Schnelltest wahrzunehmen.
-
-Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden.
-Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
 
 
 ## Verwandte Vorlesungen
