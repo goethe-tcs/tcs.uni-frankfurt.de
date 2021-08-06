@@ -89,4 +89,4 @@ Literatur · 📽️ · Folien · Übungen<br>
   - Sie müssen sich rechtzeitig über QIS oder das Prüfungsamt für die Klausur anmelden.
   - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren findet nicht statt.
   - Die Klausur ist nicht zulassungsbeschränkt.
-  - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), diese sind aber nur bedingt nützlich.
+  - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), beachten Sie aber, dass Klausur sich an den Themen des aktuellen Semesters orientiert.
