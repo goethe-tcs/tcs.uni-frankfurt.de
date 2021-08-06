@@ -74,6 +74,7 @@ Literatur · 📽️ · Folien · Übungen<br>
 - Tolga Tel (2x Tutor)
 - Aura Sofia Lohr (Tutorin)
 - Julian Lorenz (Tutor)
+- Melvin Kallmayer (Tutor)
 - Julian Mende (Tutor)
 - Timo Mertin (Tutor)
 - Jonas Strauch (Tutor)

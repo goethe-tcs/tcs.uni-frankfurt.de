@@ -29,7 +29,7 @@ toc: yes
     - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
     - **Schnelltest:** Hier noch eine persönliche Bitte: Nehmen Sie in den 24 Stunden vor der Klausur bitte einen Corona-Schnelltest wahr. Falls der Test positiv ist, kommen Sie nicht zur Klausur und informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de). Lassen Sie so schnell wie möglich einen PCR-Test machen und senden Sie das Ergebnis an das Prüfungsamt. (Die 3 Gs werden am Einlass der Klausur nicht kontrolliert.)
 
-- **Nachteilsausgleich:** Melden Sie Ihren Nachteilsausgleich bis spätestens Freitag, den 6. August, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
+- **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 6. August, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
 
 - **Nachklausur:** 6. Oktober 2021
 
