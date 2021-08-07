@@ -12,10 +12,10 @@ toc: yes
 - **Klausurtermin:** 9. August 2021
 
 - **Ort und Zeit:** Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:
-    - Wenn Sie einen Nachteilsausgleich angemeldet haben, beginnt Ihre Klausur um **09:45**.
-    - Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
-    - Wenn Sie ALGO1b schreiben, beginnt die Klausur um **09:30**.
-    - Wenn Sie die Vollklausur (ALGO1) ohne Nachteilsausgleich schreiben, gilt folgende Regelung:
+    - **Sonderfall: Nachteilsausgleich.** Wenn Sie einen Nachteilsausgleich angemeldet haben, beginnt Ihre Klausur um **09:45**.
+    - **Sonderfall: ALGO1b.** Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
+    - **Sonderfall: ALGO1b.** Wenn Sie ALGO1b schreiben, beginnt die Klausur um **09:30**.
+    - **Normalfall.** Wenn Sie die Vollklausur (ALGO1) ohne Nachteilsausgleich schreiben, gilt folgende Regelung:
         - Wenn Ihre Matrikelnummer auf 1, 2 oder 5 endet, beginnt die Klausur um **08:15**.
         - Wenn Ihre Matrikelnummer auf 7, 8 oder 9 endet, beginnt die Klausur um **08:45**.
         - Wenn Ihre Matrikelnummer auf 0, 3, 4 oder 6 endet, beginnt die Klausur um **09:00**.
