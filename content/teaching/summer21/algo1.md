@@ -9,7 +9,8 @@ toc: yes
 
 ## Klausur
 
-- **Klausurtermin:** 9. August 2021
+- **Klausurtermin:** 9. August 2021.
+- [Klausuraufgaben](/algo1/2021-ALGO1-Klausur.pdf) · [Musterlösung](/algo1/2021-ALGO1-Klausur-solution.pdf)
 - **Klausureinsicht:** Mitte September, der Termin wird noch bekannt gegeben. Ein früherer Termin ist aufgrund von Urlaub/Seminaren/Konferenzen leider nicht möglich.
 - **Nachklausur:** 6. Oktober 2021
 
