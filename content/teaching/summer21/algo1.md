@@ -10,10 +10,13 @@ toc: yes
 ## Klausur
 
 - **Klausurtermin:** 9. August 2021
+- **Klausureinsicht:** Mitte September, der Termin wird noch bekannt gegeben. Ein früherer Termin ist aufgrund von Urlaub/Seminaren/Konferenzen leider nicht möglich.
+- **Nachklausur:** 6. Oktober 2021
 
+<!--
 - **Ort und Zeit:** Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:
     - **Sonderfall: Nachteilsausgleich.** Wenn Sie einen Nachteilsausgleich angemeldet haben, beginnt Ihre Klausur um **09:45**.
-    - **Sonderfall: ALGO1b.** Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
+    - **Sonderfall: ALGO1a.** Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
     - **Sonderfall: ALGO1b.** Wenn Sie ALGO1b schreiben, beginnt die Klausur um **09:30**.
     - **Normalfall.** Wenn Sie die Vollklausur (ALGO1) ohne Nachteilsausgleich schreiben, gilt folgende Regelung:
         - Wenn Ihre Matrikelnummer auf 1, 2 oder 5 endet, beginnt die Klausur um **08:15**.
@@ -30,8 +33,7 @@ toc: yes
     - **Schnelltest:** Hier noch eine persönliche Bitte: Nehmen Sie in den 24 Stunden vor der Klausur bitte einen Corona-Schnelltest wahr. Falls der Test positiv ist, kommen Sie nicht zur Klausur und informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de). Lassen Sie so schnell wie möglich einen PCR-Test machen und senden Sie das Ergebnis an das Prüfungsamt. (Die 3 Gs werden am Einlass der Klausur nicht kontrolliert.)
 
 - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 6. August, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
-
-- **Nachklausur:** 6. Oktober 2021
+-->
 
 ## Allgemeine Informationen
 
