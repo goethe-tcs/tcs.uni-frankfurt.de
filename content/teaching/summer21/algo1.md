@@ -52,9 +52,11 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
 
 ### Dozent
+
 - [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–16:45 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
 
 ### Tutor:innen
+
 - Niklas Fleischer
 - Marius Hagemann
 - Alexander Hengstmann
@@ -74,8 +76,8 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende mathematische Fähigkeiten. Mit [diesem Selbsttest](voraussetzungen.pdf) können Sie vorab Ihre Fähigkeiten prüfen und auffrischen.
 
-
 ## Literatur
+
 - **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
 - **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf), [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch, das die ersten Themen von ALGO1 aber nur überfliegt.)_
 
@@ -141,6 +143,7 @@ Wenn Ihre Lösung akzeptiert wird, erhalten Sie einen _Stern_ ⭐, der mögliche
 ⭐-Aufgaben verfolgen zwei Ziele: 1) Sie lernen, im sozialen Rahmen einer kleinen Gruppe Algorithmen für Ihnen vorher unbekannte algorithmische Probleme selbst zu entwickeln und zu analysieren. 2) Indem Sie die Lösung aufschreiben, verfassen Sie dadurch einen kurzen, wissenschaftlichen Text, und lernen dabei, die wissenschaftliche Sprache der Algorithmenforschung korrekt zu benutzen.
 _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher für Beides genügend Zeit einplanen.
 **Folgende Regeln sind verpflichtend zu beachten:**
+
 - Sie dürfen in einer Gruppe von bis zu drei Student:innen zusammen abgeben. Aber: Bevor Sie anfangen, eine ⭐-Aufgabe zu bearbeiten, legen Sie sich _verbindlich_ auf diese Gruppe fest.
 - Außerhalb Ihrer Lerngruppe dürfen Sie über Lösungen, Ideen, Ansätze, oder sonstige Hinweise zu ⭐-Aufgaben **nicht** sprechen oder diese anderweitig kommunizieren.
 - Tutor:innen und Dozent:innen und Freunde und Fremde dürfen Ihrer Lerngruppe bei der Bearbeitung von ⭐-Aufgaben **in keiner Weise** helfen.
@@ -148,8 +151,6 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 - Sie dürfen die Lösung einer ⭐-Aufgabe weder weitergeben noch von sich abschreiben lassen noch irgendwo für Andere sichtbar hochladen noch liegen lassen.
 - Wenn Sie gegen diese Regeln verstoßen, werden beim *ersten* Vergehen *alle* Mitglieder der betroffenen Lerngruppen von allen ⭐-Programmen dieser Professur ausgeschlossen. Wenn Sie von sich abschreiben lassen oder selbst abschreiben, schaden Sie also immer mindestens zwei ganzen Lerngruppen.
 - Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden. Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
-
-
 
 ## Verwandte Vorlesungen
 

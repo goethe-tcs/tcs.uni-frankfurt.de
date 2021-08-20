@@ -7,6 +7,7 @@ toc: yes
 ---
 
 ## Ort und Zeit
+
 (Diese Pläne sind vorläufig.)
 
 - **Synchrontermine.**
@@ -24,39 +25,39 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 Voraussetzungen · Organisationsfolien
 
 1. **Sprachen und Boolesche Schaltkreise**\
-Literatur · 📽️ · Folien · Übungen<br>
+Literatur · 📽️ · Folien · Übungen
 
-1. **Sortieren und untere Schranken**
+2. **Sortieren und untere Schranken**
 
-1. **Sprachen und Reduktionen**
+3. **Sprachen und Reduktionen**
 
-1. **Das P vs. NP Problem**
+4. **Das P vs. NP Problem**
 
-1. **NP-Vollständigkeit**
+5. **NP-Vollständigkeit**
 
-1. **Deterministische Turing-Maschinen**
+6. **Deterministische Turing-Maschinen**
 
-1. **Berechenbarkeit**
+7. **Berechenbarkeit**
 
-1. **Das Halteproblem**
+8. **Das Halteproblem**
 
-1. **Nicht-deterministische Turing-Maschinen**
+9. **Nicht-deterministische Turing-Maschinen**
 
-1. **Der Satz von Rice**
+10. **Der Satz von Rice**
 
-1. **?**
+11. **?**
 
-1. **?**
+12. **?**
 
-1. **?**
+13. **?**
 
-1. **?**
+14. **?**
 
-1. **?**
-
+15. **?**
 
 ## Literatur
-(todo)
+
+(To-do)
 
 ## Allgemeines
 
@@ -64,7 +65,6 @@ Literatur · 📽️ · Folien · Übungen<br>
 - **Voraussetzungen.** Die Kompetenzen aus Diskrete Modellierung, Algorithmen und Datenstrukturen 1, und den Mathevorlesungen werden vorausgesetzt. <!-- Mit [diesem Selbsttest](voraussetzungen.pdf) können Sie vorab Ihre Kompetenzen prüfen und auffrischen.-->
 - **Anmeldung.** Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
-
 
 ## Lehrpersonal
 
@@ -80,13 +80,15 @@ Literatur · 📽️ · Folien · Übungen<br>
 - Jonas Strauch (Tutor)
 - Marc Viel (Tutor)
 
-
 ## Klausur
 
 - Klausurtermin: ? 2022
 - Nachklausurtermin: ? 2022
+
+<!--
 - **Weitere Hinweise.**
   - Sie müssen sich rechtzeitig über QIS oder das Prüfungsamt für die Klausur anmelden.
   - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren findet nicht statt.
   - Die Klausur ist nicht zulassungsbeschränkt.
   - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), beachten Sie aber, dass Klausur sich an den Themen des aktuellen Semesters orientiert.
+-->
