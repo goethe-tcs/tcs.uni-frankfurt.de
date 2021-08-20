@@ -84,7 +84,9 @@ Literatur · 📽️ · Folien · Übungen
 ## Klausur
 
 - Klausurtermin: 22.02.2022
+- Klausureinsicht: 01.03.2022
 - Nachklausurtermin: ? 2022
+- Nachklausureinsicht: ? 2022
 
 <!--
 - **Weitere Hinweise.**
