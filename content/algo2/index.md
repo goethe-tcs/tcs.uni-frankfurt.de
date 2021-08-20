@@ -16,6 +16,7 @@ toc: yes
   - Fr 14:15–15:45. [Zoomlink] und Hörsaal ??. (Übungen besprechen.)
 - **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum ??. (Einzelgespräch mit Tutor:in.)
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
+- **Bei allen organisatorischen Fragen:** [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de)
 
 ## Wochenplan
 
@@ -68,7 +69,7 @@ Literatur · 📽️ · Folien · Übungen
 
 ## Lehrpersonal
 
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Professor)
+- Holger Dell (Professor)
 - Marius Hagemann (2x Tutor)
 - Alexander Hengstmann (2x Tutor)
 - Tolga Tel (2x Tutor)
@@ -82,7 +83,7 @@ Literatur · 📽️ · Folien · Übungen
 
 ## Klausur
 
-- Klausurtermin: ? 2022
+- Klausurtermin: 22.02.2022
 - Nachklausurtermin: ? 2022
 
 <!--
