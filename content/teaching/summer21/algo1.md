@@ -10,9 +10,9 @@ toc: yes
 ## Klausur
 
 - **Klausurtermin:** 9. August 2021 · [Klausuraufgaben](/algo1/2021-ALGO1-Klausur.pdf) · [Musterlösung](/algo1/2021-ALGO1-Klausur-solution.pdf)
-- **Klausureinsicht:** 17. September 2021, die genaue Uhrzeit wird noch bekannt gegeben. Ein früherer Termin ist aufgrund von Urlaub/Seminaren/Konferenzen leider nicht möglich.
+- **Klausureinsicht:** Findet online statt, Sie werden von uns eine E-Mail erhalten.
 - **Nachklausur:** 6. Oktober 2021
-- **Nachklausureinsicht:** 14. Oktober 2021
+- **Nachklausureinsicht:** 14. Oktober 2021.
 
 <!--
 - **Ort und Zeit:** Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:

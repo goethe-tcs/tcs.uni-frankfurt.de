@@ -1,7 +1,7 @@
 ---
 title: "Algorithmen und Datenstrukturen 2"
 shortname: "ALGO2"
-semester: "WiSe-2021/21"
+semester: "WiSe-2021/22"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 ---
@@ -13,8 +13,7 @@ toc: yes
 - **Synchrontermine.**
   - Di 8:15–09:45. [Zoomlink] und Hörsaal VI. (Übungen bearbeiten und besprechen.)
   - Do 8:15–09:45. [Zoomlink] und Hörsaal IV. (Übungen bearbeiten und besprechen.)
-  - Fr 14:15–15:45. [Zoomlink] und Hörsaal ??. (Übungen besprechen.)
-- **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum ??. (Einzelgespräch mit Tutor:in.)
+- **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum X. (Einzelgespräch mit Tutor:in.)
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
 - **Bei allen organisatorischen Fragen:** [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de)
 
@@ -64,12 +63,15 @@ Literatur · 📽️ · Folien · Übungen
 
 - **Kursformat.** Voraussichtlich *HyFlex* (der Kurs kann flexibel online oder in Präsenz belegt werden) und *flipped* (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine).
 - **Voraussetzungen.** Die Kompetenzen aus Diskrete Modellierung, Algorithmen und Datenstrukturen 1, und den Mathevorlesungen werden vorausgesetzt. <!-- Mit [diesem Selbsttest](voraussetzungen.pdf) können Sie vorab Ihre Kompetenzen prüfen und auffrischen.-->
-- **Anmeldung.** Bitte melden Sie sich in Moodle an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
+- **Anmeldung.** Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
 
-## Lehrpersonal
+## Vorlesungsteam
 
 - Holger Dell (Professor)
+- Claudia Gressler (Sekretärin)
+- Leo Krull (Assistentin)
+- Anselm Haak (Assistent)
 - Marius Hagemann (2x Tutor)
 - Alexander Hengstmann (2x Tutor)
 - Tolga Tel (2x Tutor)
@@ -83,10 +85,8 @@ Literatur · 📽️ · Folien · Übungen
 
 ## Klausur
 
-- Klausurtermin: 22.02.2022
-- Klausureinsicht: 01.03.2022
-- Nachklausurtermin: ? 2022
-- Nachklausureinsicht: ? 2022
+- Klausur: 22.02.2022
+- Nachklausur: 05.04.2022
 
 <!--
 - **Weitere Hinweise.**

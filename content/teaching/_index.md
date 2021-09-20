@@ -5,9 +5,14 @@ toc: no
 ---
 
 ### Bachelor/Master thesis projects
+
 - See [Project Ideas](project-ideas)
 
-### WiSe 2021/22
+### SoSe 2022 (tentative)
+
+- Komplexitätstheorie, Di 10-14, Mi 10-12.
+
+### WiSe 2021/22 (current semester)
 
 - Vorlesung (4+2): [Algorithmen und Datenstrukturen 2](/algo2)
 - Seminar

@@ -14,6 +14,7 @@ This document is intended for students at Goethe University who want to write a 
 ## Project Types
 
 Depending on your interests and talents, different _types_ of projects are possible:
+
 - implementation and experimentation
 - literature review
 - problem-solving
@@ -23,6 +24,7 @@ Often, there is some overlap between different types.
 ### Implementation and Experimentation
 
 In this type of project, you will:
+
 - Contribute to an open source implementation of a piece of software.
 - Use industry-standard programming languages that are suitable for the chosen topic. Typical programming languages are Rust, C/C++, Python, JavaScript.
 - Use industry-standard collaboration tools (git).
@@ -41,8 +43,8 @@ This could be upper bounds (algorithms, data structures) or lower bounds (hardne
 A project with a limited scope would be to analyze the proof of an existing theorem in a special case, and write it up as elegantly as possible.
 Problem-solving projects are *much more challenging* than a typical thesis project.
 
-
 ## Themes and Topics
+
 Depending on your interests and talents, different _themes_ of project topics are possible:
 _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 
@@ -51,36 +53,39 @@ _Theory_, _Engineering_, _Visualization_, and _AI Alignment_.
 **Goal:** perform a literature review or solve open problems in theoretical computer science.
 
 **What you get out of it:**
+
 - Exposure to beautiful mathematical ideas.
 - Experience with literature search, scientific writing, and research.
 - Preparation for a PhD in theoretical computer science or an adjacent field.
 - The most successful projects may lead to a scientific publication.
 
 **What you need to bring:**
-- Strong mathematical background.
 
+- Strong mathematical background.
 
 ### Algorithmic Engineering
 
 **Goal:** implement algorithms that may have never been implemented before! Test them rigorously, and compare their performance to other algorithms and implementations.
 
 **What you get out of it:**
+
 - Exposure to algorithms that can range in difficulty.
 - Experience with coding, hardware requirements, performance experiments, and scientific writing.
 - Preparation for a PhD in algorithmic engineering or an adjacent field.
 
 **What you need to bring:**
+
 - Ambition to improve on the state-of-the-art.
 - Very good performance in your past algorithm courses.
 
 **More specific aspects of a possible projects:**
+
 - Develop a prototype implementation in a suitable high-level programming language or framework (such as Python, SciKit, and Matlab. Other languages are also possible if you're more comfortable with that)
 - Contribute to a high-performance implementation in a suitable programming language (such as Rust or C++).
 - Design and run experiments that test the correctness, performance, and scalability of implementations.
 - Participate in a research-level programming competition.
 
 Software and benchmarks generated in your projects are developed under an open-source license, and when they're ready will be published in a suitable outlet.
-
 
 ### Visualization of Algorithmic Concepts
 
@@ -96,11 +101,13 @@ Graph Width Visualizer.
 Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done before (a lot), so if that's your proposal, you need to provide a very strong argument why your visualization idea is novel.
 
 **What you get out of it:**
+
 - In-depth understanding of some non-trivial algorithms and mathematical concepts. (You will likely visualize something that you haven't seen before)
 - Experience with software development and UX design.
 - Visually pleasing products that you can use to explain algorithmic concepts to your friends and family.
 
 **What you need to bring:**
+
 - Interest in graphical design, gamification, as well as teaching.
 - Good mathematical background.
 - For a Master thesis, you need to have taken at least one advanced course or seminar in algorithms, complexity, graph theory, or a related course.
@@ -109,13 +116,15 @@ Since I want the results of visualization projects to be as accessible as possib
 All products generated in your projects are developed under an open-source license, and when they're ready will be publicly available.
 
 **More specific aspects of possible projects:**
-- Find or help develop a library for drawing, animating, and interacting with graphs, stacks, queues, etc..
+
+- Find or help develop a library for drawing, animating, and interacting with graphs, stacks, queues, etc.
 - Find suitable ways of visualizing a specific algorithm, compare it to previously existing visualizations from the literature and the web.
 - Develop a suitable language for specifying (a) which objects need to be drawn, (b) how they're to be updated over time, and (c) how to animate the objects.
 - Extract run-time data from real implementations and visualize this data effectively.
 - If you have experience with developing for VR/AR, I would be excited to try some algorithm visualizations in this setting.
 
 **Links to existing visualization projects.**
+
 - [University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Human-aligned artificial intelligence
@@ -123,13 +132,16 @@ All products generated in your projects are developed under an open-source licen
 **Goal:** perform a literature review, or contribute to original research on the alignment problem. In particular, I would be most interested in connections to traditional, technical topics in theoretical computer science (algorithms, complexity, game theory, logics, cryptography). Topics such as "safe machine learning" are also possible.
 
 **What you get out of it:**
+
 - Exposure to one of the most important problems in humanity's mid-term future.
 
 **What you need to bring:**
+
 - Good background in relevant courses (for example, algorithms, complexity, machine learning, decision theory, etc.); some background in philosophy would be beneficial, too.
 - A higher than average ability to work on your own. In particular, you need to propose the topic for your thesis on your own and do most of the literature research. I will of course discuss the topic and your thoughts with you.
 
 **Some introductory resources:**
+
 - [AI Alignment Research Overview](https://docs.google.com/document/d/1FbTuRvC4TFWzGYerTKpBU7FJlyvjeOvVYF2uYNFSlOc/edit?usp=sharing) by Jacob Steinhardt
 - Talk by [Brian Christian](https://brianchristian.org/) at the Simons Institute: [The Alignment Problem: Machine Learning and Human Values](https://www.youtube.com/watch?v=CzoVn8LUaDs)
 - [Research guide](https://intelligence.org/research-guide/) by [Machine Intelligence Research Institute](https://intelligence.org/).
@@ -138,7 +150,6 @@ All products generated in your projects are developed under an open-source licen
 - [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
 - [Is Optimization a Sufficient Language for Understanding Deep Learning?](http://www.offconvex.org/2019/06/03/trajectories/)
 
-
 ## Supervision Process and Grading
 
 As supervisor, I'm in a strange role conflict: During the project, I am your coach and want you to succeed, and in the end I'm expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
@@ -146,6 +157,7 @@ As supervisor, I'm in a strange role conflict: During the project, I am your coa
 ### Timeline
 
 Writing a Bachelor/Master thesis consists of several steps:
+
 - Choose a topic
 - Write a project plan
 - Register the thesis with the Prüfungsamt
@@ -190,13 +202,18 @@ There are many resources on the internet that can help you. Start with these:
 
 I expect all my students to go to the [schreibzentrum](https://www.starkerstart.uni-frankfurt.de/67276085/Schreibberatung) before they start their project. They provide individual help with planning your project and with writing your thesis.
 
+In addition, you must follow these rules:
+
+- Use a spell and grammar checker. To edit latex, I use Visual Studio Code combined with the LTeX extension: <https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex>
+- Use a template. I recommend [this one](https://github.com/holgerdell/latex-mimosis/) based on latex-mimosis.
+
 ### Formalities
 
 If the project has not formally started yet, and I haven't heard from you in three weeks, then I may give the topic to another student. (Note that formally starting the project requires several people signing a form, or the project being officially registered with the university.)
 
-Lesen Sie den Bachelor/Masterarbeits-Abschnitt Ihrer Studienordnung und übernehmen Sie Mitverantwortung dafür, dass er befolgt wird:
-[§35 in BSc Informatik 2019](https://www.cs.uni-frankfurt.de/images/pdf/informatik/bachelor19/bachelorordnung.pdf),
-[§25 in BSc Informatik 2012](https://www.cs.uni-frankfurt.de/images/pdf/informatik/bachelor2/bachelorordnung_neu.pdf),
-[§34 in MSc Informatik 2019](https://www.cs.uni-frankfurt.de/images/pdf/informatik/master2019/ordnung_master_2019.pdf),
+Lesen Sie den Paragraphen zu Bachelor/Masterarbeiten in Ihrer Studienordnung und übernehmen Sie Mitverantwortung dafür, dass er befolgt wird:
+[§ 35 in BSc Informatik 2019](https://www.cs.uni-frankfurt.de/images/pdf/informatik/bachelor19/bachelorordnung.pdf),
+[§ 25 in BSc Informatik 2012](https://www.cs.uni-frankfurt.de/images/pdf/informatik/bachelor2/bachelorordnung_neu.pdf),
+[§ 34 in MSc Informatik 2019](https://www.cs.uni-frankfurt.de/images/pdf/informatik/master2019/ordnung_master_2019.pdf),
 oder
-[§35 in MSc Informatik 2015](https://www.cs.uni-frankfurt.de/images/pdf/informatik/master2015/ordnung_master_2015.pdf).
+[§ 35 in MSc Informatik 2015](https://www.cs.uni-frankfurt.de/images/pdf/informatik/master2015/ordnung_master_2015.pdf).
