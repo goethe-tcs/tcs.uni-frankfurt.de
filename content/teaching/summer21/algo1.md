@@ -9,13 +9,14 @@ toc: yes
 
 ## Klausur
 
-- **Klausurtermin:** 9. August 2021 · [Klausuraufgaben](/algo1/2021-ALGO1-Klausur.pdf) · [Musterlösung](/algo1/2021-ALGO1-Klausur-solution.pdf)
-- **Klausureinsicht:** Findet online statt, Sie werden von uns eine E-Mail erhalten.
+- **Klausur:** 9. August 2021 · [Klausuraufgaben](/algo1/2021-ALGO1-Klausur.pdf) · [Musterlösung](/algo1/2021-ALGO1-Klausur-solution.pdf)
 - **Nachklausur:** 6. Oktober 2021
-- **Nachklausureinsicht:** 14. Oktober 2021.
+  - **Ort und Zeit:** Hörsaalgebäudes in Bockenheim. Die genauen Startzeiten werden an dieser Stelle einen Tag vor der Klausur bekannt gegeben!
+  - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
+  - **Hilfsmittel:** Ein Kugelschreiber (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
+  - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 1. Oktober, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
 
-<!--
-- **Ort und Zeit:** Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:
+<!--Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:
     - **Sonderfall: Nachteilsausgleich.** Wenn Sie einen Nachteilsausgleich angemeldet haben, beginnt Ihre Klausur um **09:45**.
     - **Sonderfall: ALGO1a.** Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
     - **Sonderfall: ALGO1b.** Wenn Sie ALGO1b schreiben, beginnt die Klausur um **09:30**.
@@ -23,17 +24,10 @@ toc: yes
         - Wenn Ihre Matrikelnummer auf 1, 2 oder 5 endet, beginnt die Klausur um **08:15**.
         - Wenn Ihre Matrikelnummer auf 7, 8 oder 9 endet, beginnt die Klausur um **08:45**.
         - Wenn Ihre Matrikelnummer auf 0, 3, 4 oder 6 endet, beginnt die Klausur um **09:00**.
-
-- **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de).
-
-- **Hilfsmittel:** Ein Kugelschreiber oder Füller (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
-
-- **Corona:**
+  - **Corona:**
     - **Formular mitbringen:** Drucken Sie das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Sie beide Seiten **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
     - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
     - **Schnelltest:** Hier noch eine persönliche Bitte: Nehmen Sie in den 24 Stunden vor der Klausur bitte einen Corona-Schnelltest wahr. Falls der Test positiv ist, kommen Sie nicht zur Klausur und informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de). Lassen Sie so schnell wie möglich einen PCR-Test machen und senden Sie das Ergebnis an das Prüfungsamt. (Die 3 Gs werden am Einlass der Klausur nicht kontrolliert.)
-
-- **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 6. August, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
 -->
 
 ## Allgemeine Informationen
