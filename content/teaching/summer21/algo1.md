@@ -9,7 +9,7 @@ toc: yes
 
 ## Klausur
 
-- **Klausur:** 9. August 2021 · [Klausuraufgaben](/algo1/2021-ALGO1-Klausur.pdf) · [Musterlösung](/algo1/2021-ALGO1-Klausur-solution.pdf)
+- **Klausur:** 9. August 2021 · [Klausuraufgaben](ALGO121-klausur.pdf) · [Musterlösung](ALGO121-klausur-solutions.pdf)
 - **Nachklausur:** 6. Oktober 2021
   - **Ort und Zeit:** Hörsaalgebäudes in Bockenheim. Die genauen Startzeiten werden an dieser Stelle einen Tag vor der Klausur bekannt gegeben!
   - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
