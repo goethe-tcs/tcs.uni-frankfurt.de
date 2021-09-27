@@ -24,36 +24,32 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 0. 🔥 **Vorbereitung**\
 Voraussetzungen · Organisationsfolien
 
-1. **Sprachen und Boolesche Schaltkreise**\
+1. **Sortieren und untere Schranken**\
 Literatur · 📽️ · Folien · Übungen
 
-2. **Sortieren und untere Schranken**
+3. **Word-RAM model**
 
-3. **Sprachen und Reduktionen**
+4. **NP-Vollständigkeit: Sprachen, Reduktionen, P, NP, Erfüllbarkeitsproblem**
 
-4. **Das P vs. NP Problem**
+5. **Berechenbarkeit: Turing-Maschinen, Halteproblem, Satz von Rice**
 
-5. **NP-Vollständigkeit**
+6. **Network Flow I: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson**
 
-6. **Deterministische Turing-Maschinen**
+7. **Network Flow II: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths**
 
-7. **Berechenbarkeit**
+8. **Randomized Algorithms I: Contention resolution, Minimum cut**
 
-8. **Das Halteproblem**
+9. **Randomized algorithms II: selection, quicksort**
 
-9. **Nicht-deterministische Turing-Maschinen**
+10. **Lineare Programmierung: LPs, ILPs, Simplex-Algorithmus**
 
-10. **Der Satz von Rice**
+11. **Parametrisierte Algorithmen**
 
-11. **?**
+12. **Approximationsalgorithmen**
 
-12. **?**
+13. **Parallele Algorithmen**
 
-13. **?**
-
-14. **?**
-
-15. **?**
+14. **Algorithmen mit externem Speicher: Cache hierarchy, IO-model**
 
 ## Literatur
 
@@ -82,6 +78,11 @@ Literatur · 📽️ · Folien · Übungen
 - Timo Mertin (Tutor)
 - Jonas Strauch (Tutor)
 - Marc Viel (Tutor)
+
+## Ähnliche Kurse
+
+- Eine vorherige Iteration von ALGO2 wurde im [WiSe-2020](https://ae.cs.uni-frankfurt.de/algo220) (Prof. Meyer) angeboten, wofür Videos aus Präcoronazeiten zusammengeschnitten wurden.
+- Der Kurs [Algorithms and Data Structures II](http://www2.imm.dtu.dk/courses/02110/2021/) von Inge Li Gørtz deckt einen Teil der Inhalte von ALGO2 auch ab.
 
 ## Klausur
 
