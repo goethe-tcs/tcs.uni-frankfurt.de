@@ -1,11 +1,11 @@
 ---
-title: "Seminar"
+title: "Seminar: Mathematics and Computation"
 ---
 
 **Modul:** Komplexitätstheorie / Algorithmen und Komplexität.
 **Thema:** "Mathematics and Computation".
 
-Dieses Seminar bietet Platz für acht theorieinteressierte Studierende und behandelt Themen aus dem Buch "Mathematics and Computation" von Avi Wigderson. Das Buch ist im Volltext als [e-book über die Universitätsbibliothek](https://hds.hebis.de/ubffm/Record/HEB455451966) verfügbar, wenn Sie sich dort mit Ihrem HRZ-Konto einloggen.
+Dieses Seminar bietet Platz für zehn theorieinteressierte Studierende und behandelt Themen aus dem Buch "Mathematics and Computation" von Avi Wigderson. Das Buch ist im Volltext als [e-book über die Universitätsbibliothek](https://hds.hebis.de/ubffm/Record/HEB455451966) verfügbar, wenn Sie sich dort mit Ihrem HRZ-Konto einloggen.
 Vorwissen über Grundbegriffe aus Algorithmen und Datenstrukturen sowie diskreter Mathematik sind wichtig, Komplexitätstheorie und algorithmische Vertiefungsvorlesungen sind von Vorteil, beides wird aber nicht formal vorausgesetzt.
 
 Das Buch bietet einen **breiten und konzeptuellen** Überblick über die Komplexitätstheorie und ihre Auswirkungen auf andere Forschungsgebiete. Daher wird das Seminar ebenfalls einen konzeptuellen Ansatz verfolgen, in dem es weniger um technische Einzelheiten gehen wird, sondern eher um das große Ganze.

@@ -17,7 +17,7 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 - **Bachelor/Master thesis.** Check out the [Project Ideas](/teaching/project-ideas/) if you are looking for a thesis topic.
 - **Courses in Winter 2021/22.**
   - Lecture: [Algorithmen und Datenstrukturen 2](algo2/)
-  - Seminar: Algorithmen und Komplexität
+  - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### Related research groups
 

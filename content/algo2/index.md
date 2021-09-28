@@ -23,33 +23,20 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 
 0. 🔥 **Vorbereitung**\
 Voraussetzungen · Organisationsfolien
-
 1. **Sortieren und untere Schranken**\
 Literatur · 📽️ · Folien · Übungen
-
-3. **Word-RAM model**
-
-4. **NP-Vollständigkeit: Sprachen, Reduktionen, P, NP, Erfüllbarkeitsproblem**
-
-5. **Berechenbarkeit: Turing-Maschinen, Halteproblem, Satz von Rice**
-
-6. **Network Flow I: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson**
-
-7. **Network Flow II: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths**
-
-8. **Randomized Algorithms I: Contention resolution, Minimum cut**
-
-9. **Randomized algorithms II: selection, quicksort**
-
-10. **Lineare Programmierung: LPs, ILPs, Simplex-Algorithmus**
-
-11. **Parametrisierte Algorithmen**
-
-12. **Approximationsalgorithmen**
-
-13. **Parallele Algorithmen**
-
-14. **Algorithmen mit externem Speicher: Cache hierarchy, IO-model**
+2. **Word-RAM model**
+3. **NP-Vollständigkeit: Sprachen, Reduktionen, P, NP, Erfüllbarkeitsproblem**
+4. **Berechenbarkeit: Turing-Maschinen, Halteproblem, Satz von Rice**
+5. **Network Flow I: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson**
+6. **Network Flow II: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths**
+7. **Randomized Algorithms I: Contention resolution, Minimum cut**
+8. **Randomized algorithms II: selection, quicksort**
+9.  **Lineare Programmierung: LPs, ILPs, Simplex-Algorithmus**
+10. **Parametrisierte Algorithmen**
+11. **Approximationsalgorithmen**
+12. **Parallele Algorithmen**
+13. **Algorithmen mit externem Speicher: Cache hierarchy, IO-model**
 
 ## Literatur
 

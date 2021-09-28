@@ -15,17 +15,17 @@ toc: no
 ### WiSe 2021/22 (current semester)
 
 - Vorlesung (4+2): [Algorithmen und Datenstrukturen 2](/algo2)
-- Seminar
+- Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### SoSe 2021
 
 - Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
-- Seminar: [Algorithmen und Komplexität](summer21/seminar)
+- Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
 
 ### WiSe 2020/21
 
 - Vorlesung (4+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
-- Seminar: [Algorithmen und Komplexität](winter20/seminar)
+- Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### Past courses offered by Holger Dell
 

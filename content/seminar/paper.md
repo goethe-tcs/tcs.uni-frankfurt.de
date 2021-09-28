@@ -1,5 +1,5 @@
 ---
-title: "Seminar"
+title: "Seminar: Paper lesen"
 ---
 
 - **Modul:** Komplexitätstheorie / Algorithmen und Komplexität (siehe [qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=313517)).
