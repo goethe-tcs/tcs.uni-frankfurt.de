@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="91.172089mm"
+   height="91.172089mm"
+   viewBox="0 0 91.172089 91.172089"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="pnp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="0.57460017"
+     inkscape:cx="-103.55027"
+     inkscape:cy="187.08661"
+     inkscape:window-width="1440"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.530235,-98.539536)">
+    <circle
+       style="fill:#6f7c91;fill-opacity:1;stroke-width:0.264583"
+       id="path846"
+       cx="115.11628"
+       cy="144.12558"
+       r="45.586044" />
+    <circle
+       style="fill:#44aa00;stroke-width:0.114919"
+       id="path846-3"
+       cx="115.11628"
+       cy="159.89839"
+       r="19.799999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#112b00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.59459"
+       y="166.95114"
+       id="text1940"
+       inkscape:label="text1940"><tspan
+         sodipodi:role="line"
+         id="tspan1938"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#112b00;stroke-width:0.264583"
+         x="109.59459"
+         y="166.95114">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1f24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="103.67979"
+       y="127.71412"
+       id="text3660"><tspan
+         sodipodi:role="line"
+         id="tspan3658"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1f24;stroke-width:0.264583"
+         x="103.67979"
+         y="127.71412">NP</tspan></text>
+  </g>
+</svg>

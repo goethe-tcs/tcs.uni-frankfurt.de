@@ -6,6 +6,9 @@ qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=
 toc: yes
 ---
 
+<a href="https://hds.hebis.de/ubffm/Record/HEB455451966">
+<img src="/seminar/wigderson-cover.jpg" alt="book cover" title="Wigderson's book" width="204" height="300" style="float: right; padding-left: 1em;" /></a>
+
 Dieses Seminar bietet Platz für zehn theorieinteressierte Studierende und behandelt Themen aus dem Buch "Mathematics and Computation" von Avi Wigderson. Das Buch ist im Volltext als [e-book über die Universitätsbibliothek](https://hds.hebis.de/ubffm/Record/HEB455451966) verfügbar, wenn Sie sich dort mit Ihrem HRZ-Konto einloggen.
 Vorwissen über Grundbegriffe aus Algorithmen und Datenstrukturen sowie diskreter Mathematik sind wichtig, Komplexitätstheorie und algorithmische Vertiefungsvorlesungen sind von Vorteil, beides wird aber nicht formal vorausgesetzt.
 

@@ -12,12 +12,40 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 - Melvin Kallmayer (Research Assistant)
 <!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
 
-### Links for students
+### Learning Activities in Winter 2021/22
 
-- **Bachelor/Master thesis.** Check out the [Project Ideas](/teaching/project-ideas/) if you are looking for a thesis topic.
-- **Courses in Winter 2021/22.**
-  - Lecture: [Algorithmen und Datenstrukturen 2](algo2/)
-  - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
+<div class="course-list">
+<a href="/algo2/">
+<div class="course-img">
+<img src="/algo2/pnp.svg" alt="Venn diagram of P and NP" width="100" height="100">
+</div>
+<div class="course-desc">
+
+Algorithmen und Datenstrukturen 2
+
+</div>
+</a>
+<a href="/seminar/wigderson/">
+<div class="course-img">
+<img src="/seminar/wigderson-cover.jpg" alt="book cover" width="68" height="100">
+</div>
+<div class="course-desc">
+
+Mathematics and Computation seminar
+
+</div>
+</a>
+<a href="/teaching/project-ideas/">
+<div class="course-img">
+<img src="/teaching/cr.png" alt="graph" width="129" height="150">
+</div>
+<div class="course-desc">
+
+Want to write a Bachelor/Master thesis?
+
+</div>
+</a>
+</div>
 
 ### Related research groups
 
