@@ -15,6 +15,7 @@ toc: yes
   - Do 8:15–09:45. [Zoomlink] und Hörsaal IV. (Übungen bearbeiten und besprechen.)
 - **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum X. (Einzelgespräch mit Tutor:in.)
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
+- **Moodle.** Manche Lernangebote finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
 - **Bei allen organisatorischen Fragen:** [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de)
 
 ## Wochenplan
@@ -23,30 +24,31 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 
 0. 🔥 **Vorbereitung**\
 Voraussetzungen · Organisationsfolien
-1. **Sortieren und untere Schranken**\
+1. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+2. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+3. **Sortieren und untere Schranken**\
 Literatur · 📽️ · Folien · Übungen
-2. **Word-RAM model**
-3. **NP-Vollständigkeit: Sprachen, Reduktionen, P, NP, Erfüllbarkeitsproblem**
-4. **Berechenbarkeit: Turing-Maschinen, Halteproblem, Satz von Rice**
-5. **Network Flow I: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson**
-6. **Network Flow II: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths**
-7. **Randomized Algorithms I: Contention resolution, Minimum cut**
-8. **Randomized algorithms II: selection, quicksort**
-9.  **Lineare Programmierung: LPs, ILPs, Simplex-Algorithmus**
-10. **Parametrisierte Algorithmen**
-11. **Approximationsalgorithmen**
-12. **Parallele Algorithmen**
-13. **Algorithmen mit externem Speicher: Cache hierarchy, IO-model**
+1. **Randomized Algorithms I:** Contention resolution, Minimum cut
+2. **Randomized algorithms II:** selection, quicksort
+3. **Hartnäckigkeit:** Sprachen \& Reduktionen, P, NP, Erfüllbarkeitsproblem
+4. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
+5.  **Parametrisierte Algorithmen**
+6.  **Approximationsalgorithmen**
+7.  **Lineare Programmierung:** Simplex-Algorithmus, Dualität, Integrale Lineare Programmierung
+8.  **Parallele Algorithmen**
+9.  **IO-Model:** Cache hierarchy
 
 ## Literatur
 
 - **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch.)_
-- **KT**: _Algorithm Design_ von Kleinberg und Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
+- **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
 - **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
+- **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://hds.hebis.de/ubffm/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
+- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626)] _(Für eine Einführung in parametrisierte Algorithmen.)_
 
 ## Allgemeines
 
-- **Kursformat.** Voraussichtlich *HyFlex* (der Kurs kann flexibel online oder in Präsenz belegt werden) und *flipped* (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine).
+- **Kursformat.** Voraussichtlich *Hybrid* (der Kurs kann flexibel online oder in Präsenz belegt werden) und enthält Elemente des *flipped classroom* Konzepts (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine bearbeiten).
 - **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/teaching/summer21/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
 - **Anmeldung.** Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
