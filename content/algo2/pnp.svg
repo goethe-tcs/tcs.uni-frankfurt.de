@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:snap-text-baseline="true"
      inkscape:zoom="0.57460017"
-     inkscape:cx="-103.55027"
+     inkscape:cx="-104.42044"
      inkscape:cy="187.08661"
      inkscape:window-width="1440"
      inkscape:window-height="825"
@@ -41,7 +41,7 @@
      id="layer1"
      transform="translate(-69.530235,-98.539536)">
     <circle
-       style="fill:#6f7c91;fill-opacity:1;stroke-width:0.264583"
+       style="fill:#00618f;fill-opacity:1;stroke-width:0.264583"
        id="path846"
        cx="115.11628"
        cy="144.12558"
@@ -66,13 +66,13 @@
          y="166.95114">P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1f24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#001c29;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="103.67979"
        y="127.71412"
        id="text3660"><tspan
          sodipodi:role="line"
          id="tspan3658"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1f24;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#001c29;stroke-width:0.264583;fill-opacity:1"
          x="103.67979"
          y="127.71412">NP</tspan></text>
   </g>

@@ -8,6 +8,7 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 
 - [Holger Dell](/~dell) (Professor)
 - [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
+- Anselm Haak (Postdoc)
 - Leo Krull (PhD Student)
 - Melvin Kallmayer (Research Assistant)
 <!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
@@ -21,6 +22,7 @@ Part of the Computer Science Department at [Goethe-Universität Frankfurt](https
 </div>
 <div class="course-desc">
 
+**Course:**\
 Algorithmen und Datenstrukturen 2
 
 </div>
@@ -31,7 +33,8 @@ Algorithmen und Datenstrukturen 2
 </div>
 <div class="course-desc">
 
-Mathematics and Computation seminar
+**Seminar:**\
+Mathematics and Computation
 
 </div>
 </a>
@@ -41,6 +44,7 @@ Mathematics and Computation seminar
 </div>
 <div class="course-desc">
 
+**PACE challenge:**\
 Participate in a group-based implementation challenge!\
 For fun, or as a Bachelor/Master thesis.
 
@@ -52,6 +56,7 @@ For fun, or as a Bachelor/Master thesis.
 </div>
 <div class="course-desc">
 
+**Thesis:**\
 Want to write a Bachelor/Master thesis?
 
 </div>

@@ -107,21 +107,32 @@ a:active,
   display: grid;
 }
 
+// .course-list > a:nth-of-type(odd) {
+//   background-color: lightgrey;
+// }
+
 .course-img {
   // font-size: 40px;
   // font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 100;
   text-decoration: none;
   color: black;
-  min-width: 4em;
+  box-sizing: border-box;
+  width: 140px;
 }
 
 .course-img > img {
-  padding: 1rem;
+  padding: 10px;
   margin-left: auto;
   margin-right: auto;
 }
 
+.course-desc {
+  // font-size: xx-large;
+  // font-weight: bold;
+}
+
 .course-list > a {
   text-decoration: none;
+  color: inherit;
 }

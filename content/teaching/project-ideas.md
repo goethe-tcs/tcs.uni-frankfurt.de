@@ -195,17 +195,24 @@ However, I will not provide iterative feedback, because this would blur the line
 ### Writing Advice
 
 The Bachelor thesis is likely the first longer scientific text that you will write.
-There are many resources on the internet that can help you. Start with these:
+I expect all students to reflect on their thesis writing process throughout the thesis project.
+In particular:
 
-- [Writing a Bachelor Thesis in Computer Science](https://liacs.leidenuniv.nl/~nijssensgr/bachelorklas-2014-2015/writing.pdf) by Siegfried Nijssen
-- [Checklist and advice for projects and theses](https://www.itu.dk/people/sestoft/itu/thesis-checklist.html) by Peter Sestoft
+- Talk to the people at the [schreibzentrum](https://www.starkerstart.uni-frankfurt.de/67276085/Schreibberatung) before you start your project!\
+  _Reason: They have good advice and provide individual feedback on your writing process. Getting help from the schreibzentrum allows the supervision to focus on the content._
 
-I expect all my students to go to the [schreibzentrum](https://www.starkerstart.uni-frankfurt.de/67276085/Schreibberatung) before they start their project. They provide individual help with planning your project and with writing your thesis.
-
-In addition, you must follow these rules:
-
-- Use a spell and grammar checker. To edit latex, I use Visual Studio Code combined with the LTeX extension: <https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex>
-- Use a template. I recommend [this one](https://github.com/holgerdell/latex-mimosis/) based on latex-mimosis.
+- Use [this latex template](https://github.com/holgerdell/latex-mimosis/) based on latex-mimosis!\
+  _Reason: A good template makes it much easier for you to focus on the content. Yes, you must use latex, as this is the standard tool that we use in computer science to write scientific texts._ (Other templates are fine if they're at least as pretty.)
+- Use a spell, grammar, and style checker! Personally, I can recommend [Visual Studio Code](https://code.visualstudio.com/) combined with the extensions [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) (for TeX support) and [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) (for spell and style checking). The spell checker in Overleaf doesn't check grammar, but is a decent start. Also consider using [grammarly.com](https://www.grammarly.com/).\
+  _Reason: It's all to easy to make spelling mistakes. Such mistakes distract the reader from the content. Moreover, if you are not writing in your native language, a grammar and style checker is very useful. Honestly, these style checkers often find some stylistic issues in my writing even when I write in my native language._
+- Thoroughly read this [checklist and advice for projects and theses](https://www.itu.dk/people/sestoft/itu/thesis-checklist.html) by Peter Sestoft.\
+  _Reason: This checklist contains some really useful information on how to plan your project and how to interact with your supervisor._
+- Have a look at [The Grammar According to West](https://faculty.math.illinois.edu/~west/grammar.html) by Douglas B. West.\
+  _Reason: This document contains a lot of useful rules on how to write mathematical texts; for example, how to use formulas in a grammatically correct way. It is a long list of rules, so I don't expect you to read/understand all of them. However, do refer to this list when you are writing and are unsure about how to express things._
+- Read [Writing a Bachelor Thesis in Computer Science](https://liacs.leidenuniv.nl/~nijssensgr/bachelorklas-2014-2015/writing.pdf) by Siegfried Nijssen.\
+  _Reason: These slides give a quick overview of how a thesis in computer science should be structured and contains some writing advice._
+- Watch the entertaining one-hour talk [Linguistics, Style and Writing in the 21st Century](https://youtu.be/OV5J6BfToSw) by Steven Pinker. Also consider reading parts of his book _The sense of style_ [[UB](https://hds.hebis.de/ubffm/Record/HEB363194762) · [pdf](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf)].\
+  _Reason: Many authors of scientific texts write in convoluted sentences and make heavy use of complicated words. They do this, because they think it sounds more scientific. You shouldn't fall into this trap. Instead, you should prefer short, active sentences._
 
 ### Formalities
 
