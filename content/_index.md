@@ -35,6 +35,17 @@ Mathematics and Computation seminar
 
 </div>
 </a>
+<a href="/pace/">
+<div class="course-img">
+<img src="/pace/turtle.svg" alt="graph" width="117" height="100">
+</div>
+<div class="course-desc">
+
+Participate in a group-based implementation challenge!\
+For fun, or as a Bachelor/Master thesis.
+
+</div>
+</a>
 <a href="/teaching/project-ideas/">
 <div class="course-img">
 <img src="/teaching/cr.png" alt="graph" width="129" height="150">

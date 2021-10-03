@@ -24,19 +24,31 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 
 0. 🔥 **Vorbereitung**\
 Voraussetzungen · Organisationsfolien
-1. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
-2. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
-3. **Sortieren und untere Schranken**\
+
+1. **Sortieren und untere Schranken**\
 Literatur · 📽️ · Folien · Übungen
-1. **Randomized Algorithms I:** Contention resolution, Minimum cut
-2. **Randomized algorithms II:** selection, quicksort
-3. **Hartnäckigkeit:** Sprachen \& Reduktionen, P, NP, Erfüllbarkeitsproblem
-4. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
-5.  **Parametrisierte Algorithmen**
-6.  **Approximationsalgorithmen**
-7.  **Lineare Programmierung:** Simplex-Algorithmus, Dualität, Integrale Lineare Programmierung
-8.  **Parallele Algorithmen**
-9.  **IO-Model:** Cache hierarchy
+
+2. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+
+3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+
+4. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
+
+5. **Randomisierte Algorithmen II:** Selection, Quicksort
+
+6. **Hartnäckigkeit:** Sprachen \& Reduktionen, P, NP, Erfüllbarkeitsproblem
+
+7. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
+
+8. **Parametrisierte Algorithmen**
+
+9. **Approximationsalgorithmen**
+
+10. **Lineare Programmierung:** Simplex-Algorithmus, Dualität, Integrale Lineare Programmierung
+
+11. **Parallele Algorithmen**
+
+12. **IO-Model:** Cache hierarchy
 
 ## Literatur
 
