@@ -11,7 +11,10 @@ toc: yes
 
 - **Klausur:** 9. August 2021 · [Klausuraufgaben](ALGO121-klausur.pdf) · [Musterlösung](ALGO121-klausur-solutions.pdf)
 - **Nachklausur:** 6. Oktober 2021
-  - **Corona:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!**
+  - **Corona:**
+    - **3G-Nachweis:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. Der Test darf höchstens 24 Stunden zurückliegen. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!**
+    - **Formular mitbringen:** Drucken Sie das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Se es **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
+    - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
   - **Ort und Zeit:** Hörsaalgebäude in Bockenheim. Die genauen Startzeiten werden an dieser Stelle einen Tag vor der Klausur bekannt gegeben!
   - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
   - **Hilfsmittel:** Ein Kugelschreiber (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
