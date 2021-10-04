@@ -11,28 +11,22 @@ toc: yes
 
 - **Klausur:** 9. August 2021 · [Klausuraufgaben](ALGO121-klausur.pdf) · [Musterlösung](ALGO121-klausur-solutions.pdf)
 - **Nachklausur:** 6. Oktober 2021
+  - **Ausweise:** Studiausweis und Lichtbildausweis mitbringen und während der Klausur offen liegen lassen!
   - **Corona:**
-    - **3G-Nachweis:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. Der Test darf höchstens 24 Stunden zurückliegen. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!**
-    - **Formular mitbringen:** Drucken Sie das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Se es **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
+    - **3G-Nachweis:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. Der Test darf höchstens 24 Stunden zurückliegen. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!** Falls Sie einen Test gemacht haben, der positiv ist, kommen Sie nicht zur Klausur. Informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de) und werden Sie wieder gesund.
+    - **Formular mitbringen:** Drucken Sie, wenn möglich, das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Sie es **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
     - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
-  - **Ort und Zeit:** Hörsaalgebäude in Bockenheim. Die genauen Startzeiten werden an dieser Stelle einen Tag vor der Klausur bekannt gegeben!
+  - **Ort und Zeit:** Die Klausur findet im Hörsaalgebäude in Bockenheim statt. Den Hörsaal erfahren Sie erst vor Ort. Die Zeiten sind wie folgt:
+    - Wenn Sie einen **Nachteilsausgleich** angemeldet haben oder **Algo1b** schreiben, müssen Sie um 9:30 da sein und am Haupteingang einchecken.
+    - Wenn Sie die **Vollklausur** normal mitschreiben, erfolgt die Aufteilung nach der letzten Ziffer in Ihrer Matrikelnummer:
+      - 0,1 einchecken um 7:50
+      - 3,4 einchecken um 8:00
+      - 5,6 einchecken um 8:10
+      - 2,9 einchecken um 8:30
+      - 7,8 einchecken um 9:00
   - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
   - **Hilfsmittel:** Ein Kugelschreiber (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
   - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 1. Oktober, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
-
-<!--Kommen Sie morgens rechtzeitig zum Einlass vor dem Haupteingang des Hörsaalgebäudes in Bockenheim, Sie werden dort einem Hörsaal zugewiesen und an den Platz geführt. Bitte erscheinen Sie mindestens 20 Minuten, besser 30 Minuten **vor** Ihrer Startzeit, um rechtzeitig durch die Einlassformalitäten zu gelangen. Hier ist die Übersicht:
-    - **Sonderfall: Nachteilsausgleich.** Wenn Sie einen Nachteilsausgleich angemeldet haben, beginnt Ihre Klausur um **09:45**.
-    - **Sonderfall: ALGO1a.** Wenn Sie ALGO1a schreiben, beginnt die Klausur um **09:45**.
-    - **Sonderfall: ALGO1b.** Wenn Sie ALGO1b schreiben, beginnt die Klausur um **09:30**.
-    - **Normalfall.** Wenn Sie die Vollklausur (ALGO1) ohne Nachteilsausgleich schreiben, gilt folgende Regelung:
-        - Wenn Ihre Matrikelnummer auf 1, 2 oder 5 endet, beginnt die Klausur um **08:15**.
-        - Wenn Ihre Matrikelnummer auf 7, 8 oder 9 endet, beginnt die Klausur um **08:45**.
-        - Wenn Ihre Matrikelnummer auf 0, 3, 4 oder 6 endet, beginnt die Klausur um **09:00**.
-  - **Corona:**
-    - **Formular mitbringen:** Drucken Sie das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Sie beide Seiten **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
-    - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
-    - **Schnelltest:** Hier noch eine persönliche Bitte: Nehmen Sie in den 24 Stunden vor der Klausur bitte einen Corona-Schnelltest wahr. Falls der Test positiv ist, kommen Sie nicht zur Klausur und informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de). Lassen Sie so schnell wie möglich einen PCR-Test machen und senden Sie das Ergebnis an das Prüfungsamt. (Die 3 Gs werden am Einlass der Klausur nicht kontrolliert.)
--->
 
 ## Allgemeine Informationen
 
