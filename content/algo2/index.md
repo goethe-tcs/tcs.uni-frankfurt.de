@@ -10,10 +10,9 @@ toc: yes
 
 (Diese Pläne sind vorläufig.)
 
-- **Synchrontermine.**
-  - Di 8:15–09:45. [Zoomlink] und Hörsaal VI. (Übungen bearbeiten und besprechen.)
-  - Do 8:15–09:45. [Zoomlink] und Hörsaal IV. (Übungen bearbeiten und besprechen.)
-- **Helpdesk.** Mo-Do 15:00-16:00 Uhr. [Zoomlink] und Raum X. (Einzelgespräch mit Tutor:in.)
+- **Präsenztermine.**
+  - Di 08:00–09:45. Bockenheim Hörsaal VI.
+  - Do 08:00–09:45. Bockenheim Hörsaal IV.
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
 - **Moodle.** Manche Lernangebote finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
 - **Bei allen organisatorischen Fragen:** [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de)
@@ -24,31 +23,35 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle 
 
 0. 🔥 **Vorbereitung**\
 Voraussetzungen · Organisationsfolien
-
-1. **Sortieren und untere Schranken**\
+  
+2. **All Pairs Shortest Paths**\
 Literatur · 📽️ · Folien · Übungen
 
-2. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+3. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
 
-3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+4. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
 
-4. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
+5. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
 
-5. **Randomisierte Algorithmen II:** Selection, Quicksort
+6. **Randomisierte Algorithmen II:** Selection, Quicksort
 
-6. **Hartnäckigkeit:** Sprachen \& Reduktionen, P, NP, Erfüllbarkeitsproblem
+7. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
 
-7. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
+8.  **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-8. **Parametrisierte Algorithmen**
+9.  **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
 
-9. **Approximationsalgorithmen**
+12. **Lineare Programmierung I:** Simplex-Algorithmus
+  
+13. **Lineare Programmierung II** Dualität
 
-10. **Lineare Programmierung:** Simplex-Algorithmus, Dualität, Integrale Lineare Programmierung
+14. **Parametrisierte Algorithmen**
 
-11. **Parallele Algorithmen**
+15. **Approximationsalgorithmen**
 
-12. **IO-Model:** Cache hierarchy
+16. **IO-Model:** Cache hierarchy
+
+17. **Parallele Algorithmen**
 
 ## Literatur
 
@@ -60,7 +63,9 @@ Literatur · 📽️ · Folien · Übungen
 
 ## Allgemeines
 
-- **Kursformat.** Voraussichtlich *Hybrid* (der Kurs kann flexibel online oder in Präsenz belegt werden) und enthält Elemente des *flipped classroom* Konzepts (Videos und Literatur vorher anschauen, einfache und mittelschwere Übungen während der Synchrontermine bearbeiten).
+- **Kursformat.**
+  - Präsenzelemente: Betreute Gruppenarbeit, Lösungsspaziergänge, Besprechungen im Plenum,
+  - Hybridelemente: Videos, Folien, Literatur, Übungsblätter, ⭐-Aufgaben, ✨-Aufgaben, Chat, Helpdesk, individuelles Feedback auf ⭐-Aufgaben.
 - **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/teaching/summer21/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
 - **Anmeldung.** Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
