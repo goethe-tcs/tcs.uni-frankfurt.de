@@ -64,8 +64,8 @@ Literatur · 📽️ · Folien · Übungen
 ## Allgemeines
 
 - **Kursformat.**
-  - Präsenzelemente: Betreute Gruppenarbeit, Lösungsspaziergänge, Besprechungen im Plenum,
-  - Hybridelemente: Videos, Folien, Literatur, Übungsblätter, ⭐-Aufgaben, ✨-Aufgaben, Chat, Helpdesk, individuelles Feedback auf ⭐-Aufgaben.
+  - Präsenzelemente: Betreute Gruppenarbeit, Lösungsspaziergänge, Besprechungen im Plenum.
+  - Online-Elemente: Videos, Folien, Literatur, Übungsblätter, ⭐-Aufgaben, ✨-Aufgaben, Chat, Helpdesk, individuelles Feedback auf ⭐-Aufgaben.
 - **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/teaching/summer21/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
 - **Anmeldung.** Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
 - **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).

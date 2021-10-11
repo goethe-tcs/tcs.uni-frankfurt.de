@@ -35,7 +35,7 @@ If you want, you and your team can submit the implementation to the PACE challen
 
 ## How?
 
-- Sign up in Moodle (once the "course" is created).
+- Register in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2369) (the password is `turtle`).
 - We will have regular meetings and build a small community.
-- The first meeting is in October. (date to be determined)
+- The first meeting is in Mid-Late October. (date to be determined)
 - If you want to start familiarizing yourself with the topic, you can watch the videos of last year's [Parameterized Algorithms course](https://tcs.uni-frankfurt.de/teaching/winter20/ati/) (in German) and read the corresponding book [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)]. Relevant topics are: Kernelization, Bounded Search Trees, and Iterative Compression (that is, weeks 1 and 2 of the course). An algorithm for the Directed Feedback Vertex Set problem is described in Chapter 8.6. (Note that you *will* need to understand the prerequisites first, in order to understand the algorithm described in this chapter.)
