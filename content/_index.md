@@ -46,7 +46,7 @@ Mathematics and Computation
 
 **PACE challenge:**\
 Participate in a group-based implementation challenge!\
-For fun, or as a Bachelor/Master thesis.
+For fun, as a _Forschungsprojekt_, or as a Bachelor/Master thesis.
 
 </div>
 </a>

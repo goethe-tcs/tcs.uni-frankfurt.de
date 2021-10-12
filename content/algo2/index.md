@@ -10,7 +10,7 @@ toc: yes
 
 (Diese Pläne sind vorläufig.)
 
-- **Präsenztermine.**
+- **Präsenztermine.** (Zutritt nur mit offiziellem 3G-Nachweis und Lichtbildausweis.)
   - Di 08:00–09:45. Bockenheim Hörsaal VI.
   - Do 08:00–09:45. Bockenheim Hörsaal IV.
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
@@ -43,7 +43,7 @@ Literatur · 📽️ · Folien · Übungen
 
 12. **Lineare Programmierung I:** Simplex-Algorithmus
   
-13. **Lineare Programmierung II** Dualität
+13. **Lineare Programmierung II:** Dualität
 
 14. **Parametrisierte Algorithmen**
 
@@ -59,7 +59,7 @@ Literatur · 📽️ · Folien · Übungen
 - **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
 - **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
 - **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://hds.hebis.de/ubffm/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
-- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626)] _(Für eine Einführung in parametrisierte Algorithmen.)_
+- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346)] _(Für eine Einführung in parametrisierte Algorithmen.)_
 
 ## Allgemeines
 
