@@ -20,38 +20,38 @@ toc: yes
 ## Wochenplan
 
 Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig (🔥 = aktuelle Woche):
-
-0. 🔥 **Vorbereitung**\
-Voraussetzungen · Organisationsfolien
   
-2. **All Pairs Shortest Paths**\
+1. 🔥 **Vorbereitung**\
+Organisationsfolien\
+\
+**All Pairs Shortest Paths**\
 Literatur · 📽️ · Folien · Übungen
 
-3. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+2. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
 
-4. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
 
-5. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
+4. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
 
-6. **Randomisierte Algorithmen II:** Selection, Quicksort
+5. **Randomisierte Algorithmen II:** Selection, Quicksort
 
-7. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
+6. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
 
-8.  **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
+7. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-9.  **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
+8. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
 
-12. **Lineare Programmierung I:** Simplex-Algorithmus
+9. **Lineare Programmierung I:** Simplex-Algorithmus
   
-13. **Lineare Programmierung II:** Dualität
+10. **Lineare Programmierung II:** Dualität
 
-14. **Parametrisierte Algorithmen**
+11. **Parametrisierte Algorithmen**
 
-15. **Approximationsalgorithmen**
+12. **Approximationsalgorithmen**
 
-16. **IO-Model:** Cache hierarchy
+13. **IO-Model:** Cache hierarchy
 
-17. **Parallele Algorithmen**
+14. **Parallele Algorithmen**
 
 ## Literatur
 

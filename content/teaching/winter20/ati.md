@@ -8,7 +8,7 @@ Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Gr
 
 ### Vorlesungsmaterial
 
-In **Teil 1** folgen wir dem folgenden Buch:
+In **Teil 1** folgen wir diesem Buch:
 
 - **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346)]
 
