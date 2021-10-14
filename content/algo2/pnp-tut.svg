@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   sodipodi:docname="pnp.svg"
+   sodipodi:docname="pnp-tut.svg"
    inkscape:export-filename="/Users/dell/pnp.png"
    inkscape:export-xdpi="151"
    inkscape:export-ydpi="151"
@@ -28,7 +28,7 @@
      showgrid="false"
      inkscape:snap-text-baseline="true"
      inkscape:zoom="0.57460017"
-     inkscape:cx="-174.90423"
+     inkscape:cx="-117.47299"
      inkscape:cy="187.08661"
      inkscape:window-width="1440"
      inkscape:window-height="825"
@@ -64,7 +64,7 @@
        inkscape:label="text1940"><tspan
          sodipodi:role="line"
          id="tspan1938"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0ffcb;stroke-width:0.264583;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0ffcb;fill-opacity:1;stroke-width:0.264583"
          x="109.59459"
          y="166.95114">P</tspan></text>
     <text
@@ -75,8 +75,19 @@
        id="text3660"><tspan
          sodipodi:role="line"
          id="tspan3658"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cdefff;stroke-width:0.264583;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:19.7556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cdefff;fill-opacity:1;stroke-width:0.264583"
          x="103.67979"
          y="127.71412">NP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.57833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214459"
+       x="76.822823"
+       y="156.6843"
+       id="text4296"><tspan
+         sodipodi:role="line"
+         id="tspan4294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.1761px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.214459"
+         x="76.822823"
+         y="156.6843">TUT</tspan></text>
   </g>
 </svg>
