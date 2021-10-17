@@ -11,11 +11,11 @@ toc: yes
 (Diese Pläne sind vorläufig.)
 
 - **Präsenztermine.** (Zutritt nur mit offiziellem 3G-Nachweis und Lichtbildausweis.)
-  - Di 08:00–09:45. Bockenheim Hörsaal VI.
-  - Do 08:00–09:45. Bockenheim Hörsaal IV.
+  - Di 08:00–09:45 s.t., Bockenheim Hörsaal VI.
+  - Do 08:00–09:45 s.t., Bockenheim Hörsaal IV (und ggf. Hörsaal III).
 - **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.
-- **Moodle.** Manche Lernangebote finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
-- **Bei allen organisatorischen Fragen:** [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de)
+- **Moodle.** Die meisten Lernangebote finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
+- **Bei wichtigen Fragen:** Sie erreichen den _senior staff_ unter [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
 ## Wochenplan
 
@@ -74,8 +74,8 @@ Literatur · 📽️ · Folien · Übungen
 
 - Holger Dell (Professor)
 - Claudia Gressler (Sekretärin)
-- Leo Krull (Assistentin)
-- Anselm Haak (Assistent)
+- Leo Krull (Dozentin)
+- Anselm Haak (Dozent)
 - Marius Hagemann (2x Tutor)
 - Alexander Hengstmann (2x Tutor)
 - Tolga Tel (2x Tutor)
