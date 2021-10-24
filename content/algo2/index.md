@@ -28,27 +28,29 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
 
-4. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
+4. **Amortisierte Analyse:** Binärer Zähler, Splay Trees
 
-5. **Randomisierte Algorithmen II:** Selection, Quicksort
+5. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
 
-6. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
+6. **Randomisierte Algorithmen II:** Selection, Quicksort
 
-7. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
+7. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
 
-8. **Berechenbarkeit:** Turing-Maschinen, Halteproblem, Satz von Rice
+8. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-9. **Lineare Programmierung I:** Simplex-Algorithmus
+9. **Berechenbarkeit I:** Turing-Maschinen
+
+10. **Berechenbarkeit II:** Halteproblem, Satz von Rice
+
+11. **Lineare Programmierung I:** Simplex-Algorithmus
   
-10. **Lineare Programmierung II:** Dualität
+12. **Lineare Programmierung II:** Dualität
 
-11. **Parametrisierte Algorithmen**
+13. **Approximationsalgorithmen**
 
-12. **Approximationsalgorithmen**
+14. **Parametrisierte Algorithmen**
 
-13. **IO-Model:** Cache hierarchy
-
-14. **Parallele Algorithmen**
+15. **Recap**
 
 ## Literatur
 
