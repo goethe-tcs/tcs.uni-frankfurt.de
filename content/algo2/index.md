@@ -38,9 +38,9 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 8. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-9. **Berechenbarkeit I:** Turing-Maschinen
+9. **Turing-Maschinen**
 
-10. **Berechenbarkeit II:** Halteproblem, Satz von Rice
+10. **Berechenbarkeit:** Halteproblem, Satz von Rice
 
 11. **Lineare Programmierung I:** Simplex-Algorithmus
   
