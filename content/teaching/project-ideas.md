@@ -198,9 +198,10 @@ The Bachelor thesis is likely the first longer scientific text that you will wri
 I expect all students to reflect on their thesis writing process throughout the thesis project.
 In particular:
 
+- Watch all of these videos on OLAT: Wissenschaftliches Schreiben für Informatiker:innen [Teil1](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8726249474) und [Teil2](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8726249476)\
+  _Reason: Knowing what is and isn't important in writing will help tremendously with your writing process._
 - Talk to the people at the [schreibzentrum](https://www.starkerstart.uni-frankfurt.de/67276085/Schreibberatung) before you start your project!\
   _Reason: They have good advice and provide individual feedback on your writing process. Getting help from the schreibzentrum allows the supervision to focus on the content._
-
 - Use [this latex template](https://github.com/holgerdell/latex-mimosis/) based on latex-mimosis!\
   _Reason: A good template makes it much easier for you to focus on the content. Yes, you must use latex, as this is the standard tool that we use in computer science to write scientific texts._ (Other templates are fine if they're at least as pretty.)
 - Use a spell, grammar, and style checker! Personally, I can recommend [Visual Studio Code](https://code.visualstudio.com/) combined with the extensions [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) (for TeX support) and [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) (for spell and style checking). The spell checker in Overleaf doesn't check grammar, but is a decent start. Also consider using [grammarly.com](https://www.grammarly.com/).\
