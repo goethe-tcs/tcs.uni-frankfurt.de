@@ -60,6 +60,21 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 - **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://hds.hebis.de/ubffm/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
 - **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346)] _(Für eine Einführung in parametrisierte Algorithmen.)_
 
+## Lernziele
+
+Nach der Veranstaltung können die Studierenden:
+
+- Algorithmen und Datenstrukturen aus dem erweiterten Grundkanon und den Vertiefungsgebieten beschreiben, anwenden, und implementieren,
+- sie an neue Problemstellungen anpassen,
+- Eigenschaften (wie etwa die Komplexität und Korrektheit) dieser und ähnlicher Algorithmen untersuchen und begründen,
+- neue Algorithmen für verwandte Problemstellungen entwickeln.
+
+Außerdem können die Studierenden:
+
+- wichtige Ergebnisse und Konzepte in den Bereichen der NP-Vollständigkeit und Entscheidbarkeit wiedergeben und erläutern,
+- einschätzen, welche praktischen und theoretischen Konsequenzen die Hartnäckigkeit eines Problems hat,
+- untersuchen und begründen, ob und warum ein gegebenes Problem hartnäckig ist.
+
 ## Allgemeines
 
 - **Kursformat.**
