@@ -63,7 +63,7 @@ Nach jedem Vortrag gibt es eine offene Feedbackrunde im Plenum und eine geschlos
 
 - **Zeit für die Vorbereitung.** Lesen kann *sehr viel* Zeit in Anspruch nehmen. Fangen Sie so früh wie möglich an.
 - **Nicht verzweifeln.** Es ist ganz natürlich, dass Sie die Hälfte der Begriffe nicht verstehen werden. Das geht mir oft genauso. Gehen Sie systematisch Begriff für Begriff vor, und klären Sie für jeden einzelnen Begriff, was er bedeutet. Schreiben Sie sich auf, was sie gelernt haben.
-- **Zeit für den Vortrag.** Die vorgegebene Zeit von 45 Minuten geht viel schneller vorbei, als Sie zunächst denken. Ich rechne mit ca. 1-2 Minuten pro Folie.
+- **Zeit für den Vortrag.** Die vorgegebene Zeit geht viel schneller vorbei, als Sie zunächst denken. Ich rechne mit ca. 1-2 Minuten pro Folie.
 - **Stellen Sie Fragen.** Nichts ist langweiliger, als ein Vortrag, bei dem Sie auf Folie 2 die Definition eines Hinzlipunzli nicht verstanden haben, weil der Vortragende darüber etwas zu schnell hinwegging. Übernehmen Sie Verantwortung und fragen Sie aktiv! Unwissenheit ist keine Peinlichkeit, sondern eine spannende Gelegenheit, etwas zu lernen.
 - **Seien Sie ehrlich.** Es wird nicht erwartet, dass Sie alles wissen oder jede Frage beantworten können. Wenn Sie verwirrt sind, etwas nicht verstehen, oder einen Teil des Inhalts aus Zeitgründen nicht detailliert lesen konnten, stehen Sie dazu. Das ist wissenschaftliches Arbeiten.
 - **Seien Sie witzig.** Bauen Sie einen Witz oder einen Spaß in den Vortrag ein (aber auf keinen Fall mehr als zwei Witze).
