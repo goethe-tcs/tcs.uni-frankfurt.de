@@ -167,11 +167,11 @@ Writing a Bachelor/Master thesis consists of several steps:
 
 ### Choosing a topic
 
-First, choose a _type_ and _theme_ for your project, and let me know in your first E-Mail which ones you're interested in.
+First, choose a _type_ and _theme_ for your project, and let me know in your first E-Mail which ones you're interested in and which courses in algorithms, theoretical computer science, and/or maths you have already taken.
 What you choose should depend on your interests and career plans.
 For example, if you want to become a **software engineer**, then you can train your coding skills and build up your GitHub profile in Algorithmic Engineering or Visualization type projects, all while getting some exposure to algorithms research.
 If you want to do a **PhD** in a traditional subfield of computer science, mathematics, and/or physics, then, I would say, choose a topic in Theory or Algorithmic Engineering, or work on the Visualization of a highly non-trivial algorithm.
-If you want a low-risk topic that will be most likely to yield results within the given timeframe, choose a literature review, or an implementation project in Algorithmic Engineering or Visualization.
+If you want a low-risk topic that will be most likely to yield results within the given time frame, choose an implementation project.
 In any case, choose something that you are genuinely excited about!
 Life's too short.
 
