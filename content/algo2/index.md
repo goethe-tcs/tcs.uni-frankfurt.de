@@ -28,7 +28,7 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
 
-4. **Amortisierte Analyse:** Binärer Zähler, Splay Trees
+4. **Amortisierte Analyse:** Dynamische Tabellen, MultiPop Stacks, Splay Trees
 
 5. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
 
