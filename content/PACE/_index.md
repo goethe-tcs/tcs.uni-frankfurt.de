@@ -12,7 +12,7 @@ toc: yes
 
 - Develop your coding skills!
 - Learn about cool algorithms!
-- Write a Bachelor/Master thesis! Earn CP (as a _Forschungsprojekt_)! (Or just do this for fun!)
+- Write a Bachelor/Master thesis! Earn CP as a _Forschungsprojekt_ or _Praktikum_! (Or just do this for fun!)
 
 ## Who?
 

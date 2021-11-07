@@ -45,8 +45,8 @@ Mathematics and Computation
 <div class="course-desc">
 
 **PACE challenge:**\
-Participate in a group-based implementation challenge!\
-For fun, as a _Forschungsprojekt_, or as a Bachelor/Master thesis.
+Participate in a fun, group-based implementation challenge!\
+_Praktikum_, _Forschungsprojekt_, or Bachelor/Master thesis.
 
 </div>
 </a>
