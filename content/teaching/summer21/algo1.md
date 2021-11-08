@@ -11,11 +11,11 @@ toc: yes
 
 - **Klausur:** 9. August 2021 · [Klausuraufgaben](ALGO121-klausur.pdf) · [Musterlösung](ALGO121-klausur-solutions.pdf)
 - **Nachklausur:** 6. Oktober 2021 · [Klausuraufgaben](ALGO121-nachklausur.pdf) · [Musterlösung](ALGO121-nachklausur-solutions.pdf)
-- Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
-- Einsicht zur Nachklausur: Wir können den Scanner erst Ende Oktober benutzen, Sie erhalten dann eine E-Mail von uns.
 - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
 <!--
+  - Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
+  - Einsicht zur Nachklausur: Wir können den Scanner erst Ende Oktober benutzen, Sie erhalten dann eine E-Mail von uns.
   - **Ausweise:** Studiausweis und Lichtbildausweis mitbringen und während der Klausur offen liegen lassen!
   - **Corona:**
     - **3G-Nachweis:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. Der Test darf höchstens 24 Stunden zurückliegen. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!** Falls Sie einen Test gemacht haben, der positiv ist, kommen Sie nicht zur Klausur. Informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de) und werden Sie wieder gesund.
@@ -124,6 +124,21 @@ E Kapitel 3 ohne 3.6 und 3.9 · [Plan](dynamicprogramming-wochenplan.pdf) · [�
 
 1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
 E Kapitel 4 · [Plan](greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📽️1](greedyalgorithms-intro.mp4) · [📽️2](greedyalgorithms-tapes.mp4) · [📽️3](greedyalgorithms-scheduling.mp4) · [📽️4](greedyalgorithms-huffman.mp4) · [📽️5](greedyalgorithms-stablematching.mp4) · [Folien](greedyalgorithms.pdf)<br>
+
+## Lernziele
+
+Nach der Veranstaltung können die Studierenden:
+
+- Algorithmen aus dem Grundkanon beschreiben und anwenden,
+- Pseudocode interpretieren und von natürlicher Sprache sowie Programmiersprachen abgrenzen,
+- sich über fachbezogene Inhalte mündlich und schriftlich austauschen,
+- die Funktionsweise und Eigenschaften von gegebenen Algorithmen und Datenstrukturen an kleinen Beispielen demonstrieren,
+- die Laufzeit und den Platzbedarf von gegebenen Algorithmen ermitteln, vergleichen und bewerten,
+- praxisnahe Fragestellungen als algorithmische Probleme formulieren und einschätzen, welcher Algorithmus / welche Datenstruktur zu deren Lösung geeignet ist,
+- gegebene Algorithmen und Datenstrukturen an neue Problemstellungen anpassen,
+- die Korrektheit und Komplexität von gegebenen Algorithmen und Datenstrukturen mathematisch begründen,
+- neue Algorithmen und Datenstrukturen mit Hilfe grundlegender Entwurfsmethoden entwickeln,
+- als Pseudocode gegebene Algorithmen und Datenstrukturen in einer Programmiersprache korrekt implementieren und testen.
 
 ## Übungen
 
