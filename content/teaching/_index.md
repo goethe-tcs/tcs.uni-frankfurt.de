@@ -10,21 +10,21 @@ toc: no
 
 ### SoSe 2022 (tentative)
 
-- Komplexitätstheorie, Di 10-14, Mi 10-12.
+- Komplexitätstheorie (4+2), Di 10-14, Mi 10-12.
 
 ### WiSe 2021/22 (current semester)
 
-- Vorlesung (4+2): [Algorithmen und Datenstrukturen 2](/algo2)
+- Vorlesung (3+2): [Algorithmen und Datenstrukturen 2](/algo2)
 - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### SoSe 2021
 
-- Vorlesung (4+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
+- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
 - Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
 
 ### WiSe 2020/21
 
-- Vorlesung (4+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
+- Vorlesung (2+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
 - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### Past courses offered by Holger Dell
