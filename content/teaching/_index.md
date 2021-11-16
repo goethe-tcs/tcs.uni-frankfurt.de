@@ -10,7 +10,8 @@ toc: no
 
 ### SoSe 2022 (tentative)
 
-- Komplexitätstheorie (4+2), Di 10-14, Mi 10-12.
+- [Complexity Theory](/complexity) (4+2), Di 10-14, Mi 10-12.
+- Seminar: Current Topics in Theoretical Computer Science ("Aktuelle Themen der Theoretischen Informatik"). [Master ATTI-MS, M-AuK-S-K und Bachelor ATTI-BS, B-AUK-S]
 
 ### WiSe 2021/22 (current semester)
 
