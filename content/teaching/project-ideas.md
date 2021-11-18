@@ -215,6 +215,27 @@ In particular:
 - Watch the entertaining one-hour talk [Linguistics, Style and Writing in the 21st Century](https://youtu.be/OV5J6BfToSw) by Steven Pinker. Also consider reading parts of his book _The sense of style_ [[UB](https://hds.hebis.de/ubffm/Record/HEB363194762) · [pdf](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf)].\
   _Reason: Many authors of scientific texts write in convoluted sentences and make heavy use of complicated words. They do this, because they think it sounds more scientific. You shouldn't fall into this trap. Instead, you should prefer short, active sentences._
 
+### Guidelines for Implementation projects
+
+Implementation projects have some or all of the following components:
+
+- Must-read: Chapters 1 and 2 of McGeoch (2012). *A Guide to Experimental Algorithmics*. [[full text in the library](https://hds.hebis.de/ubffm/Record/HEB418724474)]
+- Formulate your hypotheses:
+  - “When executing our implementation on inputs X Y Z, we will measure a running time O(2^k n).”
+  - “Reduction rule X reduces graphs more than reduction rule Y.“
+  - “For graphs of at most 20 nodes, the adjacency matrix representation is faster for algorithm Z than the adjacency list representation.”
+- Design suitable experiments to test your hypotheses. For example:
+  - Which factors does the experiment have (e.g., input parameters n and k, input instances, algorithm parameters, used data structures, ...)
+  - Which combination of factors will you test and how? (e.g., fully factorial, doubling, ...)
+  - Which design parameters are fixed? (e.g., the hardware on which you are testing.)
+  - Systematically and automatically measure the running time, branch mispredictions, cache misses, ...
+  - Choose and/or generate your input instances.
+  - Use suitable plots (log-plots, log-log-plots, n vs run time, ...)
+- Algorithm-Tuning:
+  - Improve the implementation by selecting better algorithms and data structures.
+- Code-Tuning:
+  - Optimize your code by using profilers and flame graphs.
+
 ### Formalities
 
 If the project has not formally started yet, and I haven't heard from you in three weeks, then I may give the topic to another student. (Note that formally starting the project requires several people signing a form, or the project being officially registered with the university.)
