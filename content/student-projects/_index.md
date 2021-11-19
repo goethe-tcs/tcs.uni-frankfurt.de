@@ -1,7 +1,7 @@
 ---
 title: "Project Ideas"
 author: "[Holger Dell](/~dell)"
-date: "2019-01-12"
+date: "2021-11-19"
 show_author_date_info: yes
 estimated_reading_time: yes
 toc: yes
@@ -9,15 +9,38 @@ toc: yes
 
 ## Who is this document for?
 
-This document is intended for students at Goethe University who want to write a Bachelor/Master thesis in the theoretical computer science group.
+This document is intended for students at Goethe University who want to work on a project in the theoretical computer science group.
+Possible projects include:
+
+- Bachelor's thesis (~9 weeks full-time)
+- Master's thesis (~6 months full-time)
+- _Forschungsprojekt_ (Bachelor: 3CP or 6CP; Master: 8 CP)
+- _Praktikum Experimentelle Algorithmik_ (Master: 8 CP)
+
+## How to find a topic
+
+**Before** you ask us for a topic you must:
+
+- Have successfully completed all basic courses.
+- Read this entire page.
+
+In order to ask us for a topic:
+
+- We accept new students only at the start of each semester!
+- Please send an email to [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de). In your first email:
+  - Clearly state the type of project you are interested in and why you are interested in it.
+  - Beyond the basic lectures, which theory experience do you have? (seminars, advanced lectures, etc.)
+  - As specifically as possible, let us know your timeline! When do you want to finish the project, when can you start it, how much time will you be able to put into the project?
+  - If it is a Bachelor project, please tell us your ALGO1 and ALGO2 grades.
+  - If you have a concrete topic idea, please mention it.
 
 ## Project Types
 
 Depending on your interests and talents, different _types_ of projects are possible:
 
-- implementation and experimentation
+- implementation and experimentation (recommended for most Bachelor students)
 - literature review
-- problem-solving
+- creative problem-solving
 
 Often, there is some overlap between different types.
 
@@ -34,7 +57,7 @@ In this type of project, you will:
 
 ### Literature review
 
-In this type of project, you will choose a topic in theoretical computer science and write a literature review of existing research on this topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper.
+In this type of project, you will review the literature on a particular topic. This involves tracking down as many relevant papers and preprints on the topic as feasible, reading and understanding them, identifying the most important results as well as the most important open problems and goals of the research direction, and writing a comprehensive report. A project with a more limited scope could be to rewrite a specific proof from a research paper.
 
 ### Problem-solving
 
@@ -152,7 +175,7 @@ All products generated in your projects are developed under an open-source licen
 
 ## Supervision Process and Grading
 
-As supervisor, I'm in a strange role conflict: During the project, I am your coach and want you to succeed, and in the end I'm expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
+A supervisor is in a strange role conflict: During the project, they are your coach and want you to succeed, and in the end they are expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
 
 ### Timeline
 
