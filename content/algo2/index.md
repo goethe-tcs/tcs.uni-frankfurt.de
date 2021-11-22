@@ -38,19 +38,19 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 8. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-9. **Turing-Maschinen**
+9. **Recap**
 
-10. **Berechenbarkeit:** Halteproblem, Satz von Rice
+10. **Berechnungsmodelle:** Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
 
-11. **Lineare Programmierung I:** Simplex-Algorithmus
+11. **Berechenbarkeit:** Halteproblem, Satz von Rice
+
+12. **Lineare Programmierung I:** Simplex-Algorithmus
   
-12. **Lineare Programmierung II:** Dualität
+13. **Lineare Programmierung II:** Dualität
 
-13. **Approximationsalgorithmen**
+14. **Approximationsalgorithmen**
 
-14. **Parametrisierte Algorithmen**
-
-15. **Recap**
+15. **Parametrisierte Algorithmen**
 
 ## Literatur
 
