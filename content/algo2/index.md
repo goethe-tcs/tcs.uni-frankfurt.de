@@ -6,15 +6,24 @@ qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=
 toc: yes
 ---
 
-## Ort und Zeit
 
-(Diese Pläne sind vorläufig.)
+## Übersicht
 
+<!--
 - **Präsenztermine.** (Zutritt nur mit offiziellem 3G-Nachweis und Lichtbildausweis.)
   - Di 08:00–09:45 s.t., Bockenheim Hörsaal VI.
   - Do 08:00–09:45 s.t., Bockenheim Hörsaal IV (und ggf. Hörsaal III).
+-->
 <!--- **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.-->
-- **Moodle.** Die meisten Lernangebote finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
+
+- Ab sofort finden die Veranstaltungen Di/Do 8:00-9:45 **vollständig online** statt:
+  - Der Zoom-Link hat die Meeting-ID [**966 9678 8856**](https://uni-frankfurt.zoom.us/j/96696788856?pwd=ZG9OMFkzOUh1eGdtUXB2bWluMjlyZz09) und den Passcode 004040. Bei schlechter Internetverbindung kann man sich auch telefonisch einwählen unter der Nummer `+49 69 3807 9883`.
+  - Zeiten:
+    - **8:00-8:15 auf Zoom.** Besprechung, Tipps, Überblick, Einordnung, Beispiele.
+    - **8:15-9:15 auf Discord.** Die Tutor:innen sind auf Discord verfügbar! Arbeiten Sie dort in Gruppen und rufen Sie die Tutor:innen!
+    - **9:15-9:45 auf Zoom.** Lösungsspaziergang. (Sie dürfen *keine Screenshots oder Mitschnitte* machen, weitergeben oder empfangen!)
+  - Die Helpdesks finden weiterhin als Mix zwischen Online und Präsenz statt.
+- **Moodle.** Die meisten Lernangebote und Informationen finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
 - **Bei wichtigen Fragen:** Sie erreichen den _senior staff_ unter [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
 ## Wochenplan
