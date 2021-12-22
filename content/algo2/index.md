@@ -73,16 +73,22 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 Nach der Veranstaltung können die Studierenden:
 
-- Algorithmen und Datenstrukturen aus dem erweiterten Grundkanon und den Vertiefungsgebieten beschreiben, anwenden, und implementieren,
-- sie an neue Problemstellungen anpassen,
-- Eigenschaften (wie etwa die Komplexität und Korrektheit) dieser und ähnlicher Algorithmen untersuchen und begründen,
-- neue Algorithmen für verwandte Problemstellungen entwickeln.
+- Algorithmen und Datenstrukturen aus dem erweiterten Grundkanon und den Vertiefungsgebieten **beschreiben**, **anwenden**, und **implementieren**,
+- sie an neue Problemstellungen **anpassen**,
+- Eigenschaften (wie etwa die Komplexität und Korrektheit) dieser und ähnlicher Algorithmen **untersuchen** und **begründen**,
+- neue Algorithmen für verwandte Problemstellungen **entwickeln**.
 
 Außerdem können die Studierenden:
 
-- wichtige Ergebnisse und Konzepte in den Bereichen der NP-Vollständigkeit und Entscheidbarkeit wiedergeben und erläutern,
-- einschätzen, welche praktischen und theoretischen Konsequenzen die Hartnäckigkeit eines Problems hat,
-- untersuchen und begründen, ob und warum ein gegebenes Problem hartnäckig ist.
+- wichtige Ergebnisse und Konzepte in den Bereichen der NP-Vollständigkeit und Entscheidbarkeit **wiedergeben**, **anwenden**, und **erläutern**,
+- **einschätzen**, welche praktischen und theoretischen Konsequenzen die Hartnäckigkeit eines Problems hat,
+- **untersuchen** und **begründen**, ob und warum ein gegebenes Problem hartnäckig ist.
+
+## Inhalt
+
+- **Erweiterter Grundkanon von Algorithmen und Datenstrukturen:** All Pairs Shortest Paths, Network Flow, Amortisierte Analyse, Randomisierte Algorithmen, Lineare Programmierung
+- **Hartnäckigkeit:** Reduktionen, P und NP, NP-Vollständigkeit, Berechenbarkeit
+- **Vertiefungsgebiete**, die in der Frankfurter Theorie vertreten sind: Approximationsalgorithmen, Parametrisierte Algorithmen, und weitere.
 
 ## Allgemeines
 
