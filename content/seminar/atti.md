@@ -19,8 +19,8 @@ Der Fokus liegt auf der Theorie, aber das Seminar wird ein kleines Praktikum ent
 
 ## Organisation
 
-- Die **Vorbesprechung** findet am Mittwoch, dem 6.4., statt und dient der Themenvergabe.
-- Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 14-16 Uhr** statt.
+- Die **Vorbesprechung** findet am Mittwoch, dem 6.4., um 14:15 statt und dient der Themenvergabe.
+- Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
 
 ## Lernziele
 

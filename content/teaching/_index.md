@@ -10,9 +10,9 @@ toc: no
 
 ### SoSe 2022 (tentative)
 
-- [Complexity Theory](/complexity) (4+2), Di 10-14, Mi 10-12.
-- Seminar: [Current Topics in Theoretical Computer Science | Graph kernels](/seminar/atti), Di 14-16.
-- Oberseminar: Di 8-10.
+- [Complexity Theory](/complexity) (4+2), Di 10-14, Mi 10-12, H9.
+- Seminar: [Current Topics in Theoretical Computer Science | Graph kernels](/seminar/atti), Di 8-10, H9.
+- Oberseminar: Di 14-16, H10.
 
 ### WiSe 2021/22 (current semester)
 
