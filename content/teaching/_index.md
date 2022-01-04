@@ -12,6 +12,7 @@ toc: no
 
 - [Complexity Theory](/complexity) (4+2), Di 10-14, Mi 10-12.
 - Seminar: [Current Topics in Theoretical Computer Science | Graph kernels](/seminar/atti), Di 14-16.
+- Oberseminar: Di 8-10.
 
 ### WiSe 2021/22 (current semester)
 
