@@ -37,7 +37,7 @@ Nach dem Seminar kann der:die Student:in:
 Um das Seminar zu bestehen, werden folgende Aktivitäten erwartet:
 
 - Einen kurzen (~15 Minuten) Vortrag über ein "Grundlagen" Thema halten,
-- einen längeren (~45 Minuten) Vortrag über ein fortgeschrittenes Kapitel im Buch halten,
+- einen längeren (~45 Minuten) Vortrag über ein fortgeschrittenes Thema halten,
 - sich aktiv an der Diskussion beteiligen,
 - eigenständig offene Fragen identifizieren und das Lehrpersonal **vor** dem Vortrag hierzu befragen,
 - 7 Tage **vor** jedem Vortrag: einen Entwurf der Folien oder des geplanten Tafelanschriebs an das Lehrpersonal senden. Darauf erhalten Sie dann in einem persönlichen Gespräch Feedback, das Sie in den Vortrag einarbeiten.
