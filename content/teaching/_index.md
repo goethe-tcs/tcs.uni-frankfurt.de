@@ -4,15 +4,11 @@ layout: single
 toc: no
 ---
 
-### Bachelor/Master thesis projects
-
-- See [Project Ideas](project-ideas)
-
 ### SoSe 2022 (tentative)
 
-- [Complexity Theory](/complexity) (4+2), Di 10-14, Mi 10-12, H9.
-- Seminar: [Current Topics in Theoretical Computer Science | Graph kernels](/seminar/atti), Di 8-10, H9.
-- Oberseminar: Di 14-16, H10.
+- Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
+- Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8-10, H9.
+- [Bachelor's / Master's /research projects](/projects): Di 14-16, H10.
 
 ### WiSe 2021/22 (current semester)
 

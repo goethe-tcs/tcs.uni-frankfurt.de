@@ -28,7 +28,7 @@ In this type of project, you will:
 - Contribute to an open source implementation of a piece of software.
 - Use industry-standard programming languages that are suitable for the chosen topic. Typical programming languages are Rust, C/C++, Python, JavaScript.
 - Use industry-standard collaboration tools (git).
-- Depending on your chosen topic, perform experiments and optimize your software.
+- Depending on your chosen topic, design and perform systematic algorithmic performance experiments, and optimize your software.
 - Write a thesis that reviews the chosen topic, your approach, describes your implementation, and your experiments.
 - It is recommended that you publish it on your GitHub page.
 

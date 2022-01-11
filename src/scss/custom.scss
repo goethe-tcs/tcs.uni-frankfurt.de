@@ -131,3 +131,41 @@ a:active,
   text-decoration: none;
   color: inherit;
 }
+
+.member-list {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fit, 150px);
+  justify-content: left;
+  margin: 0;
+  padding: 2em 1em;
+  text-align: center;
+  width: 100%;
+  list-style: none;
+}
+
+.member-list a:hover div {
+  background-color: var(--link-bg-hover);
+}
+
+.member-photo > img {
+  width: 100%;
+}
+
+.member-photo {
+  border-radius: 1em;
+  height: 150px;
+  box-sizing: border-box;
+  overflow-y: hidden;
+  margin-bottom: 5px;
+}
+
+.member-photo-empty {
+  background-color: var(--gu-base-color);
+  padding-top: 1rem;
+}
+
+.member-position {
+  color: gray;
+  font-size: smaller;
+}

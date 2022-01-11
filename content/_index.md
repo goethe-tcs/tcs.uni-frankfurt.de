@@ -2,15 +2,15 @@
 title: Theoretical Computer Science Group
 layout: single
 ---
-Part of the Computer Science Department at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
+
+This group studies the theoretical foundations of computer science.
+We value _excellence_ in research and teaching, _joy_ for what we do, and _transparency_ of processes.
+We are part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
 
 ### Members
 
-- [Holger Dell](/~dell) (Professor)
-- [Claudia Gressler](https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html) (Secretary)
-- Anselm Haak (Postdoc)
-- Leo Krull (PhD Student)
-- Melvin Kallmayer (Research Assistant)
+{{< members >}}
+
 <!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
 
 ### Learning Activities in Winter 2021/22
@@ -50,14 +50,15 @@ _Praktikum_, _Forschungsprojekt_, or Bachelor/Master thesis.
 
 </div>
 </a>
-<a href="/teaching/project-ideas/">
+<a href="/projects">
 <div class="course-img">
 <img src="/teaching/cr.png" alt="graph" width="129" height="150">
 </div>
 <div class="course-desc">
 
 **Thesis:**\
-Want to write a Bachelor/Master thesis?
+Want to write a Bachelor's thesis, Master's thesis, or do a research project in the summer term of 2022?\
+Apply by **April 1, 2022**!
 
 </div>
 </a>
@@ -65,7 +66,7 @@ Want to write a Bachelor/Master thesis?
 
 ### Related research groups
 
-In Frankfurt, we have close connections with these research groups:
+In Frankfurt, we have close connections to these research groups:
 
 - [Algorithms, Dynamics, and Information Flow in Networks](https://adyn.cs.uni-frankfurt.de/) (DFG research unit)
 - [Algorithm Engineering](https://ae.cs.uni-frankfurt.de/) (research group)

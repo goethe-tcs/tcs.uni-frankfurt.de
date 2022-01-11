@@ -1,0 +1,11 @@
+<ul class="member-list">
+{{ range $.Site.Data.members }}
+    <li>
+    {{ if .url }}<a href="{{ .url }}">{{ end }}
+    <div class="member-photo{{ if not .photo }} member-photo-empty{{ end }}"><img src="{{ if .photo }}{{ .photo }}{{ else }}/images/Goethe-weiss.svg{{ end }}" alt="Photo" /></div>
+    <div class="member-name">{{ .name }}</div>
+    {{ if .url }}</a>{{ end }}
+    <div class="member-position">{{ .position }}</div>
+    </li>
+{{ end }}
+</ul>

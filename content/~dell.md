@@ -42,7 +42,7 @@ At Saarland University, I have supervised two PhD students:
 and
 [Marc Roth](https://www.roth-marc.com/) (now: Postdoctoral Junior Research Fellow at Merton College, Oxford University).
 
-##  <i class="fas fa-search"></i> Addresses
+## <i class="fas fa-search"></i> Addresses
 
 **Mail:**\
 Prof. Holger Dell\
@@ -62,4 +62,4 @@ Germany
 IT University of Copenhagen\
 Rued Langgaards Vej 7\
 DK-2300 København S\
-Denmark 
+Denmark
