@@ -152,7 +152,14 @@ All products generated in your projects are developed under an open-source licen
 
 ## Supervision Process and Grading
 
-As supervisor, I'm in a strange role conflict: During the project, I am your coach and want you to succeed, and in the end I'm expected to be an impartial referee and give you a grade. To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
+The supervisor is in a strange role conflict:
+
+- They want to offer a project that is interesting to them and their research.
+- They want to offer a project that is feasible, challenging, and fun for you.
+- During the project, they are your coach and want you to succeed.
+- After the project, they are expected to be an impartial referee and give you a grade.
+
+To reduce the stress level of everyone involved, let's explicitly discuss some expectations upfront.
 
 ### Timeline
 
