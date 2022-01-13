@@ -5,7 +5,9 @@ layout: single
 
 This group studies the theoretical foundations of computer science.
 We value _excellence_ in research and teaching, _joy_ for what we do, and _transparency_ of processes.
+<!--
 We are part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
+-->
 
 ### Members
 
@@ -13,56 +15,7 @@ We are part of the [Computer Science Department](https://www.goethe-university-f
 
 <!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
 
-### Learning Activities in Winter 2021/22
-
-<div class="course-list">
-<a href="/algo2/">
-<div class="course-img">
-<img src="/algo2/pnp.svg" alt="Venn diagram of P and NP" width="100" height="100">
-</div>
-<div class="course-desc">
-
-**Course:**\
-Algorithmen und Datenstrukturen 2
-
-</div>
-</a>
-<a href="/seminar/wigderson/">
-<div class="course-img">
-<img src="/seminar/wigderson-cover.jpg" alt="book cover" width="68" height="100">
-</div>
-<div class="course-desc">
-
-**Seminar:**\
-Mathematics and Computation
-
-</div>
-</a>
-<a href="/pace/">
-<div class="course-img">
-<img src="/pace/turtle.svg" alt="graph" width="117" height="100">
-</div>
-<div class="course-desc">
-
-**PACE challenge:**\
-Participate in a fun, group-based implementation challenge!\
-_Praktikum_, _Forschungsprojekt_, or Bachelor/Master thesis.
-
-</div>
-</a>
-<a href="/projects">
-<div class="course-img">
-<img src="/teaching/cr.png" alt="graph" width="129" height="150">
-</div>
-<div class="course-desc">
-
-**Thesis:**\
-Want to write a Bachelor's thesis, Master's thesis, or do a research project in the summer term of 2022?\
-Apply by **April 1, 2022**!
-
-</div>
-</a>
-</div>
+{{% current-courses "Winter 2021/22" %}}
 
 ### Related research groups
 

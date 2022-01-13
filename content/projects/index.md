@@ -1,5 +1,5 @@
 ---
-title: "Student Projects"
+title: "Thesis Projects"
 author: "[Holger Dell](/~dell)"
 date: "2021-01-11"
 show_author_date_info: no
@@ -7,23 +7,46 @@ estimated_reading_time: no
 toc: no
 ---
 
-Each semester, we foster a friendly community of students who are excited to do fun projects in theoretical computer science!
-Possible project types include:
+Interested in a fun and challenging thesis project in theoretical computer science?\
+Great! Read this entire page and apply by **Friday, April 1, 2022**.
 
-- Bachelor's thesis (~9 weeks full-time)
-- Master's thesis (~6 months full-time)
-- _Forschungsprojekt_ (Bachelor: 3CP or 6CP; Master: 8 CP)
-- _Praktikum Experimentelle Algorithmik_ (Master: 8 CP)
+### Prerequisites
 
-Interested? Great! Read this entire page and apply by **Friday, April 1, 2022**.
-
-## Prerequisites
-
-- You must have successfully completed
-  - all basic mathematics and algorithms courses, and
-  - a [course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/).
+- You must have **successfully completed most coursework**, including a [course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/).
 - If you want to write a Master's thesis, you must have attended at least two advanced courses and/or seminars in theory.
+- Specific topics may have additional prerequisites.
 
+### Topics
+
+We offer coding projects as well as theory projects.
+Please come back here on **Monday, March 21, 2022**, we will announce available thesis topics then.
+[This page](/teaching/project-ideas) can give you a general flavor of possible topics and describes the supervision process in more detail.
+
+### How to apply?
+
+- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **Friday, April 1, 2022**. If you miss the deadline, you will have to wait until October 1, 2022.
+- In your first email, answer the following questions:
+  - Why are you interested in doing a project in theoretical computer science as opposed to some other area?
+  - Which theory experience do you have? (seminars, advanced lectures, teaching assistant, etc.)
+  - When do you want to finish the project, when can you start it, how much time will you be able to put into the project?
+  - What grades did you have in ALGO1 and ALGO2?
+  - Are you interested in a Bachelor's thesis, Master's thesis, or research project?
+  - Which topic would you be interested to work on?
+  - Would you be interested to work in a small group? (yes, you can write a Bachelor's thesis in a group of 2-3 people.)
+- Topics will be assigned at the first meeting, on **Tuesday, April 12, 2022, at 2-4pm** in room **H 10** (or online).
+
+### Timeline
+
+- April 1: Application deadline.
+- April 12: Topics assigned.
+- April 22: Draft of project plan handed in for feedback.
+- April 29: Give a 20-minute talk about your planned project.
+- May 2: Project plan finalized & official registration of thesis with the [examination office](https://www.uni-frankfurt.de/103337868).
+- June 20: Full thesis draft handed in for feedback.
+- July 4: Thesis officially submitted.
+- July 12: Give a 30-minute talk about the results of your project.
+
+<!-- 
 ## Project Flavor
 
 All projects offer a fun challenge.
@@ -35,16 +58,12 @@ Depending on your interests and talents, different _flavors_ of projects are pos
 Often, there is some overlap between different project flavors.
 [This page](/teaching/project-ideas) describes possible projects in more detail.
 
-## How to apply for a project
 
-- We accept new students at the start of each semester. If you are interested, email us by **April 1, 2022**. (If you miss the deadline, you will have to wait until October 1, 2022.)
-- Topics will be assigned at the first meeting, on **Tuesday, April 12, 2022, at 2-4pm** in room **H 10** (or online).
-- **Timeline.** In general, the thesis project must be completed during class period and not during the semester break. For a Bachelor's thesis, this means you will have 1-3 weeks to agree with your supervisor on a project plan. Then you will officially register your thesis project and finish the thesis within 9 weeks.
-- Please email [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de). In your first email:
-  - Clearly state **why** you are interested in doing a project in theoretical computer science as opposed to some other area. Why are you applying here?
-  - Beyond the basic lectures, which **theory experience** do you have? (seminars, advanced lectures, etc.)
-  - As specifically as possible, let us know your timeline! **When** do you want to finish the project, when can you start it, how much time will you be able to put into the project?
-  - Please tell us your ALGO1 and ALGO2 grades.
-  - Which project type are you interested in? (e.g., Bachelor's thesis)
-  - Which project flavor are you interested in? (e.g., implementation or proving theorems).
-  - Would you be interested to work in a small group? (yes, you can write a Bachelor's thesis in a group of 2-3 people.)
+## Formalities
+
+Possible project types include:
+
+- Bachelor's thesis (~9 weeks full-time)
+- Master's thesis (~6 months full-time)
+- _Forschungsprojekt_ (Bachelor: 3CP or 6CP; Master: 8 CP)
+- _Praktikum Experimentelle Algorithmik_ (Master: 8 CP) -->
