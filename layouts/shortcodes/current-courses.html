@@ -1,0 +1,18 @@
+### Learning Activities in {{ .Get 0 }}
+
+<div class="course-list">
+{{ range (index $.Site.Data.courses (.Get 0)) }}
+<a href="{{ .url }}">
+    <div class="course-img">
+    <img src="{{ .img }}" width="{{ .imgw }}" height="{{ .imgh }}">
+    </div>
+    <div class="course-desc">
+        <p>
+        <b>{{ .type | markdownify }}:</b><br>
+        {{ .desc | markdownify }}
+        </p>
+    </div>
+</a>
+{{ end }}
+</div>
+    

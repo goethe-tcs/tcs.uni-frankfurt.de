@@ -1,0 +1,43 @@
+Summer 2022:
+  - url: /complexity/
+    img: /complexity/AB-cover.jpg
+    imgw: 68
+    imgh: 100
+    type: Course
+    desc: Complexity Theory
+    loc: Di 10-14, Mi 10-12, H9
+  - url: /seminar/atti/
+    img: /teaching/cr.png
+    imgw: 129
+    imgh: 150
+    type: Seminar
+    desc: "Aktuelle Themen der Theoretischen Informatik: Graph kernels"
+    loc: Di 8-10, H9
+Winter 2021/22:
+  - url: /algo2/
+    img: /algo2/pnp.svg
+    imgw: 100
+    imgh: 100
+    type: Course
+    desc: Algorithmen und Datenstrukturen 2
+  - url: /seminar/wigderson/
+    img: /seminar/wigderson-cover.jpg
+    imgw: 68
+    imgh: 100
+    type: Seminar
+    desc: Mathematics and Computation
+  - url: /pace/
+    img: /pace/turtle.svg
+    imgw: 117
+    imgh: 100
+    type: PACE challenge
+    desc:
+      Participate in a fun, group-based implementation challenge!<br>
+      Praktikum, Forschungsprojekt, or Bachelor/Master thesis.
+  - url: /projects/
+    img: /teaching/cr.png
+    imgw: 129
+    imgh: 150
+    type: Thesis
+    desc:
+      Apply by **April 1, 2022** to write a Bachelor's thesis, Master's thesis, or do a research project in the summer term of 2022.
