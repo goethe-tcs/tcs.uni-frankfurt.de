@@ -3,17 +3,23 @@ title: Theoretical Computer Science Group
 layout: single
 ---
 
-This group studies the theoretical foundations of computer science.
-We value _excellence_ in research and teaching, _joy_ for what we do, and _transparency_ of processes.
-<!--
-We are part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
--->
+We value the *joy* of algorithmic thinking and *excellence* in research and teaching.
+
+The group is part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
+
+<!-- 
+For the *joy* of algorithmic thinking and the *beauty* of computational complexity.
+We value _excellence_ in research and teaching. -->
+<!-- This group studies the theoretical foundations of computer science. -->
+<!-- and _transparency_ of processes. -->
 
 ### Members
 
 {{< members >}}
 
-<!-- **You? We're hiring 2 people (PhD/Postdoc), see our [call for applications](positions/).** -->
+### Research
+
+We study _theoretical computer science_, broadly understood. Particular areas of interest include algebraic graph algorithms, dynamic algorithms, graph kernels, combinatorics, and complexity theory. [More...](/research/)
 
 {{% current-courses "Winter 2021/22" %}}
 

@@ -4,25 +4,25 @@ layout: single
 toc: no
 ---
 
-### SoSe 2022 (tentative)
+### Summer 2022 (tentative)
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
 - Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8-10, H9.
 - [Bachelor's / Master's /research projects](/projects): Di 14-16, H10.
 
-### WiSe 2021/22 (current semester)
+### Winter 2021/22 (current semester)
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 2](/algo2)
 - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
-### SoSe 2021
+### Summer 2021
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
 - Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
 
-### WiSe 2020/21
+### Winter 2020/21
 
-- Vorlesung (2+2): [Aktuelle Themen der Theoretischen Informatik 1+2](winter20/ati)
+- Vorlesung (2+2): [Fine-grained Parameterized Algorithms](/parameterized)
 - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
 
 ### Past courses offered by Holger Dell
