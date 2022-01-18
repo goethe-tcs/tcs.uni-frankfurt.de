@@ -3,7 +3,7 @@ title: "Aktuelle Themen der Theoretischen Informatik: Graph kernels (Seminar)"
 shortname: "ATTI-MS, ATTI-BS, M-AuK-S-K, B-AUK-S"
 semester: "SoSe-2022"
 #qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=326013&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-toc: yes
+toc: no
 ---
 
 Das Seminar deckt die gesamte Bandbreite von **theoretischen Grundlagen** bis zur **praktischen Umsetzung** des maschinellen Lernens auf Graphen an.
@@ -23,7 +23,7 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 - Die **Vorbesprechung** findet am Mittwoch, dem 6.4., um 14:15 statt und dient der Themenvergabe.
 - Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
 - Woche 1: **"Wie hält man einen Vortrag?"**
-- Woche 2: **"Wie schreibt man eine Ausarbeitung?"**
+- Woche 2: **"Wie liest man ein Paper?"** (o.ä.)
 - Woche 3-6: jeweils 3 kurze Vorträge zu einführenden Grundlagen
 - Woche 7-12: jeweils 2 lange Vorträge über Forschungsarbeiten
 - Woche 13-14: Puffer
@@ -81,8 +81,3 @@ Nach jedem Vortrag gibt es eine offene Feedbackrunde im Plenum und eine geschlos
 - **Seien Sie ehrlich.** Es wird nicht erwartet, dass Sie alles wissen oder jede Frage beantworten können. Wenn Sie verwirrt sind, etwas nicht verstehen, oder einen Teil des Inhalts aus Zeitgründen nicht detailliert lesen konnten, stehen Sie dazu. Das ist wissenschaftliches Arbeiten.
 - **Seien Sie witzig.** Bauen Sie einen Witz oder einen Spaß in den Vortrag ein (aber auf keinen Fall mehr als zwei Witze).
 - **Weniger ist mehr.** Gehen Sie lieber bei wenigen Unterthemen in die Tiefe, als alles nur halbgar und halbverständlich anzureißen.
-
-## Literatur
-
-- Avi Wigderson "Mathematics and Computation" [[Universitätsbibliothek](https://hds.hebis.de/ubffm/Record/HEB455451966) | [book website](https://www.math.ias.edu/avi/book) | ISBN 978-0691189130]
-- Ergänzende Literatur je nach Thema (die jeweiligen Referenzen finden sich im Buch)
