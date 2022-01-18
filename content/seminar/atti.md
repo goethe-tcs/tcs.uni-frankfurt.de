@@ -6,21 +6,33 @@ semester: "SoSe-2022"
 toc: yes
 ---
 
-Das Thema des Seminars ist _Graph Kernels_. Hierbei geht es um die algorithmischen und theoretischen Grundlagen des maschinellen Lernens auf Graphen, sowie dazu verwandte Themen. Das Seminar bietet einen Einblick in aktuelle Forschungsfragen und ist für Master- und fortgeschrittene Bachelorstudent:innen geeignet.
+Das Seminar deckt die gesamte Bandbreite von **theoretischen Grundlagen** bis zur **praktischen Umsetzung** des maschinellen Lernens auf Graphen an.
+Das Thema liegt an der Schnittstelle zwischen Graphentheorie, Theorie der Algorithmen, und maschinellem Lernen.
+Das Seminar bietet einen Einblick in aktuelle Forschungsfragen und ist für Master- und fortgeschrittene Bachelorstudent:innen der Informatik und der Mathematik geeignet.
 
-Der Fokus liegt auf der Theorie, aber das Seminar wird ein kleines Praktikum enthalten, in dem wir lernen, existierende _machine learning tools_ für Graphen in Python zu nutzen.
+Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, Komplexität) und manche Themen sind praktischer Natur (Implementierung, Evaluation). Sie können sich zu Beginn des Seminars für ein Thema und damit einen Fokus entscheiden.
+
+## Dozent:in
+
+- [Holger Dell](/~dell/)
+- [Hilde Kuehne](https://hildekuehne.github.io/)
+- evtl. weitere
+
+## Ablauf
+
+- Die **Vorbesprechung** findet am Mittwoch, dem 6.4., um 14:15 statt und dient der Themenvergabe.
+- Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
+- Woche 1: **"Wie hält man einen Vortrag?"**
+- Woche 2: **"Wie schreibt man eine Ausarbeitung?"**
+- Woche 3-8: jeweils 3 kurze Vorträge zu einführenden Grundlagen
+- Woche 9-14: jeweils 2 lange Vorträge zu eine Forschungsarbeit
 
 ## Literaturliste [im Aufbau]
 
 - Morris et al. (2021): [Weisfeiler and Leman go Machine Learning: The Story so far](https://arxiv.org/pdf/2112.09992.pdf)
+- Morris et al. (2019): [Weisfeiler and Leman go neural: Higher-order graph neural networks](https://arxiv.org/pdf/1810.02244.pdf)
 - Dvorák (2006): [On recognizing graphs by numbers of homomorphisms](https://iti.mff.cuni.cz/series/2006/287.pdf)
 - Grohe, Rattan, Seppelt (2021): [Homomorphism Tensors and Linear Equations](https://arxiv.org/pdf/2111.11313.pdf)
-- Morris et al. (2019): [Weisfeiler and Leman go neural: Higher-order graph neural networks](https://arxiv.org/pdf/1810.02244.pdf)
-
-## Organisation
-
-- Die **Vorbesprechung** findet am Mittwoch, dem 6.4., um 14:15 statt und dient der Themenvergabe.
-- Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
 
 ## Lernziele
 
@@ -36,8 +48,8 @@ Nach dem Seminar kann der:die Student:in:
 
 Um das Seminar zu bestehen, werden folgende Aktivitäten erwartet:
 
-- Einen kurzen (~15 Minuten) Vortrag über ein "Grundlagen" Thema halten,
-- einen längeren (~45 Minuten) Vortrag über ein fortgeschrittenes Thema halten,
+- Einen kurzen (~15 Minuten) Vortrag über einführende Grundlagen halten,
+- einen längeren (~40 Minuten) Vortrag über ein fortgeschrittenes Thema halten,
 - sich aktiv an der Diskussion beteiligen,
 - eigenständig offene Fragen identifizieren und das Lehrpersonal **vor** dem Vortrag hierzu befragen,
 - 7 Tage **vor** jedem Vortrag: einen Entwurf der Folien oder des geplanten Tafelanschriebs an das Lehrpersonal senden. Darauf erhalten Sie dann in einem persönlichen Gespräch Feedback, das Sie in den Vortrag einarbeiten.
