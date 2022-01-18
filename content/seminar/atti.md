@@ -22,7 +22,7 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 
 - Die **Vorbesprechung** findet am Mittwoch, dem 6.4., um 14:15 statt und dient der Themenvergabe.
 - Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
-- Woche 1: **"Wie hält man einen Vortrag?"**
+- Woche 1: **"Wie hält man einen Vortrag?**
 - Woche 2: **"Wie liest man ein Paper?"** (o.ä.)
 - Woche 3-6: jeweils 3 kurze Vorträge zu einführenden Grundlagen
 - Woche 7-12: jeweils 2 lange Vorträge über Forschungsarbeiten
