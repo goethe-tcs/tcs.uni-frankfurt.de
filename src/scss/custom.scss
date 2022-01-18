@@ -144,7 +144,7 @@ a:active,
   list-style: none;
 }
 
-.member-list a:hover div {
+.member-list a:hover div.member-name {
   background-color: var(--link-bg-hover);
 }
 

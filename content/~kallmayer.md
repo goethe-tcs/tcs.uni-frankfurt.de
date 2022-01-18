@@ -1,11 +1,11 @@
 ---
-title: Leo Krull
+title: Melvin Kallmayer
 layout: member
 position: |
-    PhD Student
+    Research Assistant
 contact:
 #  - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-search": 'Room 301, RMS 11-15'
+  - "fa fa-search": 'Room 315, RMS 11-15'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
 #photo: /images/161019-HD-quadratic.jpg
 # profiles:

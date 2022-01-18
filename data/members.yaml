@@ -6,13 +6,15 @@
 - name: Claudia Gressler
   position: Secretary
   photo: https://www.ae.cs.uni-frankfurt.de/assets/staff_img/claudia_gressler.jpg
-  url: https://www.ae.cs.uni-frankfurt.de/staff/claudia_gressler.html
+  url: /~gressler
 
 - name: Anselm Haak
   position: Postdoc
+  url: /~haak
 
 - name: Leo Krull
   position: PhD Student
+  url: /~krull
 
 - name: Melvin Kallmayer
   position: Research Assistant

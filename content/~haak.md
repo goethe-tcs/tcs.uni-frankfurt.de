@@ -5,8 +5,8 @@ position: |
     Postdoc
 contact:
 #  - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-search": 'Campus Bockenheim ◦ Informatikgebäude ◦ Room 303'
-  - "fa fa-envelope": '<i>{first two letters of my firstname}{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
+  - "fa fa-search": 'Room 301, RMS 11-15'
+  - "fa fa-envelope": 'an<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
 #photo: /images/161019-HD-quadratic.jpg
 # profiles:
   # - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"

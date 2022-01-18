@@ -2,13 +2,13 @@
 title: Holger Dell
 layout: member
 position: |
-    Professor of Theoretical Computer Science at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de)
+    Professor of [Theoretical Computer Science](/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de)
 
     Associate Professor at <a href="https://algorithms.itu.dk">ITU Copenhagen</a>,
     affiliated with <a href="https://barc.ku.dk">BARC</a>
 contact:
   - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-search": 'Campus Bockenheim ◦ Informatikgebäude ◦ Room 302'
+  - "fa fa-search": 'Room 302, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>uni-frankfurt.de</span>'
 photo: /images/161019-HD-quadratic.jpg
 profiles:
@@ -25,10 +25,10 @@ profiles:
 
 My research in Theoretical Computer Science includes the theory of algorithms, complexity, and applications thereof. I have worked on combinatorial counting problems, algebraic algorithms, parameterized algorithms, fine-grained complexity theory, and kernelization lower bounds.
 
-## <i class="fas fa-university"></i> Service
+<!-- ## <i class="fas fa-university"></i> Service
 
 {{% holger-reviews %}}
-- [PACE](https://pacechallenge.org/about/) steering committee
+- [PACE](https://pacechallenge.org/about/) steering committee -->
 
 ## <i class="fas fa-heartbeat"></i> Curriculum Vitae
 

@@ -1,9 +1,9 @@
 <div class="header row-goldenratio">
-  <div>
-    <h1>{{ .Page.Title }}</h1>
-{{ with .Params.position }}
-    {{ . | $.RenderString }}
-{{ end }}
+  <h1 class="name">{{ .Page.Title }}</h1>
+  <div class="position">
+{{- with .Params.position -}}
+    {{- . | $.RenderString -}}
+{{- end -}}
   </div>
 {{ with .Params.photo }}
   <div class="photo-container">
