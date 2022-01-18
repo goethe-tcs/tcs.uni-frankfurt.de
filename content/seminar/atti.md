@@ -24,8 +24,9 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 - Das Seminar findet während der Vorlesungszeit voraussichtlich jede Woche **Dienstag 8-10 Uhr** in Bockenheim H9 statt.
 - Woche 1: **"Wie hält man einen Vortrag?"**
 - Woche 2: **"Wie schreibt man eine Ausarbeitung?"**
-- Woche 3-8: jeweils 3 kurze Vorträge zu einführenden Grundlagen
-- Woche 9-14: jeweils 2 lange Vorträge zu eine Forschungsarbeit
+- Woche 3-6: jeweils 3 kurze Vorträge zu einführenden Grundlagen
+- Woche 7-12: jeweils 2 lange Vorträge zu eine Forschungsarbeit
+- Woche 13-14: Puffer
 
 ## Literaturliste [im Aufbau]
 
