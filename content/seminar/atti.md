@@ -6,7 +6,7 @@ semester: "SoSe-2022"
 toc: no
 ---
 
-Das Seminar deckt die gesamte Bandbreite von **theoretischen Grundlagen** bis zur **praktischen Umsetzung** des maschinellen Lernens auf Graphen an.
+Das Seminar deckt die gesamte Bandbreite von **theoretischen Grundlagen** bis zur **praktischen Umsetzung** des maschinellen Lernens auf Graphen an, insbesondere wird es um _graph similarity_ und _graph kernels_ gehen.
 Das Thema liegt an der Schnittstelle zwischen Graphentheorie, Theorie der Algorithmen, und maschinellem Lernen.
 Das Seminar bietet einen Einblick in aktuelle Forschungsfragen und ist für Master- und fortgeschrittene Bachelorstudent:innen der Informatik und der Mathematik geeignet.
 
@@ -54,9 +54,9 @@ Um das Seminar zu bestehen, werden folgende Aktivitäten erwartet:
 - sich aktiv an der Diskussion beteiligen,
 - eigenständig offene Fragen identifizieren und das Lehrpersonal **vor** dem Vortrag hierzu befragen,
 - 7 Tage **vor** jedem Vortrag: einen Entwurf der Folien oder des geplanten Tafelanschriebs an das Lehrpersonal senden. Darauf erhalten Sie dann in einem persönlichen Gespräch Feedback, das Sie in den Vortrag einarbeiten.
-- 7 Tage nach dem langen Vortrag: eine Ausarbeitung (maximal fünf Seiten) an zwei andere Studierende senden. Der Vortrag fasst das Material in eigenen Worten zusammen, nennt Referenzen, und stellt Zusammenhänge zu anderen Themen des Buchs her.
-- zwei Ausarbeitungen von anderen Studierenden lesen und innerhalb von zwei Tagen Feedback geben,
-- 14 Tage nach dem langen Vortrag: die endgültige Version der Ausarbeitung zur Bewertung an das Lehrpersonal senden.
+- 7 Tage nach dem langen Vortrag: eine Ausarbeitung (maximal vier Seiten) an zwei andere Studierende senden. Der Vortrag fasst das Material in eigenen Worten zusammen, nennt Referenzen, und stellt Zusammenhänge zu anderen Themen des Buchs her.
+- 14 Tage nach dem langen Vortrag: Sie erhalten Feedback von den anderen Studierenden,
+- 21 Tage nach dem langen Vortrag: die endgültige Version der Ausarbeitung zur Bewertung an das Lehrpersonal senden.
 
 ## Bewertung
 
