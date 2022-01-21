@@ -32,12 +32,11 @@ Winter 2021/22:
     imgh: 100
     type: PACE challenge
     desc:
-      Participate in a fun, group-based implementation challenge!<br>
-      Praktikum, Forschungsprojekt, or Bachelor/Master thesis.
+      Participate in a fun, group-based implementation challenge!
   - url: /projects/
     img: /teaching/cr.png
     imgw: 129
     imgh: 150
     type: Thesis
     desc:
-      Apply by **April 1, 2022** to write a Bachelor's thesis, Master's thesis, or do a research project in the summer term of 2022.
+      Apply by **April 1, 2022** to write a thesis in the summer term of 2022.

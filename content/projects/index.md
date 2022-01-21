@@ -7,7 +7,7 @@ estimated_reading_time: no
 toc: no
 ---
 
-Interested in a fun and challenging thesis project in theoretical computer science?\
+Interested in a fun and challenging thesis project in theoretical computer science?
 Great! Read this entire page and apply by **Friday, April 1, 2022**.
 
 ### Prerequisites
@@ -35,7 +35,7 @@ Please come back here on **Monday, March 21, 2022**, we will announce available 
   - Would you be interested to work in a small group? (yes, you can write a Bachelor's thesis in a group of 2-3 people.)
 - Topics will be assigned at the first meeting, on **Tuesday, April 12, 2022, at 2-4pm** in room **H 10** (or online).
 
-### Timeline
+### Timeline for a Bachelor's thesis
 
 - April 1: Application deadline.
 - April 12: Topics assigned.
