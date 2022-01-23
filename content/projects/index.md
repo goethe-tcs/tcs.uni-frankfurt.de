@@ -58,7 +58,6 @@ Depending on your interests and talents, different _flavors_ of projects are pos
 Often, there is some overlap between different project flavors.
 [This page](/teaching/project-ideas) describes possible projects in more detail.
 
-
 ## Formalities
 
 Possible project types include:

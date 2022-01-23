@@ -53,21 +53,22 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 11. **Berechenbarkeit:** Halteproblem, Satz von Rice
 
-12. **Lineare Programmierung I:** Simplex-Algorithmus
+12. **Lineare Programmierung I:** Konvexität, Polytope, Simplex-Algorithmus
   
-13. **Lineare Programmierung II:** Dualität
+13. **Lineare Programmierung II:** Dualität, Integrale Lineare Programmierung
 
-14. **Approximationsalgorithmen**
+14. **Approximationsalgorithmen:** LP-Dualität, Greedy, Vertex-Cover, Set Cover.
 
-15. **Parametrisierte Algorithmen**
+15. **Parametrisierte Algorithmen:** Bounded Search Trees, Kernelisierung.
 
 ## Literatur
 
 - **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch.)_
-- **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486267229)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
-- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
+- **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486267229) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
+- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[e-UB](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
 - **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://hds.hebis.de/ubffm/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
-- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346)] _(Für eine Einführung in parametrisierte Algorithmen.)_
+- **V**: _Approximation Algorithms_ von Vijay V. Vazirani [[e-UB](https://hds.hebis.de/ubffm/Record/HEB471959707) · [UB](https://hds.hebis.de/ubffm/Record/HEB098805355)] _(Für eine Einführung in Approximationsalgorithmen.)_
+- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626)] _(Für eine Einführung in parametrisierte Algorithmen.)_
 
 ## Lernziele
 
@@ -80,7 +81,7 @@ Nach der Veranstaltung können die Studierenden:
 
 Außerdem können die Studierenden:
 
-- wichtige Ergebnisse und Konzepte in den Bereichen der NP-Vollständigkeit und Entscheidbarkeit **wiedergeben**, **anwenden**, und **erläutern**,
+- Wichtige Ergebnisse und Konzepte in den Bereichen der NP-Vollständigkeit und Entscheidbarkeit **wiedergeben**, **anwenden**, und **erläutern**,
 - **einschätzen**, welche praktischen und theoretischen Konsequenzen die Hartnäckigkeit eines Problems hat,
 - **untersuchen** und **begründen**, ob und warum ein gegebenes Problem hartnäckig ist.
 
