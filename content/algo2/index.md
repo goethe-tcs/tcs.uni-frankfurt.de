@@ -6,6 +6,11 @@ qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=
 toc: yes
 ---
 
+## Klausur
+
+- Klausur: **22.02.2022**
+- Nachklausur: **05.04.2022**
+- **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).**
 
 ## Übersicht
 
@@ -124,16 +129,3 @@ Außerdem können die Studierenden:
 - [Algorithms and Models of Computation](https://courses.engr.illinois.edu/cs374/fa2021/A/) von Jeff Erickson (University of Illinois)
 - [Algorithms](https://courses.engr.illinois.edu/cs473/sp2020/) von Jeff Erickson (University of Illinois)
 - Eine vorherige Iteration von ALGO2 wurde im [WiSe-2020](https://ae.cs.uni-frankfurt.de/algo220) (Prof. Meyer) angeboten, wofür Videos aus Präcoronazeiten zusammengeschnitten wurden.
-
-## Klausur
-
-- Klausur: 22.02.2022
-- Nachklausur: 05.04.2022
-
-<!--
-- **Weitere Hinweise.**
-  - Sie müssen sich rechtzeitig über QIS oder das Prüfungsamt für die Klausur anmelden.
-  - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren findet nicht statt.
-  - Die Klausur ist nicht zulassungsbeschränkt.
-  - Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html), beachten Sie aber, dass Klausur sich an den Themen des aktuellen Semesters orientiert.
--->
