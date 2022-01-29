@@ -4,6 +4,10 @@ layout: single
 toc: no
 ---
 
+### Winter 2022/23 (tentative)
+
+- Lecture (3+2+1): [Diskrete Modellierung](/mod), Di/Do 8-10.
+
 ### Summer 2022 (tentative)
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
