@@ -86,7 +86,7 @@ Siehe Wochenplan.
 
 ## Ähnliche Kurse
 
-- [Diskrete Modellierung](http://www2.imm.dtu.dk/courses/02110/2021/) von Ulrich Meyer (Goethe-Uni Frankfurt).
+- [Diskrete Modellierung](https://ae.cs.uni-frankfurt.de/dismod21) von Ulrich Meyer (Goethe-Uni Frankfurt).
 
 ## Klausur
 
