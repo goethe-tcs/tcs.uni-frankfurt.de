@@ -52,7 +52,7 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 
 8. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
 
-9. **Recap**
+9. **Recap I**
 
 10. **Berechnungsmodelle:** Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
 
@@ -62,9 +62,9 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
   
 13. **Lineare Programmierung II:** Dualität, Integrale Lineare Programmierung
 
-14. **Approximationsalgorithmen:** LP-Dualität, Greedy, Vertex-Cover, Set Cover.
+14. **Algorithmen für NP-schwere Probleme:** Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
 
-15. **Parametrisierte Algorithmen:** Bounded Search Trees, Kernelisierung.
+15. **Recap II**
 
 ## Literatur
 
