@@ -16,6 +16,6 @@ yarn build
 ```
 for building, and
 ```bash
-yarn server
+yarn serve
 ```
 for local development.
