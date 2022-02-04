@@ -7,12 +7,14 @@ toc: no
 ### Winter 2022/23 (tentative)
 
 - Lecture (3+2+1): [Diskrete Modellierung](/mod), Di/Do 8-10.
+- Oberseminar: Do 14-16, H9.
 
 ### Summer 2022 (tentative)
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
 - Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8-10, H9.
-- [Bachelor's / Master's /research projects](/projects): Di 14-16, H10.
+- Oberseminar: Di 14-16, H10.
+- [Thesis and research projects](/projects): Apply by April 1, 2022!
 
 ### Winter 2021/22 (current semester)
 
