@@ -11,7 +11,7 @@ photo: /images/LK.jpeg
 
 ## <i class="fas fa-flask"></i> Research
 
-While I'm intrigued by many topics, my current research interest are (block-structured) (Mixed) Integer Linear Programs.
+While I'm intrigued by many topics, my current research interests are (block-structured) (mixed) integer linear programs.
 
 ## <i class="fas fa-heartbeat"></i> Curriculum Vitae
 
