@@ -4,16 +4,15 @@ layout: member
 position: |
     PhD Student
 contact:
-#  - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-search": 'Room 301, RMS 11-15'
+  - "fa fa-search": 'Room 301, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
-#photo: /images/161019-HD-quadratic.jpg
-# profiles:
-  # - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"
-  # - "ai ai-google-scholar": "[Google Scholar](https://scholar.google.de/citations?user=zcZSZ4MAAAAJ)"
-  # - "ai ai-arxiv": "[arxiv.org](https://arxiv.org/a/dell_h_1)"
-  # - "fab fa-orcid": "[orcid](https://orcid.org/0000-0001-8955-0786)"
-  # - "fab fa-github": "[Github](https://github.com/holgerdell)"
-  # - "fab fa-twitter": "[Twitter](https://twitter.com/holgerdell)"
-  # - "fab fa-keybase": "[keybase.io](https://keybase.io/holgerdell)"
+photo: /images/LK.jpeg
 ---
+
+## <i class="fas fa-flask"></i> Research
+
+While I'm intrigued by many topics, my current research interest are (block-structured) (Mixed) Integer Linear Programs.
+
+## <i class="fas fa-heartbeat"></i> Curriculum Vitae
+
+After studying computer science at Kiel University and gaining more practical experience as part of the MoDigPro project at MPII, I'm currently pursuing my PhD focused on theorectial computer science at the TCS group in Frankfurt.
