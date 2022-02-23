@@ -21,7 +21,7 @@ We value _excellence_ in research and teaching. -->
 
 We study _theoretical computer science_, broadly understood. Particular areas of interest include algebraic graph algorithms, dynamic algorithms, graph kernels, combinatorics, and complexity theory. [More...](/research/)
 
-{{% current-courses "Winter 2021/22" %}}
+{{% current-courses "Summer 2022" %}}
 
 ### Related research groups
 
