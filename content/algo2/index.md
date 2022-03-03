@@ -8,8 +8,8 @@ toc: yes
 
 ## Klausur
 
-- Klausur: **22.02.2022**
-- Nachklausur: **05.04.2022**
+- **Klausur:** 22.02.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur-solutions.pdf)
+- **Nachklausur: 05.04.2022**
 - **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).**
 
 ## Übersicht
