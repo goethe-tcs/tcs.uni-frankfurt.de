@@ -7,12 +7,6 @@ We value the *joy* of algorithmic thinking and *excellence* in research and teac
 
 The group is part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
 
-<!-- 
-For the *joy* of algorithmic thinking and the *beauty* of computational complexity.
-We value _excellence_ in research and teaching. -->
-<!-- This group studies the theoretical foundations of computer science. -->
-<!-- and _transparency_ of processes. -->
-
 ### Members
 
 {{< members >}}

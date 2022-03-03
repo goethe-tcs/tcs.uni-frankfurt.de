@@ -27,7 +27,6 @@ My research in Theoretical Computer Science includes the theory of algorithms, c
 
 <!-- ## <i class="fas fa-university"></i> Service
 
-{{% holger-reviews %}}
 - [PACE](https://pacechallenge.org/about/) steering committee -->
 
 ## <i class="fas fa-heartbeat"></i> Curriculum Vitae

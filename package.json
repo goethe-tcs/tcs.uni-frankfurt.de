@@ -2,7 +2,7 @@
   "scripts": {
     "serve": "echo Serving on http://localhost:1313/; webpack serve --env development & GIT_CONFIG_NOSYSTEM=true hugo server",
     "clean": "bash -c 'rm -rf static/assets/dist/*'",
-    "build": "(test -f ~/Documents/Activities/review/gen-statistics.py && ~/Documents/Activities/review/gen-statistics.py > layouts/shortcodes/holger-reviews.html || true) && webpack --env production && GIT_CONFIG_NOSYSTEM=true hugo --minify && for a in $(find static_large_files/ -type f,l | sed -e 's/^static_large_files\\///'); do ln -f \"static_large_files/$a\" \"public/$a\"; done",
+    "build": "webpack --env production && GIT_CONFIG_NOSYSTEM=true hugo --minify",
     "build-webpack": "webpack --env production",
     "upload": "rsync --update -lrvz --progress --delete public/ tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
   },
