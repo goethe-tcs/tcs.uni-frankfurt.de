@@ -24,14 +24,3 @@ My main research interests are in the interaction of computer science and logic 
 
 Previously, I have worked on counting complexity, descriptive complexity, circuit complexity, parameterized complexity, first-order and second-order logics and team semantics.
 I'm also always interested in exciting new directions of research related to my fields of study.
-
-<!--
-# computer science and logic
-#   >descriptive complexity
-#   >data complexity of different problems in logics
-# complexity theory
-#   >parameterized complexity
-
-# on the "logics"-side: worked with first- and second-order logic as well as first-order team logics
-# on the complexity-side: counting complexity, circuit complexity, parameterized complexity
--->
