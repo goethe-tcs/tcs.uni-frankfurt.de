@@ -6,7 +6,7 @@ toc: no
 
 ### Winter 2022/23 (tentative)
 
-- Lecture (3+2+1): [Diskrete Modellierung](/mod), Di/Do 8-10.
+- Lecture (3+2+1): [Diskrete Modellierung](/mod), Di 14-16 (H V), Do 14-16 (H VI).
 - Oberseminar: Do 14-16, H9.
 
 ### Summer 2022 (tentative)
