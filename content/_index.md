@@ -11,6 +11,10 @@ The group is part of the [Computer Science Department](https://www.goethe-univer
 
 {{< members >}}
 
+### Events
+
+The **82th Workshop on Algorithms and Complexity (Theorietag)** will take place on **08.-09.06.2022** in Frankfurt. More information can be found [here](/tt-82/).
+
 ### Research
 
 We study *theoretical computer science*, broadly understood. Particular areas of interest include algebraic graph algorithms, dynamic algorithms, graph kernels, combinatorics, and complexity theory. [More...](/research/)
