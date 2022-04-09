@@ -31,7 +31,7 @@ The summer term has 14 weeks, the following is a preliminary plan:
 10. Decision Trees [AB, ch.12]
 11. Complexity of Counting [AB, ch.17]
 12. Circuit Lower Bounds [AB, ch.14]
-13. NEXP ⊈ ACC0 [[AB, addendum](http://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf), [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
+13. NEXP ⊈ ACC0 [[AB, addendum](http://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
 
 ## Prerequisites
 
