@@ -69,11 +69,11 @@ Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktue
 ## Literatur
 
 - **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch.)_
-- **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486267229) · [UB](https://hds.hebis.de/ubffm/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
-- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[e-UB](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
-- **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://hds.hebis.de/ubffm/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
-- **V**: _Approximation Algorithms_ von Vijay V. Vazirani [[e-UB](https://hds.hebis.de/ubffm/Record/HEB471959707) · [UB](https://hds.hebis.de/ubffm/Record/HEB098805355)] _(Für eine Einführung in Approximationsalgorithmen.)_
-- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626)] _(Für eine Einführung in parametrisierte Algorithmen.)_
+- **KT**: _Algorithm Design_ von Jon Kleinberg und Éva Tardos. [[pdf](https://github.com/davie890/CS102-Algorithm-Analysis/raw/master/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf) · [e-UB](https://ubffm.hds.hebis.de/Record/HEB486267229) · [UB](https://ubffm.hds.hebis.de/Record/HEB129608459)]. _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
+- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[e-UB](https://ubffm.hds.hebis.de/Record/HEB45339454X)]. _(Das Standardwerk.)_
+- **C**: _Linear Programming_ von Vašek Chvátal. [[UB](https://ubffm.hds.hebis.de/Record/HEB023756578)] _(Für eine Einführung in die Lineare Programmierung.)_
+- **V**: _Approximation Algorithms_ von Vijay V. Vazirani [[e-UB](https://hds.hebis.de/ubffm/Record/HEB471959707) · [UB](https://ubffm.hds.hebis.de/Record/HEB098805355)] _(Für eine Einführung in Approximationsalgorithmen.)_
+- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [e-UB](https://ubffm.hds.hebis.de/Record/HEB486266346) · [UB](https://ubffm.hds.hebis.de/Record/HEB367892626)] _(Für eine Einführung in parametrisierte Algorithmen.)_
 
 ## Lernziele
 

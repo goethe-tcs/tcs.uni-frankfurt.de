@@ -78,14 +78,14 @@ In particular:
   _Reason: This document contains a lot of useful rules on how to write mathematical texts; for example, how to use formulas in a grammatically correct way. It is a long list of rules, so I don't expect you to read/understand all of them. However, do refer to this list when you are writing and are unsure about how to express things._
 - Read [Writing a Bachelor Thesis in Computer Science](https://liacs.leidenuniv.nl/~nijssensgr/bachelorklas-2014-2015/writing.pdf) by Siegfried Nijssen.\
   _Reason: These slides give a quick overview of how a thesis in computer science should be structured and contains some writing advice._
-- Watch the entertaining one-hour talk [Linguistics, Style and Writing in the 21st Century](https://youtu.be/OV5J6BfToSw) by Steven Pinker. Also consider reading parts of his book _The sense of style_ [[UB](https://hds.hebis.de/ubffm/Record/HEB363194762) · [pdf](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf)].\
+- Watch the entertaining one-hour talk [Linguistics, Style and Writing in the 21st Century](https://youtu.be/OV5J6BfToSw) by Steven Pinker. Also consider reading parts of his book _The sense of style_ [[UB](https://ubffm.hds.hebis.de/Record/HEB363194762) · [pdf](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf)].\
   _Reason: Many authors of scientific texts write in convoluted sentences and make heavy use of complicated words. They do this, because they think it sounds more scientific. You shouldn't fall into this trap. Instead, you should prefer short, active sentences._
 
 ## Guidelines for Implementation projects
 
 Implementation projects have some or all of the following components:
 
-- Must-read: Chapters 1 and 2 of McGeoch (2012). _A Guide to Experimental Algorithmics_. [[full text in the library](https://hds.hebis.de/ubffm/Record/HEB418724474)]
+- Must-read: Chapters 1 and 2 of McGeoch (2012). _A Guide to Experimental Algorithmics_. [[full text in the library](https://ubffm.hds.hebis.de/Record/HEB418724474)]
 - Formulate your hypotheses:
   - “When executing our implementation on inputs X Y Z, we will measure a running time O(2^k n).”
   - “Reduction rule X reduces graphs more than reduction rule Y.“

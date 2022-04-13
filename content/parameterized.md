@@ -2,6 +2,7 @@
 title: "Feinkörnige Parameterisierte Algorithmen"
 ---
 ### "Feinkörnige Parameterisierte Algorithmen"
+
 Diese Vorlesung behandelt aktuelle Forschungsthemen aus der theoretischen Informatik und richtet sich an Student:innen, die Algorithmen und theoretische Informatik gut finden.
 Es werden etwa hälftig algorithmische und komplexitätstheoretische Fragen und Ergebnisse abgedeckt.
 Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Grundwissen in diskreter Mathematik. Komplexitätstheorie und algorithmische Vertiefungsvorlesungen sind von Vorteil, werden aber nicht formal vorausgesetzt.
@@ -10,7 +11,7 @@ Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Gr
 
 In **Teil 1** folgen wir diesem Buch:
 
-- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://hds.hebis.de/ubffm/Record/HEB367892626) · [e-UB](https://hds.hebis.de/ubffm/Record/HEB486266346)]
+- **CFKLMPPS**: _Parameterized Algorithms_ von Cygan, Fomin, Kowalik, _et al_. [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) · [UB](https://ubffm.hds.hebis.de/Record/HEB367892626) · [e-UB](https://ubffm.hds.hebis.de/Record/HEB486266346)]
 
 Hier ist der (vorläufige) Plan:
 
@@ -162,13 +163,13 @@ Nach der Veranstaltung kann der:die Student:in
 
 ### Literatur und Links
 
-- Cygan et al. "Parameterized Algorithms" [[preprint pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) | [ISBN 978-3-319-21274-6](https://dblp.org/rec/html/books/sp/CyganFKLMPPS15)].
+- Cygan et al. "Parameterized Algorithms" [[preprint pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) • [e-UB](https://ubffm.hds.hebis.de/Record/HEB486266346) • [ISBN 978-3-319-21274-6](https://dblp.org/rec/html/books/sp/CyganFKLMPPS15)].
 - Eine vorherige Iteration dieses Kurses: [Multivariate Algorithmics](https://bit.ly/MulAlg18) (2018).
 - Vorlesungsskript der Vorlesung von Bringmann and Künnemann an der Universität des Saarlandes [[url](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer19/fine-complexity/)]
 - Diverse wissenschaftliche Publikationen aus dem Gebiet.
 
 Weitere Literatur:
 
-- Flum and Grohe "[Parameterized Complexity Theory](https://www.springer.com/de/book/9783540299523)"
-- Downey and Fellows "[Fundamentals of Parameterized Complexity](https://www.springer.com/de/book/9781447155584)"
+- Flum and Grohe "[Parameterized Complexity Theory](https://ubffm.hds.hebis.de/Record/HEB192067257)"
+- Downey and Fellows "[Fundamentals of Parameterized Complexity](https://ubffm.hds.hebis.de/Record/HEB334935350)"
 - [Parameterized complexity course](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer20/parameterized-algorithms) von Dániel Marx und Pranabendu Misra. (Mit Videos und Folien)
