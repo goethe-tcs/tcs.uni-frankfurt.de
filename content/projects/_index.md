@@ -20,7 +20,11 @@ Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 
 We offer coding projects as well as theory projects.
 Please come back here on **August 22, 2022**, we will announce available thesis topics then.
-[This page](/teaching/project-ideas) can give you a general flavor of possible topics and describes the supervision process in more detail.
+[This page](/projects/flavors) can give you a general flavor of possible topics and describes the supervision process in more detail.
+
+### Supervision process
+
+We offer a streamlined [supervision process](/projects/supervision). It is a must-read if you are about to start your project in the TCS group.
 
 ### How to apply?
 
@@ -56,7 +60,7 @@ Depending on your interests and talents, different _flavors_ of projects are pos
 - **proving theorems** (recommended only for students who have successfully completed advanced theory courses and/or seminars, and who can demonstrate excellent grades): This requires reading one or multiple papers including mathematical proofs, designing new algorithms, and proving new theorems.
 
 Often, there is some overlap between different project flavors.
-[This page](/teaching/project-ideas) describes possible projects in more detail.
+[This page](/projects/flavors) describes possible projects in more detail.
 
 ## Formalities
 
