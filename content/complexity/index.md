@@ -70,4 +70,7 @@ There is also a [pdf](http://theory.cs.princeton.edu/complexity/book.pdf) on the
 
 ## Further resources
 
+- For background reading on Turing machines, see:
+  - [video lecture](https://mediaspace.illinois.edu/media/t/1_hv9tuhrn/223561603) on [chapter 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Erickson's [Models of Computation](https://jeffe.cs.illinois.edu/teaching/algorithms/#models) course.
+  - [video lectures](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/) in Sipser's course at MIT.
 - See [TCS @ Princeton](https://theory.cs.princeton.edu/online-resources.html).
