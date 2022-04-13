@@ -17,7 +17,8 @@ The **82th Workshop on Algorithms and Complexity (Theorietag)** will take place 
 
 ### Research
 
-We study *theoretical computer science*, broadly understood. Particular areas of interest include algebraic graph algorithms, dynamic algorithms, graph kernels, combinatorics, and complexity theory. [More...](/research/)
+We study *theoretical computer science*, broadly understood. Our areas of interest include complexity theory, algebraic graph algorithms, dynamic algorithms, graph neural networks, logics, integer linear programming, and combinatorics.
+[Read more...](/research/)
 
 {{% current-courses "Summer 2022" %}}
 
