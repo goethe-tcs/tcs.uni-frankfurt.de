@@ -61,7 +61,7 @@ You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent) an
 <img src="/complexity/AB-cover.jpg" alt="book cover" width="102" height="150" style="float: left; padding-right: 1em;" /></a>
 
 **AB**: _Computational Complexity: A Modern Approach_ by Sanjeev Arora and Boaz Barak.\
-[[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB48053893X) · [UB](https://hds.hebis.de/ubffm/Search/Results?lookfor=Computational+Complexity%3A+A+Modern+Approach&trackSearchEvent=Einfache+Suche&type=allfields&search=new&submit=Suchen)].
+[[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB48053893X)].
 
 There is also a [pdf](https://theory.cs.princeton.edu/complexity/book.pdf) on the [book website](https://theory.cs.princeton.edu/complexity/), but be aware that it is not a final draft and has different chapter numbers.
 

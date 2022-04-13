@@ -94,11 +94,11 @@ Make no mistake, the project should still include scientific writing in the form
 
 **Examples:** Past projects that are at the level of a Bachelor thesis include
 [Algorithms with Albot](https://enutie.github.io/),
-[Color Refinement](https://holgerdell.com/cr/), and
+[Color Refinement](https://holgerdell.github.io/color-refinement/), and
 Graph Width Visualizer.
 
 **Non-examples:**
-Your visualization project should do something *new*. For example, visualizing different sorting algorithms has been done before (a lot), so if that's your proposal, you need to provide a very strong argument why your visualization idea is novel.
+Your visualization project should do something _new_. For example, visualizing different sorting algorithms has been done before (a lot), so if that's your proposal, you need to provide a very strong argument why your visualization idea is novel.
 
 **What you get out of it:**
 
