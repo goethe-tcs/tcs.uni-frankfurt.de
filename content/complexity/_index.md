@@ -13,8 +13,8 @@ Complexity Theory is a beautiful field that studies different models of computat
 
 ## Time and Place
 
-- **Lectures.** Tue/Wed 10-12 in H9.
-- **Tutorials.** Tue 12-14 in H9.
+- **Lectures.** Tue 12-14, Wed 10-12 in H9.
+- **Tutorials.** Tue 10-12 in H9.
 
 ## Grading
 
