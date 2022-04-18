@@ -14,7 +14,7 @@ toc: no
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
 - Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8:30-10:00, H9.
 - Oberseminar: Di 14-16, H10.
-- [Thesis and research projects](/projects): Apply by April 1, 2022!
+- [Thesis and research projects](/projects): Apply by September 1, 2022!
 
 ### Winter 2021/22 (current semester)
 
