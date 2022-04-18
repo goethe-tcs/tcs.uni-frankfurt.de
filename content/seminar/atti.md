@@ -2,7 +2,7 @@
 title: "Aktuelle Themen der Theoretischen Informatik: Graph kernels (Seminar)"
 shortname: "ATTI-MS, ATTI-BS, M-AuK-S-K, B-AUK-S"
 semester: "SoSe-2022"
-#qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=326013&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=335452&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: no
 ---
 
