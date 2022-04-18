@@ -16,7 +16,8 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 
 - [Holger Dell](/~dell/)
 - [Hilde Kuehne](https://hildekuehne.github.io/)
-- evtl. weitere
+- [Anselm Haak](/~haak/)
+- [Leo Krull](/~krull/)
 
 ## Ablauf
 

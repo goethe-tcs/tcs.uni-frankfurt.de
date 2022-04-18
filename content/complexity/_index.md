@@ -28,11 +28,10 @@ The summer term has 14 weeks, the following is a preliminary plan:
 
 1. ✓ **Introduction: Efficient universal Turing machine.** [AB 1.2-1.4, 1.6-1.7]\
    In-class exercises: Example 1.1, Claims 1.5 and 1.6.\
-   Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, try at your own risk)
+   Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
 
-2. **NP and NP completeness** [AB, ch.2]\
-   In-class exercises: 2.10, 2.23, 2.25.\
-   Homework: 2.29, 2.30
+2. **NP and NP completeness** [AB 2.1-2.2, 2.5-2.7]\
+   Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.32*
 
 3. **Diagonalization** [AB, ch.3]
 4. **Space complexity** [AB, ch.4]
@@ -40,7 +39,7 @@ The summer term has 14 weeks, the following is a preliminary plan:
 6. **Boolean circuits** [AB, ch.6]
 7. **Randomized computation** [AB, ch.7]
 8. **Interactive proofs** [AB, ch.8]
-9.  **PCP Theorem** [AB, ch.11]
+9. **PCP Theorem** [AB, ch.11]
 10. **Decision Trees** [AB, ch.12]
 11. **Complexity of Counting** [AB, ch.17]
 12. **Circuit Lower Bounds** [AB, ch.14]
