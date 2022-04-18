@@ -23,7 +23,7 @@ toc: no
 
 ### Summer 2021
 
-- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
+- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
 - Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
 
 ### Winter 2020/21

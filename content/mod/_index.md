@@ -4,6 +4,7 @@ shortname: "MOD"
 semester: "WiSe-2022/23"
 # qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
+layout: single
 ---
 <!-- 
 ## Übersicht -->

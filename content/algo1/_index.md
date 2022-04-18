@@ -4,6 +4,7 @@ shortname: "ALGO1"
 semester: "SoSe-2021"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=313037&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
+layout: single
 ---
 
 
@@ -15,7 +16,6 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 
 - **Dienstag und Donnerstag 8:00–10:00.** Lagebesprechung, Gruppenarbeit, Helpdesks, Lösungsvorschläge.
 - **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks.
-- [Zoomlinks und genauer Fahrplan](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
 - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
 ### Anmeldung
@@ -24,7 +24,7 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 ### Dozent
 
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–16:45 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
+- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/)
 
 ### Tutor:innen
 
