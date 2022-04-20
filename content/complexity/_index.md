@@ -30,8 +30,8 @@ The summer term has 14 weeks, the following is a preliminary plan:
    In-class exercises: Example 1.1, Claims 1.5 and 1.6.\
    Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
 
-2. **NP and NP completeness** [AB 2.1-2.3, 2.5-2.7]\
-   Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.32*
+2. ✓ **NP and NP completeness** [AB 2.1-2.3, 2.5-2.7]\
+   Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*
 
 3. **Diagonalization** [AB, ch.3]
 4. **Space complexity** [AB, ch.4]
