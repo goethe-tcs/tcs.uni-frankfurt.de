@@ -4,6 +4,7 @@ shortname: "ALGO1"
 semester: "SoSe-2021"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=313037&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
+layout: single
 ---
 
 
@@ -15,7 +16,6 @@ Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktis
 
 - **Dienstag und Donnerstag 8:00–10:00.** Lagebesprechung, Gruppenarbeit, Helpdesks, Lösungsvorschläge.
 - **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks.
-- [Zoomlinks und genauer Fahrplan](https://docs.google.com/document/d/e/2PACX-1vS0EwhA9qzSTmVyuQtz9M6KRuGl_nWz3cyRrKcaqzlz2PdgJ-OZ1813HYRAkbX5sVFeW-7J-8YD5Vl0/pub).
 - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
 ### Anmeldung
@@ -24,7 +24,7 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 ### Dozent
 
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/) (Sprechstunde ohne Anmeldung: Montag 16–16:45 Uhr in [Zoom](https://uni-frankfurt.zoom.us/my/holgerdell))
+- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/)
 
 ### Tutor:innen
 
@@ -49,7 +49,7 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 ## Literatur
 
-- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://hds.hebis.de/ubffm/Record/HEB45339454X)]. _(Das Standardwerk.)_
+- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB45339454X)]. _(Das Standardwerk.)_
 - **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch, das die ersten Themen von ALGO1 aber nur überfliegt.)_
 
 ## Wochenplan
@@ -142,18 +142,18 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 - Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. _Mange tak Philip og Inge!_
 - Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](http://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](http://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
-- Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/).
+- Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
 ## Zusätzliche Literatur
 
-- **DMS**: _Algorithmen und Datenstrukturen_ von Martin Dietzfelbinger, Kurt Mehlhorn und Peter Sanders [[UB](https://hds.hebis.de/ubffm/Record/HEB224838512)] _(kompakter, besser organisiert, und formaler als CLRS, gut zum Nachschlagen von Detailfragen.)_
+- **DMS**: _Algorithmen und Datenstrukturen_ von Martin Dietzfelbinger, Kurt Mehlhorn und Peter Sanders [[UB](https://ubffm.hds.hebis.de/Record/HEB224838512)] _(kompakter, besser organisiert, und formaler als CLRS, gut zum Nachschlagen von Detailfragen.)_
 - **Sa**: Skript „Datenstrukturen“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_ds.pdf)] _(ähnliche Auswahl von Themen; wurde in den vergangenen Jahren an der Goethe-Uni benutzt.)_
 - **Sb**: Skript „Theoretische Informatik 1“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_gl1_ws1213.pdf)] _(für ALGO1 ist nur das Kapitel „Effiziente Algorithmen“ relevant.)_
-- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://hds.hebis.de/ubffm/Record/HEB129608459)] _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
+- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://ubffm.hds.hebis.de/Record/HEB129608459)] _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
 - **SWa**: Sedgewick, Wayne, Algorithms, Fourth Edition, 2011. _(konkreter und leichter zugänglich als CLRS und DMS, denn hier werden alle besprochenen Datenstrukturen und Algorithmen penibel implementiert, in [Java](https://github.com/kevin-wayne/algs4/) oder [Python](https://github.com/itu-algorithms/itu.algs4).)_
 - **SWb**: Sedgewick, Wayne. Introduction to Programming in Java, 2017. [[pdf](https://introcs.cs.princeton.edu/java/home/chapter1.pdf)] _(Nützlich, falls Sie die Grundlagen der Programmierung auffrischen möchten.)_
-- **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://lbsopac.rz.uni-frankfurt.de/DB=30/PPNSET?PPN=45444821X)] _(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)_
+- **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://ubffm.hds.hebis.de/Record/HEB45444821X)] _(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)_
 
 ## Klausur
 

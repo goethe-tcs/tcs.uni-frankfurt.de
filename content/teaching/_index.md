@@ -8,13 +8,13 @@ toc: no
 
 - Lecture (3+2+1): [Diskrete Modellierung](/mod), Di 14-16 (H V), Do 14-16 (H VI).
 - Oberseminar: Do 14-16, H9.
+- [Thesis and research projects](/projects): Apply by September 1, 2022!
 
-### Summer 2022 (tentative)
+### Summer 2022
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
-- Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8-10, H9.
+- Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8:30-10:00, H9.
 - Oberseminar: Di 14-16, H10.
-- [Thesis and research projects](/projects): Apply by April 1, 2022!
 
 ### Winter 2021/22 (current semester)
 
@@ -23,7 +23,7 @@ toc: no
 
 ### Summer 2021
 
-- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](summer21/algo1)
+- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
 - Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
 
 ### Winter 2020/21

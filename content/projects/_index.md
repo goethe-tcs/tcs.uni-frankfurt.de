@@ -8,7 +8,7 @@ toc: no
 ---
 
 Interested in a fun and challenging thesis project in theoretical computer science?
-Great! Read this entire page and apply by **Friday, April 1, 2022**.
+Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 
 ### Prerequisites
 
@@ -19,12 +19,16 @@ Great! Read this entire page and apply by **Friday, April 1, 2022**.
 ### Topics
 
 We offer coding projects as well as theory projects.
-Please come back here on **Monday, March 21, 2022**, we will announce available thesis topics then.
-[This page](/teaching/project-ideas) can give you a general flavor of possible topics and describes the supervision process in more detail.
+Please come back here on **August 22, 2022**, we will announce available thesis topics then.
+[This page](/projects/flavors) can give you a general flavor of possible topics and describes the supervision process in more detail.
+
+### Supervision process
+
+We offer a streamlined [supervision process](/projects/supervision). It is a must-read if you are about to start your project in the TCS group.
 
 ### How to apply?
 
-- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **Friday, April 1, 2022**. If you miss the deadline, you will have to wait until October 1, 2022.
+- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **Thursday, September 1, 2022**. If you miss the deadline, you will have to wait until February 1, 2023, to work on a project in the summer term of 2023.
 - In your first email, answer the following questions:
   - Why are you interested in doing a project in theoretical computer science as opposed to some other area?
   - Which theory experience do you have? (seminars, advanced lectures, teaching assistant, etc.)
@@ -33,9 +37,9 @@ Please come back here on **Monday, March 21, 2022**, we will announce available 
   - Are you interested in a Bachelor's thesis, Master's thesis, or research project?
   - Which topic would you be interested to work on?
   - Would you be interested to work in a small group? (yes, you can write a Bachelor's thesis in a group of 2-3 people.)
-- Topics will be assigned at the first meeting, on **Tuesday, April 12, 2022, at 2-4pm** in room **H 10** (or online).
+- Topics will be assigned at the first meeting.
 
-### Timeline for a Bachelor's thesis
+### Timeline for a Bachelor's thesis in the summer term of 2022
 
 - April 1: Application deadline.
 - April 12: Topics assigned.
@@ -56,7 +60,7 @@ Depending on your interests and talents, different _flavors_ of projects are pos
 - **proving theorems** (recommended only for students who have successfully completed advanced theory courses and/or seminars, and who can demonstrate excellent grades): This requires reading one or multiple papers including mathematical proofs, designing new algorithms, and proving new theorems.
 
 Often, there is some overlap between different project flavors.
-[This page](/teaching/project-ideas) describes possible projects in more detail.
+[This page](/projects/flavors) describes possible projects in more detail.
 
 ## Formalities
 
