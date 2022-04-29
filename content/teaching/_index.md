@@ -3,6 +3,9 @@ title: Teaching
 layout: single
 toc: no
 ---
+
+<!--
+
 ### Summer 2024 (tentative)
 
 - Lecture (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
@@ -17,6 +20,8 @@ toc: no
 
 - Advanced Lecture
 - Seminar
+
+-->
 
 ### Winter 2022/23 (tentative)
 
