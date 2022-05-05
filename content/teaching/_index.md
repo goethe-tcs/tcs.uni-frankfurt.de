@@ -21,13 +21,13 @@ toc: no
 - Advanced Lecture
 - Seminar
 
--->
-
 ### Winter 2022/23 (tentative)
 
 - Lecture (3+2+1): [Diskrete Modellierung](/mod), Di 14-16 (H V), Do 14-16 (H VI).
 - Oberseminar: Do 14-16, H9.
 - [Thesis and research projects](/projects): Apply by September 1, 2022!
+
+-->
 
 ### Summer 2022 (current semester)
 

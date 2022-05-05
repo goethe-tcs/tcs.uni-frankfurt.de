@@ -36,12 +36,15 @@ The summer term has 14 weeks, the following is a preliminary plan:
 3. ✓ **Diagonalization** [AB, ch.3]\
    Homework: 3.5, 3.6, 3.7*, 3.8*
 
-4. **Space complexity** [AB, ch.4]
+4. ✓ **Space complexity** [AB, ch.4]\
+   Homework: 4.1, 4.2, 4.3, 4.7\
+   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
+
 5. **The polynomial hierarchy and alternations** [AB, ch.5]
 6. **Boolean circuits** [AB, ch.6]
 7. **Randomized computation** [AB, ch.7]
 8. **Interactive proofs** [AB, ch.8]
-9. **PCP Theorem** [AB, ch.11]
+9.  **PCP Theorem** [AB, ch.11]
 10. **Decision Trees** [AB, ch.12]
 11. **Complexity of Counting** [AB, ch.17]
 12. **Circuit Lower Bounds** [AB, ch.14]
