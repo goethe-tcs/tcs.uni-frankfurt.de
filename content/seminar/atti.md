@@ -55,7 +55,7 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 **Theoretische Ergebnisse zur Mächtigkeit von Weisfeiler-Leman.**
 
 - Cai, Fürer, Immerman: [An optimal lower bound on the number of variables for graph identification](http://www.cs.umass.edu/~immerman/pub/opt.pdf)\
-  _Ein klassisches Ergebnis, in dem Graphen konstruiert werden, die von k-WL unterschieden werden aber von (k+1)-WL nicht._
+  _Ein klassisches Ergebnis, in dem Graphen konstruiert werden, die von k-WL unterschieden werden aber von (k-1)-WL nicht._
 
 - Kiefer and McKay (2020): [The Iteration Number of Colour Refinement](https://arxiv.org/pdf/2005.10182.pdf)\
   _Ein spannendes Ergebnis, das zeigt, dass es unendlich viele Graphen gibt, für die Colour Refinement n-1 Runden braucht._
