@@ -28,8 +28,8 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
   - Woche 2-6: Abschnittsweises gemeinsames Lesen von Morris et al. (2021)
   - Woche 7: Pause
   - Woche 8-9: Abschnittsweises gemeinsames Lesen von Morris et al. (2021)
-  - Woche 9-12: jeweils 2 lange Vorträge über Forschungsarbeiten
-  - Woche 13-14: Puffer
+  - Woche 10-12: Puffer
+  - Woche 13-14: Zehn Vorträge an 4 Terminen.
 
 ## Literaturliste
 
