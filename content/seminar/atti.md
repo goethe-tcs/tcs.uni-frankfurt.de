@@ -31,7 +31,7 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
   - Woche 9-12: jeweils 2 lange Vorträge über Forschungsarbeiten
   - Woche 13-14: Puffer
 
-## Literaturliste [im Aufbau]
+## Literaturliste
 
 **Übersichtsartikel.**
 
