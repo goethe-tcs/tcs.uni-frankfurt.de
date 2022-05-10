@@ -50,8 +50,9 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 **Mächtigkeit von Weisfeiler-Leman.**
 
 - Cai, Fürer, Immerman: [An optimal lower bound on the number of variables for graph identification](http://www.cs.umass.edu/~immerman/pub/opt.pdf)
+- Kiefer and McKay (2020): [The Iteration Number of Colour Refinement](https://arxiv.org/pdf/2005.10182.pdf)
 - Grohe, Schweitzer, Wiebking (2021): [Deep Weisfeiler Leman](https://arxiv.org/pdf/2003.10935)
-- Kiefer, Ponomarenko, Schweitzer (2019): [The Weisfeiler-Leman Dimension of Planar Graphs is at most 3](https://arxiv.org/pdf/1708.07354)
+- Kiefer, Ponomarenko, Schweitzer (2019): [The Weisfeiler-Leman Dimension of Planar Graphs is at most 3](https://arxiv.org/pdf/1708.07354) and/or Grohe and Kiefer (2021): [Logarithmic Weisfeiler-Leman Identifies All Planar Graphs](https://arxiv.org/pdf/2106.16218.pdf)
 - Dvorák (2006): [On recognizing graphs by numbers of homomorphisms](https://iti.mff.cuni.cz/series/2006/287.pdf) und Dell, Grohe, Rattan (2018): [Lovász Meets Weisfeiler and Leman](https://arxiv.org/pdf/1802.08876).
 - Grohe, Rattan, Seppelt (2021): [Homomorphism Tensors and Linear Equations](https://arxiv.org/pdf/2111.11313.pdf)
 
