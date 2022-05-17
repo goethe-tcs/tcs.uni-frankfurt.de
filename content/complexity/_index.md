@@ -40,10 +40,12 @@ The summer term has 14 weeks, the following is a preliminary plan:
    Homework: 4.1, 4.2, 4.3, 4.7\
    Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
 
-5. **The polynomial hierarchy and alternations** [AB, ch.5]\
+5. ✓ **The polynomial hierarchy and alternations** [AB, ch.5]\
    Homework: 5.3, 5.7, 5.10, 5.13
 
-6. **Boolean circuits** [AB, ch.6]
+6. **Boolean circuits** [AB, ch.6]\
+   Homework: 6.3, 6.8, 6.9*, 6.12
+
 7. **Randomized computation** [AB, ch.7]
 8. **Interactive proofs** [AB, ch.8]
 9.  **PCP Theorem** [AB, ch.11]
