@@ -4,19 +4,38 @@ layout: single
 toc: no
 ---
 
+<!--
+
+### Summer 2024 (tentative)
+
+- Lecture (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
+- Seminar
+
+### Winter 2023/24 (tentative)
+
+- Advanced Lecture
+- Seminar
+
+### Summer 2023 (tentative)
+
+- Advanced Lecture
+- Seminar
+
 ### Winter 2022/23 (tentative)
 
 - Lecture (3+2+1): [Diskrete Modellierung](/mod), Di 14-16 (H V), Do 14-16 (H VI).
 - Oberseminar: Do 14-16, H9.
 - [Thesis and research projects](/projects): Apply by September 1, 2022!
 
-### Summer 2022
+-->
+
+### Summer 2022 (current semester)
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
 - Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8:30-10:00, H9.
 - Oberseminar: Di 14-16, H10.
 
-### Winter 2021/22 (current semester)
+### Winter 2021/22
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 2](/algo2)
 - Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
