@@ -43,7 +43,7 @@ The summer term has 14 weeks, the following is a preliminary plan:
 5. ✓ **The polynomial hierarchy and alternations** [AB, ch.5]\
    Homework: 5.3, 5.7, 5.10, 5.13
 
-6. **Boolean circuits** [AB, ch.6]\
+6. ✓ **Boolean circuits** [AB, ch.6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
 
 7. **Randomized computation** [AB, ch.7]
