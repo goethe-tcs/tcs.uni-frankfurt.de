@@ -46,9 +46,11 @@ The summer term has 14 weeks, the following is a preliminary plan:
 6. ✓ **Boolean circuits** [AB, ch.6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
 
-7. **Randomized computation** [AB, ch.7]
+7. ✓ **Randomized computation** [AB, ch.7]
+   Homework: 7.4, 7.7, 7.9
+
 8. **Interactive proofs** [AB, ch.8]
-9.  **PCP Theorem** [AB, ch.11]
+9. **PCP Theorem** [AB, ch.11]
 10. **Decision Trees** [AB, ch.12]
 11. **Complexity of Counting** [AB, ch.17]
 12. **Circuit Lower Bounds** [AB, ch.14]
