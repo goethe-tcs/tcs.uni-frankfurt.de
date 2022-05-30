@@ -6,7 +6,7 @@ position: |
 contact:
   - "fa fa-search": 'Room 301, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
-photo: /images/LK.jpg
+photo: /images/LK_small.jpg
 ---
 
 ## <i class="fas fa-flask"></i> Research
