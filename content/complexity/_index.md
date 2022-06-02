@@ -46,8 +46,9 @@ The summer term has 14 weeks, the following is a preliminary plan:
 6. ✓ **Boolean circuits** [AB, ch.6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
 
-7. ✓ **Randomized computation** [AB, ch.7]
-   Homework: 7.4, 7.7, 7.9
+7. ✓ **Randomized computation** [AB, ch.7]\
+   Homework: 7.4, 7.7, 7.9\
+   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf). Please consider handing in the assignment as a team of size 2.
 
 8. **Interactive proofs** [AB, ch.8]
 9. **PCP Theorem** [AB, ch.11]
