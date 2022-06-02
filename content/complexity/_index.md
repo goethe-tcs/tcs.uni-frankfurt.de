@@ -30,32 +30,35 @@ The summer term has 14 weeks, the following is a preliminary plan:
    In-class exercises: Example 1.1, Claims 1.5 and 1.6.\
    Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
 
-2. ✓ **NP and NP completeness** [AB 2.1-2.3, 2.5-2.7]\
+2. ✓ **NP and NP completeness** [AB ch. 2.1-2.3, 2.5-2.7]\
    Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*
 
-3. ✓ **Diagonalization** [AB, ch.3]\
+3. ✓ **Diagonalization** [AB, ch. 3]\
    Homework: 3.5, 3.6, 3.7*, 3.8*
 
-4. ✓ **Space complexity** [AB, ch.4]\
+4. ✓ **Space complexity** [AB, ch. 4]\
    Homework: 4.1, 4.2, 4.3, 4.7\
    Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
 
 5. ✓ **The polynomial hierarchy and alternations** [AB, ch.5]\
    Homework: 5.3, 5.7, 5.10, 5.13
 
-6. ✓ **Boolean circuits** [AB, ch.6]\
+6. ✓ **Boolean circuits** [AB, ch. 6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
 
 7. ✓ **Randomized computation** [AB, ch.7]\
    Homework: 7.4, 7.7, 7.9\
    Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf). Please consider handing in the assignment as a team of size 2.
 
-8. **Interactive proofs** [AB, ch.8]
-9. **PCP Theorem** [AB, ch.11]
-10. **Decision Trees** [AB, ch.12]
-11. **Complexity of Counting** [AB, ch.17]
-12. **Circuit Lower Bounds** [AB, ch.14]
-13. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
+8. ✓ **Interactive proofs** [AB, ch. 8.1-8.3]\
+   Homework: 8.1, 8.2, 8.6*, 8.8
+   
+9. **PCP Theorem** [AB, ch. 11]
+10. **Decision Trees** [AB, ch. 12]
+11. **Complexity of Counting** [AB, ch. 17] (happening via [Zoom]()!)
+12. **Break**
+13. **Circuit Lower Bounds** [AB, ch. 14]
+14. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
 
 ## Prerequisites
 
