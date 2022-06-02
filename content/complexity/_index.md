@@ -55,8 +55,8 @@ The summer term has 14 weeks, the following is a preliminary plan:
    
 9. **PCP Theorem** [AB, ch. 11]
 10. **Decision Trees** [AB, ch. 12]
-11. **Complexity of Counting** [AB, ch. 17] (happening via [Zoom]()!)
-12. **Break**
+11. **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)
+12. Break
 13. **Circuit Lower Bounds** [AB, ch. 14]
 14. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
 
