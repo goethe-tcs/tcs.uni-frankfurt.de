@@ -51,8 +51,8 @@ The summer term has 14 weeks, the following is a preliminary plan:
    Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf). Please consider handing in the assignment as a team of size 2.
 
 8. ✓ **Interactive proofs** [AB, ch. 8.1-8.3]\
-   Homework: 8.1, 8.2, 8.6*, 8.8
-   
+   Homework: 8.1, 8.2, 8.6*
+
 9. **PCP Theorem** [AB, ch. 11]
 10. **Decision Trees** [AB, ch. 12]
 11. **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)
