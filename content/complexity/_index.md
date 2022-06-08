@@ -19,8 +19,7 @@ Complexity Theory is a beautiful field that studies different models of computat
 ## Grading
 
 - There will be 3-4 mandatory written assignments; you can solve them in teams of size 2.
-- Depending on class size, the exam will be oral (35 minutes) or written (180 minutes).
-- In addition, there will be ungraded in-class and homework exercises.
+- The **written exam** will take place on Tuesday, July 19 at 10-13 in H10.
 
 ## Week plan
 
@@ -53,7 +52,9 @@ The summer term has 14 weeks, the following is a preliminary plan:
 8. ✓ **Interactive proofs** [AB, ch. 8.1-8.3]\
    Homework: 8.1, 8.2, 8.6*
 
-9. **PCP Theorem** [AB, ch. 11]
+9. ✓ **PCP Theorem** [AB, ch. 11]\
+   Homework: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15
+
 10. **Decision Trees** [AB, ch. 12]
 11. **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)
 12. Break
