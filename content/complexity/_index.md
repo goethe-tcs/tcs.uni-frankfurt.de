@@ -55,7 +55,9 @@ The summer term has 14 weeks, the following is a preliminary plan:
 9. ✓ **PCP Theorem** [AB, ch. 11]\
    Homework: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15
 
-10. **Decision Trees** [AB, ch. 12]
+10. **Decision Trees** [AB, ch. 12]\
+    Homework: 12.1, 12.2, 12.3, 12.6
+
 11. **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)
 12. Self-study
 13. **Circuit Lower Bounds** [AB, ch. 14]
