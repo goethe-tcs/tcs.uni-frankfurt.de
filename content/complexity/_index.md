@@ -58,7 +58,7 @@ The summer term has 14 weeks, the following is a preliminary plan:
 10. ✓ **Decision Trees** [AB, ch. 12]\
    Homework: 12.1, 12.2, 12.3, 12.6
 
-11. **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)\
+11. ✓ **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)\
    Homework: 17.2, 17.4, 17.6*
 
 12. Self-study
