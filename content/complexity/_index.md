@@ -61,7 +61,7 @@ The summer term has 14 weeks, the following is a preliminary plan:
 11. ✓ **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)\
    Homework: 17.2, 17.4, 17.6*
 
-12. Self-study: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf). Please consider handing in the assignment as a team of size 2.
+12. ✓ Self-study: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf). Please consider handing in the assignment as a team of size 2.
 
 13. **Circuit Lower Bounds** [AB, ch. 14]
 14. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
