@@ -1,7 +1,7 @@
 ---
 title: "Diskrete Modellierung"
 shortname: "MOD"
-semester: "WiSe-2022/23"
+semester: "WiSe-20xx/xx"
 # qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
@@ -25,6 +25,7 @@ layout: single
   - Die Helpdesks finden weiterhin als Mix zwischen Online und Präsenz statt.
 - **Moodle.** Die meisten Lernangebote und Informationen finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
 - **Bei wichtigen Fragen:** Sie erreichen den _senior staff_ unter [mod22@uni-frankfurt.de](mailto:mod22@uni-frankfurt.de) (nicht: dell@ oder moodle) -->
+
 
 ## Wochenplan
 
@@ -74,25 +75,14 @@ Siehe Wochenplan.
 - Leo Krull (Dozentin)
 - Anselm Haak (Dozent)
 
-<!-- - Marius Hagemann (2x Tutor)
-- Alexander Hengstmann (2x Tutor)
-- Tolga Tel (2x Tutor)
-- Aura Sofia Lohr (Tutorin)
-- Julian Lorenz (Tutor)
-- Melvin Kallmayer (Tutor)
-- Julian Mende (Tutor)
-- Timo Mertin (Tutor)
-- Jonas Strauch (Tutor)
-- Marc Viel (Tutor) -->
-
 ## Ähnliche Kurse
 
 - [Diskrete Modellierung](https://ae.cs.uni-frankfurt.de/dismod21) von Ulrich Meyer (Goethe-Uni Frankfurt).
 
 ## Klausur
 
-- Klausur: **??.??.2023**
-- Nachklausur: **??.??.2023**
+- Klausur: **??.??.20??**
+- Nachklausur: **??.??.20??**
 
 ## Formales
 

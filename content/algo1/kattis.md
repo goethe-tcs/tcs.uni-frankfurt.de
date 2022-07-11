@@ -3,6 +3,7 @@ title: "Kattis-Probleme für ALGO-1"
 ---
 
 Die folgenden algorithmischen Probleme können mit Methoden aus Algorithmen und Datenstrukturen 1 gelöst werden:
+
 - <https://open.kattis.com/problems/hello>
 - <https://open.kattis.com/problems/amazing>
 - <https://open.kattis.com/problems/basicprogramming1>
