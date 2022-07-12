@@ -63,8 +63,9 @@ The summer term has 14 weeks, the following is a preliminary plan:
 
 12. ✓ Self-study: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf). Please consider handing in the assignment as a team of size 2.
 
-13. **Circuit Lower Bounds** [AB, ch. 14]
-14. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
+13. **Circuit Lower Bounds** [AB, ch. 14.1]
+14. **Recap**
+<!-- 15. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)] -->
 
 ## Prerequisites
 
