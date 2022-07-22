@@ -1,3 +1,11 @@
+Winter 2022/23:
+  - url: /projects/
+    img: /pace/turtle.svg
+    imgw: 110
+    imgh: 128
+    type: Thesis
+    desc:
+      Apply by **September 1, 2022** to work on a thesis or research project in the winter term of 2022/23.
 Summer 2022:
   - url: /complexity/
     img: /complexity/AB-cover.jpg
@@ -13,13 +21,6 @@ Summer 2022:
     type: Seminar
     desc: "Current Topics in Theoretical Computer Science: Graph kernels"
     loc: Di 8-10, H9
-  - url: /projects/
-    img: /pace/turtle.svg
-    imgw: 129
-    imgh: 150
-    type: Thesis
-    desc:
-      Apply by **September 1, 2022** to work on a thesis or research project in the winter term of 2022/23.
 Winter 2021/22:
   - url: /algo2/
     img: /algo2/pnp.svg

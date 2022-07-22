@@ -6,13 +6,14 @@ $wide: 768px;
 
 :root {
   /* colors */
-  --gu-base-color: rgb(0, 97, 143);
+  --gu-base-color: hsl(199, 100%, 28%);
   --body-bg: rgb(240, 247, 238);
   --content-bg: rgb(256, 256, 256);
   --content-fg: rgb(0, 0, 0);
+  --content-fg-soft: hsl(0, 0%, 50%);
   --navbar-bg-gradient-start: var(--gu-base-color);
   // --navbar-bg-gradient-end: rgb(50, 126, 187);
-  --navbar-bg-hover: rgb(50, 126, 187);
+  --navbar-bg-hover: hsl(207, 58%, 46%);
   --navbar-fg: rgb(256, 256, 256);
   --link-fg: rgb(168, 17, 0);
   --link-bg-hover: rgb(238, 213, 210);
@@ -26,10 +27,22 @@ $wide: 768px;
   --small-font-size: 0.8rem;
 
   /* font families */
-  --logo-font: 'Cormorant Garamond', serif;
-  --sidebar-font: 'Cormorant Garamond', serif;
-  --headings-font: 'Cormorant Garamond', serif;
   --base-font: 'Cormorant Garamond', serif;
+  // --base-font: sans-serif;
+  --logo-font: var(--base-font);
+  --sidebar-font: var(--base-font);
+  --headings-font: var(--base-font);
+
+  @media (prefers-color-scheme: dark) {
+    --body-bg: rgb(0, 0, 0);
+    --content-bg: hsl(0, 0%, 12%);
+    --content-fg: rgb(255, 255, 255);
+    --content-fg-soft: hsl(0, 0%, 80%);
+    --link-fg: hsl(0, 100%, 60%);
+    --link-fg: hsl(199, 100%, 80%);
+    --link-bg-hover: hsl(6, 30%, 20%);
+    --link-bg-hover: hsl(199, 100%, 28%);
+  }
 }
 
 @import 'fonts';
