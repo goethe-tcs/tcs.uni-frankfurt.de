@@ -1,9 +1,12 @@
+                </main>
             </div>
-            <div class="footer">
-                {{if .GitInfo}}{{.GitInfo.AuthorName}} |
-                {{with .Lastmod.Format "January 2, 2006"}}{{.}} |{{end}}
-                {{end}}
-                <a href="/legal/">Impressum und Datenschutz</a>
+            <div class="footer-container">
+                <footer>
+                    {{if .GitInfo}}{{.GitInfo.AuthorName}} |
+                    {{with .Lastmod.Format "January 2, 2006"}}{{.}} |{{end}}
+                    {{end}}
+                    <a href="/legal/">Impressum und Datenschutz</a>
+                </footer>
             </div>
         </div>
     </body>

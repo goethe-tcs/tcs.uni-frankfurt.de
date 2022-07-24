@@ -1,0 +1,82 @@
+header,
+footer {
+  font-family: var(--navbar-font);
+  font-weight: 300;
+}
+
+header {
+  background-color: var(--navbar-bg);
+  color: var(--navbar-fg);
+
+  :any-link {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      background-color: var(--navbar-bg-hover);
+    }
+  }
+
+  img.gu-logo {
+    display: none;
+    height: auto;
+    max-height: 66px;
+    max-width: 122px;
+    width: 100%;
+  }
+
+  img.goethe {
+    height: 80px;
+    width: auto;
+    padding: 10px;
+  }
+
+  .tcs-logo {
+    padding: 10px;
+    display: grid;
+  }
+
+  .item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .item-desc {
+    font-size: 0.7rem;
+    display: none;
+  }
+
+  .fas {
+    font-size: var(--larger-font-size);
+  }
+
+  .tcs-logo-long {
+    display: none;
+  }
+
+  @media (min-width: $medium) {
+    .fas {
+      font-size: var(--larger-font-size);
+    }
+
+    .tcs-logo-short {
+      display: none;
+    }
+
+    .tcs-logo-long {
+      display: block;
+    }
+
+    .item {
+      min-height: 80px;
+      min-width: 80px;
+    }
+
+    .item-desc {
+      display: block;
+    }
+  }
+}

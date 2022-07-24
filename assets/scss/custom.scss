@@ -1,4 +1,3 @@
-
 html {
   background-color: var(--body-bg);
   color: var(--content-fg);
@@ -75,7 +74,7 @@ a:active,
   background-color: var(--link-bg-hover);
 }
 
-.footer {
+.footer-container {
   background-color: var(--content-bg);
   font-size: var(--small-font-size);
 
@@ -85,19 +84,27 @@ a:active,
 }
 
 .katex {
-  font-size: inherit;
-  font-weight: inherit;
+  font-size: inherit !important;
+  font-weight: inherit !important;
 }
 
 .course-list {
   display: block;
-}
-.course-list > a {
-  height: 150px;
-  margin: 1em;
-  display: flex;
-  padding: 0;
-  margin: 0;
+
+  a {
+    height: 150px;
+    display: flex;
+    padding: 0;
+    margin: 0;
+  }
+
+  a,
+  a:hover,
+  a:active,
+  :any-link {
+    text-decoration: none;
+    color: inherit;
+  }
 }
 
 .course-list > a > div {
@@ -117,7 +124,6 @@ a:active,
   font-weight: 100;
   text-decoration: none;
   color: black;
-  box-sizing: border-box;
   width: 140px;
 }
 
@@ -125,11 +131,6 @@ a:active,
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.course-list > a {
-  text-decoration: none;
-  color: inherit;
 }
 
 .member-list {
@@ -155,7 +156,6 @@ a:active,
 .member-photo {
   border-radius: 1em;
   height: 150px;
-  box-sizing: border-box;
   overflow-y: hidden;
   margin-bottom: 5px;
 }

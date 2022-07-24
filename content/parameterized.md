@@ -16,7 +16,7 @@ In **Teil 1** folgen wir diesem Buch:
 Hier ist der (vorläufige) Plan:
 
 - Woche 1 (Nov 2-6):
-  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/01-VertexCover.mp4)] [Kapitel 1, 2.2.1, 3.1, 3.2] Vertex-Cover: Reduktionsregeln, \(O(k^2)\)-Kernelisierung, einfache Branching-Algorithmen 
+  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/01-VertexCover.mp4)] [Kapitel 1, 2.2.1, 3.1, 3.2] Vertex-Cover: Reduktionsregeln, $O(k^2)$-Kernelisierung, einfache Branching-Algorithmen 
   - [[video](https://files.tcs.uni-frankfurt.de/parameterized/02-Definitionen.mp4)] [Kapitel 1, 2.1] Grundlegende Definitionen, Äquivalenz von Kernelisierung und FPT
   - [[video](https://files.tcs.uni-frankfurt.de/parameterized/03-Kernels.mp4)] [Kapitel 2.2.3, 2.3, 2.5] Kernelisierung von Edge Clique Cover, Crown Reduktion für Vertex-Cover, Kernels via Lineare Programmierung
   - [[pdf](https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/winter18/MultivariateAlgorithmics/Assignment01.pdf)] Erstes Übungsblatt (bitte ignorieren Sie organisatorische Anmerkungen auf dem Blatt, es stammt aus einer alten Iteration). Sie werden die Lösungen nächste Woche in der Übungsgruppe vorstellen.
@@ -60,7 +60,7 @@ Hier ist der (vorläufige) Plan:
 
 - Woche 6 (Dec 7-11):
   - [todo] Überblick über die Themen der Woche
-  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche06-1-kPath.mp4) 84 min] \(k\)-Pfade in Zeit \(O(2^k)\) finden [10.4]
+  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche06-1-kPath.mp4) 84 min] $k$-Pfade in Zeit $O(2^k)$ finden [10.4]
   - Übungsaufgabe: 10.19 im Buch.
   - Übungsgruppe am **11.12.**: Wir besprechen die Lösungen der Blattaufgabe 3.4 aus **Woche 2**, Blattaufgabe 5.4 aus **Woche 3**, und die Buchaufgaben der **Woche 4**.
 
@@ -86,7 +86,7 @@ In **Teil 2** folgen wir in wesentlichen Teilen der Vorlesung von Bringmann/Kün
   - Übungsgruppe am **22.01.** und **28.01.**: Wir besprechen Übungsaufgaben und Fragen.
 
 - Woche 10 (Feb 1-5): The Polynomial Method 
-  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche10-1-Ziel.mp4) 19 min] Ziel: Subquadratischer Algorithmus für OV wenn \(d=O(\log n)\).
+  - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche10-1-Ziel.mp4) 19 min] Ziel: Subquadratischer Algorithmus für OV wenn $d=O(\log n)$.
   - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche10-2-MatrixMult.mp4) 10 min] Schnelle Multiplikation von Rechtecksmatrizen
   - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche10-3-MultivariatePolynomialEvaluation.mp4) 20 min] Schnelle Evaluation von Multivariaten Polynomen
   - [[video](https://files.tcs.uni-frankfurt.de/parameterized/Woche10-4-Conversion-to-Polynomial.mp4) 10 min] Boolsche Formel für OV wird übersetzt in Arithmetische Formel
@@ -146,8 +146,8 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 In dieser Vorlesung geht es um schnelle Algorithmen für "schwere" Berechnungsprobleme und immer auch um die Frage, ob noch schnellere Algorithmen möglich sind.
 Der Ausgangspunkt ist die Beobachtung, dass NP-Vollständigkeit und die Klassifikation von Problemen in Polynomialzeit und NP-schwer oft zu grobkörnig ist, um genaue Aussagen über die bestmöglich Laufzeit zu erzielen.
 
-Wenn ein Algorithmus in Zeit \(O(n^3)\) läuft, ist dennoch von höchstem Interesse, ob es nicht einen cleveren und noch unbekannten Algorithmus geben könnte, der nur Zeit \(O(n^{2.99})\) oder \(O(n)\) braucht.
-Und nur weil ein Problem NP-schwer ist und damit keinen Polynomialzeitalgorithmus hat, heißt das noch lange nicht, dass man das Problem nicht gelöst haben möchte. Daher ist die Frage interessant, wie schnell man das Problem denn nun lösen kann: Vielleicht in Zeit \(O(n^n)\), \(O(2^n)\) oder gar \(O(1.3^k n)\) wo \(k\) ein weiterer Parameter der Eingabe ist?
+Wenn ein Algorithmus in Zeit $O(n^3)$ läuft, ist dennoch von höchstem Interesse, ob es nicht einen cleveren und noch unbekannten Algorithmus geben könnte, der nur Zeit $O(n^{2.99})$ oder $O(n)$ braucht.
+Und nur weil ein Problem NP-schwer ist und damit keinen Polynomialzeitalgorithmus hat, heißt das noch lange nicht, dass man das Problem nicht gelöst haben möchte. Daher ist die Frage interessant, wie schnell man das Problem denn nun lösen kann: Vielleicht in Zeit $O(n^n)$, $O(2^n)$ oder gar $O(1.3^k n)$ wo $k$ ein weiterer Parameter der Eingabe ist?
 
 Dieser Kurs vermittelt spannende algorithmische Techniken, um die Komplexität von NP-schweren und Polynomialzeitproblemen genauer zu analysieren.
 Die Übungen bilden einen wichtigen Teil der Veranstaltung: Darin werden Sie algorithmische Techniken selbständig anwenden und auch Komplexitätsannahmen benutzen, um zu zeigen, dass bestimmte Probleme keine schnelleren Algorithmen zulassen.

@@ -1,0 +1,78 @@
+/**
+ * assumed DOM:
+ * body > .wrapper > header, .container, .footer-container
+ * header > nav
+ * .container > main
+ * .footer-container > footer
+ */
+.wrapper {
+  display: grid;
+  gap: 0;
+  grid-template:
+    "header"    minmax(max-content, 133px)
+    "container" 1fr
+    "footer"    minmax(max-content, 0) / 1fr;
+  justify-content: center;
+  margin: 0 auto;
+  min-height: 100vh;
+  min-width: min-content;
+}
+
+.navbar,
+main,
+footer {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.navbar {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  background-color: var(--content-bg);
+  grid-area: container;
+  justify-self: stretch;
+  margin: 0;
+}
+
+.footer-container {
+  grid-area: footer;
+  margin-top: 2rem;
+  background-color: var(--footer-bg);
+}
+
+footer {
+  text-align: right;
+  padding: 2rem;
+}
+
+.navbar,
+main,
+footer {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: $medium) {
+  .container {
+    padding-top: 3rem;
+  }
+}
+
+@media (min-width: $wide) {
+  .navbar,
+  main,
+  footer {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}

@@ -2,7 +2,6 @@
 
 const DISTDIR = 'assets/dist'
 const path = require('path')
-const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const { WebpackManifestPlugin } = require('webpack-manifest-plugin')
@@ -26,14 +25,14 @@ module.exports = env => {
       }),
       new WebpackManifestPlugin({
         fileName: '../data/manifest.json'
-      }),
+      })
     ],
     devServer: {
       port: 1314,
       headers: {
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, PATCH, OPTIONS",
-        "Access-Control-Allow-Headers": "X-Requested-With, content-type, Authorization"
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, PATCH, OPTIONS',
+        'Access-Control-Allow-Headers': 'X-Requested-With, content-type, Authorization'
       }
     },
     module: {

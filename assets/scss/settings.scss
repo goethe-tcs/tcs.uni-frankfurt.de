@@ -1,0 +1,40 @@
+$small: 450px;
+$medium: 600px;
+$wide: 768px;
+
+:root {
+  /* colors */
+  --gu-base-color: hsl(199deg 100% 28%);
+  --body-bg: rgb(255 255 255);
+  --content-bg: rgb(255 255 255);
+  --content-fg: rgb(0 0 0);
+  --content-fg-soft: hsl(0deg 0% 50%);
+  --footer-bg: rgb(200 200 200);
+  --navbar-bg: var(--gu-base-color);
+  --navbar-bg-hover: hsl(207deg 58% 46%);
+  --navbar-fg: rgb(255 255 255);
+  --link-fg: rgb(168 17 0);
+  --link-bg-hover: rgb(238 213 210);
+
+  /* font sizes */
+  --base-font-size: 21px;
+  --largest-font-size: 2.3rem;
+  --larger-font-size: 1.4rem;
+  --small-font-size: 0.8rem;
+
+  /* font families */
+  --base-font: serif;
+  --headings-font: var(--base-font);
+  --navbar-font: "Helvetica Neue", sans-serif;
+  --footer-font: var(--navbar-font);
+
+  @media (prefers-color-scheme: dark) {
+    --body-bg: rgb(0 0 0);
+    --content-bg: hsl(0deg 0% 0%);
+    --content-fg: rgb(255 255 255);
+    --content-fg-soft: hsl(0deg 0% 80%);
+    --footer-bg: rgb(76, 76, 76);
+    --link-fg: hsl(199deg 100% 80%);
+    --link-bg-hover: hsl(199deg 100% 28%);
+  }
+}

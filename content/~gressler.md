@@ -8,7 +8,7 @@ contact:
   - "fa fa-fax": '+49-69-798-28814'
   - "fa fa-search": 'Room 314, RMS 11-15'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
-photo: https://www.ae.cs.uni-frankfurt.de/assets/staff_img/claudia_gressler.jpg
+photo: /images/claudia_gressler.jpg
 # profiles:
   # - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"
   # - "ai ai-google-scholar": "[Google Scholar](https://scholar.google.de/citations?user=zcZSZ4MAAAAJ)"

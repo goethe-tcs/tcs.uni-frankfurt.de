@@ -17,6 +17,12 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
+  {{ $sass := resources.Get "scss/main.scss" -}}
+  {{- $style := $sass | resources.ToCSS (dict "targetPath" "assets/css/style.css" "outputStyle" "compressed") | resources.Fingerprint "sha512" -}}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  <!-- It's also Possible to inline the CSS:
+    <style>{{ $style.Content | safeCSS }}</style>
+  -->
   {{ $css := .Scratch.Get "css" -}}
   <link rel="stylesheet" href="{{ $css }}">
   {{ $js := .Scratch.Get "js" -}}
@@ -24,32 +30,37 @@
 </head>
 <body>
   <div class="wrapper">
-    <nav class="navbar">
-      <a class="menu GU" href="https://www.uni-frankfurt.de">
-        <img alt="Goethe-Universität Frankfurt" class="GU-logo" src="/images/Goethe-Logo-weiss.svg">
-        <img alt="Goethe-Universität Frankfurt" class="Goethe" src="/images/Goethe-weiss.svg">
-      </a>
-      <div class="menu separator"></div>
-      <a class="menu TCS" href="/">
-        <div>
-          Theoretical Computer Science
-          <!--div class="nowrap title-cs">CS</div>
-          <div class="nowrap title-theory"><span class="dash">&mdash;</span>Theory<span class="dash">&mdash;</span></div-->
-        </div>
-      </a>
-      <div class="menu separator"></div>
-      <div class="menu separator"></div>
-      <!-- <a class="menu item" href="/members/">
-        <i class="fas fa-users"></i>
-        <div class="item-desc">Members</div>
-      </a> -->
-      <a class="menu item" href="/research/">
-        <i class="fas fa-flask"></i>
-        <div class="item-desc">Research</div>
-      </a>
-      <a class="menu item" href="/teaching/">
-        <i class="fas fa-chalkboard-teacher"></i>
-        <div class="item-desc">Teaching</div>
-      </a>
-    </nav>
+    <header>
+      <div class="navbar">
+        <nav class="site-links">
+          <a class="menu" href="https://www.uni-frankfurt.de">
+            <img alt="Goethe-Universität Frankfurt" class="gu-logo" src="/images/Goethe-Logo-weiss.svg">
+            <img alt="Goethe-Universität Frankfurt" class="goethe" src="/images/Goethe-weiss.svg">
+          </a>
+        <a class="menu tcs-logo" href="/">
+          <div class="tcs-logo-long">
+            Research Group for<br />
+            <b>Theoretical Computer Science</b>
+            <!--div class="nowrap title-cs">CS</div>
+            <div class="nowrap title-theory"><span class="dash">&mdash;</span>Theory<span class="dash">&mdash;</span></div-->
+          </div>
+          <div class="tcs-logo-short">
+            <b>TCS</b> Group
+            <!--div class="nowrap title-cs">CS</div>
+            <div class="nowrap title-theory"><span class="dash">&mdash;</span>Theory<span class="dash">&mdash;</span></div-->
+          </div>
+        </a>
+        </nav>
+        <nav class="page-links">
+          <a class="menu item" href="/research/">
+            <i class="fas fa-flask"></i>
+            <div class="item-desc">Research</div>
+          </a>
+          <a class="menu item" href="/teaching/">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <div class="item-desc">Teaching</div>
+          </a>
+        </nav>
+    </header>
     <div class="container {{ .Layout }}">
+      <main>
