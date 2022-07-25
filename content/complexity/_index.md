@@ -80,7 +80,7 @@ You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent) an
 ## Literature
 
 <a href="https://ubffm.hds.hebis.de/Record/HEB48053893X">
-<img src="/complexity/AB-cover.jpg" alt="book cover" width="102" height="150" style="float: left; padding-right: 1em;" /></a>
+<img src="/complexity/AB-cover.jpg" alt="book cover" width="126" height="150" style="float: left; padding-right: 1em;" /></a>
 
 **AB**: _Computational Complexity: A Modern Approach_ by Sanjeev Arora and Boaz Barak.\
 [[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB48053893X)].
