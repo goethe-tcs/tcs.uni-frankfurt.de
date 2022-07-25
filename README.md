@@ -8,7 +8,7 @@ For local development:
 
 Then run:
 ```bash
-yarn
+yarn install
 ```
 to install the dependencies,
 ```bash

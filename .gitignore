@@ -1,6 +1,5 @@
 static/assets/dist/
 public/
-yarn.lock
 node_modules/
 resources/_gen/
 data/manifest.json
