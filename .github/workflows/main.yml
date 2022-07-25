@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
@@ -32,18 +32,12 @@ jobs:
         with:
           extended: true
 
-      - name: Install
-        uses: CultureHQ/actions-yarn@master
+      - uses: actions/setup-node@v3
         with:
-          args: install
+          node-version: 18
 
-      - name: Build Webpack
-        uses: CultureHQ/actions-yarn@master
-        with:
-          args: build-webpack
-
-      - name: Build Hugo
-        run: hugo --minify
+      - run: yarn install
+      - run: yarn build
 
       - name: Deploy to server
         id: deploy
