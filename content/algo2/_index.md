@@ -1,17 +1,16 @@
 ---
 title: "Algorithmen und Datenstrukturen 2"
-shortname: "ALGO2"
+ects: "8"
+sws: "3V, 2Ü"
+kürzel:
+  - program: "Bachelor"
+    modul: "B-ALGO-2"
+    veranstaltung: "ALGO2"
 semester: "WiSe-2021/22"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
 ---
-
-## Klausur
-
-- **Klausur:** 22.02.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur-solutions.pdf)
-- **Nachklausur:** 05.04.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur-solutions.pdf)
-- **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).**
 
 ## Übersicht
 
@@ -122,6 +121,14 @@ Außerdem können die Studierenden:
 - Timo Mertin (Tutor)
 - Jonas Strauch (Tutor)
 - Marc Viel (Tutor)
+
+
+## Klausur
+
+- **Klausur:** 22.02.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur-solutions.pdf)
+- **Nachklausur:** 05.04.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur-solutions.pdf)
+- **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).**
+
 
 ## Ähnliche Kurse
 

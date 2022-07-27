@@ -1,10 +1,22 @@
 ---
-title: "Aktuelle Themen der Theoretischen Informatik: Graph kernels (Seminar)"
-shortname: "ATTI-MS, ATTI-BS, M-AuK-S-K, B-AUK-S"
+title: "Seminar: Graph Kernels"
+aliases:
+  - "/seminar/atti"
+ects: "5"
+sws: "2S"
+kürzel:
+  - program: "Bachelor"
+    modul: "B-AUK-S"
+    veranstaltung: "ATTI-BS"
+  - program: "Master"
+    modul: "M-AuK-S-K"
+    veranstaltung: "ATTI-MS"
 semester: "SoSe-2022"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=335452&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: no
 ---
+
+## Inhalt
 
 Das Seminar deckt die gesamte Bandbreite von **theoretischen Grundlagen** bis zur **praktischen Umsetzung** des maschinellen Lernens auf Graphen an, insbesondere wird es um _graph similarity_ und _graph kernels_ gehen.
 Das Thema liegt an der Schnittstelle zwischen Graphentheorie, Theorie der Algorithmen, und maschinellem Lernen.

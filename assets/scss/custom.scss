@@ -92,10 +92,8 @@ a:active,
   display: block;
 
   a {
-    height: 150px;
+    min-height: 150px;
     display: flex;
-    padding: 0;
-    margin: 0;
   }
 
   a,
@@ -108,8 +106,6 @@ a:active,
 }
 
 .course-list > a > div {
-  padding: 0;
-  margin: 0;
   align-content: center;
   display: grid;
 }
@@ -119,16 +115,15 @@ a:active,
 // }
 
 .course-img {
-  // font-size: 40px;
-  // font-family: Verdana, Geneva, Tahoma, sans-serif;
+  flex-shrink: 0;
   font-weight: 100;
   text-decoration: none;
   color: black;
   width: 140px;
+  margin-right: 1em;
 }
 
 .course-img > img {
-  padding: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -137,12 +132,18 @@ a:active,
   display: grid;
   gap: 30px;
   grid-template-columns: repeat(auto-fit, 150px);
-  justify-content: left;
+  justify-content: space-evenly;
   margin: 0;
-  padding: 2em 1em;
+  padding-top: 1em;
   text-align: center;
   width: 100%;
   list-style: none;
+}
+
+.event-head {
+  padding-left: 3ex;
+  font-size: smaller;
+  list-style: "– ";
 }
 
 .member-list a:hover div.member-name {

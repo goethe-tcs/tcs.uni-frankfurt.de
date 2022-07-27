@@ -1,7 +1,12 @@
 ---
 title: "Algorithmen und Datenstrukturen 1"
-shortname: "ALGO1"
 semester: "SoSe-2021"
+ects: "8"
+sws: "3V, 2Ü"
+kürzel:
+  - program: "Bachelor"
+    modul: "B-ALGO-1"
+    veranstaltung: "ALGO1"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=313037&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single

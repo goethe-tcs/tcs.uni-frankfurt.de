@@ -1,6 +1,14 @@
 ---
 title: "Complexity Theory"
-shortname: "KTH12"
+ects: "10"
+sws: "4V, 2Ü"
+kürzel:
+   - program: "Bachelor"
+     modul: "B-GeA-12"
+     veranstaltung: "KTH12"
+   - program: "Master"
+     modul: "M-KLOG-12-K"
+     veranstaltung: "KTH12"
 semester: "SoSe-2022"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330124&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
@@ -87,14 +95,12 @@ You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent) an
 
 There is also a [pdf](https://theory.cs.princeton.edu/complexity/book.pdf) on the [book website](https://theory.cs.princeton.edu/complexity/), but be aware that it is not a final draft and has different chapter numbers.
 
-## Similar Courses
-
-- Dieter van Melkebeek's [Complexity Theory](https://pages.cs.wisc.edu/~dieter/Courses/2016s-CS710/Lectures/) at UW Madison.
-- Ryan Williams' [Automata, Computability, and Complexity Theory](https://people.csail.mit.edu/rrw/6.045-2020/) and [Advanced Complexity Theory](https://people.csail.mit.edu/rrw/6.841-2019/841.html) at MIT.
-
 ## Further resources
 
+- Similar Courses:
+  - Dieter van Melkebeek's [Complexity Theory](https://pages.cs.wisc.edu/~dieter/Courses/2016s-CS710/Lectures/) at UW Madison.
+  - Ryan Williams' [Automata, Computability, and Complexity Theory](https://people.csail.mit.edu/rrw/6.045-2020/) and [Advanced Complexity Theory](https://people.csail.mit.edu/rrw/6.841-2019/841.html) at MIT.
 - For background reading on Turing machines, see:
   - [video lecture](https://mediaspace.illinois.edu/media/t/1_hv9tuhrn/223561603) on [chapter 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Jeff Erickson's [Models of Computation](https://jeffe.cs.illinois.edu/teaching/algorithms/#models) course.
   - [video lectures](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/) in Michael Sipser's course at MIT.
-- See [TCS @ Princeton](https://theory.cs.princeton.edu/online-resources.html).
+- Also see [TCS @ Princeton](https://theory.cs.princeton.edu/online-resources.html).

@@ -2,6 +2,8 @@
 title: "Diskrete Modellierung"
 shortname: "MOD"
 semester: "WiSe-20xx/xx"
+ects: "8"
+sws: "3V, 2Ü, 1EÜ"
 # qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single

@@ -1,9 +1,19 @@
 ---
-title: "Seminar: Paper lesen"
+title: "Seminar: Recent breakthroughs"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=313517"
+ects: "5"
+sws: "2S"
+kürzel:
+    - program: "Bachelor"
+      modul: "B-AUK-S"
+      veranstaltung: "ATTI-BS"
+    - program: "Master"
+      modul: "M-AuK-S"
+      veranstaltung: "ATTI-MS"
+semester: "SoSe 2021"
 ---
 
-- **Modul:** Komplexitätstheorie / Algorithmen und Komplexität (siehe [qis](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=313517)).
-- **Thema:** "Was gibt's Neues in der theoretischen Informatik?".
+## Inhalt
 
 Dieses Seminar bietet einen Einblick in das wissenschaftliche Arbeiten in der theoretischen Informatik und stellt eine hervorragende Möglichkeit dar, sich auf eine Bachelor/Master-Arbeit in diesem Gebiet vorzubereiten.
 Jede:r Teilnehmer:in sucht sich zu Beginn eine Publikation aus, die auf einer der international renommiertesten Konferenzen im Jahr 2020 oder 2021 erschienen ist oder dort noch erscheinen wird.

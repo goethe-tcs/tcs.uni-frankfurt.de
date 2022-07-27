@@ -1,13 +1,23 @@
 ---
-title: "Feinkörnige Parameterisierte Algorithmen"
+title: "Fine-grained Parameterized Algorithms"
+semester: "WiSe 2020/21"
+ects: "10"
+sws: "4V, 2Ü"
+kürzel:
+   - program: "Master"
+     modul: "M-AfgD-12-K"
+     veranstaltung: "FPA12"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+toc: yes
+layout: single
 ---
-### "Feinkörnige Parameterisierte Algorithmen"
 
+## Inhalt
 Diese Vorlesung behandelt aktuelle Forschungsthemen aus der theoretischen Informatik und richtet sich an Student:innen, die Algorithmen und theoretische Informatik gut finden.
 Es werden etwa hälftig algorithmische und komplexitätstheoretische Fragen und Ergebnisse abgedeckt.
 Vorrausgesetzt werden Grundbegriffe aus Algorithmen und Datenstrukturen sowie Grundwissen in diskreter Mathematik. Komplexitätstheorie und algorithmische Vertiefungsvorlesungen sind von Vorteil, werden aber nicht formal vorausgesetzt.
 
-### Vorlesungsmaterial
+## Vorlesungsmaterial
 
 In **Teil 1** folgen wir diesem Buch:
 
@@ -141,7 +151,7 @@ Um sich anzumelden und das Zoom-Passwort zu erhalten, tragen Sie sich bitte hier
 - Die **mündliche Prüfung** findet am 25.02.2021 (+/- ein Tag) statt, Termine werden einzeln vereinbart.
 - **Zeitaufwand**: 10 ECTS mit je 25h = 250h. Mit 50 Stunden Klausurvorbereitung landen wir bei 200h/14 = 14h pro Woche. Davon sind 4h Vorlesung, 2h Übungsgruppe und 8h Übungsaufgaben+Vorlesungsnachbereitung.
 
-### Inhalt
+## Inhalt
 
 In dieser Vorlesung geht es um schnelle Algorithmen für "schwere" Berechnungsprobleme und immer auch um die Frage, ob noch schnellere Algorithmen möglich sind.
 Der Ausgangspunkt ist die Beobachtung, dass NP-Vollständigkeit und die Klassifikation von Problemen in Polynomialzeit und NP-schwer oft zu grobkörnig ist, um genaue Aussagen über die bestmöglich Laufzeit zu erzielen.
@@ -152,8 +162,7 @@ Und nur weil ein Problem NP-schwer ist und damit keinen Polynomialzeitalgorithmu
 Dieser Kurs vermittelt spannende algorithmische Techniken, um die Komplexität von NP-schweren und Polynomialzeitproblemen genauer zu analysieren.
 Die Übungen bilden einen wichtigen Teil der Veranstaltung: Darin werden Sie algorithmische Techniken selbständig anwenden und auch Komplexitätsannahmen benutzen, um zu zeigen, dass bestimmte Probleme keine schnelleren Algorithmen zulassen.
 
-
-### Lernziele
+## Lernziele
 
 Nach der Veranstaltung kann der:die Student:in
 
@@ -161,7 +170,7 @@ Nach der Veranstaltung kann der:die Student:in
 - wichtige Ergebnisse, Algorithmen und Beweistechniken aus dem Gebiet reproduzieren und auf ähnliche Probleme übertragen,
 - die Möglichkeiten und Grenzen der Methoden des Gebiets einschätzen.
 
-### Literatur und Links
+## Literatur und Links
 
 - Cygan et al. "Parameterized Algorithms" [[preprint pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf) • [e-UB](https://ubffm.hds.hebis.de/Record/HEB486266346) • [ISBN 978-3-319-21274-6](https://dblp.org/rec/html/books/sp/CyganFKLMPPS15)].
 - Eine vorherige Iteration dieses Kurses: [Multivariate Algorithmics](https://bit.ly/MulAlg18) (2018).

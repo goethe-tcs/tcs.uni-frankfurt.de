@@ -5,7 +5,7 @@ title: Research
 In theoretical computer science, we study *information* and *computation*.
 Some example topics include the following:
 
-- **Models of computation.** What is computation? What are suitable models to describe computational artefacts such as modern computer hardware, the human brain, or society? How powerful are quantum computers?
+- **Models of computation.** What is computation? What are suitable models to describe computational artifacts such as modern computer hardware, the human brain, or society? How powerful are quantum computers?
 - **Privacy.** When a social media platform publishes a supposedly anonymized data set, what kinds of information about individuals can be inferred anyway? How to release data in such a way that anonymity can be provably guaranteed?
 - **Efficiency.** Which tasks can be computed efficiently and which cannot be? Which tasks can be solved faster than by trying out all possibilities?
 - **Cryptography.** When establishing a supposedly secure internet connection with my bank, how sure can I be that the data transmission truly cannot be read or altered by an attacker?
@@ -21,3 +21,17 @@ Particular research interest present in this lab include:
 - Pseudorandomness, derandomization, and hashing techniques.
 - The structure of fine-grained and parameterized complexity, and the complexity of satisfiability problems.
 - Kernelization, rigorous preprocessing, and compression algorithms for computational problems.
+
+### Related research groups
+
+In Frankfurt, we have close connections to these research groups:
+
+- [Algorithms, Dynamics, and Information Flow in Networks](https://adyn.cs.uni-frankfurt.de/) (DFG research unit)
+- [Algorithm Engineering](https://ae.cs.uni-frankfurt.de/) (research group)
+- [Algorithms & Complexity](https://algo.cs.uni-frankfurt.de/) (research group)
+- [Discrete Mathematics](https://www.uni-frankfurt.de/46104797/Diskrete_Mathematik) (group of research groups)
+
+Beyond Frankfurt, we have strong links with
+
+- [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk/) (Copenhagen)
+- [Max Planck Institute Computer Science](https://www.mpi-inf.mpg.de/departments/algorithms-complexity) (Saarbrücken)
