@@ -4,9 +4,9 @@
    {{- with .Params.semester -}}<li>{{.}}</li>{{ end -}}
    {{if .Params.kürzel}}
    <li>Course codes: {{ range $i, $e := .Params.kürzel }}{{ if $i }} · {{end}}{{ $e.modul -}}→{{- $e.veranstaltung -}}{{- end }}</li>
+   {{end}}
    {{- with .Params.qis }}<li>External links: <a href="{{.}}">qis</a></li>{{ end -}}
 </ul>
-{{end}}
 {{if or .Params.show_author_date_info .Params.estimated_reading_time}}
 <p>
 {{if .Params.show_author_date_info}}

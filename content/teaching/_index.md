@@ -8,47 +8,47 @@ toc: no
 
 ### Summer 2024 (tentative)
 
-- Lecture (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
+- Advanced Lecture
 - Seminar
 
 ### Winter 2023/24 (tentative)
 
-- Advanced Lecture
+- Lecture (3+2): [Algorithmen und Datenstrukturen 2](/algo2)
 - Seminar
 
 ### Summer 2023 (tentative)
 
-- Advanced Lecture
+- Lecture (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
 - Seminar
-
-### Winter 2022/23 (tentative)
-
-- Lecture (3+2+1): [Diskrete Modellierung](/mod), Di 14-16 (H V), Do 14-16 (H VI).
-- Oberseminar: Do 14-16, H9.
-- [Thesis and research projects](/projects): Apply by September 1, 2022!
 
 -->
 
-### Summer 2022 (current semester)
+### Winter 2022/23 (upcoming semester)
+
+- Seminar: [Graph Homomorphisms](/seminar/homomorphisms), Di 14-16, H9.
+- Oberseminar: Do 14-16, H5.
+- [Thesis and research projects](/projects): Apply by September 1, 2022!
+
+### Summer 2022
 
 - Lecture (4+2): [Complexity Theory](/complexity), Di 10-14, Mi 10-12, H9.
-- Seminar: [Aktuelle Themen der Theoretischen Informatik: Graph kernels](/seminar/atti), Di 8:30-10:00, H9.
+- Seminar: [Graph kernels](/seminar/graphkernels), Di 8:30-10:00, H9.
 - Oberseminar: Di 14-16, H10.
 
 ### Winter 2021/22
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 2](/algo2)
-- Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
+- Seminar: [Mathematics and Computation](/seminar/wigderson)
 
 ### Summer 2021
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](/algo1)
-- Seminar: [Paper lesen](/seminar/paper) ("Algorithmen und Komplexität")
+- Seminar: [Recent breakthroughs](/seminar/paper)
 
 ### Winter 2020/21
 
-- Vorlesung (2+2): [Fine-grained Parameterized Algorithms](/parameterized)
-- Seminar: [Mathematics and Computation](/seminar/wigderson) ("Algorithmen und Komplexität")
+- Vorlesung (4+2): [Fine-grained Parameterized Algorithms](/parameterized)
+- Seminar: [Mathematics and Computation](/seminar/wigderson)
 
 ### Past courses offered by Holger Dell
 

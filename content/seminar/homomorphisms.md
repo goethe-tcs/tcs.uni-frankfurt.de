@@ -1,6 +1,6 @@
 ---
 title: "Seminar: Graph Homomorphisms"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=313517"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=340009&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 ects: "5"
 sws: "2S"
 kürzel:
