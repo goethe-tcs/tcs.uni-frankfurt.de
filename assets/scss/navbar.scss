@@ -9,11 +9,26 @@ header {
   color: var(--navbar-fg);
 
   :any-link {
+    position: relative;
     color: inherit;
     text-decoration: none;
 
+    // .dropdown {
+    //   display: none;
+    //   position: absolute;
+    //   top: 100%;
+    //   min-width: 20vw;
+    //   padding: 1em;
+    //   right: 0;
+    //   background-color: black;
+    // }
+
     &:hover {
       background-color: var(--navbar-bg-hover);
+
+      // .dropdown {
+      //   display: block;
+      // }
     }
   }
 

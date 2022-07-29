@@ -6,41 +6,61 @@ html {
   overflow-y: scroll;
 }
 
+p,
+ul,
+ol {
+  margin-block-end: 1em;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5 {
   font-family: var(--headings-font);
-  margin: 0;
-  padding: 0;
+  margin-block-start: 1.25rem;
 }
 
 h1 {
   font-size: var(--largest-font-size);
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h2 {
-  font-size: var(--largest-font-size);
+  margin-block-end: 1.25rem;
+  font-size: var(--larger-font-size);
   font-weight: 400;
-  padding-top: 2em;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  border-top: 1px dashed;
+  color: var(--content-fg-soft);
 }
 
 h3 {
   font-size: var(--larger-font-size);
   font-weight: 400;
-  padding-top: 1.5em;
 }
 
 h4,
 h5 {
   font-size: var(--base-font-size);
-  padding-top: 1.5em;
 }
 
 ul {
   list-style: circle;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+blockquote,
+ul,
+ol {
+  padding-inline-start: 2rem;
 }
 
 ol.breadcrumbs {

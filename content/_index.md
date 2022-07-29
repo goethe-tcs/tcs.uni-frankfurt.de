@@ -7,17 +7,17 @@ We value the *joy* of algorithmic thinking and *excellence* in research and teac
 
 The group is part of the [Computer Science Department](https://www.goethe-university-frankfurt.de/106076806/) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de).
 
-### Members
+## Members
 
 {{< members >}}
 
-### Research
+## Research
 
 We study *theoretical computer science*, broadly understood. Our areas of interest include complexity theory, algebraic graph algorithms, dynamic algorithms, graph neural networks, logics, integer linear programming, and combinatorics.
 [Read more...](/research/)
 
 {{% current-courses "Winter 2022/23" %}}
 
-### Past Events
+## Past Events
 
 - The [82th Workshop on Algorithms and Complexity (Theorietag)](/tt-82/) took place on June 8-9, 2022 in Frankfurt.
