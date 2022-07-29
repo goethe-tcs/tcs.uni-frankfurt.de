@@ -2,16 +2,24 @@
 title: Research
 ---
 
-In theoretical computer science, we study *information* and *computation*.
-Some example topics include the following:
+In the modern world, more and more real-life decisions about real people are made automatically using *algorithms*.
+It is in the interest of society that these algorithms behave ethically and make decisions that are morally good.
+Yet, this is much easier said than done, even if we assumed that society were to agree on a common moral theory. You would be surprised how notoriously difficult it is to understand and analyze the behavior of even the simplest algorithms, and how little humanity still knows about this topic.
+In fact, there are decision tasks whose inherent *complexity* may be so high that no algorithm that could ever be designed achieves all the ethical standards that we would desire---so all we can hope for in such cases is to achieve *trade-offs* between competing moral values.
 
-- **Models of computation.** What is computation? What are suitable models to describe computational artifacts such as modern computer hardware, the human brain, or society? How powerful are quantum computers?
-- **Privacy.** When a social media platform publishes a supposedly anonymized data set, what kinds of information about individuals can be inferred anyway? How to release data in such a way that anonymity can be provably guaranteed?
-- **Efficiency.** Which tasks can be computed efficiently and which cannot be? Which tasks can be solved faster than by trying out all possibilities?
-- **Cryptography.** When establishing a supposedly secure internet connection with my bank, how sure can I be that the data transmission truly cannot be read or altered by an attacker?
+The *Theoretical Computer Science* research group studies ***Algorithms*** and ***Complexity Theory*** using rigorous, mathematical methods.
+That is, we aim to 1) design algorithms whose behavior is mathematically guaranteed to have desirable properties, and 2) prove that no other algorithm that could ever be designed can achieve a better trade-off between these properties.
 
-The algorithmic foundations of *network science* are a re-occurring theme of the research conducted in the group---this is an interdisciplinary field that needs algorithmic methods to study extremely large networks, such as the Connectome, the​ Proteome, financial transaction networks, or social networks.
-Particular research interest present in this lab include:
+Examples of desirable properties of an algorithm are:
+
+- **Explainability.** Human experts are able to fully understand and verify the behavior of the algorithm
+- **Accuracy.** Ideally, the algorithm is guaranteed to produce the correct output for any given input.
+- **Efficiency.** The algorithm uses as little time, energy, and memory space as possible
+- **Simplicity.** The algorithm has a simple logical structure; this often means that the algorithm can be implemented as software that has fewer bugs and is easier to maintain
+- **Fairness and Privacy.** The algorithm makes fair decisions and preserves the privacy of confidential data
+- **Security.** Whenever the algorithm interacts with untrusted systems, the computation is guaranteed to stay secured against attacks
+
+Concrete research interests of the group include:
 
 - Algorithms for and the complexity of specific computational tasks, such as exactly or approximately counting subgraph patterns in large networks.
 - The implementation and validation of these algorithms on real networks (algorithmic engineering, network science, and data science).
