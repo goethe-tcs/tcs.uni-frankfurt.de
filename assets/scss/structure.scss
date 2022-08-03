@@ -1,78 +1,57 @@
-/**
- * assumed DOM:
- * body > .wrapper > header, .container, .footer-container
- * header > nav
- * .container > main
- * .footer-container > footer
- */
-.wrapper {
+html {
+  background-color: var(--color-main-bg);
+  color: var(--color-main-fg);
+  font-family: var(--font-base);
+  font-size: var(--font-size-base);
+  overflow-y: scroll;
+}
+
+body {
   display: grid;
-  gap: 0;
   grid-template:
-    "header"    minmax(max-content, 133px)
-    "container" 1fr
-    "footer"    minmax(max-content, 0) / 1fr;
-  justify-content: center;
-  margin: 0 auto;
+    "header-container" 6rem
+    "main-container"   1fr
+    "footer-container" 6rem / 1fr;
   min-height: 100vh;
-  min-width: min-content;
 }
 
-.navbar,
-main,
-footer {
-  max-width: 45rem;
-  margin: 0 auto;
+.header-container {
+  grid-area: header-container;
+  background-color: var(--color-navbar-bg);
+  color: var(--color-navbar-fg);
 }
 
-.navbar {
-  height: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-nav {
-  display: flex;
-  align-items: center;
-}
-
-.container {
-  background-color: var(--content-bg);
-  grid-area: container;
-  justify-self: stretch;
-  margin: 0;
+.main-container {
+  grid-area: main-container;
 }
 
 .footer-container {
-  grid-area: footer;
-  margin-top: 2rem;
-  background-color: var(--footer-bg);
+  grid-area: footer-container;
+  background-color: var(--color-footer-bg);
+  color: var(--color-footer-fg);
+  display: flex;
+  align-items: center;
+  font-size: var(--font-size-small);
+
+  :any-link {
+    color: inherit;
+  }
+}
+
+header,
+main,
+footer {
+  width: MIN(100%, 40rem);
+  margin: 0 auto;
+  padding: 1.25rem;
+}
+
+header {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 
 footer {
   text-align: right;
-  padding: 2rem;
-}
-
-.navbar,
-main,
-footer {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-@media (min-width: $medium) {
-  .container {
-    padding-top: 3rem;
-  }
-}
-
-@media (min-width: $wide) {
-  .navbar,
-  main,
-  footer {
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
 }
