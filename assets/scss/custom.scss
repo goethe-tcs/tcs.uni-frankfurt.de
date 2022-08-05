@@ -1,6 +1,7 @@
 p,
 ul,
 ol {
+  margin-block-start: 1em;
   margin-block-end: 1em;
 }
 
@@ -10,16 +11,16 @@ h3,
 h4,
 h5 {
   font-family: var(--font-headings);
-  margin-block-start: 1.25rem;
+  margin-block-start: 2em;
 }
 
 h1 {
   font-size: var(--font-size-large);
   font-weight: 600;
+  line-height: 1.2;
 }
 
 h2 {
-  margin-block-end: 1.25rem;
   font-size: var(--font-size-medium);
   font-weight: 400;
 }
@@ -52,7 +53,16 @@ blockquote {
 blockquote,
 ul,
 ol {
-  padding-inline-start: 2rem;
+  padding-inline-start: 1em;
+}
+
+li > ul {
+  margin: 0;
+}
+
+/* stylelint-disable-next-line selector-id-pattern */
+#TableOfContents ul {
+  margin: 0;
 }
 
 ol.breadcrumbs {
