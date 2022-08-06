@@ -13,18 +13,18 @@ Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 ### Prerequisites
 
 - You must have **successfully completed most coursework**, including a [course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/).
-- If you want to write a Master's thesis, you must have attended at least two advanced courses and/or seminars in theory.
+- If you want to write a Master's thesis, you must have attended at least two advanced courses and/or seminars in discrete mathematics or theoretical computer science.
 - Specific topics may have additional prerequisites.
 
 ### Topics
 
-We offer coding projects as well as theory projects.
+The TCS group offers a variety of theory projects and coding projects.
 Please come back here on **August 22, 2022**, we will announce available thesis topics then.
-[This page](/projects/flavors) can give you a general flavor of possible topics and describes the supervision process in more detail.
+[This page](/projects/flavors) can give you a general flavor of possible topics.
 
-### Supervision process
+### Project process
 
-We offer a streamlined [supervision process](/projects/supervision). It is a must-read if you are about to start your project in the TCS group.
+We offer a streamlined [project process](/projects/process). It is a must-read if you are about to start your project in the TCS group.
 
 ### How to apply?
 
@@ -39,7 +39,7 @@ We offer a streamlined [supervision process](/projects/supervision). It is a mus
   - Would you be interested to work in a small group? (yes, you can write a Bachelor's thesis in a group of 2-3 people.)
 - Topics will be assigned at the first meeting.
 
-### Timeline for a Bachelor's thesis in the summer term of 2022
+<!-- ### Timeline for a Bachelor's thesis in the summer term of 2022
 
 - April 1: Application deadline.
 - April 12: Topics assigned.
@@ -48,7 +48,7 @@ We offer a streamlined [supervision process](/projects/supervision). It is a mus
 - May 2: Project plan finalized & official registration of thesis with the [examination office](https://www.uni-frankfurt.de/103337868).
 - June 20: Full thesis draft handed in for feedback.
 - July 4: Thesis officially submitted.
-- July 12: Give a 30-minute talk about the results of your project.
+- July 12: Give a 30-minute talk about the results of your project. -->
 
 <!-- 
 ## Project Flavor
