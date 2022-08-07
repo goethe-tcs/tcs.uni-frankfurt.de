@@ -15,24 +15,31 @@ header {
   }
 
   nav {
+    height: 3.5rem;
     display: flex;
-    align-items: center;
   }
 
   .goethe > img {
-    height: 4rem;
+    height: 100%;
   }
 
   .tcs-logo {
-    padding: 0.75rem;
+    display: flex;
+    align-items: center;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 
   .page-links > a {
     display: flex;
     flex-direction: column;
-    padding: 0.5rem;
     justify-content: center;
     align-items: center;
+    padding: 0.25rem;
+
+    @media (min-width: $medium) {
+      aspect-ratio: 1 / 1;
+    }
   }
 
   .item-desc {
@@ -59,11 +66,6 @@ header {
 
     .tcs-logo-long {
       display: block;
-    }
-
-    .page-links > a {
-      height: 3.5rem;
-      width: 3.5rem;
     }
 
     .item-desc {

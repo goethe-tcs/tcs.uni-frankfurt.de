@@ -9,9 +9,9 @@ html {
 body {
   display: grid;
   grid-template:
-    "header-container" 6rem
+    "header-container" min-content
     "main-container"   1fr
-    "footer-container" 6rem / 1fr;
+    "footer-container" max-content / 1fr;
   min-height: 100vh;
 }
 
@@ -26,6 +26,7 @@ body {
 }
 
 .footer-container {
+  min-height: 6rem;
   grid-area: footer-container;
   background-color: var(--color-footer-bg);
   color: var(--color-footer-fg);
@@ -47,7 +48,6 @@ footer {
 }
 
 header {
-  height: 100%;
   display: flex;
   justify-content: space-between;
 }
