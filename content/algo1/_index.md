@@ -128,7 +128,7 @@ Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit 
 
 Manche Übungsaufgaben sind besonders, denn sie sind mit ⭐ markiert.
 Diese Aufgaben lösen Sie außerhalb des Synchronbetriebs und geben sie als PDF-Datei ab;
-fotografieren Sie hierzu Ihre lesbare Handschrift mit einer Scanner-App oder benutzen Sie [solution-template.tex](solution-template.tex).
+fotografieren Sie hierzu Ihre lesbare Handschrift mit einer Scanner-App oder benutzen Sie unser [.tex-Template](https://www.overleaf.com/project/62eec18cfc145c60b5899fc1).
 Sie erhalten nützliches Feedback von den Tutor:innen auf Ihre Lösung, und Ihre Lösung wird anhand objektiver Kriterien entweder _akzeptiert_ oder _nicht akzeptiert_.
 Wenn Ihre Lösung akzeptiert wird, erhalten Sie einen _Stern_ ⭐, der möglicherweise Ihre Klausurnote verbessert.
 ⭐-Aufgaben verfolgen zwei Ziele: 1) Sie lernen, im sozialen Rahmen einer kleinen Gruppe Algorithmen für Ihnen vorher unbekannte algorithmische Probleme selbst zu entwickeln und zu analysieren. 2) Indem Sie die Lösung aufschreiben, verfassen Sie dadurch einen kurzen, wissenschaftlichen Text, und lernen dabei, die wissenschaftliche Sprache der Algorithmenforschung korrekt zu benutzen.
