@@ -4,11 +4,13 @@ $wide: 768px;
 
 :root {
   /* colors */
-  --color-accent: hsl(199deg 100% 28%);
+  --color-goethe-blue: rgb(0, 97, 143);
+  --color-goethe-light-blue: rgb(72, 169, 218);
+  --color-accent: var(--color-goethe-blue);
   --color-main-bg: rgb(255 255 255);
   --color-main-fg: rgb(0 0 0);
   --color-main-fg-soft: hsl(0deg 0% 50%);
-  --color-footer-bg: hsl(0deg 0% 78%);
+  --color-footer-bg: rgb(228 227 221);
   --color-footer-fg: var(--color-main-fg);
   --color-navbar-bg: var(--color-accent);
   --color-navbar-bg-hover: hsl(199deg 100% 35%);
@@ -26,17 +28,17 @@ $wide: 768px;
   --font-size-small: 0.786rem;
 
   /* font families */
-  --font-base: serif;
-  --font-headings: var(--font-base);
+  --font-base: "Georgia", serif;
   --font-alternate: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
+  --font-headings: var(--font-alternate);
 
   @media (prefers-color-scheme: dark) {
     --color-main-bg: rgb(0 0 0);
     --color-main-fg: rgb(255 255 255);
     --color-main-fg-soft: hsl(0deg 0% 80%);
-    --color-footer-bg: hsl(0 0% 20%);
+    --color-footer-bg: rgb(77 75 70);
     --color-footer-fg: rgb(255 255 255);
-    --color-link-fg: hsl(199deg 100% 80%);
+    --color-link-fg: var(--color-goethe-light-blue);
     --color-link-hover-bg: hsl(199deg 100% 14%);
   }
 }
