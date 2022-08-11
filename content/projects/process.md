@@ -17,10 +17,12 @@ Please make sure to read the entire page, and let us know if you have any questi
 
 The _Prüfungsordnung_ regulates how much time you are expected to invest in a project:
 
-- Bachelor's thesis = 9 weeks full-time,
-- Master's thesis = 6 months full-time,
-- small Bachelor's research project (3 CP) = 90 hours,
-- large Bachelor's research project (6 CP) = 180 hours.
+- Bachelor's thesis: 12 CP = 360 hours = 9 weeks full-time,
+- Master's thesis: 30 CP = 900 hours = 6 months full-time,
+- Research project ("Forschungsprojekt"):
+  - B.Sc. small: 3 CP = 90 hours
+  - B.Sc. large: 6 CP = 180 hours
+  - M.Sc.: 8 CP = 240 hours
 
 Note that these regulations are meant to protect you from being asked too much.
 We will not track your hours in any way and will not remind you of your deadlines.
@@ -130,13 +132,13 @@ Implementation projects have some or all of the following components:
 
 ## Formalities
 
-If the project has not formally started yet, and we haven't heard from you in three weeks, then we may give the topic to another student. (Note that formally starting the project requires several people signing a form, or the project being officially registered with the examination office.)
+If we have not heard from you for 4 weeks and you have not officially registered the thesis project with the examination office, we assume you got disinterested and may give the topic to another student.
 
-Read the relevant paragraphs in the _Prüfungsordnung_ and make sure to follow the rules laid out therein:
+In case of a thesis project, make sure to read the relevant paragraphs in the _Prüfungsordnung_ (PO) and to follow the rules laid out therein:
 
-- § 35 in der PO für BSc Informatik 2019
-- § 25 in der PO für BSc Informatik 2012
-- § 34 in der PO für MSc Informatik 2019
-- § 35 in der PO für MSc Informatik 2015
+- § 35 in PO 2019 (BSc Computer Science)
+- § 25 in PO 2012 (BSc Computer Science)
+- § 34 in PO 2019 (MSc Computer Science)
+- § 35 in PO 2015 (MSc Computer Science)
 
 You will find your _Prüfungsordnung_ at the [examination office](https://www.uni-frankfurt.de/103337868/).
