@@ -4,8 +4,8 @@ $wide: 768px;
 
 :root {
   /* colors */
-  --color-goethe-blue: rgb(0, 97, 143);
-  --color-goethe-light-blue: rgb(72, 169, 218);
+  --color-goethe-blue: rgb(0 97 143);
+  --color-goethe-light-blue: rgb(72 169 218);
   --color-accent: var(--color-goethe-blue);
   --color-main-bg: rgb(255 255 255);
   --color-main-fg: rgb(0 0 0);
@@ -29,7 +29,14 @@ $wide: 768px;
 
   /* font families */
   --font-base: "Georgia", serif;
-  --font-alternate: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
+  --font-alternate:
+    "HelveticaNeue-Light",
+    "Helvetica Neue Light",
+    "Helvetica Neue",
+    "Helvetica",
+    "Arial",
+    "Lucida Grande",
+    sans-serif;
   --font-headings: var(--font-alternate);
 
   @media (prefers-color-scheme: dark) {
