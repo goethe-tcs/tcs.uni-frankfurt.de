@@ -1,7 +1,7 @@
 Winter 2022/23:
   - url: /seminar/homomorphisms/
-    img: /teaching/cr.png
-    imgw: 129
+    img: /images/graph_homomorphism_C5.svg
+    imgw: 155
     imgh: 150
     type: Seminar
     desc: "Graph Homomorphisms"
