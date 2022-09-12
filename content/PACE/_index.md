@@ -21,21 +21,19 @@ You are strongly encouraged to work in a **group**.
 
 ## What?
 
-PACE is a yearly, international **implementation challenge**. This year's challenge is to identify and implement an efficient algorithm that finds the smallest Directed Feedback Vertex Set in a given graph. In Directed Feedback Vertex Set, the input is a directed graph and we are asked to delete as few vertices as possible to make the graph acyclic:
-
-![Feedback Vertex Set in an example graph](examplemergedscaled.png)
+PACE is a yearly, international **implementation challenge**. This year's challenge is to compute the twin-width of a given graph. The twin-width is a recently defined graph parameter that measures the simplicity of the graph.
 
 If you want, you and your team can submit the implementation to the PACE challenge. Your implementation will then compete with implementations written by other teams around the world.
 
-**Learn more about**
+**Learn more...**
 
-- [Directed Feedback Vertex Set](https://pacechallenge.org/2022/directed-fvs/)
-- [The detailed rules of this year's challenge](https://pacechallenge.org/2022/)
+- [Definition of twin-width](https://en.wikipedia.org/wiki/Twin-width)
+- [PACE 2023 challenge description](https://pacechallenge.org/2023/)
 - [The goals of PACE](https://pacechallenge.org/about/)
 
 ## How?
 
-- Register in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2369) (the password is `turtle`).
+- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de)
 - We will have regular meetings and build a small community.
-- The first meeting is in Mid-Late October. (date to be determined)
-- If you want to start familiarizing yourself with the topic, you can watch the videos of last year's [Parameterized Algorithms course](https://tcs.uni-frankfurt.de/teaching/winter20/ati/) (in German) and read the corresponding book [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)]. Relevant topics are: Kernelization, Bounded Search Trees, and Iterative Compression (that is, weeks 1 and 2 of the course). An algorithm for the Directed Feedback Vertex Set problem is described in Chapter 8.6. (Note that you *will* need to understand the prerequisites first, in order to understand the algorithm described in this chapter.)
+- The first meeting is in Mid October. (date to be determined)
+- If you want to start familiarizing yourself with the topic, you can watch the videos of last year's [Parameterized Algorithms course](https://tcs.uni-frankfurt.de/teaching/winter20/ati/) (in German) and read the corresponding book [[pdf](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)]. Relevant topics are the first couple of weeks of that course.
