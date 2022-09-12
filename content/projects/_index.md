@@ -19,7 +19,7 @@ Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 ### Topics
 
 The TCS group offers a variety of theory projects and coding projects.
-Please come back here on **August 22, 2022**, we will announce available thesis topics then.
+After you have applied, we will contact you in October and propose some available thesis topics then.
 [This page](/projects/flavors) can give you a general flavor of possible topics.
 
 ### Project process
