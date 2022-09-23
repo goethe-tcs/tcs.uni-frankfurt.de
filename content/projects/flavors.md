@@ -1,5 +1,5 @@
 ---
-title: "Rough project flavors"
+title: "General project flavors"
 author: "[Holger Dell](/~dell)"
 date: "2019-01-12"
 show_author_date_info: no

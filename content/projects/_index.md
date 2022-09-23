@@ -12,7 +12,7 @@ Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 
 ### Prerequisites
 
-- You must have **successfully completed most coursework**, including a [course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/).
+- You must have **successfully completed most coursework**, including [the course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/) offered by _Schreibzentrum_ of Goethe University Frankfurt.
 - If you want to write a Master's thesis, you must have attended at least two advanced courses and/or seminars in discrete mathematics or theoretical computer science.
 - Specific topics may have additional prerequisites.
 
@@ -20,7 +20,13 @@ Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 
 The TCS group offers a variety of theory projects and coding projects.
 After you have applied, we will contact you in October and propose some available thesis topics then.
-[This page](/projects/flavors) can give you a general flavor of possible topics.
+
+**Examples of past projects (not yet available):**
+
+- Bachelor thesis: Max Mustermann (2021). _Solving Systems of Polynomial Equations over Finite Fields_ [pdf]
+- Bachelor thesis: Marie Musterfrau (2021). _Visualisierung von MST und SSSP Algorithmen_ [[www](https://jamyumyum.github.io/), [source](https://github.com/JamYumYum/JamYumYum.github.io), pdf]
+
+We also describe the [general flavor of possible topics](/projects/flavors) on a separate page.
 
 ### Project process
 
