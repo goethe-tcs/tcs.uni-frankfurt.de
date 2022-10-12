@@ -9,24 +9,9 @@ toc: yes
 
 ## Who is this document for?
 
-This document is intended for students who want to work on a project in the TCS group.
+This document is intended for students who want to work on a thesis or research project in the TCS group.
 It is supposed to clarify what we expect from you and what you can expect from us.
 Please make sure to read the entire page, and let us know if you have any questions.
-
-## Time constraints
-
-The _Prüfungsordnung_ regulates how much time you are expected to invest in a project:
-
-- Bachelor's thesis: 12 CP = 360 hours = 9 weeks full-time,
-- Master's thesis: 30 CP = 900 hours = 6 months full-time,
-- Research project ("Forschungsprojekt"):
-  - B.Sc. small: 3 CP = 90 hours
-  - B.Sc. large: 6 CP = 180 hours
-  - M.Sc.: 8 CP = 240 hours
-
-Note that these regulations are meant to protect you from being asked too much.
-We will not track your hours in any way and will not remind you of your deadlines.
-Before registering a project, please ensure that your supervisor is available for the duration of the project. Projects should start and finish during the semester, not during the semester break.
 
 <!-- 
 
@@ -48,6 +33,18 @@ For example, a Bachelor's thesis should follow this timeline:
 - July 12: Give a 30-minute talk about the results of your project.
 
 How much total time are you expected to invest in a project? -->
+
+## Timeline of a Bachelor's thesis
+
+1. **Preparation phase.** Depending on your experience and the chosen project, you may require more or less preparation before you can actually start the project. If significant preparation is required, you can prepare as part of a seminar (in exchange for CPs), as a Forschungsprojekt (in exchange for CPs), or in your free-time (without receiving CPs). During the preparation phase, you will read and present on research papers, write a prototype implementation, design experiments, or develop a proof sketch. The outcome of the preparation phase is a concrete [project plan](#project-plan).
+2. **Register your thesis project.** Hand in your [project plan](#project-plan) to the TCS group, together with the signed registration form [provided by the examination office](https://www.uni-frankfurt.de/104027741/Downloadbereich#a_92e3be26-e6c738da).
+3. **Main work phase (9 weeks).** Write and polish your implementation, perform analyze algorithmic experiments, write proofs, and write your thesis.
+4. **Submit your work.**
+   - Submit your thesis to the [examination office](https://www.uni-frankfurt.de/103337868) according to their official rules.
+   - Submit your thesis as a PDF to the TCS group (**Important:** Remove all personal information, such as date of birth or *Matrikelnummer*, and name the file `firstname lastname - Bachelors Thesis.pdf`).
+   - Submit the signed usage permission form to the TCS group, indicating whether we are allowed to redistribute your thesis for the benefit of future students.
+   - (If applicable) Submit all of your code as a `.zip` file to the TCS group (name it `firstname lastname - Source Code.zip`). Make sure the `.zip` file contains only the source files and not the `.git` directory or any compiled files. Make sure to include a file called `LICENSE`, for example, the [MIT License](https://choosealicense.com/licenses/mit/)
+5. **Give a talk on your thesis.** Around two weeks after submitting the thesis, you will give a talk (typically 25 minutes for the talk + 5 minutes for discussion).
 
 ## Project Plan
 
@@ -132,7 +129,18 @@ Implementation projects have some or all of the following components:
 
 ## Formalities
 
-If we have not heard from you for 4 weeks and you have not officially registered the thesis project with the examination office, we assume you got disinterested and may give the topic to another student.
+The _Prüfungsordnung_ regulates how much time you are expected to invest in a project:
+
+- Bachelor's thesis: 12 CP = 360 hours = 9 weeks full-time,
+- Master's thesis: 30 CP = 900 hours = 6 months full-time,
+- Research project ("Forschungsprojekt"):
+  - B.Sc. small: 3 CP = 90 hours
+  - B.Sc. large: 6 CP = 180 hours
+  - M.Sc.: 8 CP = 240 hours
+
+Note that these regulations are meant to protect you from being asked too much.
+We will not track your hours in any way and will not remind you of your deadlines.
+Before registering a project, please ensure that your supervisor is available for the duration of the project. Projects should start and finish during the semester, not during the semester break.
 
 In case of a thesis project, make sure to read the relevant paragraphs in the _Prüfungsordnung_ (PO) and to follow the rules laid out therein:
 
