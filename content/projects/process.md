@@ -41,9 +41,10 @@ How much total time are you expected to invest in a project? -->
 3. **Main work phase (9 weeks).** Write and polish your implementation, perform and analyze your algorithmic experiments, carefully write and polish your proofs, write your thesis, and polish and re-polish your writing (see our [Writing Advice](#writing-advice) below).
 4. **Submit your work.**
    - Submit your thesis to the [examination office](https://www.uni-frankfurt.de/103337868) according to their official rules.
-   - Submit your thesis as a PDF to the TCS group (**Important:** Remove all personal information, such as date of birth or *Matrikelnummer*, and name the file `Firstname Lastname - Bachelors Thesis.pdf`).
-   - Submit the signed usage permission form to the TCS group, indicating whether we are allowed to redistribute your thesis for the benefit of future students.
-   - (If applicable) Submit all of your code as a `.zip` file to the TCS group (name it `Firstname Lastname - Source Code.zip`). Make sure the `.zip` file contains only the source files and not the `.git` directory or any compiled files. Make sure to include a file called `LICENSE`, for example, the [MIT License](https://choosealicense.com/licenses/mit/)
+   - Submit the following files to the TCS group:
+     - `Firstname Lastname - Bachelors Thesis.pdf`: The PDF file of your thesis. In this version, please remove all personal information, such as your date of birth or *Matrikelnummer*.
+     - `Firstname Lastname - Usage Permission.pdf`: The PDF file of the signed usage permission form, indicating whether and how we are allowed to redistribute your thesis for the benefit of future students. (You can also submit this as a physical document.)
+     - `Firstname Lastname - Source Code.zip`: If applicable, gather all program source code in a `.zip` file. Make sure the `.zip` file contains only the source files and not the `.git` directory or any compiled files. Make sure to include a file called `LICENSE` to ensure that future students are allowed to build on your work. We strongly recommend you use the [MIT License](https://choosealicense.com/licenses/mit/). Also make sure to include some documentation (typically in a `README` file) that explains how to compile and run your code. (Note: This `.zip` file is required for archival purposes, even in case your thesis already includes a link to a public git repository.)
 5. **Give a talk on your thesis.** Around two weeks after submitting the thesis, you will give a talk (typically 25 minutes for the talk + 5 minutes for discussion).
 6. **Grading.** Your thesis will be graded according to our [Grading Criteria](https://tcs.uni-frankfurt.de/projects/grading/). A common failure mode that may lead to worse grades is to spend too little time on polishing the text and figures in your thesis.
 
@@ -79,9 +80,7 @@ Your project is *yours*. It is not the responsibility of your supervisor to moni
 Your supervisor may agree to meet with you several times throughout the semester to discuss the project, make suggestions for improvements, and also give feedback on which aspects aren't fully satisfactory yet.
 
 Every project involves a scientific writing component, and your supervisor may be able to read and give feedback on your written drafts.
-However, we will not provide iterative feedback, because this would blur the line too much between you writing your thesis and your supervisor writing your thesis, so in total your supervisor will read and comment on at most one full draft so long as you present it to them with ample time before the deadline (at least two weeks). Of course, a "full draft" can contain unfinished parts and should contain to-dos in the text that explain what you are planning to add/change.
-
-Your project will be graded according to [this grading scheme](/projects/grading).
+However, we will not provide iterative feedback, because this would blur the line too much between you writing your thesis and your supervisor writing your thesis, so in total your supervisor will read and comment on at most one full draft so long as you present it to them with ample time before the deadline (at least two weeks). Of course, a "full draft" can contain unfinished parts and should contain TODOs in the text that explain what you are planning to add/change.
 
 ## Writing Advice
 
