@@ -10,13 +10,13 @@ toc: no
 Interested in a fun and challenging thesis project in theoretical computer science?
 Great! Read this entire page and apply by **Thursday, September 1, 2022**.
 
-### Prerequisites
+## Prerequisites
 
-- You must have **successfully completed most coursework**, including [the course on scientific writing](https://www.starkerstart.uni-frankfurt.de/100074566/) offered by _Schreibzentrum_ of Goethe University Frankfurt.
+- You must read the [guidelines for projects in the TCS group](/projects/guidelines).
 - If you want to write a Master's thesis, you must have attended at least two advanced courses and/or seminars in discrete mathematics or theoretical computer science.
 - Specific topics may have additional prerequisites.
 
-### Topics
+## Topics
 
 The TCS group offers a variety of theory projects and coding projects.
 After you have applied, we will contact you in October and propose some available thesis topics then.
@@ -28,11 +28,7 @@ After you have applied, we will contact you in October and propose some availabl
 
 We also describe the [general flavor of possible topics](/projects/flavors) on a separate page.
 
-### Project process
-
-We offer a streamlined [project process](/projects/process). It is a must-read if you are about to start your project in the TCS group.
-
-### How to apply?
+## How to apply?
 
 - Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **Thursday, September 1, 2022**. If you miss the deadline, you will have to wait until February 1, 2023, to work on a project in the summer term of 2023.
 - In your first email, answer the following questions:

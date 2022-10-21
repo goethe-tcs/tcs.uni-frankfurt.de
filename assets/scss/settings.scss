@@ -37,7 +37,6 @@ $wide: 768px;
     "Arial",
     "Lucida Grande",
     sans-serif;
-  --font-headings: var(--font-alternate);
 
   @media (prefers-color-scheme: dark) {
     --color-main-bg: rgb(0 0 0);
