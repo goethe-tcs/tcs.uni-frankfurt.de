@@ -90,7 +90,7 @@ Um das Seminar zu bestehen, werden folgende Aktivitäten erwartet:
 - sich aktiv an der Diskussion beteiligen,
 - eigenständig offene Fragen identifizieren und das Lehrpersonal **vor** dem Vortrag hierzu befragen,
 - 7 Tage **vor** jedem Vortrag: einen Entwurf der Folien oder des geplanten Tafelanschriebs an das Lehrpersonal senden. Darauf erhalten Sie dann in einem persönlichen Gespräch Feedback, das Sie in den Vortrag einarbeiten.
-- 7 Tage nach dem langen Vortrag: eine Ausarbeitung (maximal vier Seiten) an zwei andere Studierende senden. Der Vortrag fasst das Material in eigenen Worten zusammen, nennt Referenzen, und stellt Zusammenhänge zu anderen Themen des Buchs her.
+- 7 Tage nach dem langen Vortrag: eine Ausarbeitung (ca.\ zwei Seiten) an zwei andere Studierende senden. Der Vortrag fasst das Material in eigenen Worten zusammen, nennt Referenzen, und stellt Zusammenhänge zu anderen Themen des Buchs her.
 - 14 Tage nach dem langen Vortrag: Sie erhalten Feedback von den anderen Studierenden,
 - 21 Tage nach dem langen Vortrag: die endgültige Version der Ausarbeitung zur Bewertung an das Lehrpersonal senden.
 
