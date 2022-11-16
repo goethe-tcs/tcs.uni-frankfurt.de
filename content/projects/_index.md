@@ -5,6 +5,8 @@ date: "2021-01-11"
 show_author_date_info: no
 estimated_reading_time: no
 toc: no
+aliases:
+  - "/teaching/project-ideas"
 ---
 
 Interested in a fun and challenging thesis project in theoretical computer science?
