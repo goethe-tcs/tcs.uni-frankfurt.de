@@ -23,7 +23,13 @@ toc: no
 
 -->
 
-## Winter 2022/23 (upcoming semester)
+## Summer 2023 (upcoming semester)
+
+- Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](/algo1), Di/Do 8-10.
+- Seminar: Algorithmen, Di 14-16.
+- Oberseminar: Do 14-16.
+
+## Winter 2022/23 (current semester)
 
 - Seminar: [Graph Homomorphisms](/seminar/homomorphisms), Di 14-16, H9.
 - Oberseminar: Do 14-16, H5.

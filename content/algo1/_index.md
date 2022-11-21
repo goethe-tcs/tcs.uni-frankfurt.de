@@ -1,13 +1,13 @@
 ---
 title: "Algorithmen und Datenstrukturen 1"
-semester: "SoSe-2021"
+semester: "SoSe-2023"
 ects: "8"
 sws: "3V, 2Ü"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-1"
     veranstaltung: "ALGO1"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=313037&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
 ---
@@ -15,17 +15,21 @@ layout: single
 
 ## Allgemeine Informationen
 
-Der Kurs findet _nur synchron_ und _vollständig online_ statt, und ist didaktisch so konzipiert, dass Student:innen in kleinen Gruppen gemeinsam Übungsaufgaben diskutieren und währenddessen individuell von einem freundlichen und kompetenten Team betreut werden.
+Der Kurs findet im Format Flipped Classroom / HyFlex statt:
+
+- Videos und Literatur werden vorab zur Verfügung gestellt und müssen zu Beginn jeder Woche eigenständig durchgearbeitet werden.
+- Die Präsenzzeit wird vor allem für die Arbeit an den Übungen und für Ihre Fragen genutzt.
 
 ### Ort und Zeit
 
-- **Dienstag und Donnerstag 8:00–10:00.** Lagebesprechung, Gruppenarbeit, Helpdesks, Lösungsvorschläge.
-- **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks.
+- **Dienstag und Donnerstag 8:15–9:45.** Quizze, Präsenzübungen, Kurzpräsentationen, Lösungsspaziergänge.
+<!-- - **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks. -->
 - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
 
 ### Anmeldung
 
-Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
+Kommt bald.
+<!-- Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
 
 ### Dozent
 
@@ -33,20 +37,7 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 ### Tutor:innen
 
-- Niklas Fleischer
-- Marius Hagemann
-- Alexander Hengstmann
-- Lars Huth
-- Melvin Kallmayer
-- Dayana Khadush
-- Aura Sofia Lohr
-- Patrick Masny
-- Patrick Raphael Melnic
-- Julian Mende
-- Anton Micke
-- Jonas Strauch
-- Tolga Tel
-- Marc Viel
+Kommt bald.
 
 ## Voraussetzungen
 
@@ -123,7 +114,7 @@ Nach der Veranstaltung können die Studierenden:
 Alleine ein Buch lesen oder Videos anschauen können Sie auch ohne diesen Kurs.
 Mit 1–2 anderen Student:innen zusammen Übungsaufgaben bearbeiten, und dabei unsere Unterstützung und unser Feedback erfahren, das sind die Qualitäten, die Sie ohne diesen Kurs nicht haben.
 Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit Tutor:innen oder dem Dozenten das zentrale Angebot dieses Kurses.
-
+<!-- 
 ## ⭐
 
 Manche Übungsaufgaben sind besonders, denn sie sind mit ⭐ markiert.
@@ -141,7 +132,7 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 - Sie dürfen auch keine Lösungsansätze zu ähnlichen Aufgaben aus vergangenen Jahren oder aus ähnlichen Kursen oder aus dem Internet oder von irgendwoher sonst anschauen.
 - Sie dürfen die Lösung einer ⭐-Aufgabe weder weitergeben noch von sich abschreiben lassen noch irgendwo für Andere sichtbar hochladen noch liegen lassen.
 - Wenn Sie gegen diese Regeln verstoßen, werden beim *ersten* Vergehen *alle* Mitglieder der betroffenen Lerngruppen von allen ⭐-Programmen dieser Professur ausgeschlossen. Wenn Sie von sich abschreiben lassen oder selbst abschreiben, schaden Sie also immer mindestens zwei ganzen Lerngruppen.
-- Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden. Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐).
+- Falls Sie die Klausur bestehen, erhöhen gesammelte ⭐ Ihr Klausurergebnis um *bis zu 10 %*. Das heißt, eine mit 50 % der Punkte gerade so bestandene Klausur kann im besten Fall als 60 % gewertet werden, aber eine mit 49 % nicht bestandene Klausur bleibt nicht bestanden. Der Bonus berechnet sich als 10 % * #(von Ihnen gesammelte ⭐) / #(insgesamt verfügbare ⭐). -->
 
 ## Verwandte Vorlesungen
 
@@ -161,10 +152,14 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 - **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://ubffm.hds.hebis.de/Record/HEB45444821X)] _(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)_
 
 ## Klausur
+- **Klausur:** 24. Juli 2023
+- **Nachklausur:** 2. Oktober 2023
+- **Organisatorische Fragen:** E-Mail an [algo123@uni-frankfurt.de](mailto:algo123@uni-frankfurt.de) (nicht: dell@ oder moodle).
+
+## Altklausuren
 
 - **Klausur:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
 - **Nachklausur:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
-- **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
 <!--
   - Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
