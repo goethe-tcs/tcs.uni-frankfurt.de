@@ -15,29 +15,23 @@ layout: single
 
 ## Allgemeine Informationen
 
-Der Kurs findet im Format Flipped Classroom / HyFlex statt:
+Der Kurs findet als *Flipped Classroom* statt, das heißt: Das Vorlesungsteam stellt Videos und Literatur vorab zur Verfügung und die Studierenden arbeiten diese jede Woche eigenständig durch; die Präsenzzeiten konzentrieren sich auf aktive und interaktive Lernmethoden.
 
-- Videos und Literatur werden vorab zur Verfügung gestellt und müssen zu Beginn jeder Woche eigenständig durchgearbeitet werden.
-- Die Präsenzzeit wird vor allem für die Arbeit an den Übungen und für Ihre Fragen genutzt.
+- Die Präsenzzeit „Vorlesung" (3 SWS) findet **Dienstag und Donnerstag 8:30–9:45** statt und wird für Quizze, Kurzpräsentationen, Präsenzübungen, Fragen & Antworten, und Lösungsspaziergänge verwendet. Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.
+- Die Präsenzzeit „Übung" (2 SWS) findet als Tutorium in kleinen Gruppen statt und wird für Präsenzübungen und für die individuelle Betreuung ("Helpdesks") verwendet. Einzelne Übungsgruppen und Helpdesks werden online stattfinden
+- Anmeldung in Moodle: Kommt bald.
+- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht [weiter unten](#weitere-hinweise) bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
-### Ort und Zeit
-
-- **Dienstag und Donnerstag 8:15–9:45.** Quizze, Präsenzübungen, Kurzpräsentationen, Lösungsspaziergänge.
-<!-- - **Freitag 14:15–15:45.** Besprechung der ⭐-Aufgabe und Helpdesks. -->
-- [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5).
-
-### Anmeldung
-
-Kommt bald.
 <!-- Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
+<!-- - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5). -->
 
-### Dozent
+## Vorlesungsteam
 
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/)
-
-### Tutor:innen
-
-Kommt bald.
+- Holger Dell (Professor)
+- Claudia Gressler (Sekretärin)
+- Leo Krull (Dozentin)
+- Anselm Haak (Dozent)
+- Tutor:innen
 
 ## Voraussetzungen
 
@@ -45,8 +39,8 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 
 ## Literatur
 
-- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB45339454X)]. _(Das Standardwerk.)_
-- **E**: _Algorithms_ von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. _(Ein wunderschönes Buch, das die ersten Themen von ALGO1 aber nur überfliegt.)_
+- **CLRS**: _Algorithmen &ndash; Eine Einführung_ (4. Auflage) von Cormen, Leiserson, Rivest, Stein. [[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB45339454X)]. *(Das Standardwerk.)*
+- **E**: *Algorithms* von Jeff Erickson. [[pdf](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [web](https://jeffe.cs.illinois.edu/teaching/algorithms/)]. *(Ein wunderschönes Buch, das die ersten Themen von ALGO1 aber nur überfliegt.)*
 
 ## Wochenplan
 
@@ -98,16 +92,20 @@ E Kapitel 4 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-
 
 Nach der Veranstaltung können die Studierenden:
 
-- Algorithmen aus dem Grundkanon beschreiben und anwenden,
-- Pseudocode interpretieren und von natürlicher Sprache sowie Programmiersprachen abgrenzen,
-- sich über fachbezogene Inhalte mündlich und schriftlich austauschen,
-- die Funktionsweise und Eigenschaften von gegebenen Algorithmen und Datenstrukturen an kleinen Beispielen demonstrieren,
-- die Laufzeit und den Platzbedarf von gegebenen Algorithmen ermitteln, vergleichen und bewerten,
-- praxisnahe Fragestellungen als algorithmische Probleme formulieren und einschätzen, welcher Algorithmus / welche Datenstruktur zu deren Lösung geeignet ist,
-- gegebene Algorithmen und Datenstrukturen an neue Problemstellungen anpassen,
-- die Korrektheit und Komplexität von gegebenen Algorithmen und Datenstrukturen mathematisch begründen,
-- neue Algorithmen und Datenstrukturen mit Hilfe grundlegender Entwurfsmethoden entwickeln,
-- als Pseudocode gegebene Algorithmen und Datenstrukturen in einer Programmiersprache korrekt implementieren und testen.
+- Grundlegende Algorithmen und Datenstrukturen in Pseudocode und natürlicher Sprache **beschreiben**, an kleinen Beispielen **anwenden**, und **implementieren**,
+- sie an neue Problemstellungen **anpassen**,
+- Eigenschaften wie etwa die Laufzeit, den Platzbedarf oder die Korrektheit dieser und ähnlicher Algorithmen **ermitteln**, **vergleichen** und mathematisch **beweisen**,
+- sich über fachbezogene Inhalte mündlich und schriftlich **austauschen**,
+- neue Algorithmen und Datenstrukturen mit Hilfe grundlegender Entwurfsmethoden **entwickeln**.
+
+## Inhalte
+
+- Analyse von sequentiellen Algorithmen (Laufzeit, Platzbedarf, asymptotische Notation)
+- Rekursionsgleichungen (Rekursionsbäume)
+- Grundlegende Algorithmen (zum Beispiel binäre Suche, Mergesort, Editierdistanz, Scheduling, Huffman-Codierung, oder andere)
+- Grundlegende abstrakte und konkrete Datenstrukturen (Stacks, Queues, Verkettete Listen, Heaps, Union-Find, Hash-Tabellen, Suchbäume)
+- Grundlegende Entwurfsmethoden (Divide and Conquer, Dynamische Programmierung, Gierige Algorithmen)
+- Graphalgorithmen (Tiefensuche, Breitensuche, Kruskal, Prim, Dijkstra) für verschiedene Arten von Graphen (ungewichtet, gewichtet, ungerichtet, gerichtet).
 
 ## Übungen
 
@@ -136,30 +134,34 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Verwandte Vorlesungen
 
-- Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. _Mange tak Philip og Inge!_
+- Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
 - Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](http://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](http://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
 ## Zusätzliche Literatur
 
-- **DMS**: _Algorithmen und Datenstrukturen_ von Martin Dietzfelbinger, Kurt Mehlhorn und Peter Sanders [[UB](https://ubffm.hds.hebis.de/Record/HEB224838512)] _(kompakter, besser organisiert, und formaler als CLRS, gut zum Nachschlagen von Detailfragen.)_
-- **Sa**: Skript „Datenstrukturen“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_ds.pdf)] _(ähnliche Auswahl von Themen; wurde in den vergangenen Jahren an der Goethe-Uni benutzt.)_
-- **Sb**: Skript „Theoretische Informatik 1“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_gl1_ws1213.pdf)] _(für ALGO1 ist nur das Kapitel „Effiziente Algorithmen“ relevant.)_
-- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://ubffm.hds.hebis.de/Record/HEB129608459)] _(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)_
-- **SWa**: Sedgewick, Wayne, Algorithms, Fourth Edition, 2011. _(konkreter und leichter zugänglich als CLRS und DMS, denn hier werden alle besprochenen Datenstrukturen und Algorithmen penibel implementiert, in [Java](https://github.com/kevin-wayne/algs4/) oder [Python](https://github.com/itu-algorithms/itu.algs4).)_
-- **SWb**: Sedgewick, Wayne. Introduction to Programming in Java, 2017. [[pdf](https://introcs.cs.princeton.edu/java/home/chapter1.pdf)] _(Nützlich, falls Sie die Grundlagen der Programmierung auffrischen möchten.)_
-- **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://ubffm.hds.hebis.de/Record/HEB45444821X)] _(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)_
+- **DMS**: *Algorithmen und Datenstrukturen* von Martin Dietzfelbinger, Kurt Mehlhorn und Peter Sanders [[UB](https://ubffm.hds.hebis.de/Record/HEB224838512)] *(kompakter, besser organisiert, und formaler als CLRS, gut zum Nachschlagen von Detailfragen.)*
+- **Sa**: Skript „Datenstrukturen“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_ds.pdf)] *(ähnliche Auswahl von Themen; wurde in den vergangenen Jahren an der Goethe-Uni benutzt.)*
+- **Sb**: Skript „Theoretische Informatik 1“ von Georg Schnitger [[pdf](https://ae.cs.uni-frankfurt.de/teaching/20ss/+algo1/skript_gl1_ws1213.pdf)] *(für ALGO1 ist nur das Kapitel „Effiziente Algorithmen“ relevant.)*
+- **KT**: Kleinberg, Tardos. Algorithm Design. [[UB](https://ubffm.hds.hebis.de/Record/HEB129608459)] *(Ein modernes Buch, das die verschiedenen Entwurfsmethoden in den Mittelpunkt stellt, anstatt einzelner Probleme.)*
+- **SWa**: Sedgewick, Wayne, Algorithms, Fourth Edition, 2011. *(konkreter und leichter zugänglich als CLRS und DMS, denn hier werden alle besprochenen Datenstrukturen und Algorithmen penibel implementiert, in [Java](https://github.com/kevin-wayne/algs4/) oder [Python](https://github.com/itu-algorithms/itu.algs4).)*
+- **SWb**: Sedgewick, Wayne. Introduction to Programming in Java, 2017. [[pdf](https://introcs.cs.princeton.edu/java/home/chapter1.pdf)] *(Nützlich, falls Sie die Grundlagen der Programmierung auffrischen möchten.)*
+- **GL**: Gogol-Döring, Letschert. Algorithmen und Datenstrukturen für Dummies. [[E-Book](https://ubffm.hds.hebis.de/Record/HEB45444821X)] *(Ähnliche Themen wie ALGO1, benutzt möglichst wenig Mathematik.)*
 
 ## Klausur
+
+Die Klausuren sind nicht zulassungsbeschränkt, Sie müssen sich aber mindestens zwei Wochen vorher über das QIS-System oder über Ihr Prüfungsamt anmelden!
+
 - **Klausur:** 24. Juli 2023
 - **Nachklausur:** 2. Oktober 2023
-- **Organisatorische Fragen:** E-Mail an [algo123@uni-frankfurt.de](mailto:algo123@uni-frankfurt.de) (nicht: dell@ oder moodle).
+- **Organisatorische Fragen:** E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
 ## Altklausuren
 
-- **Klausur:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
-- **Nachklausur:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
+- **SoSe 2021:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
+- **WiSe 2021/22:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
+- **Weitere Altklausuren:** Es gibt noch weitere [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). (Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.)
 
 <!--
   - Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
@@ -184,8 +186,7 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Weitere Hinweise
 
-- Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
-- Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die Äquivalenzregelung des Prüfungsamts. In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen, jede Woche ist in Grau mit a oder b markiert. Beachten Sie, dass diese Einteilung vorläufig ist, und dass Algo1b auf Algo1a aufbaut, weshalb für viele Themen in Algo1b immer auch die Grundlagen aus Algo1a wichtig sind.
-- Nur der Suchen-Teil von Suchen und Sortieren ist klausurrelevant für ALGO1, denn Sortieren ist Teil der ALGO2 Prüfung.
-- Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
-- Es gibt [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.
+- **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
+- **Algo1a/Algo1b.** Die Prüfungsvarianten Algo1a und Algo1b stehen nicht mehr zur Verfügung. Studierende aus alten Studienordnungen müssen die volle ALGO1 Prüfung bestehen.
+- **Bonuspunkte.** Voraussichtlich wird es in dieser Iteration keine Bonuspunkte geben.
+- **Übertrag von Bonuspunkten.** Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
