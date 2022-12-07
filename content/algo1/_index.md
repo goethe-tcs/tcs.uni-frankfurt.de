@@ -17,7 +17,7 @@ layout: single
 
 Der Kurs findet als *Flipped Classroom* statt, das heißt: Das Vorlesungsteam stellt Videos und Literatur zur Verfügung und die Studierenden arbeiten diese jede Woche bis spätestens Montagabend eigenständig durch; die Präsenzzeiten konzentrieren sich auf aktive und interaktive Lernmethoden.
 
-- Die Präsenzzeit „Vorlesung" (3 SWS) findet **Dienstag und Donnerstag 8:30–9:45** statt und wird für Quizze, Kurzpräsentationen, Präsenzübungen, Fragen & Antworten, und Lösungsspaziergänge verwendet. Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.
+- Die Präsenzzeit „Vorlesung" (3 SWS) findet **Dienstag und Donnerstag 8:15–9:45** statt und wird für Quizze, Kurzpräsentationen, Präsenzübungen, Fragen & Antworten, und Lösungsspaziergänge verwendet. Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.
 - Die Präsenzzeit „Übung" (2 SWS) findet als Tutorium in kleinen Gruppen statt und wird für Präsenzübungen und für die individuelle Betreuung ("Helpdesks") verwendet. Einzelne Übungsgruppen und Helpdesks werden online stattfinden
 - Anmeldung in Moodle: Kommt bald.
 - **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht [weiter unten](#weitere-hinweise) bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
