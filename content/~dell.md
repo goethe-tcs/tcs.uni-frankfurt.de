@@ -45,9 +45,9 @@ and
 
 **Mail:**\
 Prof. Holger Dell\
-Goethe-Universität Frankfurt\
-Robert-Mayer-Str. 11–15\
-60325 Frankfurt am Main\
+Institut für Informatik - Fach 41\
+Goethe-Universität\
+60629 Frankfurt am Main\
 Germany
 
 **Packages:**\
