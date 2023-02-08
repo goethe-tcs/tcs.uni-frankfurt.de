@@ -10,7 +10,7 @@ body {
   display: grid;
   grid-template:
     "header-container" min-content
-    "main-container"   1fr
+    "main-container" 1fr
     "footer-container" max-content / 1fr;
   min-height: 100vh;
 }
@@ -33,16 +33,16 @@ body {
   display: flex;
   align-items: center;
   font-size: var(--font-size-small);
+}
 
-  :any-link {
-    color: inherit;
-  }
+.footer-container :any-link {
+  color: inherit;
 }
 
 header,
 main,
 footer {
-  width: MIN(100%, 40rem);
+  width: min(100%, 40rem);
   margin: 0 auto;
   padding: 1.25rem;
 }

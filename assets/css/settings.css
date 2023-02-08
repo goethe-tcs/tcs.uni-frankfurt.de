@@ -18,9 +18,6 @@ $wide: 768px;
   --color-link-fg: hsl(199deg 100% 28%);
   --color-link-hover-bg: hsl(199deg 100% 90%);
 
-  // --color-link-fg: rgb(168 17 0);
-  // --color-link-hover-bg: rgb(238 213 210);
-
   /* font sizes */
   --font-size-base: 100%;
   --font-size-medium: 1.272rem;
@@ -29,16 +26,12 @@ $wide: 768px;
 
   /* font families */
   --font-base: "Georgia", serif;
-  --font-alternate:
-    "HelveticaNeue-Light",
-    "Helvetica Neue Light",
-    "Helvetica Neue",
-    "Helvetica",
-    "Arial",
-    "Lucida Grande",
-    sans-serif;
+  --font-alternate: "HelveticaNeue-Light", "Helvetica Neue Light",
+    "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
+}
 
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  :root {
     --color-main-bg: rgb(0 0 0);
     --color-main-fg: rgb(255 255 255);
     --color-main-fg-soft: hsl(0deg 0% 80%);

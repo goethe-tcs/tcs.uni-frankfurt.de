@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,23 +34,23 @@ jobs:
 
       - uses: actions/setup-node@v3
         with:
-          node-version: '18'
-          cache: 'yarn'
+          node-version: "18"
+          cache: "yarn"
 
-      - run: yarn install --frozen-lockfile
-      - run: yarn build
+      - name: Yarn Install & Build 🔧
+        run: yarn install --frozen-lockfile && yarn build
 
-      - name: Deploy to server
+      - name: Deploy to server 🚀
         id: deploy
-        uses: Pendect/action-rsyncer@v1.1.0
+        uses: Pendect/action-rsyncer@v2.0.0
         env:
           DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
         with:
-          flags: '-lrvz --delete'
-          options: ''
-          ssh_options: ''
-          src: 'public/'
-          dest: 'dell-from-github@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/'
+          flags: "-lrvz --delete"
+          options: ""
+          ssh_options: ""
+          src: "public/"
+          dest: "dell-from-github@tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
 
       - name: Display status from deploy
         run: echo "${{ steps.deploy.outputs.status }}"

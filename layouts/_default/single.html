@@ -1,29 +1,43 @@
-{{ partial "header.html" . }}
-<h1>{{ .Title }}</h1>
-<ul class="event-head">
-   {{- with .Params.semester -}}<li>{{.}}</li>{{ end -}}
-   {{if .Params.kürzel}}
-   <li>Course codes: {{ range $i, $e := .Params.kürzel }}{{ if $i }} · {{end}}{{ $e.modul -}}→{{- $e.veranstaltung -}}{{- end }}</li>
-   {{end}}
-   {{- with .Params.qis }}<li>External links: <a href="{{.}}">qis</a></li>{{ end -}}
-</ul>
-{{if or .Params.show_author_date_info .Params.estimated_reading_time}}
-<p>
-{{if .Params.show_author_date_info}}
-Written
-{{with .Params.author}}by {{. | $.RenderString}}{{end}}{{with .PublishDate.Format "January 2006"}} in {{.}}{{end}},
-{{with .Lastmod.Format "January 2006"}} last modified in {{.}}{{end}}.
-{{end}}
-{{ if .Params.estimated_reading_time }}<br>
-Estimated reading time: {{.ReadingTime}} minutes.
-{{ end }}
-</p>
-{{end}}
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul class="event-head">
+    {{- with .Params.semester -}}<li>{{ . }}</li>{{ end -}}
+    {{ if .Params.kürzel }}
+      <li>
+        Course codes:
+        {{ range $i, $e := .Params.kürzel }}
+          {{ if $i }}·{{ end }}{{ $e.modul -}}→{{- $e.veranstaltung -}}
+        {{- end }}
+      </li>
+    {{ end }}
+    {{- with .Params.qis }}
+      <li>External links: <a href="{{ . }}">qis</a></li>
+    {{ end -}}
+  </ul>
+  {{ if or .Params.show_author_date_info .Params.estimated_reading_time }}
+    <p>
+      {{ if .Params.show_author_date_info }}
+        Written
+        {{ with .Params.author }}
+          by {{ . | $.RenderString }}
+        {{ end }}{{ with .PublishDate.Format "January 2006" }}
+          in {{ . }}
+        {{ end }},
+        {{ with .Lastmod.Format "January 2006" }}
+          last modified in {{ . }}
+        {{ end }}.
+      {{ end }}
+      {{ if .Params.estimated_reading_time }}
+        <br />
+        Estimated reading time: {{ .ReadingTime }} minutes.
+      {{ end }}
+    </p>
+  {{ end }}
 
-{{ if .Params.toc }}
-<h3>Overview</h3>
-{{ .TableOfContents }}
-{{ end }}
+  {{ if .Params.toc }}
+    <h3>Overview</h3>
+    {{ .TableOfContents }}
+  {{ end }}
 
-{{ .Content }}
-{{ partial "footer.html" . }}
+  {{ .Content }}
+{{ end }}

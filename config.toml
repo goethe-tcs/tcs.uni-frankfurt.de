@@ -7,7 +7,7 @@ title = "goethe-tcs"
 
 [params]
 author = "Holger Dell"
-description = "Website of the Theoretical Computer Science Group at Goethe University Frankfurt"
+description = "Theoretical Computer Science Group at Goethe University Frankfurt"
 
 [markup]
   [markup.goldmark]

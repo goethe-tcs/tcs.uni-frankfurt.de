@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "member-top.html" . }}
-{{ .Content }}
-{{ partial "footer.html" . }}
+{{ define "main" }}
+  {{ partial "member-top.html" . }}
+  {{ .Content }}
+{{ end }}

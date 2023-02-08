@@ -1,0 +1,75 @@
+header,
+footer {
+  font-family: var(--font-alternate);
+  font-weight: 300;
+}
+
+header :any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+header :any-link:hover {
+  background-color: var(--color-navbar-bg-hover);
+}
+
+header nav {
+  height: 3.5rem;
+  display: flex;
+}
+
+header .goethe > img {
+  height: 100%;
+}
+
+header .tcs-logo {
+  display: flex;
+  align-items: center;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+header .page-links > a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.25rem;
+}
+
+@media (min-width: $medium) {
+  header .page-links > a {
+    aspect-ratio: 1 / 1;
+  }
+}
+
+header .item-desc {
+  font-size: var(--font-size-small);
+  display: none;
+}
+
+header .fas {
+  font-size: var(--font-size-medium);
+}
+
+header .tcs-logo-long {
+  display: none;
+}
+
+@media (min-width: $medium) {
+  header .fas {
+    font-size: var(--font-size-medium);
+  }
+
+  header .tcs-logo-short {
+    display: none;
+  }
+
+  header .tcs-logo-long {
+    display: block;
+  }
+
+  header .item-desc {
+    display: block;
+  }
+}

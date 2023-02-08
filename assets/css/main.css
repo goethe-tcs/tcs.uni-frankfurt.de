@@ -1,0 +1,10 @@
+@import "katex/dist/katex.css";
+@import "academicons/css/academicons.css";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "settings.css";
+@import "tailwind.css";
+@import "custom.css";
+@import "structure.css";
+@import "navbar.css";
+@import "member.css";
+@import "print.css";

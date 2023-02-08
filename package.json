@@ -1,66 +1,43 @@
 {
+  "name": "tcs.uni-frankfurt.de",
+  "version": "0.7.0",
+  "packageManager": "yarn@1.22.19",
+  "repository": "git@github.com/goethe-tcs/tcs.uni-frankfurt.de",
+  "author": "Holger Dell",
+  "license": "GPL-3.0-or-later",
   "scripts": {
-    "serve": "echo Serving on http://localhost:1313/; webpack serve --env development & GIT_CONFIG_NOSYSTEM=true hugo server",
-    "clean": "bash -c 'rm -rf static/assets/dist/*'",
-    "build": "webpack --env production && GIT_CONFIG_NOSYSTEM=true hugo --minify",
-    "build-webpack": "webpack --env production",
+    "serve": "mkdir -p static/webfonts && cp ./node_modules/@fortawesome/fontawesome-free/webfonts/* static/webfonts/ && mkdir -p static/fonts && cp node_modules/academicons/fonts/* static/fonts/ && echo Serving on http://localhost:1313/ && GIT_CONFIG_NOSYSTEM=true hugo server",
+    "clean": "bash -c 'rm -rf static/assets/dist/*' resources/_gen public/",
+    "build": "mkdir -p static/webfonts && cp ./node_modules/@fortawesome/fontawesome-free/webfonts/* static/webfonts/ && mkdir -p static/fonts && cp node_modules/academicons/fonts/* static/fonts/ && GIT_CONFIG_NOSYSTEM=true hugo --gc --minify",
     "upload": "rsync --update -lrvz --progress --delete public/ tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
   },
-  "cssnano": {
-    "preset": [
-      "default",
-      {
-        "discardComments": {
-          "removeAll": true
-        }
-      }
-    ]
-  },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1",
-    "academicons": "^1.8.6",
-    "katex": "^0.12.0",
-    "webpack-dev-server": "^3.11.2"
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "academicons": "^1.9.2",
+    "katex": "^0.16.4"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@babel/core": "^7.11.6",
-    "autoprefixer": "^10.0.1",
-    "babel-loader": "^8.1.0",
-    "css-loader": "^4.3.0",
-    "cssnano": "^4.1.10",
-    "cssnano-preset-default": "^4.0.7",
-    "file-loader": "^6.1.1",
-    "http-server": "^0.12.3",
-    "mini-css-extract-plugin": "^1.0.0",
-    "path": "^0.12.7",
-    "postcss": "^8.1.1",
-    "postcss-cli": "^7.1.1",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
     "postcss-html": "^0.36.0",
-    "postcss-loader": "^4.0.4",
+    "postcss-import": "^15.1.0",
     "postcss-scss": "^4.0.4",
+    "postcss-simple-vars": "^7.0.1",
     "postcss-syntax": "^0.36.2",
-    "sass": "^1.27.0",
-    "sass-loader": "^10.0.3",
+    "prettier": "^2.8.4",
+    "prettier-plugin-css-order": "^1.3.0",
+    "prettier-plugin-go-template": "^0.0.13",
+    "prettier-plugin-tailwindcss": "^0.2.4",
     "standard": "^14.3.4",
-    "style-loader": "^2.0.0",
     "stylelint": "^14.9.1",
     "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-scss": "^4.3.0",
-    "url-loader": "^4.1.1",
-    "webpack": "^5.0.0",
-    "webpack-cli": "^4.7.2",
-    "webpack-manifest-plugin": "^3.0.0-rc.0",
-    "webpack-nano": "^1.1.1"
+    "tailwindcss": "^3.2.4"
   },
   "stylelint": {
     "extends": [
       "stylelint-config-standard-scss"
     ]
-  },
-  "name": "tcs.uni-frankfurt.de",
-  "version": "0.5.0",
-  "repository": "git@tcs.uni-frankfurt.de:holger.dell/tcs.uni-frankfurt.de",
-  "author": "Holger Dell",
-  "license": "GPL-3.0-or-later"
+  }
 }

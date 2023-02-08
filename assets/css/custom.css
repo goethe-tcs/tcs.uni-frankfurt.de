@@ -1,3 +1,12 @@
+b,
+strong {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: underline;
+}
+
 p,
 ul,
 ol {
@@ -69,10 +78,10 @@ ol.breadcrumbs {
   list-style: none;
   margin: 2rem;
   text-align: center;
+}
 
-  > li {
-    display: inline;
-  }
+ol.breadcrumbs > li {
+  display: inline;
 }
 
 ul.nobullets {
@@ -103,19 +112,19 @@ a:active,
 
 .course-list {
   display: block;
+}
 
-  a {
-    min-height: 150px;
-    display: flex;
-  }
+.course-list a {
+  min-height: 150px;
+  display: flex;
+}
 
-  a,
-  a:hover,
-  a:active,
-  :any-link {
-    text-decoration: none;
-    color: inherit;
-  }
+.course-list a,
+.course-list a:hover,
+.course-list a:active,
+.course-list :any-link {
+  text-decoration: none;
+  color: inherit;
 }
 
 .course-list > a > div {
@@ -123,9 +132,9 @@ a:active,
   display: grid;
 }
 
-// .course-list > a:nth-of-type(odd) {
-//   background-color: lightgrey;
-// }
+/* .course-list > a:nth-of-type(odd) {
+  background-color: lightgrey;
+} */
 
 .course-img {
   flex-shrink: 0;

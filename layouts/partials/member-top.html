@@ -1,34 +1,32 @@
 <div class="member-page-top">
   <h1 class="name">{{ .Page.Title }}</h1>
   <div class="position">
-{{- with .Params.position -}}
-    {{- . | $.RenderString -}}
-{{- end -}}
+    {{- with .Params.position -}}{{- . | $.RenderString -}}{{- end -}}
   </div>
-{{ with .Params.photo }}
-  <div class="photo-container">
-    <div class="photo"><img alt="Profile Photo" src="{{.}}"></div>
-  </div>
-{{ end }}
-{{ with .Params.contact }}
-  <ul class="coordinates">
-{{ range $item := . }}
-{{ range $key, $val := $item }}
-    <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
-{{ end }}
-{{ end }}
-  </ul>
-{{ end }}
+  {{ with .Params.photo }}
+    <div class="photo-container">
+      <div class="photo"><img alt="Profile Photo" src="{{ . }}" /></div>
+    </div>
+  {{ end }}
+  {{ with .Params.contact }}
+    <ul class="coordinates">
+      {{ range $item := . }}
+        {{ range $key, $val := $item }}
+          <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
 </div>
 {{ with .Params.profiles }}
-<div class="profiles">
-  <h2><i class="fas fa-user"></i> Profiles</h2>
-  <ul class="nobullets">
-{{ range $item := . }}
-{{ range $key, $val := $item }}
-    <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
-{{ end }}
-{{ end }}
-  </ul>
-</div>
+  <div class="profiles">
+    <h2><i class="fas fa-user"></i> Profiles</h2>
+    <ul class="nobullets">
+      {{ range $item := . }}
+        {{ range $key, $val := $item }}
+          <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
 {{ end }}
