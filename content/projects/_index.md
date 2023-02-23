@@ -10,7 +10,7 @@ aliases:
 ---
 
 Interested in a fun and challenging thesis project in theoretical computer science?
-Great! Read this entire page and apply by **Thursday, September 1, 2022**.
+Great! Read this entire page and apply by **April 1** or **October 1** for a thesis project during the summer and winter term, respectively.
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ We also describe the [general flavor of possible topics](/projects/flavors) on a
 
 ## How to apply?
 
-- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **Thursday, September 1, 2022**. If you miss the deadline, you will have to wait until February 1, 2023, to work on a project in the summer term of 2023.
+- Please email us at [tcs-projects@dlist.server.uni-frankfurt.de](mailto:tcs-projects@dlist.server.uni-frankfurt.de) by **April 1** (summer term) or **October 1** (winter term). If you miss the deadline, you will have to wait until the next term.
 - In your first email, answer the following questions:
   - Why are you interested in doing a project in theoretical computer science as opposed to some other area?
   - Which theory experience do you have? (seminars, advanced lectures, teaching assistant, etc.)
