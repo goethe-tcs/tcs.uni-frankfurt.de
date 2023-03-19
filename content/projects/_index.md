@@ -21,7 +21,7 @@ Great! Read this entire page and apply by **April 1** or **October 1** for a the
 ## Topics
 
 The TCS group offers a variety of theory projects and coding projects.
-After you have applied, we will contact you in October and propose some available thesis topics then.
+After you have applied, we will contact you and propose some available thesis topics.
 
 **Examples of past projects (not yet available):**
 
