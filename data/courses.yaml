@@ -1,3 +1,17 @@
+Summer 2023:
+  - url: /algo1/
+    img: /algo1/doors169-small.jpg
+    imgw: 117
+    # imgh: 70
+    type: Course
+    desc: Algorithmen und Datenstrukturen 1
+  - url: /pace/
+    img: /pace/turtle.svg
+    imgw: 117
+    imgh: 100
+    type: PACE challenge
+    desc:
+      Participate in a fun, group-based implementation challenge!
 Winter 2022/23:
   - url: /seminar/homomorphisms/
     img: /images/graph_homomorphism_C5.svg
