@@ -3,7 +3,11 @@
     <a
       class="{{ if .url }}
         hover:bg-goethe-100 dark:hover:bg-goethe-800
-      {{ end }} group flex min-w-fit flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl bg-goethe-50 no-underline dark:bg-gray-900"
+      {{ end }} {{ if .hiring }}
+        bg-red-100 hover:bg-red-200 dark:hover:bg-red-800
+      {{ else }}
+        bg-goethe-50
+      {{ end }} group flex min-w-fit flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl no-underline dark:bg-gray-900 "
       {{ if
         .url
       }}
@@ -11,22 +15,25 @@
       {{ end }}
     >
       <div
-        class="{{ if not .photo }}
-          bg-sky-800
-        {{ end }} h-20 w-20 overflow-hidden rounded-3xl"
+        class="{{ if not .photo -}}
+          {{ if .hiring }}bg-red-800{{ else }}bg-goethe-500{{ end }}
+        {{ end }} flex aspect-square w-20 flex-none place-items-center justify-center overflow-hidden rounded-3xl"
       >
         <img
-          class="w-20"
-          src="{{ if .photo }}
-            {{ .photo }}
+          {{ if .photo }}
+            src="{{ .photo }}"
           {{ else }}
-            /images/Goethe-weiss.svg
-          {{ end }}"
+            src="/images/Goethe-weiss.svg" class="w-[85%]"
+          {{ end }}
           alt="Photo"
         />
       </div>
       <div class="pr-3">
-        <div class="font-bold text-goethe-600 dark:text-goethe-200">
+        <div
+          class="{{ if .hiring }}
+            text-red-900 dark:text-red-100
+          {{ end }} font-bold text-goethe-600 dark:text-goethe-200"
+        >
           {{ .name }}
         </div>
         <div class="text-sm font-light text-slate-600 dark:text-slate-300">

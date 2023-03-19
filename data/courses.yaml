@@ -1,64 +1,55 @@
 Summer 2023:
   - url: /algo1/
     img: /algo1/doors169-small.jpg
-    imgw: 117
-    # imgh: 70
-    type: Course
-    desc: Algorithmen und Datenstrukturen 1
+    name: Algorithmen und Datenstrukturen 1
+    desc: Course
+  - url: /projects/
+    img: /images/blackboard.jpg
+    name: Thesis / Project
+    desc: Apply by **April 1, 2023** for a thesis or research project in the summer term of 2023.
   - url: /pace/
     img: /pace/turtle.svg
-    imgw: 117
-    imgh: 100
-    type: PACE challenge
-    desc:
-      Participate in a fun, group-based implementation challenge!
+    name: PACE challenge
+    desc: Participate in a fun, group-based implementation challenge!
 Winter 2022/23:
   - url: /seminar/homomorphisms/
     img: /images/graph_homomorphism_C5.svg
     imgw: 155
     imgh: 150
-    type: Seminar
-    desc: "Graph Homomorphisms"
+    name: "Graph Homomorphisms"
+    desc: Seminar
     loc: Di 12-14, H5
-  - url: /projects/
-    img: /pace/turtle.svg
-    imgw: 110
-    imgh: 128
-    type: Thesis
-    desc:
-      Apply by **April 1, 2023** to work on a thesis or research project in the summer term of 2023.
 Summer 2022:
   - url: /complexity/
     img: /complexity/AB-cover.jpg
     imgw: 68
     imgh: 100
-    type: Course
-    desc: Complexity Theory
+    name: Complexity Theory
+    desc: Course
     loc: Di 10-14, Mi 10-12, H9
   - url: /seminar/atti/
     img: /teaching/cr.png
     imgw: 129
     imgh: 150
-    type: Seminar
-    desc: "Current Topics in Theoretical Computer Science: Graph kernels"
+    name: "Current Topics in Theoretical Computer Science: Graph kernels"
+    desc: Seminar
     loc: Di 8-10, H9
 Winter 2021/22:
   - url: /algo2/
     img: /algo2/pnp.svg
     imgw: 100
     imgh: 100
-    type: Course
-    desc: Algorithmen und Datenstrukturen 2
+    name: Algorithmen und Datenstrukturen 2
+    desc: Course
   - url: /seminar/wigderson/
     img: /seminar/wigderson-cover.jpg
     imgw: 68
     imgh: 100
-    type: Seminar
-    desc: Mathematics and Computation
+    name: Mathematics and Computation
+    desc: Seminar
   - url: /pace/
     img: /pace/turtle.svg
     imgw: 117
     imgh: 100
-    type: PACE challenge
-    desc:
-      Participate in a fun, group-based implementation challenge!
+    name: PACE challenge
+    desc: Participate in a fun, group-based implementation challenge!

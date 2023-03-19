@@ -1,18 +1,22 @@
-## Teaching in {{ .Get 0 }}
+<h2>Teaching in {{ .Get 0 -}}</h2>
 
-<div class="course-list">
-{{ range (index $.Site.Data.courses (.Get 0)) }}
-<a href="{{ .url }}">
-    <div class="course-img">
-    <img src="{{ .img }}" width="{{ .imgw }}" height="{{ .imgh }}">
-    </div>
-    <div class="course-desc">
-        <p>
-        <b>{{ .type | markdownify }}:</b><br>
-        {{ .desc | markdownify }}
-        </p>
-    </div>
-</a>
-{{ end }}
+<div class="mx-auto mt-7 grid max-w-screen-sm grid-cols-1 gap-7 font-sans">
+  {{- range (index $.Site.Data.courses (.Get 0)) -}}
+    <a
+      href="{{ .url }}"
+      class="group flex
+ w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl bg-goethe-50 no-underline hover:bg-goethe-100 dark:bg-gray-900 dark:hover:bg-goethe-800">
+      <div class="flex aspect-video w-[40%] flex-none place-items-center overflow-hidden rounded-3xl">
+        <img src="{{ .img }}" />
+      </div>
+      <div class="px-3">
+        <div class="font-bold text-goethe-600 dark:text-goethe-200">
+          {{ .name | markdownify }}
+        </div>
+        <div class="text-sm font-light text-slate-600 dark:text-slate-300">
+          {{ .desc | markdownify }}
+        </div>
+      </div>
+    </a>
+  {{ end }}
 </div>
-    

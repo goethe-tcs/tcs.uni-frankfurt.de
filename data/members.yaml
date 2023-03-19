@@ -24,3 +24,4 @@
 - name: You? We're hiring!
   position: PhD / Postdoc
   url: /positions
+  hiring: true
