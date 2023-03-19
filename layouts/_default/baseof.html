@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="no-referrer" />
+    <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
+    <meta name="author" content="{{ .Site.Params.author }}" />
+    <meta
+      name="description"
+      content="{{ if .Description }}
+        {{ .Description }}
+      {{ else }}
+        {{ $.Site.Params.description }}
+      {{ end }}"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    {{- $style := resources.Get "dist/style.css" -}}
+    {{ if hugo.IsProduction }}
+      {{- $style := $style | fingerprint | resources.PostProcess -}}
+      <link
+        rel="stylesheet"
+        href="{{ $style.RelPermalink }}"
+        integrity="{{ $style.Data.Integrity }}"
+      />
+    {{- else -}}
+      <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+    {{- end }}
+  </head>
+  <body>
+    <div class="header-container">
+      <header>
+        <nav class="site-links">
+          <a class="goethe" href="https://www.uni-frankfurt.de">
+            <img
+              alt="Goethe-Universität Frankfurt"
+              src="/images/Goethe-weiss.svg"
+            />
+          </a>
+          <a class="tcs-logo" href="/">
+            <div class="tcs-logo-long">
+              Research Group for<br />
+              <b>Theoretical Computer Science</b>
+            </div>
+            <div class="tcs-logo-short"><b>TCS</b> Group</div>
+          </a>
+        </nav>
+        <nav class="page-links">
+          <a href="/research/">
+            <i class="fas fa-flask"></i>
+            <div class="item-desc">Research</div>
+          </a>
+          <a href="/teaching/">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <div class="item-desc">Teaching</div>
+          </a>
+        </nav>
+      </header>
+    </div>
+    <div class="main-container {{ .Layout }}">
+      <main>{{ block "main" . }}{{ end }}</main>
+    </div>
+    <div class="footer-container">
+      <footer>
+        {{ if .GitInfo }}
+          {{ .GitInfo.AuthorName }} |
+          {{ with .Lastmod.Format "January 2, 2006" }}{{ . }} |{{ end }}
+        {{ end }}
+        <a href="/legal/">Impressum und Datenschutz</a>
+      </footer>
+    </div>
+  </body>
+</html>

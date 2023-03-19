@@ -22,7 +22,7 @@ yarn build
 for building, and
 
 ```bash
-yarn serve
+yarn start
 ```
 
-for local development.
+to start up a server for local development.

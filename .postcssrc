@@ -1,6 +1,6 @@
 {
   "plugins": {
-    "postcss-import": { "path": "assets/css"},
+    "postcss-import": { "path": "src/css"},
     "postcss-simple-vars": {},
     "tailwindcss": {},
     "autoprefixer": {}

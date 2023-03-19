@@ -1,4 +1,7 @@
+assets/dist/
 static/assets/dist/
+static/fonts
+static/webfonts
 public/
 node_modules/
 resources/_gen/
@@ -8,8 +11,3 @@ data/manifest.json
 .npm-packages
 .vscode
 .hugo_build.lock
-src/js/bundle.css
-src/js/*.woff*
-src/js/*.svg
-src/js/*.eot
-src/js/*.ttf
