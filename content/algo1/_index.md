@@ -8,8 +8,9 @@ kürzel:
     modul: "B-ALGO-1"
     veranstaltung: "ALGO1"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-toc: yes
+toc: true
 layout: single
+lang: de
 ---
 
 
