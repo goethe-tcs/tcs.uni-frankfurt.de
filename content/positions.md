@@ -12,7 +12,7 @@ We are driven by our curiosity for fundamental questions of computation and info
 
 ### Topics
 
-The project has the title "Parameterized Complexity of Network Dynamics", and is about dynamic processes on graphs, such as a virus, or fake news, spreading through a social network. During the project, you will learn, develop and employ mathematically provable analysis techniques for such processes. The goals are to analyze dynamic processes based on structural parameters of the graphs, to determine the parameterized and fine-grained complexity of inference and influence problems for such processes, and to develop techniques to study dynamic processes on temporal graphs.
+The project has the title "Parameterized Complexity of Network Dynamics", and is about dynamic processes on graphs, such as virus, or fake news, spreading through a social network. During the project, you will learn, develop and employ mathematically provable analysis techniques for such processes. The goals are to analyze dynamic processes based on structural parameters of the graphs, to determine the parameterized and fine-grained complexity of inference and influence problems for such processes, and to develop techniques to study dynamic processes on temporal graphs.
 
 <!-- Future research includes fun topics, such as
 algebraic graph algorithms,

@@ -35,7 +35,7 @@ $wide: 768px;
     --color-main-bg: rgb(0 0 0);
     --color-main-fg: rgb(255 255 255);
     --color-main-fg-soft: hsl(0deg 0% 80%);
-    --color-footer-bg: rgb(77 75 70);
+    --color-footer-bg: rgb(20, 29, 36);
     --color-footer-fg: rgb(255 255 255);
     --color-link-fg: var(--color-goethe-light-blue);
     --color-link-hover-bg: hsl(199deg 100% 14%);

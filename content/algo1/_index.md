@@ -1,30 +1,35 @@
 ---
-title: "Algorithmen und Datenstrukturen 1"
-semester: "SoSe-2023"
+title: Algorithmen und Datenstrukturen 1
+semester: SoSe-2023
 ects: "8"
-sws: "3V, 2Ü"
+sws: 3V, 2Ü
 kürzel:
-  - program: "Bachelor"
-    modul: "B-ALGO-1"
-    veranstaltung: "ALGO1"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+  - program: Bachelor
+    modul: B-ALGO-1
+    veranstaltung: ALGO1
+qis: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 toc: true
 layout: single
 lang: de
 ---
 
 
-## Allgemeine Informationen
+## Organisatorisches
 
-Der Kurs findet als *Flipped Classroom* statt, das heißt: Das Vorlesungsteam stellt Videos und Literatur zur Verfügung und die Studierenden arbeiten diese jede Woche bis spätestens Montagabend eigenständig durch; die Präsenzzeiten konzentrieren sich auf aktive und interaktive Lernmethoden.
-
-- Die Präsenzzeit „Vorlesung" (3 SWS) findet **Dienstag und Donnerstag 8:15–9:45** statt und wird für Quizze, Kurzpräsentationen, Präsenzübungen, Fragen & Antworten, und Lösungsspaziergänge verwendet. Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.
-- Die Präsenzzeit „Übung" (2 SWS) findet als Tutorium in kleinen Gruppen statt und wird für Präsenzübungen und für die individuelle Betreuung ("Helpdesks") verwendet. Einzelne Übungsgruppen und Helpdesks werden online stattfinden
-- Anmeldung in Moodle: Kommt bald.
-- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht [weiter unten](#weitere-hinweise) bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
+- **Erste Veranstaltung:** Dienstag, 11.04.2023, 8-10 Uhr, H V (Hörsaaltrakt Bockenheim). **Wichtig:** Bearbeiten Sie vorher eigenständig die [Übungen zur Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo121-exercises/voraussetzungen.pdf)
+- **Anmeldung in Moodle:** Kommt bald
+- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
 <!-- Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
 <!-- - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5). -->
+
+## Vorlesungskonzept
+
+Der Kurs findet als *Flipped Classroom* statt, das heißt:
+
+- **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
+- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:45 in Hörsaal V, mit allen Studierenden): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
+- **„Tutorium“** (in kleinen Gruppen): Diskussionen, Präsenzübungen und individuelle Betreuung. *Einzelne Tutorien und Helpdesks werden online stattfinden.*
 
 ## Vorlesungsteam
 
@@ -33,10 +38,6 @@ Der Kurs findet als *Flipped Classroom* statt, das heißt: Das Vorlesungsteam st
 - Leo Krull (Dozentin)
 - Anselm Haak (Dozent)
 - Tutor:innen
-
-## Voraussetzungen
-
-Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende mathematische Fähigkeiten. Mit [diesem Selbsttest](https://goethe-tcs.github.io/algo121-exercises/voraussetzungen.pdf) können Sie vorab Ihre Fähigkeiten prüfen und auffrischen.
 
 ## Literatur
 
@@ -108,11 +109,12 @@ Nach der Veranstaltung können die Studierenden:
 - Grundlegende Entwurfsmethoden (Divide and Conquer, Dynamische Programmierung, Gierige Algorithmen)
 - Graphalgorithmen (Tiefensuche, Breitensuche, Kruskal, Prim, Dijkstra) für verschiedene Arten von Graphen (ungewichtet, gewichtet, ungerichtet, gerichtet).
 
+<!-- 
 ## Übungen
 
 Alleine ein Buch lesen oder Videos anschauen können Sie auch ohne diesen Kurs.
 Mit 1–2 anderen Student:innen zusammen Übungsaufgaben bearbeiten, und dabei unsere Unterstützung und unser Feedback erfahren, das sind die Qualitäten, die Sie ohne diesen Kurs nicht haben.
-Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit Tutor:innen oder dem Dozenten das zentrale Angebot dieses Kurses.
+Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit Tutor:innen oder dem Dozenten das zentrale Angebot dieses Kurses. -->
 <!-- 
 ## ⭐
 
@@ -135,8 +137,11 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Verwandte Vorlesungen
 
-- Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
-- Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](http://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](http://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
+- ALGO1 an der Goethe Universität:
+  - [SoSe-2022](https://algo.cs.uni-frankfurt.de/lehre/algo1/sommer22/algo122.php) (Prof. Hoefer) mit [Vorlesungsmitschnitten](https://video01.uni-frankfurt.de/Mediasite/Channel/hoefer-algorithmenunddatenstrukturen/browse/null/most-recent/null/0/null)
+  - [SoSe-2021](https://tcs.uni-frankfurt.de/algo1) (Prof. Dell) mit Videos
+  - [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) mit [Vorlesungsmitschnitten](https://ae.cs.uni-frankfurt.de/videos/algo120.html)
+- Vorbild für diese Vorlesung war eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
@@ -152,17 +157,13 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Klausur
 
-Die Klausuren sind nicht zulassungsbeschränkt, Sie müssen sich aber mindestens zwei Wochen vorher über das QIS-System oder über Ihr Prüfungsamt anmelden!
+Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher über das QIS-System oder über das Prüfungsamt Ihres Studiengangs anmelden!
 
 - **Klausur:** 24. Juli 2023
 - **Nachklausur:** 2. Oktober 2023
 - **Organisatorische Fragen:** E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
-## Altklausuren
-
-- **SoSe 2021:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
-- **WiSe 2021/22:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
-- **Weitere Altklausuren:** Es gibt noch weitere [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). (Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.)
+Wenn Sie eine Klausur verpassen, müssen Sie bis zur nächsten Klausur warten. Eine mündliche Prüfung ist nicht möglich.
 
 <!--
   - Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
@@ -185,9 +186,14 @@ Die Klausuren sind nicht zulassungsbeschränkt, Sie müssen sich aber mindestens
   - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 1. Oktober, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
 -->
 
+## Altklausuren
+
+- **SoSe 2021:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
+- **WiSe 2021/22:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
+- **Weitere Altklausuren:** Es gibt noch weitere [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). (Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.)
+
 ## Weitere Hinweise
 
 - **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
 - **Algo1a/Algo1b.** Die Prüfungsvarianten Algo1a und Algo1b stehen nicht mehr zur Verfügung. Studierende aus alten Studienordnungen müssen die volle ALGO1 Prüfung bestehen.
-- **Bonuspunkte.** Voraussichtlich wird es in dieser Iteration keine Bonuspunkte geben.
-- **Übertrag von Bonuspunkten.** Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.
+- **Bonuspunkte.** Im Sommersemester 2023 gibt es keine „Bonuspunkte“.
