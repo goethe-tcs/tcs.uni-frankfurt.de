@@ -13,7 +13,6 @@ layout: single
 lang: de
 ---
 
-
 ## Organisatorisches
 
 - **Erste Veranstaltung:** Dienstag, 11.04.2023, 8-10 Uhr, H V (Hörsaaltrakt Bockenheim). **Wichtig:** Bearbeiten Sie vorher eigenständig die [Übungen zur Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo121-exercises/voraussetzungen.pdf)

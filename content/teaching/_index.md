@@ -1,8 +1,10 @@
 ---
 title: Teaching
 layout: single
-toc: no
+toc: yes
 ---
+
+{{% all-courses %}}
 
 <!--
 
@@ -22,7 +24,7 @@ toc: no
 - Seminar w/ Kuehne
 
 -->
-
+<!-- 
 ## Summer 2023 (upcoming semester)
 
 - Vorlesung (3+2): [Algorithmen und Datenstrukturen 1](/algo1), Di/Do 8-10.
@@ -54,9 +56,9 @@ toc: no
 ## Winter 2020/21
 
 - Vorlesung (4+2): [Fine-grained Parameterized Algorithms](/parameterized)
-- Seminar: [Mathematics and Computation](/seminar/wigderson)
+- Seminar: [Mathematics and Computation](/seminar/wigderson) -->
 
-## Past courses offered by Holger Dell
+## Past courses
 
 - [Algorithms and Data Structures](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=423) (Spring 2020, IT University of Copenhagen).
 - [Applied Algorithms](https://learnit.itu.dk/local/coursebase/view.php?s=ft&view=public&ciid=203) (Fall 2019/20, IT University of Copenhagen).

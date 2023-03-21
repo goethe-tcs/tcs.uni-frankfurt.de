@@ -1,0 +1,6 @@
+{{ range $.Site.Data.semesters }}
+
+## {{ .name }}
+
+{{ partial "course-list.html" . }}
+{{ end }}

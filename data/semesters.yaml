@@ -1,4 +1,11 @@
-Summer 2023:
+- name: Winter 2023/24 (future semester)
+  courses:
+  - url: /algo2/
+    img: /algo2/pnp.svg
+    name: Algorithmen und Datenstrukturen 2
+    desc: Course
+- name: Summer 2023
+  courses:
   - url: /algo1/
     img: /algo1/doors169-small.jpg
     name: Algorithmen und Datenstrukturen 1
@@ -8,10 +15,11 @@ Summer 2023:
     name: Thesis / Project
     desc: Apply by **April 1, 2023** for a thesis or research project in the summer term of 2023.
   - url: /pace/
-    img: /pace/turtle.svg
+    img: /pace/turtle-169.svg
     name: PACE challenge
     desc: Participate in a fun, group-based implementation challenge!
-Winter 2022/23:
+- name: Winter 2022/23
+  courses:
   - url: /seminar/homomorphisms/
     img: /images/graph_homomorphism_C5.svg
     imgw: 155
@@ -19,37 +27,48 @@ Winter 2022/23:
     name: "Graph Homomorphisms"
     desc: Seminar
     loc: Di 12-14, H5
-Summer 2022:
+- name: Summer 2022
+  courses:
   - url: /complexity/
-    img: /complexity/AB-cover.jpg
-    imgw: 68
-    imgh: 100
+    img: /complexity/AB-cover-169.jpg
     name: Complexity Theory
     desc: Course
     loc: Di 10-14, Mi 10-12, H9
   - url: /seminar/atti/
     img: /teaching/cr.png
-    imgw: 129
-    imgh: 150
-    name: "Current Topics in Theoretical Computer Science: Graph kernels"
+    name: "Graph kernels"
     desc: Seminar
     loc: Di 8-10, H9
-Winter 2021/22:
+- name: Winter 2021/22
+  courses:
   - url: /algo2/
     img: /algo2/pnp.svg
-    imgw: 100
-    imgh: 100
     name: Algorithmen und Datenstrukturen 2
     desc: Course
   - url: /seminar/wigderson/
-    img: /seminar/wigderson-cover.jpg
-    imgw: 68
-    imgh: 100
+    img: /seminar/wigderson-cover-169.jpg
     name: Mathematics and Computation
     desc: Seminar
   - url: /pace/
-    img: /pace/turtle.svg
-    imgw: 117
-    imgh: 100
+    img: /pace/turtle-169.svg
     name: PACE challenge
     desc: Participate in a fun, group-based implementation challenge!
+- name: Summer 2021
+  courses:
+  - url: /algo1/
+    img: /algo1/doors169-small.jpg
+    name: Algorithmen und Datenstrukturen 1
+    desc: Course
+  - url: /seminar/paper/
+    img: /teaching/cr.png
+    name: "Recent breakthroughs in TCS"
+    desc: Seminar
+- name: Winter 2020/21
+  courses:
+  - url: /parameterized/
+    name: Fine-grained Parameterized Algorithms
+    desc: Course
+  - url: /seminar/wigderson/
+    img: /seminar/wigderson-cover-169.jpg
+    name: Mathematics and Computation
+    desc: Seminar

@@ -11,3 +11,5 @@ data/manifest.json
 .npm-packages
 .vscode
 .hugo_build.lock
+frontmatter.json
+.frontmatter/

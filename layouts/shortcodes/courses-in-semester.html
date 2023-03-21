@@ -1,0 +1,5 @@
+{{ range $.Site.Data.semesters }}
+{{ if eq .name ($.Get 0) }}
+{{ partial "course-list.html" . }}
+{{ end }}
+{{ end }}
