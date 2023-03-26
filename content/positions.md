@@ -67,7 +67,7 @@ Please also include as separate PDF files:
 - Your Master thesis or a draft (if available)
 - For postdoc candidates: Your most important paper (that is, the one where you have written most of the text)
 
-**The application deadline is June 16, 2023, at 2pm Frankfurt time.** Interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
+**The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 
 ## Other options
 
