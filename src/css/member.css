@@ -1,15 +1,15 @@
 .member-page-top {
-  margin-top: 2rem;
   display: grid;
-  gap: 1rem;
   grid-template:
     "photo" auto
     "name" auto
     "position" auto
     "coordinates" auto
     / 1fr;
-  text-align: center;
   align-items: start;
+  gap: 1rem;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 @media (min-width: $medium) {
@@ -42,8 +42,8 @@
 @media (min-width: $medium) {
   .member-page-top > * > p {
     margin: 1rem 0;
-    text-align: left;
     max-width: none;
+    text-align: left;
   }
 }
 
@@ -62,18 +62,18 @@
 
 @media (min-width: $medium) {
   .member-page-top > .name {
-    text-align: left;
     margin: 0;
+    text-align: left;
   }
 }
 
 .member-page-top > .coordinates {
-  grid-area: coordinates;
   display: flex;
+  grid-area: coordinates;
   flex-direction: column;
-  padding: 0;
-  margin: 0;
   gap: 0.2rem;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
@@ -85,15 +85,15 @@
 }
 
 .member-page-top > .photo-container {
-  grid-area: photo;
   display: grid;
+  grid-area: photo;
   justify-content: center;
 }
 
 .member-page-top > .photo-container > .photo {
-  border-radius: 145px;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
+  border-radius: 145px;
   max-width: 290px;
   overflow: hidden;
 }
@@ -112,9 +112,9 @@
 @media (min-width: $wide) {
   .profiles {
     float: right;
+    background-color: var(--color-main-bg);
     padding-left: 3rem;
     text-align: left;
-    background-color: var(--color-main-bg);
   }
 }
 
@@ -124,9 +124,9 @@
 
 .profiles > ul {
   display: flex;
+  column-gap: 1rem;
   flex-wrap: wrap;
   font-size: smaller;
-  column-gap: 1rem;
 }
 
 .profiles > ul > li {

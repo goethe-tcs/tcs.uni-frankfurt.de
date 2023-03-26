@@ -23,27 +23,27 @@ h5 {
 }
 
 h1 {
-  font-family: var(--font-alternate);
-  font-size: var(--font-size-large);
   font-weight: 600;
+  font-size: var(--font-size-large);
   line-height: 1.2;
+  font-family: var(--font-alternate);
 }
 
 h2 {
-  font-size: var(--font-size-medium);
   font-weight: 400;
+  font-size: var(--font-size-medium);
 }
 
 h2::after {
-  content: "";
   display: block;
   border-top: 1px dashed;
+  content: "";
   color: var(--color-main-fg-soft);
 }
 
 h3 {
-  font-size: var(--font-size-medium);
   font-weight: 400;
+  font-size: var(--font-size-medium);
 }
 
 h4,
@@ -75,8 +75,8 @@ li > ul {
 }
 
 ol.breadcrumbs {
-  list-style: none;
   margin: 2rem;
+  list-style: none;
   text-align: center;
 }
 
@@ -85,16 +85,16 @@ ol.breadcrumbs > li {
 }
 
 ul.nobullets {
-  list-style: none;
   padding-left: 0.5rem;
+  list-style: none;
 }
 
 a,
 a:hover,
 a:active,
 :any-link {
-  color: var(--color-link-fg);
   outline: none;
+  color: var(--color-link-fg);
 }
 
 .nowrap {
@@ -106,8 +106,8 @@ a:active,
 }
 
 .katex {
-  font-size: inherit !important;
   font-weight: inherit !important;
+  font-size: inherit !important;
 }
 
 .course-list {
@@ -115,21 +115,21 @@ a:active,
 }
 
 .course-list a {
-  min-height: 150px;
   display: flex;
+  min-height: 150px;
 }
 
 .course-list a,
 .course-list a:hover,
 .course-list a:active,
 .course-list :any-link {
-  text-decoration: none;
   color: inherit;
+  text-decoration: none;
 }
 
 .course-list > a > div {
-  align-content: center;
   display: grid;
+  align-content: center;
 }
 
 /* .course-list > a:nth-of-type(odd) {
@@ -138,27 +138,27 @@ a:active,
 
 .course-img {
   flex-shrink: 0;
+  margin-right: 1em;
+  width: 140px;
+  color: black;
   font-weight: 100;
   text-decoration: none;
-  color: black;
-  width: 140px;
-  margin-right: 1em;
 }
 
 .course-img > img {
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
 }
 
 .member-list {
   display: grid;
-  gap: 30px;
   grid-template-columns: repeat(auto-fit, 150px);
   justify-content: space-evenly;
+  gap: 30px;
   padding: 0;
-  text-align: center;
   width: 100%;
   list-style: none;
+  text-align: center;
 }
 
 .event-head {
@@ -176,10 +176,10 @@ a:active,
 }
 
 .member-photo {
+  margin-bottom: 5px;
   border-radius: 1em;
   height: 150px;
   overflow-y: hidden;
-  margin-bottom: 5px;
 }
 
 .member-photo-empty {

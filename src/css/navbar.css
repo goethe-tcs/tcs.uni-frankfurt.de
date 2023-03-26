@@ -1,7 +1,7 @@
 header,
 footer {
-  font-family: var(--font-alternate);
   font-weight: 300;
+  font-family: var(--font-alternate);
 }
 
 header :any-link {
@@ -14,8 +14,8 @@ header :any-link:hover {
 }
 
 header nav {
-  height: 3.5rem;
   display: flex;
+  height: 3.5rem;
 }
 
 header .goethe > img {
@@ -25,8 +25,8 @@ header .goethe > img {
 header .tcs-logo {
   display: flex;
   align-items: center;
-  padding-left: 0.75rem;
   padding-right: 0.75rem;
+  padding-left: 0.75rem;
 }
 
 header .page-links > a {
@@ -44,8 +44,8 @@ header .page-links > a {
 }
 
 header .item-desc {
-  font-size: var(--font-size-small);
   display: none;
+  font-size: var(--font-size-small);
 }
 
 header .fas {
