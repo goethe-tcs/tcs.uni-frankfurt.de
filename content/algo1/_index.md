@@ -16,7 +16,8 @@ lang: de
 ## Organisatorisches
 
 - **Erste Veranstaltung:** Dienstag, 11.04.2023, 8-10 Uhr, H V (Hörsaaltrakt Bockenheim). **Wichtig:** Bearbeiten Sie vorher eigenständig die [Übungen zur Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo121-exercises/ALGO1-Blatt-00-prerequisites.pdf)
-- **Anmeldung in Moodle:** Kommt bald
+- **Anmeldung zu den Übungsgruppen:** Auf dem [Anmeldesystem AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=179)
+- **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919).
 - **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
 <!-- Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
@@ -27,8 +28,8 @@ lang: de
 Der Kurs findet als *Flipped Classroom* statt, das heißt:
 
 - **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
-- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:45 in Hörsaal V, mit allen Studierenden): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
-- **„Tutorium“** (in kleinen Gruppen): Diskussionen, Präsenzübungen, Lösungsspaziergänge und individuelle Betreuung. *Einzelne Tutorien und Helpdesks werden online stattfinden.*
+- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:45 in Hörsaal V, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
+- **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Diskussionen, Präsenzübungen, Lösungsspaziergänge und individuelle Betreuung. *Einzelne Tutorien und Helpdesks werden online stattfinden.*
 
 ## Vorlesungsteam
 
@@ -47,47 +48,61 @@ Der Kurs findet als *Flipped Classroom* statt, das heißt:
 
 Die Veranstaltung dauert 14 Wochen:
 
-1. **Einführung und Peaks** <span style="color: grey;">· a</span>\
+<div class="border-4 border-indigo-500 bg-gray-200 dark:bg-gray-800">
+<div class="p-5">
+
+1. **Einführung und Peaks**\
 CLRS Kapitel 1 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) <!-- · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/organisation.pdf)--><br>
 
-1. **Suchen und Sortieren** <span style="color: grey;">· a</span>\
+</div>
+<div class="bg-yellow-500/10">
+<div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Rest ist Entwurf! Hier wird sich noch was ändern ↓↓↓</div>
+<div class="p-5">
+
+
+
+2. **Suchen und Sortieren**\
 CLRS Kapitel 2 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/searchingandsorting-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star02-crossing-lines.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
 
-1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem** <span style="color: grey;">· a</span>\
+3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
 CLRS Kapitel 3, 4.3-4.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/analysis-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](https://goethe-tcs.github.io/algo121-exercises/Woche03_Dienstag.pdf)<br>
 
-1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume** <span style="color: grey;">· a</span>\
+4. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
 CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/introtodatastructures-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star04-balance.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
 
-1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
+5. **Darstellung von Graphen, Breitensuche, Tiefensuche**\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/introtographs-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star05-three-color-algorithm.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf)<br>
 
-1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
+6. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten**\
 CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/directedgraphs-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star06-palindromic-walks.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
 
-1. **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
+7. **Prioritätswarteschlangen, Heaps**\
 CLRS Kapitel 6 + Appendix B.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/priorityqueues-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star07-seatallocation.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
 
-1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
+8. **Disjunkte Mengen, Union-Find**\
 CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/unionfind-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star08-unionfindmove.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
 
-1. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
+9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
 E Kapitel 7 (oder CLRS Kapitel 23) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/minimumspanningtrees-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star09-bottleneck.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
 
-1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
+10. **Dijkstras Algorithmus, kürzeste Wege**\
 E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/shortestpaths-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star10-reinsertion.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
 
-1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
+11. **Wörterbücher, Hashing**\
 CLRS Kapitel 11 ohne 11.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/hashing-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
 
-1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
+12. **Traversierung, binäre Suchbäume, AVL-Bäume**\
 CLRS Kapitel 12 ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/binarysearchtrees-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star12-zero.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
-1. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
+13. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen**\
 E Kapitel 3 ohne 3.6 und 3.9 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/dynamicprogramming-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star13-secondary-structure.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
 
-1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
+14. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
 E Kapitel 4 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
+
+</div>
+</div>
+</div>
 
 ## Lernziele
 

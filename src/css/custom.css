@@ -3,6 +3,7 @@ strong {
   font-weight: bold;
 }
 
+.link,
 a {
   text-decoration: underline;
 }
@@ -92,7 +93,8 @@ ul.nobullets {
 a,
 a:hover,
 a:active,
-:any-link {
+:any-link,
+.link {
   outline: none;
   color: var(--color-link-fg);
 }
@@ -101,6 +103,7 @@ a:active,
   white-space: nowrap;
 }
 
+.link:hover,
 :any-link:hover {
   background-color: var(--color-link-hover-bg);
 }
