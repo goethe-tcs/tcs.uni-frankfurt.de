@@ -28,7 +28,7 @@ Der Kurs findet als *Flipped Classroom* statt, das heißt:
 
 - **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
 - **„Plenum“** (Dienstag und Donnerstag, 8:15–9:45 in Hörsaal V, mit allen Studierenden): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
-- **„Tutorium“** (in kleinen Gruppen): Diskussionen, Präsenzübungen und individuelle Betreuung. *Einzelne Tutorien und Helpdesks werden online stattfinden.*
+- **„Tutorium“** (in kleinen Gruppen): Diskussionen, Präsenzübungen, Lösungsspaziergänge und individuelle Betreuung. *Einzelne Tutorien und Helpdesks werden online stattfinden.*
 
 ## Vorlesungsteam
 
