@@ -1,15 +1,16 @@
-<div class="member-page-top">
-  <h1 class="name">{{ .Page.Title }}</h1>
-  <div class="position">
+<div class="block text-center pt-8 sm:flex gap-12 justify-start">
+  {{ with .Params.photo }}
+  <div class="grow-0 max-w-[220px] m-auto">
+    <div class="rounded-full flex justify-center items-center max-w-max m-auto overflow-hidden"><img alt="Profile Photo" src="{{ . }}" /></div>
+  </div>
+  {{ end }}
+  <div class="sm:text-left sm:grow">
+  <h1 class="m-0">{{ .Page.Title }}</h1>
+  <div>
     {{- with .Params.position -}}{{- . | $.RenderString -}}{{- end -}}
   </div>
-  {{ with .Params.photo }}
-    <div class="photo-container">
-      <div class="photo"><img alt="Profile Photo" src="{{ . }}" /></div>
-    </div>
-  {{ end }}
   {{ with .Params.contact }}
-    <ul class="coordinates">
+    <ul class="list-none p-0">
       {{ range $item := . }}
         {{ range $key, $val := $item }}
           <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
@@ -18,13 +19,14 @@
     </ul>
   {{ end }}
 </div>
+</div>
 {{ with .Params.profiles }}
-  <div class="profiles">
+  <div class="sm:float-right sm:bg-[var(--color-main-bg)] sm:pl-12 sm:text-left">
     <h2><i class="fas fa-user"></i> Profiles</h2>
-    <ul class="nobullets">
+    <ul class="flex sm:block list-none flex-wrap text-sm">
       {{ range $item := . }}
         {{ range $key, $val := $item }}
-          <li><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</li>
+          <li class="w-max"><div class="px-1"><i class="{{ $key }}"></i> {{ $val | $.RenderString }}</div></li>
         {{ end }}
       {{ end }}
     </ul>
