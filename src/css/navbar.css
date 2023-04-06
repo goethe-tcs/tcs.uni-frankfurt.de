@@ -4,12 +4,12 @@ footer {
   font-family: var(--font-alternate);
 }
 
-header :any-link {
+header :any-link:not(.plain) {
   color: inherit;
   text-decoration: none;
 }
 
-header :any-link:hover {
+header :any-link:hover:not(.plain) {
   background-color: var(--color-navbar-bg-hover);
 }
 
@@ -27,20 +27,6 @@ header .tcs-logo {
   align-items: center;
   padding-right: 0.75rem;
   padding-left: 0.75rem;
-}
-
-header .page-links > a {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 0.25rem;
-}
-
-@media (min-width: $medium) {
-  header .page-links > a {
-    aspect-ratio: 1 / 1;
-  }
 }
 
 header .item-desc {

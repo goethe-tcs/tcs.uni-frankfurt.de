@@ -49,15 +49,22 @@
             <div class="tcs-logo-short"><b>TCS</b> Group</div>
           </a>
         </nav>
-        <nav class="page-links">
-          <a href="/research/">
+        <nav>
+          <div class="p-2 group relative flex flex-col text-center justify-center items-center hover:bg-[var(--color-navbar-bg-hover)]">
+          <a class="w-max" href="/research/">
             <i class="fas fa-flask"></i>
-            <div class="item-desc">Research</div>
-          </a>
-          <a href="/teaching/">
+            <div class="text-xs">Research</div>
+          </a></div>
+          <div class="p-2 group relative flex flex-col text-center justify-center hover:bg-[var(--color-navbar-bg-hover)]">
+            <a class="w-max" href="/teaching/">
             <i class="fas fa-chalkboard-teacher"></i>
-            <div class="item-desc">Teaching</div>
-          </a>
+            <div class="text-xs">Teaching</div></a>
+            <div class="hidden absolute right-0 top-full text-center items-stretch z-50 min-h-full w-max flex-col place-items-center bg-inherit focus:outline-none group-hover:flex">
+              <a href="/algo1/" class="plain hover:bg-black/10 p-2 no-underline">ALGO1</a>
+              <a href="/projects/" class="plain text-white hover:bg-black/10 p-2 no-underline">Thesis &amp; Projects</a>
+              <a href="/teaching/" class="plain block text-white hover:bg-black/10 p-2 no-underline">Past Courses</a>
+            </div>
+          </div>
         </nav>
       </header>
     </div>

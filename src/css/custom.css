@@ -20,7 +20,7 @@ h2,
 h3,
 h4,
 h5 {
-  margin-block-start: 2em;
+  margin-block-start: 2rem;
 }
 
 h1 {
@@ -90,11 +90,11 @@ ul.nobullets {
   list-style: none;
 }
 
-a,
-a:hover,
-a:active,
-:any-link,
-.link {
+a:not(.plain),
+a:hover:not(.plain),
+a:active:not(.plain),
+:any-link:not(.plain),
+.link:not(.plain) {
   outline: none;
   color: var(--color-link-fg);
 }
@@ -103,8 +103,9 @@ a:active,
   white-space: nowrap;
 }
 
-.link:hover,
-:any-link:hover {
+
+.link:hover:not(.plain),
+:any-link:hover:not(.plain) {
   background-color: var(--color-link-hover-bg);
 }
 

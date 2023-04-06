@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $de := eq .Params.lang "de" }}
-  <div class="mt-5">
+  <div class="mt-8">
     <h1 class="inline-block mt-0">{{ .Title }}</h1>
   {{- with .Params.semester -}}<b class="block font-sans">{{ . }}</b>{{ end -}}
 </div>
