@@ -3,11 +3,17 @@ title: Algorithmen und Datenstrukturen 1
 semester: SoSe-2023
 ects: "8"
 sws: 3V, 2Ü
+aliases:
+  - "/algo1/2023"
 kürzel:
   - program: Bachelor
     modul: B-ALGO-1
     veranstaltung: ALGO1
-qis: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+links:
+  - name: QIS
+    url: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+  - name: Moodle
+    url: https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919
 toc: true
 layout: single
 lang: de
@@ -153,7 +159,7 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 - ALGO1 an der Goethe Universität:
   - [SoSe-2022](https://algo.cs.uni-frankfurt.de/lehre/algo1/sommer22/algo122.php) (Prof. Hoefer) mit [Vorlesungsmitschnitten](https://video01.uni-frankfurt.de/Mediasite/Channel/hoefer-algorithmenunddatenstrukturen/browse/null/most-recent/null/0/null)
-  - [SoSe-2021](https://tcs.uni-frankfurt.de/algo1) (Prof. Dell) mit Videos
+  - [SoSe-2021](https://tcs.uni-frankfurt.de/algo1/2021) (Prof. Dell) mit Videos
   - [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) mit [Vorlesungsmitschnitten](https://ae.cs.uni-frankfurt.de/videos/algo120.html)
 - Vorbild für diese Vorlesung war eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
@@ -200,14 +206,9 @@ Wenn Sie eine Klausur verpassen, müssen Sie bis zur nächsten Klausur warten. E
   - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 1. Oktober, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
 -->
 
-## Altklausuren
-
-- **SoSe 2021:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
-- **WiSe 2021/22:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
-- **Weitere Altklausuren:** Es gibt noch weitere [Altklausuren](https://ae.cs.uni-frankfurt.de/teaching/altklausuren.html). (Algorithmen und Datenstrukturen 1 war früher aufgeteilt in „Datenstrukturen“ und „Theoretische Informatik 1“.)
-
 ## Weitere Hinweise
 
+- **Altklausuren.** [Dieses zip-Archiv](https://cloud.tcs.uni-frankfurt.de/s/KxYPRjabCKk5oza) enthält alle ALGO1-Klausuren samt Lösungsvorschlägen seitdem das Modul 2020 eingeführt wurde.
 - **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
 - **Algo1a/Algo1b.** Die Prüfungsvarianten Algo1a und Algo1b stehen nicht mehr zur Verfügung. Studierende aus alten Studienordnungen müssen die volle ALGO1 Prüfung bestehen.
 - **Bonuspunkte.** Im Sommersemester 2023 gibt es keine „Bonuspunkte“.

@@ -41,7 +41,7 @@
     loc: Di 8-10, H9
 - name: Winter 2021/22
   courses:
-  - url: /algo2/
+  - url: /algo2/2021
     img: /algo2/pnp.svg
     name: Algorithmen und Datenstrukturen 2
     desc: Course
@@ -55,7 +55,7 @@
     desc: Participate in a fun, group-based implementation challenge!
 - name: Summer 2021
   courses:
-  - url: /algo1/
+  - url: /algo1/2021/
     img: /algo1/doors169-small.jpg
     name: Algorithmen und Datenstrukturen 1
     desc: Course

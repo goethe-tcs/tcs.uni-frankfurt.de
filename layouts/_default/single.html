@@ -1,8 +1,10 @@
 {{ define "main" }}
 {{ $de := eq .Params.lang "de" }}
-  <h1>{{ .Title }}</h1>
+  <div class="mt-5">
+    <h1 class="inline-block mt-0">{{ .Title }}</h1>
+  {{- with .Params.semester -}}<b class="block font-sans">{{ . }}</b>{{ end -}}
+</div>
   <ul class="event-head">
-    {{- with .Params.semester -}}<li>{{ . }}</li>{{ end -}}
     {{ if .Params.kürzel }}
       <li>
         {{ if $de }}Modulkürzel:{{ else }}Course codes:{{ end }}
@@ -11,6 +13,10 @@
         {{- end }}
       </li>
     {{ end }}
+    {{- with .Params.links }}
+      <li>{{ if $de }}Externe Links:{{ else }}External links:{{ end }}
+        <div class="inline-flex">{{- range . -}}<a href="{{ .url }}" class="inline-block [&:not(:first-child)]:border-l-2 px-1">{{ .name | $.RenderString }}</a>{{- end -}}</div></li>
+    {{ end -}}
     {{- with .Params.qis }}
       <li>{{ if $de }}Externe Links:{{ else }}External links:{{ end }} <a href="{{ . }}">qis</a></li>
     {{ end -}}

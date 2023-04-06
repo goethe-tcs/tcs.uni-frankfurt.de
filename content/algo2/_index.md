@@ -2,12 +2,18 @@
 title: "Algorithmen und Datenstrukturen 2"
 ects: "8"
 sws: "3V, 2Ü"
+aliases:
+  - "/algo2/2021"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"
     veranstaltung: "ALGO2"
 semester: "WiSe-2021/22"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+links:
+  - name: QIS
+    url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+  - name: Moodle
+    url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241"
 toc: yes
 layout: single
 ---
