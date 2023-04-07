@@ -55,7 +55,7 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 ## Voraussetzungen
 
-Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende mathematische Fähigkeiten. Mit [diesem Selbsttest](https://files.tcs.uni-frankfurt.de/algo1/voraussetzungen.pdf) können Sie vorab Ihre Fähigkeiten prüfen und auffrischen.
+Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende mathematische Fähigkeiten. Mit [diesem Selbsttest](https://files.tcs.uni-frankfurt.de/algo1/2021/voraussetzungen.pdf) können Sie vorab Ihre Fähigkeiten prüfen und auffrischen.
 
 ## Literatur
 
@@ -67,46 +67,46 @@ Sie brauchen für den Kurs Basisfähigkeiten im Programmieren sowie grundlegende
 Die Veranstaltung dauert 14 Wochen:
 
 1. **Einführung und Peaks** <span style="color: grey;">· a</span>\
-CLRS Kapitel 1 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/introduction-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star01-2D-hills.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/organisation.pdf)<br>
+CLRS Kapitel 1 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/introduction-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star01-2D-hills.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2021/organisation.pdf)<br>
 
 1. **Suchen und Sortieren** <span style="color: grey;">· a</span>\
-CLRS Kapitel 2 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star02-crossing-lines.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
+CLRS Kapitel 2 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/searchingandsorting-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star02-crossing-lines.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
 
 1. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem** <span style="color: grey;">· a</span>\
-CLRS Kapitel 3, 4.3-4.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/analysis-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](https://files.tcs.uni-frankfurt.de/algo1/Woche03_Dienstag.pdf)<br>
+CLRS Kapitel 3, 4.3-4.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/analysis-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](https://files.tcs.uni-frankfurt.de/algo1/2021/Woche03_Dienstag.pdf)<br>
 
 1. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume** <span style="color: grey;">· a</span>\
-CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star04-balance.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
+CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/introtodatastructures-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star04-balance.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
 
 1. **Darstellung von Graphen, Breitensuche, Tiefensuche** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/introtographs-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star05-three-color-algorithm.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf)<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/introtographs-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star05-three-color-algorithm.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf) · [Lagebesprechung](https://files.tcs.uni-frankfurt.de/algo1/2021/woche5plan2.pdf)<br>
 
 1. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten** <span style="color: grey;">· b</span>\
-CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star06-palindromic-walks.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
+CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/directedgraphs-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star06-palindromic-walks.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
 
 1. **Prioritätswarteschlangen, Heaps** <span style="color: grey;">· a</span>\
-CLRS Kapitel 6 + Appendix B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star07-seatallocation.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
+CLRS Kapitel 6 + Appendix B.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/priorityqueues-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star07-seatallocation.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
 
 1. **Disjunkte Mengen, Union-Find** <span style="color: grey;">· a</span>\
-CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/unionfind-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star08-unionfindmove.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
+CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/unionfind-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star08-unionfindmove.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
 
 1. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus** <span style="color: grey;">· b</span>\
-E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star09-bottleneck.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
+E Kapitel 7 (oder CLRS Kapitel 23) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/minimumspanningtrees-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star09-bottleneck.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
 
 1. **Dijkstras Algorithmus, kürzeste Wege** <span style="color: grey;">· b</span>\
-E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star10-reinsertion.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
+E Kapitel 8 ohne 8.7 (oder CLRS Kapitel 24 außer 24.1 und 24.4) · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/shortestpaths-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star10-reinsertion.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
 
 1. **Wörterbücher, Hashing** <span style="color: grey;">· a</span>\
-CLRS Kapitel 11 ohne 11.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/hashing-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
+CLRS Kapitel 11 ohne 11.5 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/hashing-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
 
 1. **Traversierung, binäre Suchbäume, AVL-Bäume** <span style="color: grey;">· a</span>\
-CLRS Kapitel 12 ohne 12.4 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star12-zero.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
+CLRS Kapitel 12 ohne 12.4 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/binarysearchtrees-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star12-zero.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
 1. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen** <span style="color: grey;">· b</span>\
-E Kapitel 3 ohne 3.6 und 3.9 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/star13-secondary-structure.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
+E Kapitel 3 ohne 3.6 und 3.9 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/dynamicprogramming-wochenplan.pdf) · [⭐](https://files.tcs.uni-frankfurt.de/algo1/2021/star13-secondary-structure.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
 
 1. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen** <span style="color: grey;">· b</span>\
-E Kapitel 4 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
+E Kapitel 4 · [Plan](https://files.tcs.uni-frankfurt.de/algo1/2021/greedyalgorithms-wochenplan.pdf) · [⭐](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/mod/quiz/view.php?id=83917) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
 
 ## Lernziele
 
@@ -133,7 +133,7 @@ Daher sind Übungen und die Möglichkeit zum direkten mündlichen Gespräch mit 
 
 Manche Übungsaufgaben sind besonders, denn sie sind mit ⭐ markiert.
 Diese Aufgaben lösen Sie außerhalb des Synchronbetriebs und geben sie als PDF-Datei ab;
-fotografieren Sie hierzu Ihre lesbare Handschrift mit einer Scanner-App oder benutzen Sie unser [.tex-Template](https://www.overleaf.com/project/62eec18cfc145c60b5899fc1).
+fotografieren Sie hierzu Ihre lesbare Handschrift mit einer Scanner-App oder benutzen Sie unser [.tex-Template](https://github.com/goethe-tcs/note-template/).
 Sie erhalten nützliches Feedback von den Tutor:innen auf Ihre Lösung, und Ihre Lösung wird anhand objektiver Kriterien entweder _akzeptiert_ oder _nicht akzeptiert_.
 Wenn Ihre Lösung akzeptiert wird, erhalten Sie einen _Stern_ ⭐, der möglicherweise Ihre Klausurnote verbessert.
 ⭐-Aufgaben verfolgen zwei Ziele: 1) Sie lernen, im sozialen Rahmen einer kleinen Gruppe Algorithmen für Ihnen vorher unbekannte algorithmische Probleme selbst zu entwickeln und zu analysieren. 2) Indem Sie die Lösung aufschreiben, verfassen Sie dadurch einen kurzen, wissenschaftlichen Text, und lernen dabei, die wissenschaftliche Sprache der Algorithmenforschung korrekt zu benutzen.
@@ -151,7 +151,7 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 ## Verwandte Vorlesungen
 
 - Vorbild für diese Vorlesung ist eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. _Mange tak Philip og Inge!_
-- Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](http://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](http://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
+- Eine vorherige Iteration von ALGO1 wurde im [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) angeboten, wofür [Videos](https://ae.cs.uni-frankfurt.de/videos/algo120.html) aus Präcoronazeiten zusammengeschnitten wurden. Videos sind auch verfügbar aus dem [SoSe-2019](https://algo.cs.uni-frankfurt.de/lehre/ds/sommer19/ds19.php) und [WiSe-2019/20](https://algo.cs.uni-frankfurt.de/lehre/algo2/winter1920/algo21920.php) (Prof. Hoefer).
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
@@ -167,34 +167,13 @@ _Beide_ Aspekte sind wichtig und ergänzen sich gegenseitig, Sie sollten daher f
 
 ## Klausur
 
-- **Klausur:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-klausur-solutions.pdf)
-- **Nachklausur:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/ALGO121-nachklausur-solutions.pdf)
+- **Klausur:** 9. August 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/2021/ALGO121-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/2021/ALGO121-klausur-solutions.pdf)
+- **Nachklausur:** 6. Oktober 2021 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo1/2021/ALGO121-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo1/2021/ALGO121-nachklausur-solutions.pdf)
 - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
-
-<!--
-  - Die Ergebnisse der Nachklausur erfahren Sie über den offiziellen Kanal (QIS/HISPOS), sobald das Prüfungsamt die Noten in das System eingetragen hat.
-  - Einsicht zur Nachklausur: Wir können den Scanner erst Ende Oktober benutzen, Sie erhalten dann eine E-Mail von uns.
-  - **Ausweise:** Studiausweis und Lichtbildausweis mitbringen und während der Klausur offen liegen lassen!
-  - **Corona:**
-    - **3G-Nachweis:** Sie müssen einen 3G-Nachweis mitbringen! Das heißt, Sie müssen einen offiziellen Nachweis mitbringen, dass Sie geimpft, getestet, oder genesen sind. Der Test darf höchstens 24 Stunden zurückliegen. **Ohne Nachweis können Sie nicht an der Klausur teilnehmen!** Falls Sie einen Test gemacht haben, der positiv ist, kommen Sie nicht zur Klausur. Informieren Sie umgehend das Prüfungsamt unter [pa_inf@cs.uni-frankfurt.de](mailto:pa_inf@cs.uni-frankfurt.de) und werden Sie wieder gesund.
-    - **Formular mitbringen:** Drucken Sie, wenn möglich, das [Unterweisungsformular](Corona-Formular-unterschrieben-mitbringen.pdf) aus, füllen Sie es **vorab** aus, unterschreiben Sie es, und bringen Sie es mit in die Klausur. Hier ist das [Hygienekonzept](Corona-Infos.pdf) der ALGO1-Klausur.
-    - **Maske:** Es ist verpflichtend, während der gesamten Klausur eine medizinische Maske zu tragen (chirurgische Maske / FFP2 / FFP3).
-  - **Ort und Zeit:** Die Klausur findet im Hörsaalgebäude in Bockenheim statt. Den Hörsaal erfahren Sie erst vor Ort. Die Zeiten sind wie folgt:
-    - Wenn Sie einen **Nachteilsausgleich** angemeldet haben oder **Algo1b** schreiben, müssen Sie um 9:30 da sein und am Haupteingang einchecken.
-    - Wenn Sie die **Vollklausur** normal mitschreiben, erfolgt die Aufteilung nach der letzten Ziffer in Ihrer Matrikelnummer:
-      - 0,1 einchecken um 7:50
-      - 3,4 einchecken um 8:00
-      - 5,6 einchecken um 8:10
-      - 2,9 einchecken um 8:30
-      - 7,8 einchecken um 9:00
-  - **Organisatorische Fragen:** E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) (nicht: dell@ oder moodle).
-  - **Hilfsmittel:** Ein Kugelschreiber (schwarz oder blau) ist mitzubringen. Sie dürfen ein mit der eigenen Hand beidseitig beschriebenes DIN-A4-Blatt mit in die Klausur bringen und benutzen. Alle elektronischen Geräte sind zu jedem Zeitpunkt untersagt und müssen ausgeschaltet werden und in Taschen und Rucksäcken verbleiben.
-  - **Nachteilsausgleich:** Falls Sie einen Nachteilsausgleich erhalten (z.B. wegen einer Erkrankung), melden Sie diesen bis spätestens Freitag, den 1. Oktober, an. Senden Sie hierzu eine E-Mail an [algo121@uni-frankfurt.de](mailto:algo121@uni-frankfurt.de) mit dem vom Prüfungsausschuss ausgestellten Dokument im Anhang, und sagen Sie uns, welche Klausurvariante Sie schreiben (ALGO1, ALGO1a, oder ALGO1b).
--->
 
 ## Weitere Hinweise
 
-- Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
+- Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](/algo1/kattis).
 - Die Prüfungsvarianten Algo1a und Algo1b stehen für Student:innen aus der alten Studienordnung zur Verfügung. Siehe hierzu die Äquivalenzregelung des Prüfungsamts. In diesem Fall zählen nur die ⭐, die für die jeweilige Unterprüfung relevant sind. Sie sehen in der Wochenübersicht 14 Wochen, jede Woche ist in Grau mit a oder b markiert. Beachten Sie, dass diese Einteilung vorläufig ist, und dass Algo1b auf Algo1a aufbaut, weshalb für viele Themen in Algo1b immer auch die Grundlagen aus Algo1a wichtig sind.
 - Nur der Suchen-Teil von Suchen und Sortieren ist klausurrelevant für ALGO1, denn Sortieren ist Teil der ALGO2 Prüfung.
 - Ein Übertrag von „Bonuspunkten“ aus den Vorjahren wird aus technischen und didaktischen Gründen nicht stattfinden. Dieser ist aber auch nicht nötig, da die Klausur nicht zulassungsbeschränkt ist. Sie können also einfach mitschreiben, wenn Sie sich rechtzeitig anmelden.

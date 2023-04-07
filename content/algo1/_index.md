@@ -58,7 +58,7 @@ Die Veranstaltung dauert 14 Wochen:
 <div class="p-5">
 
 1. **Einführung und Peaks**\
-CLRS Kapitel 1 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) <!-- · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/organisation.pdf)--><br>
+[CLRS Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) <!-- · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/organisation.pdf)--><br>
 
 </div>
 <div class="bg-yellow-500/10">
@@ -71,7 +71,7 @@ CLRS Kapitel 1 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/
 CLRS Kapitel 2 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/searchingandsorting-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star02-crossing-lines.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
 
 3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
-CLRS Kapitel 3, 4.3-4.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/analysis-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf) · [experiment.py](experiment.py) · [Lagebesprechung](https://goethe-tcs.github.io/algo121-exercises/Woche03_Dienstag.pdf)<br>
+CLRS Kapitel 3, 4.3-4.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/analysis-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)<br>
 
 4. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
 CLRS Einleitung von Teil III und Kapitel 10, Kapitel 17.4 bis Mitte von 17.4.1 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/introtodatastructures-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star04-balance.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
@@ -86,7 +86,7 @@ CLRS Einleitung von Teil VI + Kapitel 22.1-22.4 + Appendix B.4-B.5 · [Übungsbl
 CLRS Kapitel 6 + Appendix B.5 · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/priorityqueues-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star07-seatallocation.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
 
 8. **Disjunkte Mengen, Union-Find**\
-CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](http://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/unionfind-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star08-unionfindmove.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
+CLRS Kapitel 21 ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/unionfind-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star08-unionfindmove.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
 
 9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
 E Kapitel 7 (oder CLRS Kapitel 23) · [Übungsblatt](https://goethe-tcs.github.io/algo121-exercises/minimumspanningtrees-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo121-exercises/star09-bottleneck.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
@@ -135,7 +135,7 @@ Nach der Veranstaltung können die Studierenden:
   - [SoSe-2022](https://algo.cs.uni-frankfurt.de/lehre/algo1/sommer22/algo122.php) (Prof. Hoefer) mit [Vorlesungsmitschnitten](https://video01.uni-frankfurt.de/Mediasite/Channel/hoefer-algorithmenunddatenstrukturen/browse/null/most-recent/null/0/null)
   - [SoSe-2021](https://tcs.uni-frankfurt.de/algo1/2021) (Prof. Dell) mit Videos
   - [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) mit [Vorlesungsmitschnitten](https://ae.cs.uni-frankfurt.de/videos/algo120.html)
-- Vorbild für diese Vorlesung war eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](http://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
+- Vorbild für diese Vorlesung war eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](https://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
 
@@ -162,6 +162,6 @@ Wenn Sie eine Klausur verpassen oder nicht bestehen, müssen Sie bis zur nächst
 ## Weitere Hinweise
 
 - **Altklausuren.** [Dieses zip-Archiv](https://cloud.tcs.uni-frankfurt.de/s/KxYPRjabCKk5oza) enthält alle ALGO1-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-1 in der aktuellen Form existiert.
-- **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](kattis/).
+- **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](/algo1/kattis).
 - **Algo1a/Algo1b.** Die Prüfungsvarianten Algo1a und Algo1b stehen nicht mehr zur Verfügung. Studierende aus alten Studienordnungen müssen die volle ALGO1 Prüfung bestehen.
 - **Bonuspunkte.** Im Sommersemester 2023 gibt es keine „Bonuspunkte“.
