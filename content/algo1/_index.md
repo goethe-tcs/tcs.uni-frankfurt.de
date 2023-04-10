@@ -58,11 +58,11 @@ Die Veranstaltung dauert 14 Wochen:
 <div class="p-5">
 
 1. **Einführung und Peaks**\
-[CLRS Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) <!-- · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/organisation.pdf)--><br>
+CLRS [Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)<br>
 
 </div>
 <div class="bg-yellow-500/10">
-<div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Rest ist Entwurf! Hier wird sich noch was ändern ↓↓↓</div>
+<div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier wird sich noch was ändern ↓↓↓</div>
 <div class="p-5">
 
 
