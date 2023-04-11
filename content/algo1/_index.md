@@ -26,9 +26,6 @@ lang: de
 - **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919).
 - **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
-<!-- Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1325) an.und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. -->
-<!-- - [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5). -->
-
 ## Vorlesungskonzept
 
 Der Kurs findet als *Flipped Classroom* statt, das heißt:
@@ -57,8 +54,11 @@ Die Veranstaltung dauert 14 Wochen:
 <div class="border-4 border-indigo-500 bg-gray-200 dark:bg-gray-800">
 <div class="p-5">
 
+0. **Vorbereitung**\
+[Übungen zur eigenständigen Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-00-prerequisites.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)
+
 1. **Einführung und Peaks**\
-CLRS [Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)<br>
+CLRS [Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)<br>
 
 </div>
 <div class="bg-yellow-500/10">
