@@ -58,7 +58,7 @@ Die Veranstaltung dauert 14 Wochen:
 [Übungen zur eigenständigen Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-00-prerequisites.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)
 
 1. **Einführung und Peaks**\
-CLRS [Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)<br>
+CLRS [Kapitel 1 in Teil I](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)<br>
 
 </div>
 <div class="bg-yellow-500/10">
@@ -68,7 +68,7 @@ CLRS [Kapitel 1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=
 
 
 2. **Suchen und Sortieren**\
-CLRS Kapitel 2 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/searchingandsorting-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo1-exercises/star02-crossing-lines.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
+CLRS Kapitel 2 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-02-searchingandsorting.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
 
 3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
 CLRS Kapitel 3, 4.3-4.5 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/analysis-wochenplan.pdf) · [⭐](https://goethe-tcs.github.io/algo1-exercises/star03-bitstrings.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)<br>
