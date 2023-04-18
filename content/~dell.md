@@ -53,7 +53,7 @@ Germany
 **Packages:**\
 Prof. Holger Dell\
 Goethe-Universität, HPF 41\
-Senckenberganlage 31–33\
+Bockenheimer Landstr. 133\
 60325 Frankfurt am Main\
 Germany
 
