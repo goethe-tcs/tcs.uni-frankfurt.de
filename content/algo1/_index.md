@@ -61,16 +61,15 @@ Die Veranstaltung dauert 14 Wochen:
 CLRS [Kapitel 1 in Teil I](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)<br>
 
 2. **Suchen und Sortieren**\
-CLRS [Kapitel 2](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=37) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-02-searchingandsorting.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)<br>
+CLRS [Kapitel 2](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=37) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-02-searchingandsorting.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf) · [Plenum](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-02-Plenum-Donnerstag.pdf)<br>
 
+3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
+CLRS [Kapitel 3](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=65), [4.3-4.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=105) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-03-analysis.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)<br>
 
 </div>
 <div class="bg-yellow-500/10">
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier wird sich noch was ändern ↓↓↓</div>
 <div class="p-5">
-
-3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
-CLRS [Kapitel 3](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=65), [4.3-4.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=105) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-03-analysis.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)<br>
 
 4. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
 CLRS Einleitung von [Teil III](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=247), [Kapitel 10](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=253), [Kapitel 17.4 bis Mitte von 17.4.1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=486) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-04-introtodatastructures.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
