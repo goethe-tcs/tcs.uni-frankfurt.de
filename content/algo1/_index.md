@@ -14,6 +14,8 @@ links:
     url: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349474&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
   - name: Moodle
     url: https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919
+  - name: algo-learn
+    url: https://tcs.uni-frankfurt.de/algo-learn/
 toc: true
 layout: single
 lang: de
