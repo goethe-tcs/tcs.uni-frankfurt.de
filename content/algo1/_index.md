@@ -38,7 +38,7 @@ Der Kurs findet als *Flipped Classroom* statt, das heißt:
 
 ## Vorlesungsteam
 
-- Holger Dell (Professor)
+- Holger Dell (Professor), Sprechstunde: Dienstag, 10-11 Uhr, Raum 302, RMS 11-15.
 - Claudia Gressler (Sekretärin)
 - Leo Krull (Dozentin)
 - Anselm Haak (Dozent)
