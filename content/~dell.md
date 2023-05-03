@@ -8,8 +8,8 @@ position: |
     affiliated with <a href="https://barc.ku.dk">BARC</a>
 contact:
   - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-search": 'Room 302, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
-  - "fa chair-office": 'Office Hour: Tuesdays at 10-11am.'
+  - "fa fa-building": 'Room 302, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
+  - "fa fa-clock": 'Office Hour: Tuesdays at 10-11am.'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>uni-frankfurt.de</span>'
 photo: /images/161019-HD-quadratic.jpg
 profiles:
