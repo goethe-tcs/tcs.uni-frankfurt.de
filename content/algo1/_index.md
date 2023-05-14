@@ -74,13 +74,13 @@ CLRS Einleitung von [Teil III](https://ebookcentral.proquest.com/lib/senc/reader
 5. **Darstellung von Graphen, Breitensuche, Tiefensuche**\
 CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-05-introtographs.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf)<br>
 
+6. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten**\
+CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-06-directedgraphs.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
+
 </div>
 <div class="bg-yellow-500/10">
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier wird sich noch was ändern ↓↓↓</div>
 <div class="p-5">
-
-6. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten**\
-CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-06-directedgraphs.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
 
 7. **Prioritätswarteschlangen, Heaps**\
 CLRS [Kapitel 6](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=173) + [Appendix B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1203) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-07-priorityqueues.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
