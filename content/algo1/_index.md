@@ -80,13 +80,13 @@ CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.
 7. **Prioritätswarteschlangen, Heaps**\
 CLRS [Kapitel 6](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=173) + [Appendix B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1203) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-07-priorityqueues.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
 
+8. **Disjunkte Mengen, Union-Find**\
+CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=589) ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-08-unionfind.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
+
 </div>
 <div class="bg-yellow-500/10">
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier kann sich noch was ändern ↓↓↓</div>
 <div class="p-5">
-
-8. **Disjunkte Mengen, Union-Find**\
-CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=589) ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-08-unionfind.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
 
 9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
 E Kapitel 7 (oder CLRS [Kapitel 23](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=655)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-09-minimumspanningtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
