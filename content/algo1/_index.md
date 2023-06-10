@@ -83,16 +83,16 @@ CLRS [Kapitel 6](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=
 8. **Disjunkte Mengen, Union-Find**\
 CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=589) ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-08-unionfind.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
 
+9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
+[E Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 23](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=655)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-09-minimumspanningtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
+
 </div>
 <div class="bg-yellow-500/10">
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier kann sich noch was ändern ↓↓↓</div>
 <div class="p-5">
 
-9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
-E Kapitel 7 (oder CLRS [Kapitel 23](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=655)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-09-minimumspanningtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
-
 10. **Dijkstras Algorithmus, kürzeste Wege**\
-E Kapitel 8 ohne 8.7 (oder CLRS [Kapitel 24](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=675) außer 24.1 und 24.4) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-10-shortestpaths.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
+[E Kapitel 8 ohne 8.7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 24](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=675) außer 24.1 und 24.4) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-10-shortestpaths.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
 
 11. **Wörterbücher, Hashing**\
 CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=275) ohne 11.5 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
@@ -101,10 +101,10 @@ CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID
 CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
 13. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen**\
-E Kapitel 3 ohne 3.6 und 3.9 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
+[E Kapitel 3 ohne 3.6 und 3.9](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
 
 14. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
-E Kapitel 4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
+[E Kapitel 4](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
 
 </div>
 </div>
@@ -151,10 +151,10 @@ Nach der Veranstaltung können die Studierenden:
 
 ## Klausur
 
-Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher über das QIS-System oder über das Prüfungsamt Ihres Studiengangs anmelden!
+Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher über das QIS-System oder über das Prüfungsamt Ihres Studiengangs anmelden! Eine Anmeldung über das ALGO1-Team ist **nicht** möglich. Weitere Informationen zu den Informatikstudiengängen finden Sie auf der [entsprechenden Seite](https://www.uni-frankfurt.de/104029374/Pruefungsorganisation_und_Fristen) des Prüfungsamts Informatik.
 
-- **Klausur:** 24. Juli 2023
-- **Nachklausur:** 2. Oktober 2023
+- **Erstklausur:** 24. Juli 2023
+- **Zweitklausur:** 2. Oktober 2023
 - **Organisatorische Fragen:** E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
 Wenn Sie eine Klausur verpassen oder nicht bestehen, müssen Sie bis zur nächsten Klausur warten. Eine mündliche Prüfung ist nicht möglich.
