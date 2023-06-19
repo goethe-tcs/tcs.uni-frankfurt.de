@@ -1,8 +1,7 @@
 ---
-title: "Competetive Programming aber mit weniger Stress"
+title: "Competitive Programming aber mit weniger Stress"
 ---
-Unser Competetive Programming ist eine soziale Veranstaltung, die von der TCS-Group der Goethe-Universität Frankfurt ausgerichtet wird.
-Hier können Sie in kleinen Teams spannende Programmieraufgabe lösen und gleichgesinnte treffen.
+Bei *Competitive Programming* könnt Ihr in kleinen Teams spannende Programmieraufgaben lösen und Gleichgesinnte treffen.
 
 - **Wann?** 23.06.2023 von 15 bis 18 Uhr
 - **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024), Raum 711
@@ -13,7 +12,7 @@ Natürlich darfst du spontan entscheiden ob du vorbei kommen willst oder nicht!
 Falls **DU** es aber vor hast würden wir uns über eine unverbindliche Zusage [hier](https://dud-poll.inf.tu-dresden.de/CodingsturmImMatheturm/) freuen. Das wird nur genutzt um abzuschätzen wie viele Leute kommen und den Raum dementsprechend vorzubereiten.
 
 
-## An wen richtet sich unsere Competetive Programming Veranstaltung?
+## An wen richtet sich unsere Competitive Programming Veranstaltung?
 
 Die Veranstaltung richtet sich an alle Student:innen (von Bachelor bis PhD) mit Interesse an Competitive Programming[^Lars'sches Kommentar], wobei Algo 1 (ehemals Datenstrukturen) bestanden sein, bzw ein gewisses Expertise mit der Standard-Toolbox von Bitshift bis Tiefensuche vorliegen sollte.
 
