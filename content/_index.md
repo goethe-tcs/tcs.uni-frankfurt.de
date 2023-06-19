@@ -16,13 +16,13 @@ The group is part of the [Computer Science Department](https://www.goethe-univer
 We study *theoretical computer science*, broadly understood. Our areas of interest include complexity theory, algebraic graph algorithms, dynamic algorithms, graph neural networks, logics, integer linear programming, and combinatorics.
 [Read more...](/research/)
 
+## Events
+
+- [Competitive Coding](/events/2023_06_competitive_coding): Interested students (B.Sc./M.Sc./Ph.D.) are invited to join this team-based fun activity **on June 23, 2023 from 15h00 to 18h00** in room 711 of the [Matheturm](https://www.openstreetmap.org/way/30119024).
+
 ## Teaching in Summer 2023
 
 {{% courses-in-semester "Summer 2023" %}}
-
-## Events
-
-- A fun [Competitive Coding](/events/2023_06_competitive_coding) event takes place **on June 23, 2023 from 15h00 to 18h00** in room 711 of the [Matheturm](https://www.openstreetmap.org/way/30119024).
 
 ## Past Events
 
