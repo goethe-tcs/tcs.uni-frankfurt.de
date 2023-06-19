@@ -6,6 +6,7 @@ Hier können Sie in kleinen Teams spannende Programmieraufgabe lösen und gleich
 
 - **Wann?** 23.06.2023 von 15 bis 18 Uhr
 - **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024), Raum 711
+- **Wie?** Auf [Kattis](https://uni-frankfurt.kattis.com/courses/BembelCoding) werden die Programmieraufgaben gehostet.
 - **Kontakt**: bembel-coding \[Klammeraffe\]  dlist.server.uni-frankfurt.de
 
 Natürlich darfst du spontan entscheiden ob du vorbei kommen willst oder nicht!
