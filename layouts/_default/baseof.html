@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ if .Params.lang }}{{ .Params.lang }}{{ else }}en{{ end }}">
   <head>
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="referrer" content="no-referrer" />
     <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
     <meta name="author" content="{{ .Site.Params.author }}" />
     <meta
@@ -50,19 +48,37 @@
           </a>
         </nav>
         <nav>
-          <div class="p-2 group relative flex flex-col text-center justify-center items-center hover:bg-[var(--color-navbar-bg-hover)]">
-          <a class="w-max" href="/research/">
-            <i class="fas fa-flask"></i>
-            <div class="text-xs">Research</div>
-          </a></div>
-          <div class="p-2 group relative flex flex-col text-center justify-center hover:bg-[var(--color-navbar-bg-hover)]">
+          <div
+            class="group relative flex flex-col items-center justify-center p-2 text-center hover:bg-[var(--color-navbar-bg-hover)]"
+          >
+            <a class="w-max" href="/research/">
+              <i class="fas fa-flask"></i>
+              <div class="text-xs">Research</div>
+            </a>
+          </div>
+          <div
+            class="group relative flex flex-col justify-center p-2 text-center hover:bg-[var(--color-navbar-bg-hover)]"
+          >
             <a class="w-max" href="/teaching/">
-            <i class="fas fa-chalkboard-teacher"></i>
-            <div class="text-xs">Teaching</div></a>
-            <div class="hidden absolute right-0 top-full text-center items-stretch z-50 min-h-full w-max flex-col place-items-center bg-inherit focus:outline-none group-hover:flex">
-              <a href="/algo1/" class="plain hover:bg-black/10 p-2 no-underline">ALGO1</a>
-              <a href="/projects/" class="plain text-white hover:bg-black/10 p-2 no-underline">Thesis &amp; Projects</a>
-              <a href="/teaching/" class="plain block text-white hover:bg-black/10 p-2 no-underline">Past Courses</a>
+              <i class="fas fa-chalkboard-teacher"></i>
+              <div class="text-xs">Teaching</div></a
+            >
+            <div
+              class="absolute right-0 top-full z-50 hidden min-h-full w-max flex-col place-items-center items-stretch bg-inherit text-center focus:outline-none group-hover:flex"
+            >
+              <a href="/algo1/" class="plain p-2 no-underline hover:bg-black/10"
+                >ALGO1</a
+              >
+              <a
+                href="/projects/"
+                class="plain p-2 text-white no-underline hover:bg-black/10"
+                >Thesis &amp; Projects</a
+              >
+              <a
+                href="/teaching/"
+                class="plain block p-2 text-white no-underline hover:bg-black/10"
+                >Past Courses</a
+              >
             </div>
           </div>
         </nav>
