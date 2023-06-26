@@ -89,11 +89,14 @@ CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID
 10. **Dijkstras Algorithmus, kürzeste Wege**\
 [E Kapitel 8 ohne 8.7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 24](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=675) außer 24.1 und 24.4) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-10-shortestpaths.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
 
+11. **Wörterbücher, Hashing**\
+CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=275) ohne 11.5 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
+
 </div>
 <div class="bg-yellow-500/10 p-5">
 
-11. **Wörterbücher, Hashing**\
-CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=275) ohne 11.5 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
+12. **Traversierung, binäre Suchbäume, AVL-Bäume**\
+CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
 </div>
 <div class="p-5">
@@ -103,9 +106,6 @@ CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier kann sich noch was ändern ↓↓↓</div>
 <div class="p-5">
 -->
-
-12. **Traversierung, binäre Suchbäume, AVL-Bäume**\
-CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
 13. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen**\
 [E Kapitel 3 ohne 3.6 und 3.9](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>

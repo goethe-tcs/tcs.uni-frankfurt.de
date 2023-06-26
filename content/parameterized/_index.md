@@ -10,6 +10,9 @@ kürzel:
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=301071&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
+aliases:
+  - "/parameterized"
+  - "/parameterized/"
 ---
 
 ## Inhalt

@@ -7,7 +7,8 @@
   "license": "GPL-3.0-or-later",
   "scripts": {
     "build": "$npm_execpath run tw:build && $npm_execpath run hugo:build",
-    "start": "$npm_execpath run tw:build && $npm_execpath run concurrently --kill-others npm:tw:watch npm:hugo:serve",
+    "start": "$npm_execpath run dev",
+    "dev": "$npm_execpath run tw:build && $npm_execpath run concurrently --kill-others npm:tw:watch npm:hugo:serve",
     "serve": "$npm_execpath run start",
     "tw:watch": "tailwindcss --postcss -i src/css/main.css -o assets/dist/style.css --watch",
     "tw:build": "tailwindcss --postcss -i src/css/main.css -o assets/dist/style.css --minify",
