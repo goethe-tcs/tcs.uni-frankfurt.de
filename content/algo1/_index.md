@@ -95,25 +95,24 @@ CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID
 12. **Traversierung, binäre Suchbäume, AVL-Bäume**\
 CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
 
-</div>
-<div class="bg-yellow-500/10 p-5">
-
 13. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen**\
 [E Kapitel 3 ohne 3.6 und 3.9](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
+<!-- 
+</div>
+<div class="bg-yellow-500/10 p-5"> -->
+
+14. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
+[E Kapitel 4](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
 
 </div>
-<div class="p-5">
+<!-- <div class="p-5"> -->
 <!--
 </div>
 <div class="bg-yellow-500/10">
 <div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier kann sich noch was ändern ↓↓↓</div>
 <div class="p-5">
 -->
-
-14. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
-[E Kapitel 4](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
-
-</div>
+<!-- </div> -->
 </div>
 
 ## Lernziele
