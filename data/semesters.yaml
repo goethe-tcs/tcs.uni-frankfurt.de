@@ -1,10 +1,12 @@
-- name: Winter 2023/24 (future semester)
+- name: Winter 2023/24
+  start: 2023-10-01
   courses:
   - url: /algo2/
     img: /algo2/pnp.svg
     name: Algorithmen und Datenstrukturen 2
     desc: Course
 - name: Summer 2023
+  start: 2023-04-01
   courses:
   - url: /algo1/
     img: /algo1/doors169-small.jpg
@@ -19,6 +21,7 @@
     name: PACE challenge
     desc: Participate in a fun, group-based implementation challenge!
 - name: Winter 2022/23
+  start: 2022-10-01
   courses:
   - url: /seminar/homomorphisms/
     img: /images/graph_homomorphism_C5.svg
@@ -28,6 +31,7 @@
     desc: Seminar
     loc: Di 12-14, H5
 - name: Summer 2022
+  start: 2022-04-01
   courses:
   - url: /complexity/
     img: /complexity/AB-cover-169.jpg
@@ -40,6 +44,7 @@
     desc: Seminar
     loc: Di 8-10, H9
 - name: Winter 2021/22
+  start: 2021-10-01
   courses:
   - url: /algo2/2021
     img: /algo2/pnp.svg
@@ -54,6 +59,7 @@
     name: PACE challenge
     desc: Participate in a fun, group-based implementation challenge!
 - name: Summer 2021
+  start: 2021-04-01
   courses:
   - url: /algo1/2021/
     img: /algo1/doors169-small.jpg
@@ -64,6 +70,7 @@
     name: "Recent breakthroughs in TCS"
     desc: Seminar
 - name: Winter 2020/21
+  start: 2020-10-01
   courses:
   - url: /parameterized/
     name: Fine-grained Parameterized Algorithms

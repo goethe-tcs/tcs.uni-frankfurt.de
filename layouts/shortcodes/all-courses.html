@@ -1,6 +1,6 @@
 {{ range $.Site.Data.semesters }}
 
-## {{ .name }}
+## {{ .name }}{{ if ge (sub (.start | time.AsTime).Unix now.Unix) 5270400 }} (Future Semester){{ end }}
 
 {{ partial "course-list.html" . }}
 {{ end }}
