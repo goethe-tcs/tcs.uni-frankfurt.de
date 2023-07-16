@@ -9,6 +9,9 @@ on:
     branches: [master]
   pull_request:
     branches: [master]
+  schedule:
+    - cron: "0 3 * * 1" # Also run this action every Monday at 3am UTC
+
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

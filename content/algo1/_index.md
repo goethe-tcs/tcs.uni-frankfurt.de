@@ -19,6 +19,134 @@ links:
 toc: true
 layout: single
 lang: de
+schedule:
+  - name: "Vorbereitung"
+    weekstart: "2023-04-03"
+    links:
+      - "[Übungen zur eigenständigen Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-00-prerequisites.pdf)"
+      - "[Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)"
+  - name: "Einführung und Peaks"
+    weekstart: "2023-04-10"
+    links:
+      - "CLRS [Kapitel 1 in Teil I](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf)"
+      - "[📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)"
+  - name: "Suchen und Sortieren"
+    weekstart: "2023-04-17"
+    links:
+      - "CLRS [Kapitel 2](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=37)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-02-searchingandsorting.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf)"
+      - "[Plenum](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-02-Plenum-Donnerstag.pdf)"
+  - name: "Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem"
+    weekstart: "2023-04-24"
+    links:
+      - "CLRS [Kapitel 3](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=65), [4.3-4.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=105)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-03-analysis.pdf)"
+      - "[📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)"
+  - name: "Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume"
+    weekstart: "2023-05-01"
+    links:
+      - "CLRS Einleitung von [Teil III](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=247), [Kapitel 10](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=253), [Kapitel 17.4 bis Mitte von 17.4.1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=486)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-04-introtodatastructures.pdf)"
+      - "[📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)"
+  - name: "Darstellung von Graphen, Breitensuche, Tiefensuche"
+    weekstart: "2023-05-08"
+    links:
+      - "CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-05-introtographs.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf)"
+  - name: "Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten"
+    weekstart: "2023-05-15"
+    links:
+      - "CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-06-directedgraphs.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)"
+  - name: "Prioritätswarteschlangen, Heaps"
+    weekstart: "2023-05-22"
+    links:
+      - "CLRS [Kapitel 6](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=173) + [Appendix B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1203)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-07-priorityqueues.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)"
+  - name: "Disjunkte Mengen, Union-Find"
+    weekstart: "2023-05-29"
+    links:
+      - "CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=589) ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf))"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-08-unionfind.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)"
+  - name: "Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus"
+    weekstart: "2023-06-05"
+    links:
+      - "[E Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 23](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=655))"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-09-minimumspanningtrees.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)"
+  - name: "Dijkstras Algorithmus, kürzeste Wege"
+    weekstart: "2023-06-12"
+    links:
+      - "[E Kapitel 8 ohne 8.7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 24](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=675) außer 24.1 und 24.4)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-10-shortestpaths.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)" 
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)"
+  - name: "Wörterbücher, Hashing"
+    weekstart: "2023-06-19"
+    links:
+      - "CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=275) ohne 11.5"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-11-hashing.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf)"
+      - "[cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)"
+  - name: "Traversierung, binäre Suchbäume, AVL-Bäume"
+    weekstart: "2023-06-26"
+    links:
+      - "CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)"
+  - name: "Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen"
+    weekstart: "2023-07-03"
+    links:
+      - "[E Kapitel 3 ohne 3.6 und 3.9](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4)"
+      - "[📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4)"
+      - "[📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)"
+  - name: "Greedy-Algorithmen, Scheduling, Huffman-Codierungen"
+    weekstart: "2023-07-10"
+    links:
+      - "[E Kapitel 4](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4)"
+      - "[📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4)"
+      - "[📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)"
 ---
 
 ## Organisatorisches
@@ -53,67 +181,7 @@ Der Kurs findet als *Flipped Classroom* statt, das heißt:
 
 Die Veranstaltung dauert 14 Wochen:
 
-<div class="border-4 border-indigo-500 bg-gray-200 dark:bg-gray-800">
-<div class="p-5">
-
-0. **Vorbereitung**\
-[Übungen zur eigenständigen Vorbereitung auf ALGO1](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-00-prerequisites.pdf) · [Organisationsfolien](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-00-Organisation-2023.pdf)
-
-1. **Einführung und Peaks**\
-CLRS [Kapitel 1 in Teil I](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=25) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-01-introduction.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introduction.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introduction.pdf)<br>
-
-2. **Suchen und Sortieren**\
-CLRS [Kapitel 2](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=37) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-02-searchingandsorting.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/searching.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/sorting.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/searchingandsorting.pdf) · [Plenum](https://files.tcs.uni-frankfurt.de/algo1/2023/ALGO1-02-Plenum-Donnerstag.pdf)<br>
-
-3. **Analyse von Algorithmen, Asymptotische Notation, Rekursionsgleichungen, Mastertheorem**\
-CLRS [Kapitel 3](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=65), [4.3-4.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=105) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-03-analysis.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/analysis.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/analysis.pdf)<br>
-
-4. **Elementare Datenstrukturen: Stapel, Warteschlangen, Verkettete Listen, Bäume**\
-CLRS Einleitung von [Teil III](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=247), [Kapitel 10](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=253), [Kapitel 17.4 bis Mitte von 17.4.1](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=486) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-04-introtodatastructures.pdf) · [📽️](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtodatastructures.pdf)<br>
-
-5. **Darstellung von Graphen, Breitensuche, Tiefensuche**\
-CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-05-introtographs.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/introtographs1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/introtographs2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/introtographs3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/introtographs.pdf)<br>
-
-6. **Gerichtete Graphen, Suche, Topologisches Sortieren, Starke Zusammenhangskomponenten**\
-CLRS Einleitung von [Teil VI](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=379) + [Kapitel 22.1-22.4](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=619) + [Appendix B.4-B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1198) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-06-directedgraphs.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/directedgraphs.pdf)<br>
-
-7. **Prioritätswarteschlangen, Heaps**\
-CLRS [Kapitel 6](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=173) + [Appendix B.5](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=1203) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-07-priorityqueues.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-2.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues-3.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/priorityqueues.pdf)<br>
-
-8. **Disjunkte Mengen, Union-Find**\
-CLRS [Kapitel 21](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=589) ohne 21.4 (oder [Algorithms 4ed. Kapitel 1.5](https://www2.compute.dtu.dk/courses/02105/2021/materials/Algs4edUnionFind.pdf)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-08-unionfind.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/unionfind-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/unionfind-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/unionfind.pdf)<br>
-
-9. **Minimale Spannbäume: Jarník–Prims Algorithmus, Kruskals Algorithmus**\
-[E Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 23](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=655)) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-09-minimumspanningtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-prim.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees-kruskal.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/minimumspanningtrees.pdf)<br>
-
-10. **Dijkstras Algorithmus, kürzeste Wege**\
-[E Kapitel 8 ohne 8.7](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (oder CLRS [Kapitel 24](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=675) außer 24.1 und 24.4) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-10-shortestpaths.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-properties.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-dijkstra.mp4)  · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths-DAGs.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/shortestpaths.pdf)<br>
-
-11. **Wörterbücher, Hashing**\
-CLRS [Kapitel 11](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=275) ohne 11.5 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-11-hashing.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/hashing-1.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/hashing-2.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/hashing.pdf) · [cuckoo hashing](https://www.itu.dk/people/pagh/papers/cuckoo-undergrad.pdf)<br>
-
-12. **Traversierung, binäre Suchbäume, AVL-Bäume**\
-CLRS [Kapitel 12](https://ebookcentral.proquest.com/lib/senc/reader.action?docID=4822097&ppg=309) ohne 12.4 · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-12-binarysearchtrees.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-avl.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees-algorithms-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/binarysearchtrees.pdf)<br>
-
-13. **Dynamische Programmierung, Fibonacci, längste gemeinsame DNA-Teilsequenz, Teilmengensumme, DP auf Bäumen**\
-[E Kapitel 3 ohne 3.6 und 3.9](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-13-dynamicprogramming.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-fibonacci.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-words.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-editdistance.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-subsetsum.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming-MIS-on-trees.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/dynamicprogramming.pdf)<br>
-<!-- 
-</div>
-<div class="bg-yellow-500/10 p-5"> -->
-
-14. **Greedy-Algorithmen, Scheduling, Huffman-Codierungen**\
-[E Kapitel 4](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) · [Übungsblatt](https://goethe-tcs.github.io/algo1-exercises/ALGO1-Blatt-14-greedyalgorithms.pdf) · [📽️1](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-intro.mp4) · [📽️2](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-tapes.mp4) · [📽️3](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-scheduling.mp4) · [📽️4](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-huffman.mp4) · [📽️5](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms-stablematching.mp4) · [Folien](https://files.tcs.uni-frankfurt.de/algo1/greedyalgorithms.pdf)<br>
-
-</div>
-<!-- <div class="p-5"> -->
-<!--
-</div>
-<div class="bg-yellow-500/10">
-<div class="text-indigo-500 m-auto max-w-max font-bold uppercase text-xs">↓↓↓ Entwurf! Hier kann sich noch was ändern ↓↓↓</div>
-<div class="p-5">
--->
-<!-- </div> -->
-</div>
+{{< weekplan >}}
 
 ## Lernziele
 
@@ -137,9 +205,9 @@ Nach der Veranstaltung können die Studierenden:
 ## Verwandte Vorlesungen
 
 - ALGO1 an der Goethe Universität:
-  - [SoSe-2022](https://algo.cs.uni-frankfurt.de/lehre/algo1/sommer22/algo122.php) (Prof. Hoefer) mit [Vorlesungsmitschnitten](https://video01.uni-frankfurt.de/Mediasite/Channel/hoefer-algorithmenunddatenstrukturen/browse/null/most-recent/null/0/null)
-  - [SoSe-2021](https://tcs.uni-frankfurt.de/algo1/2021) (Prof. Dell) mit Videos
-  - [SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) mit [Vorlesungsmitschnitten](https://ae.cs.uni-frankfurt.de/videos/algo120.html)
+  - "[SoSe-2022](https://algo.cs.uni-frankfurt.de/lehre/algo1/sommer22/algo122.php) (Prof. Hoefer) mit [Vorlesungsmitschnitten](https://video01.uni-frankfurt.de/Mediasite/Channel/hoefer-algorithmenunddatenstrukturen/browse/null/most-recent/null/0/null)"
+  - "[SoSe-2021](https://tcs.uni-frankfurt.de/algo1/2021) (Prof. Dell)" mit Videos
+  - "[SoSe-2020](https://ae.cs.uni-frankfurt.de/algo120) (Prof. Meyer) mit [Vorlesungsmitschnitten](https://ae.cs.uni-frankfurt.de/videos/algo120.html)"
 - Vorbild für diese Vorlesung war eine [Lockdown-Vorlesung von Philip Bille und Inge Li Gørtz](https://www2.compute.dtu.dk/courses/02105/2021/) an der DTU Kopenhagen. *Mange tak Philip og Inge!*
 - Weitere exzellente Videoaufzeichnungen zu denselben Themen finden Sie auf [MIT Open Courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/).
 - Vorsemesterkurs Informatik (Einführung in Python) im [WiSe-2021](https://www-stud.informatik.uni-frankfurt.de/~lz_inf/Vorkurs/WS2021/webseite.html).
