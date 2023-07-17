@@ -242,7 +242,11 @@ Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher �
 
 - **Erstklausur:** 24. Juli 2023
 - **Zweitklausur:** 2. Oktober 2023
-- **Organisatorische Fragen:** E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
+- **Organisatorische Fragen:**
+  - *"Welche Hilfstmittel sind erlaubt?"* 1 handbeschriebenes DIN-A4-Blatt darf mitgebracht werden.
+  - *"Wie melde ich mich an?"* Nur über Ihr Prüfungsamt. Lehramt über Lehramt-Prüfungsamt, Informatik über Informatik-Prüfungsamt, etc.
+  - *"I am an Erasmus student or a doctoral student..."* The written exam will be provided bilingually by default. Please register at [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) in case you want to take the exam.
+  - Bei sonstigen Anliegen wenden Sie sich an das ALGO1-Team unter [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle).
 
 Wenn Sie eine Klausur verpassen oder nicht bestehen, müssen Sie bis zur nächsten Klausur warten. Eine mündliche Prüfung ist nicht möglich.
 
