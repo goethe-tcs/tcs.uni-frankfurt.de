@@ -42,7 +42,7 @@ header .tcs-logo-long {
   display: none;
 }
 
-@media (min-width: $medium) {
+@media (min-width: $small) {
   header .fas {
     font-size: var(--font-size-medium);
   }

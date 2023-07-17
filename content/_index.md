@@ -21,5 +21,5 @@ We study *theoretical computer science*, broadly understood. Our areas of intere
 
 ## Past Events
 
-- [Competitive Coding](/events/2023_06_competitive_coding): Interested students (B.Sc./M.Sc./Ph.D.) are invited to join this team-based fun activity **on June 23, 2023 from 15h00 to 18h00** in room 711 of the [Matheturm](https://www.openstreetmap.org/way/30119024).
+- [Competitive Coding](/events/2023_06_competitive_coding): Interested students (B.Sc./M.Sc./Ph.D.) are invited to join this team-based fun activity on June 23, 2023 from 15h00 to 18h00 in room 711 of the [Matheturm](https://www.openstreetmap.org/way/30119024).
 - The [82th Workshop on Algorithms and Complexity (Theorietag)](/tt-82/) took place on June 8-9, 2022 in Frankfurt.
