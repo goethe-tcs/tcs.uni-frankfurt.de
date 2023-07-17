@@ -16,6 +16,35 @@ links:
     url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241"
 toc: yes
 layout: single
+lang: de
+schedule:
+  - title: Einführung und All-Pairs Shortest Paths
+  - title: Network Flow I
+    subtitle: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+  - title: Network Flow II
+    subtitle: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+  - title: Amortisierte Analyse
+    subtitle: Dynamische Tabellen, MultiPop Stacks, Splay Trees
+  - title: Randomisierte Algorithmen I
+    subtitle: Contention resolution, Minimum cut
+  - title: Randomisierte Algorithmen II
+    subtitle: Selection, Quicksort
+  - title: Hartnäckigkeit I
+    subtitle: Sprachen, Polynomialzeitreduktionen
+  - title: Hartnäckigkeit II
+    subtitle: P, NP, NP-Vollständigkeit
+  - title: Recap I
+  - title: Berechnungsmodelle
+    subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
+  - title: Berechenbarkeit
+    subtitle: Halteproblem, Satz von Rice
+  - title: Lineare Programmierung I
+    subtitle: Konvexität, Polytope, Simplex-Algorithmus
+  - title: Lineare Programmierung II
+    subtitle: Dualität, Integrale Lineare Programmierung
+  - title: Algorithmen für NP-schwere Probleme
+    subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
+  - title: Recap II
 ---
 
 ## Übersicht
@@ -39,38 +68,9 @@ layout: single
 
 ## Wochenplan
 
-Die Veranstaltung dauert 15 Wochen, die Pläne sind vorläufig<!-- (🔥 = aktuelle Woche)-->:
-<!-- Literatur · 📽️ · Folien · Übungen -->
-  
-1. **Einführung und All-Pairs Shortest Paths**
+Die Veranstaltung dauert 15 Wochen:
 
-2. **Network Flow I:** Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
-
-3. **Network Flow II:** scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
-
-4. **Amortisierte Analyse:** Dynamische Tabellen, MultiPop Stacks, Splay Trees
-
-5. **Randomisierte Algorithmen I:** Contention resolution, Minimum cut
-
-6. **Randomisierte Algorithmen II:** Selection, Quicksort
-
-7. **Hartnäckigkeit I:** Sprachen, Polynomialzeitreduktionen
-
-8. **Hartnäckigkeit II:** P, NP, NP-Vollständigkeit
-
-9. **Recap I**
-
-10. **Berechnungsmodelle:** Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
-
-11. **Berechenbarkeit:** Halteproblem, Satz von Rice
-
-12. **Lineare Programmierung I:** Konvexität, Polytope, Simplex-Algorithmus
-  
-13. **Lineare Programmierung II:** Dualität, Integrale Lineare Programmierung
-
-14. **Algorithmen für NP-schwere Probleme:** Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
-
-15. **Recap II**
+{{< weekplan >}}
 
 ## Literatur
 

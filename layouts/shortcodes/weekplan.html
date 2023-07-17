@@ -1,36 +1,59 @@
 <ul class="-m-2 p-0 sm:m-0">
-  {{ range $number,$week := $.Page.Params.schedule -}}
-    {{- $weekstart := $week.weekstart | time.AsTime -}}
-    {{- $weekend := add ($week.weekstart | time.AsTime).Unix 388800 | time.AsTime -}}
-    {{- $currentWeek := and (le $weekstart.Unix now.Unix) (ge (add $weekstart.Unix 604800) now.Unix) -}}
+  {{- $number := 0 -}}
+  {{ range $week := $.Page.Params.schedule -}}
+    {{- $number = add $number 1 -}}
+    {{- if isset $week "number" -}}
+      {{- $number = $week.number -}}
+    {{- end -}}
+    {{- $currentWeek := 0 -}}
+    {{- $weekstart := 0 -}}
+    {{- $weekend := 0 -}}
+    {{- if $week.weekstart -}}
+      {{- $weekstart = $week.weekstart | time.AsTime -}}
+      {{- $weekend = add $weekstart.Unix 388800 | time.AsTime -}}
+      {{- $currentWeek = and (le $weekstart.Unix now.Unix) (ge (add $weekstart.Unix 604800) now.Unix) -}}
+    {{- end -}}
     <li
       class="{{ if $currentWeek }}
         border-indigo-500 border-4
       {{ end }} m-0 list-none bg-gray-200 p-4 odd:bg-gray-100 dark:bg-gray-800 odd:dark:bg-gray-900"
     >
-    <!-- <div class="place-self-start w-full bg-red-100 flex flex-nowrap">
+      <!-- <div class="place-self-start w-full bg-red-100 flex flex-nowrap">
     <div class="font-mono shrink-0 h-12 w-12 font-bold px-1 flex place-content-center place-items-center bg-black text-white">
       <div>{{ $number }}</div>
     </div>
     <div class="font-bold p-2">{{ $week.name }}</div>
   </div> -->
-      <span class="font-sans w-min px-1 aspect-square content-center bg-black text-white dark:bg-white dark:text-black">{{ $number }}</span>
-      <strong>{{ $week.name }}</strong>
-      <span class="font-sans text-xs text-gray-500">
-        {{- if eq $.Page.Params.lang "de" -}}
-          {{ $weekstart.Day }}.
-          {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) -}}
-          - {{ $weekend.Day }}.
-          {{ index $.Site.Data.monat (printf "%d" $weekend.Month) }}
-        {{- else -}}
-          {{- $weekstart | time.Format "2. January" }}
-          -
-          {{ (add $weekstart.Unix 388800) | time.AsTime | time.Format "2. January" }}
-        {{- end -}}
-      </span>
-      <br />
-      {{- range $index,$link := $week.links -}}
-        {{- if $index }}<span class="font-bold px-1">·</span>{{ end -}}{{- $link | markdownify -}}
+
+      {{- if $weekstart -}}
+        <span class="block font-sans text-xs text-gray-500">
+          {{- if eq $.Page.Params.lang "de" -}}
+            {{ $weekstart.Day }}.
+            {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) -}}
+            - {{ $weekend.Day }}.
+            {{ index $.Site.Data.monat (printf "%d" $weekend.Month) }}
+          {{- else -}}
+            {{- $weekstart | time.Format "2. January" }}
+            -
+            {{ (add $weekstart.Unix 388800) | time.AsTime | time.Format "2. January" }}
+          {{- end -}}
+        </span>
+      {{- end -}}
+      <span
+        class="aspect-square w-min content-center bg-black px-1 font-sans text-white dark:bg-white dark:text-black"
+        >{{ $number }}</span
+      >
+      <strong>{{ $week.title }}{{ if $week.subtitle }}:{{ end }}</strong>
+      {{ with $week.subtitle }}{{ . }}{{ end }}
+
+      {{- with $week.links -}}
+      <div class="pt-2">
+      {{- range $index,$link := . -}}
+        {{- if $index }}
+          <span class="px-1 font-bold">·</span>
+        {{ end -}}{{- $link | markdownify -}}
+      {{- end -}}
+      </div>
       {{- end -}}
     </li>
   {{ end }}
