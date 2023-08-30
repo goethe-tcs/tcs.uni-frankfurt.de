@@ -3,17 +3,17 @@ title: "Algorithmen und Datenstrukturen 2"
 ects: "8"
 sws: "3V, 2Ü"
 aliases:
-  - "/algo2/2023"
+  - "/algo2/2021"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"
     veranstaltung: "ALGO2"
-semester: "WiSe-2023/24"
+semester: "WiSe-2021/22"
 links:
   - name: QIS
-    url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=359273&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-  # - name: Moodle
-  #   url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241"
+    url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=321520&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+  - name: Moodle
+    url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241"
 toc: yes
 layout: single
 lang: de
@@ -47,22 +47,24 @@ schedule:
   - title: Recap II
 ---
 
-## Organisatorisches
+## Übersicht
 
-- **Termine.** Dienstag und Donnerstag, 08:15-09:30, H VI (Hörsaaltrakt Bockenheim).
-- **Erste Veranstaltung:** Dienstag, 17.10.2023, 8-10 Uhr, H VI (Hörsaaltrakt Bockenheim).
-- **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
-- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
-<!-- - **Anmeldung zu den Übungsgruppen:** Auf dem [Anmeldesystem AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=179)
-- **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919). -->
+<!--
+- **Präsenztermine.** (Zutritt nur mit offiziellem 3G-Nachweis und Lichtbildausweis.)
+  - Di 08:00–09:45 s.t., Bockenheim Hörsaal VI.
+  - Do 08:00–09:45 s.t., Bockenheim Hörsaal IV (und ggf. Hörsaal III).
+-->
+<!--- **Chat.** Im [Discordserver des Lernzentrums](https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/8206712847?5) ist fast jederzeit ein:e Tutor:in erreichbar.-->
 
-## Vorlesungskonzept
-
-Der Kurs findet als *Flipped Classroom* statt, das heißt:
-
-- **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
-- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
-- **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Diskussionen, Präsenzübungen, Lösungsspaziergänge und individuelle Betreuung. (Einzelne Tutorien oder Helpdesks werden möglicherweise online stattfinden.)
+- Ab sofort finden die Veranstaltungen Di/Do 8:00-9:45 **vollständig online** statt:
+  - Der Zoom-Link hat die Meeting-ID [**966 9678 8856**](https://uni-frankfurt.zoom.us/j/96696788856?pwd=ZG9OMFkzOUh1eGdtUXB2bWluMjlyZz09) und den Passcode 004040. Bei schlechter Internetverbindung kann man sich auch telefonisch einwählen unter der Nummer `+49 69 3807 9883`.
+  - Zeiten:
+    - **8:00-8:15 auf Zoom.** Besprechung, Tipps, Überblick, Einordnung, Beispiele.
+    - **8:15-9:15 auf Discord.** Die Tutor:innen sind auf Discord verfügbar! Arbeiten Sie dort in Gruppen und rufen Sie die Tutor:innen!
+    - **9:15-9:45 auf Zoom.** Lösungsspaziergang. (Sie dürfen *keine Screenshots oder Mitschnitte* machen, weitergeben oder empfangen!)
+  - Die Helpdesks finden weiterhin als Mix zwischen Online und Präsenz statt.
+- **Moodle.** Die meisten Lernangebote und Informationen finden sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).
+- **Bei wichtigen Fragen:** Sie erreichen den _senior staff_ unter [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de) (nicht: dell@ oder moodle)
 
 ## Wochenplan
 
@@ -100,19 +102,28 @@ Außerdem können die Studierenden:
 - **Hartnäckigkeit:** Reduktionen, P und NP, NP-Vollständigkeit, Berechenbarkeit
 - **Vertiefungsgebiete**, die in der Frankfurter Theorie vertreten sind: Approximationsalgorithmen, Parametrisierte Algorithmen, und weitere.
 
+## Allgemeines
+
+- **Kursformat.**
+  - Präsenzelemente: Betreute Gruppenarbeit, Lösungsspaziergänge, Besprechungen im Plenum.
+  - Online-Elemente: Videos, Folien, Literatur, Übungsblätter, ⭐-Aufgaben, 🌱-Aufgaben, Chat, Helpdesk, individuelles Feedback auf ⭐-Aufgaben.
+- **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
+- **Anmeldung.** Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241) an.<!-- und in [AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=113) an. In AUGE müssen Sie dreimal denselben Termin angeben. --> Eine Anmeldung per E-Mail ist *nicht* nötig! Auch die Anmeldung zur Klausur erfolgt nur über QIS oder das Prüfungsamt.
+- **E-Mail.** Nur bei organisatorischen Anliegen (Nachteilsausgleich, Prüfungsvarianten, etc.): E-Mail an [algo221@uni-frankfurt.de](mailto:algo221@uni-frankfurt.de).
+
 ## Vorlesungsteam
 
 - Holger Dell (Professor)
 - Claudia Gressler (Sekretärin)
+- Leo Krull (Dozentin)
 - Anselm Haak (Dozent)
 - Tutor:innen
 
-
 ## Klausur
 
-- **Erstklausur:** 13.02.2024
-- **Zweitklausur:** 26.03.2024
-<!-- - **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).** -->
+- **Klausur:** 22.02.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-klausur-solutions.pdf)
+- **Nachklausur:** 05.04.2022 · [Klausuraufgaben](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur.pdf) · [Musterlösung](https://files.tcs.uni-frankfurt.de/algo2/ALGO221-nachklausur-solutions.pdf)
+- **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).**
 
 
 ## Ähnliche Kurse

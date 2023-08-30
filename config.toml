@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 enableGitInfo = true
 
 title = "goethe-tcs"
