@@ -5,6 +5,14 @@
     img: /algo2/pnp.svg
     name: Algorithmen und Datenstrukturen 2
     desc: Course
+  - url: /wcfd/
+    img: /wcfd/wcfd-169.png
+    name: Will Code for Drinks
+    desc: Ein soziales Ereignis am **10. November 2023** von 16 bis 19 Uhr im Matheturm (Raum 711)
+  - url: /projects/
+    img: /images/blackboard.jpg
+    name: Thesis / Project
+    desc: Apply by **April 1** or **October 1** for a thesis or research project.
 - name: Summer 2023
   start: 2023-04-01
   courses:
@@ -12,10 +20,6 @@
     img: /algo1/doors169-small.jpg
     name: Algorithmen und Datenstrukturen 1
     desc: Course
-  - url: /projects/
-    img: /images/blackboard.jpg
-    name: Thesis / Project
-    desc: Apply by April 1 or October 1 for a thesis or research project.
   - url: /pace/
     img: /pace/turtle-169.svg
     name: PACE challenge
