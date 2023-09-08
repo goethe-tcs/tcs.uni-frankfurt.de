@@ -55,4 +55,4 @@ Du kannst spontan und ohne Vorbereitung kommen, aber:
 - Die Veranstaltung dauert drei Stunden und es gibt ein halbes Dutzend Probleme.
 - Ein Freigetränk pro gelöstem Problem pro Person, maximal drei Getränke pro Person.
 - Es werden ca. 20 Programmiersprachen unterstützt, darunter Java, Python, JavaScript und verschiedene C-Dialekte. Siehe die [Kattis-Sprachenübersicht](https://open.kattis.com/help) für die vollständige Liste. Die Problemstellungen werden auf Englisch und Deutsch angeboten.
-- Eine vorherige Anmeldung ist [hier](https://nuudel.digitalcourage.de/JwNZUPKaXGNmuMOJ) möglich, aber nicht erforderlich. Erstelle dein Team unter <wcfd23.kattis.com> vor oder nach Beginn der Veranstaltung. Gerne helfen wir dir ab 15:45 Uhr auch dabei. Du kannst anonym teilnehmen. Kreative Team-Namen sind erwünscht!
+- Eine vorherige Anmeldung ist [hier](https://nuudel.digitalcourage.de/JwNZUPKaXGNmuMOJ) möglich, aber nicht erforderlich. Erstelle dein Team unter [wcfd23.kattis.com](https://wcfd23.kattis.com) vor oder nach Beginn der Veranstaltung. Gerne helfen wir dir ab 15:45 Uhr auch dabei. Du kannst anonym teilnehmen. Kreative Team-Namen sind erwünscht!
