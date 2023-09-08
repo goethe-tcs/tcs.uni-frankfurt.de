@@ -1,5 +1,5 @@
 ---
-title: "Will Code for Drinks"
+title: "Bembel-Coding — Will Code for Drinks"
 # aliases:
 #   - "/events/wcfd/2023"
 #   - "/wcfd/2023"
