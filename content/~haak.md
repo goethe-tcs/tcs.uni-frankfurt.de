@@ -7,7 +7,7 @@ contact:
   - "fa fa-phone": '+49-69-798-28324'
   - "fa fa-search": 'Room 303, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
   - "fa fa-envelope": 'an<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
-photo: /images/haak.jpg
+photo: /images/haak_sqr.jpg
 profiles:
   - "ai ai-dblp": "[DBLP](https://dblp.org/pers/h/Haak:Anselm)"
   - "ai ai-google-scholar": "[Google Scholar](https://scholar.google.com/citations?user=yMUGy6UAAAAJ)"
