@@ -5,7 +5,7 @@ title: "Bembel-Coding — Will Code for Drinks"
 #   - "/wcfd/2023"
 #   - "/wcfd"
 ---
-*Will Code for Drinks* (zu deutsch etwa: "ich programmiere für Getränke") ist ein soziales Ereignis am Fachbereich 12 der Goethe-Universität Frankfurt.
+*Will Code for Drinks* (zu deutsch etwa: "ich programmiere für Getränke") ist ein soziales Ereignis am [Fachbereich 12](https://www.uni-frankfurt.de/99556206/) der [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de/).
 Teams von Freunden lösen unterhaltsame Programmieraufgaben, um im Gegenzug kostenlose Getränke zu erhalten.
 
 ![Team up + Write some code = Free drinks!](wcfd-banner.png)
