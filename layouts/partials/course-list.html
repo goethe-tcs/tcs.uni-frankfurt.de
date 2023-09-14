@@ -1,23 +1,30 @@
 <div class="mx-auto mt-7 grid max-w-screen-sm grid-cols-1 gap-10 font-sans">
-{{- range .courses -}}
-<a href="{{ .url }}"
-  class="group flex
-w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl  no-underline transition duration-500 hover:bg-goethe-50 dark:hover:bg-slate-900">
-  <div class="flex aspect-video w-[40%] flex-none place-items-center justify-center overflow-hidden rounded-3xl">
-    {{ if .img -}}
-    <img class="max-w-full max-h-full" src="{{ .img }}" />
-    {{- else -}}
-    <img src="/images/dark-classroom-small.jpg" />
-    {{- end -}}
-  </div>
-  <div class="px-3">
-    <div class="font-bold text-goethe-600 dark:text-goethe-100">
-      {{ .name | markdownify }}
-    </div>
-    <div class="text-sm font-light text-slate-600 dark:text-gray-400">
-      {{ .desc | markdownify }}
-    </div>
-  </div>
-</a>
-{{- end -}}
+  {{- range .courses -}}
+    <a
+      href="{{ .url }}"
+      class="group flex
+w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl  no-underline transition duration-500 hover:bg-goethe-50 dark:hover:bg-slate-900"
+    >
+      <div
+        class="flex aspect-video w-[40%] flex-none place-items-center justify-center overflow-hidden rounded-3xl"
+      >
+        {{ if .img -}}
+          <img
+            class="{{ with .img_class }}{{ . }}{{ end }} h-full max-w-full"
+            src="{{ .img }}"
+          />
+        {{- else -}}
+          <img src="/images/dark-classroom-small.jpg" />
+        {{- end -}}
+      </div>
+      <div class="px-3">
+        <div class="font-bold text-goethe-600 dark:text-goethe-100">
+          {{ .name | markdownify }}
+        </div>
+        <div class="text-sm font-light text-slate-600 dark:text-gray-400">
+          {{ .desc | markdownify }}
+        </div>
+      </div>
+    </a>
+  {{- end -}}
 </div>

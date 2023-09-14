@@ -3,5 +3,5 @@
 {{ if le (sub (.start | time.AsTime).Unix now.Unix) 5270400 }}{{ $selected = . }}{{break}}{{ end }}
 {{ end }}
 
-## Teaching in {{$selected.name}}
+## Activities in {{$selected.name}}
 {{ partial "course-list.html" $selected }}
