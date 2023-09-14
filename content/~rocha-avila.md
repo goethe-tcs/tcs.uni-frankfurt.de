@@ -2,7 +2,7 @@
 title: Tatiana Rocha Avila
 layout: member
 position: |
-    Phd Student
+    PhD Student
 contact:
   - "fa fa-phone": '+49-69-798-28325'
   - "fa fa-fax": '+49-69-798-28814'
