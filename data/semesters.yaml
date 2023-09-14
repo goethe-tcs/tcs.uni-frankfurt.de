@@ -9,6 +9,10 @@
     img: /wcfd/wcfd-169.png
     name: Bembel-Coding — Will Code for Drinks
     desc: Ein soziales Ereignis am **10. November 2023** von 16 bis 19 Uhr im Matheturm (Raum 711)
+  - url: https://dais.rhein-main-universitaeten.de/
+    img: /images/RMU_DAIS_logo.svg
+    name: Discrete Algorithm Insights Seminar
+    desc: Joint research seminar of the RMU universities, with talks on discrete algorithms and related topics.
   - url: /projects/
     img: /images/blackboard.jpg
     name: Thesis / Project
