@@ -10,7 +10,7 @@ header :any-link:not(.plain) {
 }
 
 header :any-link:hover:not(.plain) {
-  @apply hover:bg-goethe-900;/* background-color: var(--color-navbar-bg-hover); */
+  @apply hover:bg-goethe-900;
 }
 
 header nav {

@@ -103,7 +103,6 @@ a:active:not(.plain),
   white-space: nowrap;
 }
 
-
 .link:hover:not(.plain),
 :any-link:hover:not(.plain) {
   background-color: var(--color-link-hover-bg);
