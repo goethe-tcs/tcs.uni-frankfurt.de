@@ -10,7 +10,7 @@ w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3
       >
         {{ if .img -}}
           <img
-            class="{{ with .img_class }}{{ . }}{{ end }} h-full max-w-full"
+            class="{{ if .img_bg_white }} bg-white {{ end }} h-full max-w-full"
             src="{{ .img }}"
           />
         {{- else -}}
