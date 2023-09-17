@@ -19,32 +19,47 @@ layout: single
 lang: de
 schedule:
   - title: Einführung und All-Pairs Shortest Paths
+    weekstart: "2023-10-16"
   - title: Network Flow I
     subtitle: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+    weekstart: "2023-10-23"
   - title: Network Flow II
     subtitle: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+    weekstart: "2023-10-30"
   - title: Amortisierte Analyse
     subtitle: Dynamische Tabellen, MultiPop Stacks, Splay Trees
+    weekstart: "2023-11-06"
   - title: Randomisierte Algorithmen I
     subtitle: Contention resolution, Minimum cut
+    weekstart: "2023-11-13"
   - title: Randomisierte Algorithmen II
     subtitle: Selection, Quicksort
+    weekstart: "2023-11-20"
   - title: Hartnäckigkeit I
     subtitle: Sprachen, Polynomialzeitreduktionen
+    weekstart: "2023-11-27"
   - title: Hartnäckigkeit II
     subtitle: P, NP, NP-Vollständigkeit
+    weekstart: "2023-12-04"
   - title: Recap I
+    weekstart: "2023-12-11"
   - title: Berechnungsmodelle
     subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
+    weekstart: "2023-12-18"
   - title: Berechenbarkeit
     subtitle: Halteproblem, Satz von Rice
+    weekstart: "2024-01-08"
   - title: Lineare Programmierung I
     subtitle: Konvexität, Polytope, Simplex-Algorithmus
+    weekstart: "2024-01-15"
   - title: Lineare Programmierung II
     subtitle: Dualität, Integrale Lineare Programmierung
+    weekstart: "2024-01-22"
   - title: Algorithmen für NP-schwere Probleme
     subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
+    weekstart: "2024-01-29"
   - title: Recap II
+    weekstart: "2024-02-05"
 ---
 
 ## Organisatorisches
@@ -102,7 +117,7 @@ Außerdem können die Studierenden:
 
 ## Vorlesungsteam
 
-- Holger Dell (Professor), Sprechstunde: Dienstag 10-11 Uhr, Raum 302, RMS 11-15.
+- Holger Dell (Professor) | <span class="text-sm">Sprechstunde: Dienstag 10-11 Uhr, Raum 302, RMS 11-15</span>
 - Claudia Gressler (Sekretärin)
 - Anselm Haak (Dozent)
 - Tutor:innen

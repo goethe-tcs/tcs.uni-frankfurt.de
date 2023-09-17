@@ -29,12 +29,12 @@
         <span class="block font-sans text-xs text-gray-500">
           {{- if eq $.Page.Params.lang "de" -}}
             {{ $weekstart.Day }}.
-            {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) -}}
-            - {{ $weekend.Day }}.
+            {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) }}
+            &ndash; {{ $weekend.Day }}.
             {{ index $.Site.Data.monat (printf "%d" $weekend.Month) }}
           {{- else -}}
             {{- $weekstart | time.Format "2. January" }}
-            -
+            &ndash;
             {{ (add $weekstart.Unix 388800) | time.AsTime | time.Format "2. January" }}
           {{- end -}}
         </span>
