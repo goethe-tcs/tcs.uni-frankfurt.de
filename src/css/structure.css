@@ -42,7 +42,7 @@ body {
 header,
 main,
 footer {
-  @apply mx-auto my-0 max-w-[40rem] p-2 sm:p-6;
+  @apply mx-auto my-0 w-full max-w-[40rem] p-2 sm:p-6;
 }
 
 header {
