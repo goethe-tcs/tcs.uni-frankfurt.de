@@ -58,10 +58,10 @@ schedule:
 
 ## Vorlesungskonzept
 
-Der Kurs findet als *Flipped Classroom* statt, das heißt:
+Der Kurs findet als _Flipped Classroom_ statt, das heißt:
 
 - **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
-- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. *Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen.*
+- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. _Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen._
 - **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Diskussionen, Präsenzübungen, Lösungsspaziergänge und individuelle Betreuung. (Einzelne Tutorien oder Helpdesks werden möglicherweise online stattfinden.)
 
 ## Wochenplan
@@ -102,18 +102,16 @@ Außerdem können die Studierenden:
 
 ## Vorlesungsteam
 
-- Holger Dell (Professor)
+- Holger Dell (Professor), Sprechstunde: Dienstag 10-11 Uhr, Raum 302, RMS 11-15.
 - Claudia Gressler (Sekretärin)
 - Anselm Haak (Dozent)
 - Tutor:innen
-
 
 ## Klausur
 
 - **Erstklausur:** 13.02.2024
 - **Zweitklausur:** 26.03.2024
 <!-- - **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).** -->
-
 
 ## Ähnliche Kurse
 
