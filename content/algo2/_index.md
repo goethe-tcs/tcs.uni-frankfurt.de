@@ -41,10 +41,10 @@ schedule:
   - title: Hartnäckigkeit II
     subtitle: P, NP, NP-Vollständigkeit
     weekstart: "2023-12-04"
-  - title: Recap I
-    weekstart: "2023-12-11"
   - title: Berechnungsmodelle
     subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
+    weekstart: "2023-12-11"
+  - title: Recap I
     weekstart: "2023-12-18"
   - title: Berechenbarkeit
     subtitle: Halteproblem, Satz von Rice
