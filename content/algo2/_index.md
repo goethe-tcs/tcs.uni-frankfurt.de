@@ -128,7 +128,7 @@ Außerdem können die Studierenden:
 
 - **Erstklausur:** 13.02.2024
 - **Zweitklausur:** 26.03.2024
-<!-- - **Weitere Hinweise zur Klausur finden Sie ganz oben in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241).** -->
+- **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo2/exams/) enthält alle ALGO2-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-2 in der aktuellen Form existiert.
 
 ## Ähnliche Kurse
 
