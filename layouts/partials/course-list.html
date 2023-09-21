@@ -6,13 +6,12 @@
 w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl  no-underline transition duration-500 hover:bg-goethe-50 dark:hover:bg-slate-900"
     >
       <div
-        class="flex aspect-video w-[40%] flex-none place-items-center justify-center overflow-hidden rounded-3xl"
+        class="{{ if .img_bg_white }}
+          dark:bg-white
+        {{ end }} flex aspect-video w-[40%] flex-none place-items-center justify-center overflow-hidden rounded-3xl"
       >
         {{ if .img -}}
-          <img
-            class="{{ if .img_bg_white }} bg-white {{ end }} h-full max-w-full"
-            src="{{ .img }}"
-          />
+          <img class="h-full max-w-full" src="{{ .img }}" />
         {{- else -}}
           <img src="/images/dark-classroom-small.jpg" />
         {{- end -}}
