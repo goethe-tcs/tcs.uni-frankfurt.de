@@ -30,18 +30,24 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           extended: true
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          node-version: "18"
-          cache: "yarn"
+          node-version: "20"
 
-      - name: Yarn Install & Build 🔧
-        run: yarn install --frozen-lockfile && yarn build
+      - name: Bun Install 🔧
+        run: bun install --production --frozen-lockfile
+
+      - name: Bun Build 🔧
+        run: bun run build
 
       - name: Deploy to server 🚀
         id: deploy

@@ -5,7 +5,6 @@ module.exports = {
     "prettier-plugin-tailwindcss",
     "prettier-plugin-go-template",
   ],
-  pluginSearchDirs: false,
   overrides: [
     {
       files: ["*.html"],

@@ -7,32 +7,31 @@
   "license": "GPL-3.0-or-later",
   "scripts": {
     "build": "$npm_execpath run tw:build && $npm_execpath run hugo:build",
-    "start": "$npm_execpath run dev",
     "dev": "$npm_execpath run tw:build && $npm_execpath run concurrently --kill-others npm:tw:watch npm:hugo:serve",
-    "serve": "$npm_execpath run start",
     "tw:watch": "tailwindcss --postcss -i src/css/main.css -o assets/dist/style.css --watch",
     "tw:build": "tailwindcss --postcss -i src/css/main.css -o assets/dist/style.css --minify",
     "fonts": "mkdir -p static/webfonts static/fonts && cp ./node_modules/@fortawesome/fontawesome-free/webfonts/* static/webfonts/ && cp node_modules/academicons/fonts/* static/fonts/",
     "hugo:build": "$npm_execpath run fonts && GIT_CONFIG_NOSYSTEM=true hugo --gc --minify",
     "hugo:serve": "$npm_execpath run fonts &&  GIT_CONFIG_NOSYSTEM=true hugo server",
-    "clean": "bash -c 'rm -rf assets/dist/* static/assets/dist/*' resources/_gen public/",
+    "clean": "bash -c 'rm -rf node_modules/ /dist/* static/assets/dist/*' resources/_gen public/",
     "upload": "rsync --update -lrvz --progress --delete public/ tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "academicons": "^1.9.2",
-    "katex": "^0.16.8"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.15",
+    "katex": "^0.16.8",
+    "autoprefixer": "^10.4.16",
     "concurrently": "^8.2.1",
-    "postcss": "^8.4.29",
+    "postcss": "^8.4.30",
     "postcss-cli": "^10.1.0",
     "postcss-html": "^1.5.0",
     "postcss-import": "^15.1.0",
     "postcss-scss": "^4.0.8",
     "postcss-simple-vars": "^7.0.1",
     "postcss-syntax": "^0.36.2",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
     "prettier": "^3.0.3",
     "prettier-plugin-css-order": "^2.0.0",
     "prettier-plugin-go-template": "^0.0.15",
@@ -40,8 +39,7 @@
     "standard": "^17.1.0",
     "stylelint": "^15.10.3",
     "stylelint-config-standard-scss": "^11.0.0",
-    "stylelint-scss": "^5.2.1",
-    "tailwindcss": "^3.3.3"
+    "stylelint-scss": "^5.2.1"
   },
   "stylelint": {
     "extends": [

@@ -4,25 +4,25 @@ We mimic the general layout of the main [Goethe-Universität Frankfurt](https://
 
 For local development:
 
-- Install [yarn classic](https://classic.yarnpkg.com/)
-- Install [hugo](https://gohugo.io/)
+- Install your favorite package manager. For example, [bun](https://bun.sh/).
+- Install [hugo](https://gohugo.io/).
 
 Then run:
 
 ```bash
-yarn install
+bun install
 ```
 
 to install the dependencies,
 
 ```bash
-yarn build
+bun run build
 ```
 
 for building, and
 
 ```bash
-yarn start
+bun dev
 ```
 
 to start up a server for local development.
