@@ -255,7 +255,7 @@ Wenn Sie eine Klausur verpassen oder nicht bestehen, müssen Sie bis zur nächst
 
 ## Weitere Hinweise
 
-- **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo1/Klausuren/) enthält alle ALGO1-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-1 in der aktuellen Form existiert.
+- **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo1/exams/) enthält alle ALGO1-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-1 in der aktuellen Form existiert.
 - **Kattis.** Um die Lerninhalte durch Programmieraufgaben zu vertiefen, eignen sich [diese Kattis-Probleme](/algo1/kattis).
 - **Algo1a/Algo1b.** Die Prüfungsvarianten Algo1a und Algo1b stehen nicht mehr zur Verfügung. Studierende aus alten Studienordnungen müssen die volle ALGO1 Prüfung bestehen.
 - **Bonuspunkte.** Im Sommersemester 2023 gibt es keine „Bonuspunkte“.
