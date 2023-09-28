@@ -248,7 +248,7 @@ Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher �
   - Studierende ohne Matrikelnummer (z.B. Erasmus und Doktoranden) müssen um 8:45 in Hörsaal HV sein.
 - Bringen Sie unbedingt Ihren Studierendenausweis sowie Ihren Personalausweis oder Reisepass mit. Ohne diese Dokumente können Sie nicht an der Klausur teilnehmen.
 
-
+**Allgemeine Infos**
 - **Repetitorium:** 17.-21. Juli 2023
 - **Erstklausur:** 24. Juli 2023
 - **Klausureinsicht zur Erstklausur:** Die bewertete Klausur wurde Ihnen am 27. Juli 2023 auf Ihrer HRZ-E-Mail-Adresse zugestellt, wodurch die Klausureinsicht in virtueller Form erfolgt ist. Falls Sie sicher sind, dass die Bewertung fehlerhaft ist, können Sie uns darüber bis spätestens **8. August 2023, 8:00** informieren, indem Sie direkt auf diese E-Mail _antworten_ (_reply_). (Bitte beachten Sie also, dass die E-Mail-Adresse [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) genutzt wird und die **Klausurnummer** angegeben ist.) Bitte halten Sie sich kurz und beziehen Sie sich ausschließlich auf den fachlichen Inhalt Ihrer Klausur. Erklären Sie uns mit Hilfe von Screenshots und genauen Anmerkungen, welche Aufgabe Ihrer Meinung nach falsch bewertet wurde und warum. Wir werden Ihre Argumente berücksichtigen und die Klausuraufgabe anhand des von uns festgelegten Bewertungsschemas neu bewerten. Bitte beachten Sie, dass eine Neubewertung auch dazu führen kann, dass sich die Punktzahl verringert.
