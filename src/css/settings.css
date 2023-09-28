@@ -8,7 +8,7 @@ $small: 640px;
   --color-main-bg: rgb(255 255 255);
   --color-main-fg: rgb(0 0 0);
   --color-main-fg-soft: hsl(0deg 0% 50%);
-  --color-footer-bg: rgb(228 227 221);
+  --color-footer-bg: #D5E5EC;
   --color-footer-fg: var(--color-main-fg);
   --color-navbar-bg: var(--color-accent);
   --color-navbar-bg-hover: hsl(199deg 100% 35%);
