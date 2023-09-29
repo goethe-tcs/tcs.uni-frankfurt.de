@@ -27,6 +27,16 @@
   position: Student Research Assistant
 
 - name: You? We're hiring!
-  position: PhD / Postdoc
+  position: 1x PhD student
+  url: /positions
+  hiring: true
+
+- name: You? We're hiring!
+  position: 1x WiMi for Algo-Learn
+  url: /positions
+  hiring: true
+
+- name: You? We're hiring!
+  position: 2x HiWis for Algo-Learn
   url: /positions
   hiring: true
