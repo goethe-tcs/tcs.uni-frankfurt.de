@@ -106,7 +106,7 @@ Please also include as separate PDF files:
 **The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 -->
 
-## E13 Position (75%, 16 months) to develop Algo-Learn
+## E13 Position (75%, 16 months) as a Front-end Developer for Algo-Learn
 
 We are excited to announce that the _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
 The work is going to be carried out under the supervision of [Holger Dell](/~dell).
