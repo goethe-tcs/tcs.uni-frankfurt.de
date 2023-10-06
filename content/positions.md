@@ -59,7 +59,7 @@ Please also include as separate PDF files:
 - Your Bachelor thesis (if available)
 - Your Master thesis or a draft (if available)
 
-**The application deadline is October 27, 2023.** We hope that all interviews will be held via video call in early November.
+We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November.
 
 <!--
 ## Fully-funded PhD position (3 years) in ADYN research unit
@@ -108,7 +108,7 @@ Please also include as separate PDF files:
 
 ## E13 Position (75%, 16 months) as a Front-end Developer for Algo-Learn
 
-We are excited to announce that the _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
+We are excited to announce a position that combines modern front-end development with teaching algorithms: The _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
 The work is going to be carried out under the supervision of [Holger Dell](/~dell).
 
 **Project Overview.**
@@ -152,7 +152,7 @@ Please also include as separate PDF files:
 
 - Your most relevant piece of scientific writing (e.g., publication or thesis), where you have written most of the text.
 
-**The application deadline is October 31, 2023.** We hope that all interviews will be held via video call in early November.
+We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November.
 
 ## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn
 
