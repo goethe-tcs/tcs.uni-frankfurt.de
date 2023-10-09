@@ -20,7 +20,7 @@ Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code 
 ## Wann und Wo?
 
 - **Wann?** 10. November 2023 von 16 bis 19 Uhr
-- **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024), Raum 711
+- **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024) (Robert-Mayer-Straße 10), Raum 711
 - **Wie?** Siehe [(Keine) Vorbereitung](#keine-vorbereitung) und [Details](#details) weiter unten.
 - **Kontakt**: bembel-coding \[Klammeraffe\]  dlist.server.uni-frankfurt.de
 
