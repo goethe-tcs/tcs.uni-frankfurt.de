@@ -71,7 +71,11 @@ schedule:
 <!-- - **Anmeldung zu den Übungsgruppen:** Auf dem [Anmeldesystem AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=179)
 - **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919). -->
 
-<div class="border-goethe-800 dark:border-goethe-100 p-2 my-4 rounded-lg border-2 bg-goethe-100 dark:bg-goethe-800 italic">Note: While the videos, lectures, and exercise sheets are in German, it is possible to follow this course in English. The textbooks are available in English, and the written exams will be available bilingually.</div>
+<!-- <div class="border-goethe-800 dark:border-goethe-100 p-2 my-4 rounded-lg border-2 bg-goethe-100 dark:bg-goethe-800 italic">Note: While videos, lectures, and exercise sheets are in German, it is possible to follow this course in English. The textbooks are available in English, and the written exams will be available bilingually.</div> -->
+<div class="alert italics">
+    {{< svg-alert >}}
+    <div>While videos, lectures, and exercise sheets are in German, it is possible to follow this course and ask questions in English. The textbooks are available in English, and the written exams are bilingual.</div>
+</div>
 
 ## Vorlesungskonzept
 

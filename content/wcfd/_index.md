@@ -12,6 +12,11 @@ Teams von Freunden lösen unterhaltsame Programmieraufgaben, um im Gegenzug kost
 
 *Will Code for Drinks* ist eine [internationale Veranstaltung](https://thorehusfeldt.github.io/wcfd/), die gleichzeitig an der *IT University of Copenhagen* und an der *Aarhus University* stattfindet.
 
+<div class="alert italic">
+    {{< svg-alert >}}
+    <div>All programming exercises are available in three languages (English, German, and Danish), so international attendees are most welcome!</div>
+</div>
+
 Die Programmieraufgaben sind eigens für die Veranstaltung so konstruiert, dass sie für Neulinge attraktiv sind. Die Atmosphäre ist enorm entspannt und die Teilnehmer:innen werden ermutigt, sich gegenseitig bei der Problemlösung, beim Debuggen oder bei grundlegenden Programmier- oder Computerproblemen zu helfen. Tutor:innen und Unterstützer:innen sind jederzeit während der Veranstaltung verfügbar und helfen gerne. Der Fokus liegt auf Problemlösung, sozialer Interaktion innerhalb und zwischen Teams, Programmierung, Selbstvertrauen und Spaß.
 
 Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code For Drinks* nicht um einen Wettbewerb – es gibt keine Preise für Programmierfähigkeiten und es gibt keine Preisverleihung.
