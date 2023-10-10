@@ -1,7 +1,5 @@
 html {
-  background-color: var(--color-main-bg);
   overflow-y: scroll;
-  color: var(--color-main-fg);
   font-size: var(--font-size-base);
   font-family: var(--font-base);
 }
@@ -17,8 +15,6 @@ body {
 
 .header-container {
   grid-area: header-container;
-  background-color: var(--color-navbar-bg);
-  color: var(--color-navbar-fg);
 }
 
 .main-container {
@@ -26,13 +22,7 @@ body {
 }
 
 .footer-container {
-  display: flex;
   grid-area: footer-container;
-  align-items: center;
-  background-color: var(--color-footer-bg);
-  min-height: 6rem;
-  color: var(--color-footer-fg);
-  font-size: var(--font-size-small);
 }
 
 .footer-container :any-link {
@@ -43,13 +33,4 @@ header,
 main,
 footer {
   @apply mx-auto my-0 w-full max-w-[40rem] p-2 sm:p-6;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-}
-
-footer {
-  text-align: right;
 }

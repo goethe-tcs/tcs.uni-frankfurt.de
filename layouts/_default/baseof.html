@@ -30,8 +30,8 @@
     {{- end }}
   </head>
   <body>
-    <div class="header-container">
-      <header>
+    <div class="header-container bg-primary text-white">
+      <header class="flex justify-between">
         <nav class="site-links">
           <a class="goethe" href="https://www.uni-frankfurt.de">
             <img
@@ -87,7 +87,7 @@
     <div class="main-container {{ .Layout }}">
       <main>{{ block "main" . }}{{ end }}</main>
     </div>
-    <div class="footer-container">
+    <div class="footer-container text-right flex h-28 items-center text-sm align-right bg-base-200">
       <footer>
         {{ if .GitInfo }}
           {{ .GitInfo.AuthorName }} |

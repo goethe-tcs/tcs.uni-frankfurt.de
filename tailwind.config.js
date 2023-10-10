@@ -25,5 +25,37 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  daisyui: {
+    themes: [
+      {
+        goethe_light: {
+          primary: "rgb(0,97,143)",
+          secondary: "rgb(77,75,70)",
+          accent: "rgb(134,0,71)",
+          neutral: "rgb(77,75,70)",
+          "base-100": "rgb(248,246,245)",
+          info: "#d5e5ec",
+          success: "rgb(165,171,82)",
+          warning: "rgb(227,186,15)",
+          error: "#fb7185",
+        },
+        goethe_dark: {
+          primary: "rgb(0,97,143)",
+          secondary: "rgb(77,75,70)",
+          accent: "rgb(134,0,71)",
+          neutral: "rgb(255,255,255)",
+          "base-100": "#000",
+          "base-200": "#333",
+          "base-300": "#666",
+          "base-content": "#fff",
+          info: "#d5e5ec",
+          success: "rgb(165,171,82)",
+          warning: "rgb(227,186,15)",
+          error: "#fb7185",
+        },
+      },
+    ],
+    darkTheme: "goethe_dark",
+  },
+  plugins: [require("daisyui")],
 }
