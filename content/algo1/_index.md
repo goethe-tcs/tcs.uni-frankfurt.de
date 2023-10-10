@@ -240,6 +240,7 @@ Nach der Veranstaltung können die Studierenden:
 
 Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher über das QIS-System oder über das Prüfungsamt Ihres Studiengangs anmelden! Eine Anmeldung über das ALGO1-Team ist **nicht** möglich. Weitere Informationen zu den Informatikstudiengängen finden Sie auf der [entsprechenden Seite](https://www.uni-frankfurt.de/104029374/Pruefungsorganisation_und_Fristen) des Prüfungsamts Informatik.
 
+<!---
 **Aktuelle Infos zur Zweitklausur am 02. Oktober**
 - Die Klausur wird bilingual angeboten, das heißt, alle Aufgabentexte sind auf Deutsch und auf Englisch abgedruckt. Sie können in jeder der beiden Sprachen antworten.
 - Die Klausur wird in zwei Hörsälen geschrieben. Die Aufteilung der Studierenden auf die Hörsäle erfolgt nach der Endziffer Ihrer Matrikelnummer. Die Aufteilung ist wie folgt:
@@ -247,6 +248,21 @@ Um an der Klausur teilzunehmen, müssen Sie sich mindestens zwei Wochen vorher �
   - Studierende, deren Matrikelnummer auf einer Ziffer zwischen 5-9 endet, müssen um 8:45 in Hörsaal HVI sein.
   - Studierende ohne Matrikelnummer (z.B. Erasmus und Doktoranden) müssen um 8:45 in Hörsaal HV sein.
 - Bringen Sie unbedingt Ihren Studierendenausweis sowie Ihren Personalausweis oder Reisepass mit. Ohne diese Dokumente können Sie nicht an der Klausur teilnehmen.
+--->
+**Reklamationen zur Bewertung der Zweitklausur**
+- Sie sollten bereits eine E-Mail mit Ihrer Note für die Zweitklausur und einem Scan der Klausur erhalten haben.
+- Fehler in unserer Bewertung können Sie bis zum 17. Oktober 2023 reklamieren.
+- Offensichtliche Fehler (falsch addierte Punkte oder falsche Bewertungen in den Aufgaben 1, 2 oder 3) können Sie bis zum 17. Oktober 2023 um 13:00 direkt per Antwort auf die entsprechende Mail reklamieren.
+- Reklamationen in den Aufgaben 4-5 können Sie am 17.10.2023 im persönlichen Gespräch online in Zoom anbringen.
+- Ihren Zeitslot bestimmen Sie, indem Sie die Quersumme Ihrer Matrikelnummer bilden und modulo 6 rechnen. Beispielsweise müsste jemand mit Matrikelnummer 1234567 in Zeitslot 4 = (1+2+3+4+5+6+7)%6 erscheinen.
+- Zeitslot 0: 13:00 - 13:30
+- Zeitslot 1: 13:30 - 14:00
+- Zeitslot 2: 14:00 - 14:30
+- Zeitslot 3: 14:30 - 15:00
+- Zeitslot 4: 15:00 - 15:30
+- Zeitslot 5: 15:30 - 16:00
+- Die Einsicht findet in folgendem Zoom-Raum statt: [Zoom-Link](https://uni-frankfurt.zoom-x.de/j/66999784179?pwd=ZkNkbEQ3Y3NacU1oWGRrN1M3SFg1dz09)
+
 
 **Allgemeine Infos**
 - **Repetitorium:** 17.-21. Juli 2023
