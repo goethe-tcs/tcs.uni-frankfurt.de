@@ -12,8 +12,8 @@ semester: "WiSe-2023/24"
 links:
   - name: QIS
     url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=359273&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-  # - name: Moodle
-  #   url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=2241"
+  - name: Moodle
+    url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=5636"
 toc: yes
 layout: single
 lang: de
@@ -132,10 +132,16 @@ Die Kursleitung ist nur über [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@un
 
 ## Klausur
 
+- **Anmeldung:** Die Anmeldung zu den Klausuren erfolgt ausschließlich über QIS.
 - **Erstklausur:** 13.02.2024
 - **Zweitklausur:** 26.03.2024
 - **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo2/exams/) enthält alle ALGO2-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-2 in der aktuellen Form existiert.
 - **Bonuspunkte:** Es gibt keine "Bonuspunkte".
+
+<div class="alert italics">
+    {{< svg-alert >}}
+    <div>If and only if you want to take the exam as an Erasmus student or a PhD student, you need to register two weeks before the exam at [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@uni-frankfurt.de).</div>
+</div>
 
 ## Ähnliche Kurse
 
