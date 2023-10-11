@@ -67,7 +67,7 @@ schedule:
 - **Termine.** Dienstag und Donnerstag, 08:15-09:30, H VI (Hörsaaltrakt Bockenheim).
 - **Erste Veranstaltung:** Dienstag, 17.10.2023, 8-10 Uhr, H VI (Hörsaaltrakt Bockenheim).
 - **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/algo1/) (ALGO1) auf. Sie müssen die Kompetenzen aus ALGO1 bereits meistern, um an ALGO2 teilnehmen zu können.
-- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo1-2023@uni-frankfurt.de](mailto:algo1-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
+- **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@uni-frankfurt.de) (nicht: dell@ oder moodle)
 <!-- - **Anmeldung zu den Übungsgruppen:** Auf dem [Anmeldesystem AUGE](https://anmeldung.studiumdigitale.uni-frankfurt.de/auge/index.php?newCourse=&fachbereich=FB+12+Informatik+und+Mathematik&kurs=179)
 - **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919). -->
 
