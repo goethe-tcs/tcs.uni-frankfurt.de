@@ -128,11 +128,14 @@ Außerdem können die Studierenden:
 - Anselm Haak (Dozent)
 - Tutor:innen
 
+Die Kursleitung ist nur über [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@uni-frankfurt.de) erreichbar.
+
 ## Klausur
 
 - **Erstklausur:** 13.02.2024
 - **Zweitklausur:** 26.03.2024
 - **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo2/exams/) enthält alle ALGO2-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-2 in der aktuellen Form existiert.
+- **Bonuspunkte:** Es gibt keine "Bonuspunkte".
 
 ## Ähnliche Kurse
 

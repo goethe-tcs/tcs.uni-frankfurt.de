@@ -59,7 +59,7 @@ Please also include as separate PDF files:
 - Your Bachelor thesis (if available)
 - Your Master thesis or a draft (if available)
 
-We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November.
+We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later.
 
 <!--
 ## Fully-funded PhD position (3 years) in ADYN research unit
@@ -152,7 +152,7 @@ Please also include as separate PDF files:
 
 - Your most relevant piece of scientific writing (e.g., publication or thesis), where you have written most of the text.
 
-We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November.
+We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later.
 
 ## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn
 
