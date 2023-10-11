@@ -72,7 +72,7 @@ schedule:
 - **Anmeldung in Moodle:** In [diesem Moodle-Kurs](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=3919). -->
 
 <!-- <div class="border-goethe-800 dark:border-goethe-100 p-2 my-4 rounded-lg border-2 bg-goethe-100 dark:bg-goethe-800 italic">Note: While videos, lectures, and exercise sheets are in German, it is possible to follow this course in English. The textbooks are available in English, and the written exams will be available bilingually.</div> -->
-<div class="alert italics">
+<div class="alert italic">
     {{< svg-alert >}}
     <div>While videos, lectures, and exercise sheets are in German, it is possible to follow this course and ask questions in English. The textbooks are available in English, and the written exams are bilingual.</div>
 </div>
@@ -138,9 +138,9 @@ Die Kursleitung ist nur über [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@un
 - **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo2/exams/) enthält alle ALGO2-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-2 in der aktuellen Form existiert.
 - **Bonuspunkte:** Es gibt keine "Bonuspunkte".
 
-<div class="alert italics">
+<div class="alert italic">
     {{< svg-alert >}}
-    <div>If and only if you want to take the exam as an Erasmus student or a PhD student, you need to register two weeks before the exam at [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@uni-frankfurt.de).</div>
+    <div>If and only if you want to take the exam as an <b>Erasmus</b> student or a <b>PhD</b> student, you need to register two weeks before the exam at <a href="mailto:algo2-2023@uni-frankfurt.de">algo2-2023@uni-frankfurt.de</a>.</div>
 </div>
 
 ## Ähnliche Kurse
