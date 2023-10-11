@@ -16,7 +16,7 @@
     <li
       class="{{ if $currentWeek }}
         border-indigo-500 border-4
-      {{ end }} m-0 list-none bg-gray-200 p-4 odd:bg-gray-100 dark:bg-gray-800 odd:dark:bg-gray-900"
+      {{ end }} m-0 p-4 list-none bg-base-200 odd:bg-base-300"
     >
       <!-- <div class="place-self-start w-full bg-red-100 flex flex-nowrap">
     <div class="font-mono shrink-0 h-12 w-12 font-bold px-1 flex place-content-center place-items-center bg-black text-white">
@@ -26,7 +26,7 @@
   </div> -->
 
       {{- if $weekstart -}}
-        <span class="block font-sans text-xs text-gray-500">
+        <span class="block font-sans text-xs text-primary dark:text-gray-400">
           {{- if eq $.Page.Params.lang "de" -}}
             {{ $weekstart.Day }}.
             {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) }}

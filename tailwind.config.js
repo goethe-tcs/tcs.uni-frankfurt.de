@@ -46,7 +46,7 @@ module.exports = {
           neutral: "rgb(255,255,255)",
           "base-100": "#000",
           "base-200": "#333",
-          "base-300": "#666",
+          "base-300": "#444",
           "base-content": "#fff",
           info: "#d5e5ec",
           success: "rgb(165,171,82)",
