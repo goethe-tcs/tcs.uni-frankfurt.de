@@ -83,7 +83,8 @@ Der Kurs findet als _Flipped Classroom_ statt, das heißt:
 
 - **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
 - **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. _Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen._
-- **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Betreute Präsenzübungen und individuelles Feedback. _Diese Präsenzzeit findet ausschließlich im Seminarraum statt und wird nicht hybrid übertragen._
+- **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Individuelles Feedback, betreute Präsenzübungen und schriftliche Projekte. _Diese Präsenzzeit findet ausschließlich im Seminarraum statt und wird nicht hybrid übertragen._
+- **Lernzentrum**: Das [Ingo Wegner-Lernzentrum](https://www.tinygu.de/lz-inf) hat flexible Öffnungszeiten und bietet fachliche Beratung zu den Lerninhalten von ALGO-2 an. Einfach ohne Anmeldung hineinschauen!
 
 ## Wochenplan
 
