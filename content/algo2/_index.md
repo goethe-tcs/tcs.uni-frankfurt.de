@@ -20,6 +20,11 @@ lang: de
 schedule:
   - title: Einführung und All-Pairs Shortest Paths
     weekstart: "2023-10-16"
+    links:
+      - "E 9.1, 9.2, 9.5, 9.6, 9.8"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-01-APSP.pdf)"
+      - "[📽️](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week01-APSP.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week01-APSP.pdf)"
   - title: Network Flow I
     subtitle: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
     weekstart: "2023-10-23"
