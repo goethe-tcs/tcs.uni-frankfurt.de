@@ -4,7 +4,7 @@ layout: single
 toc: yes
 ---
 
-## PhD position (100%, 3+2 years) in TCS
+## PhD position (100%, 3+2 years) in TCS {#phd}
 
 We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting as soon as possible.
 The research is going to be carried out under the supervision of [Holger Dell](/~dell).
@@ -106,7 +106,7 @@ Please also include as separate PDF files:
 **The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 -->
 
-## E13 Position (75%, 16 months) as a Front-end Developer for Algo-Learn
+## E13 Position (75%, 16 months) as a Front-end Developer for Algo-Learn {#algo-learn}
 
 We are excited to announce a position that combines modern front-end development with teaching algorithms: The _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
 The work is going to be carried out under the supervision of [Holger Dell](/~dell).
@@ -129,7 +129,7 @@ Our aim for the platform is to match the quality and style of Duolingo. See [tcs
 - Collaborative working environment.
 - The possibility to work on a fun and meaningful open-source project, while learning software development and leadership skills that are highly sought-after in industry.
 - Flexible working hours, with potential for remote work.
-- Part-time position with a competitive public-sector salary (75% E13, roughly 37k € gross per year).
+- Part-time position with a competitive public-sector salary (30 hours/week, 75% E13, roughly 37k € gross per year).
 
 **We Expect.**
 
@@ -154,7 +154,7 @@ Please also include as separate PDF files:
 
 We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later.
 
-## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn
+## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn {#algo-learn-hiwi}
 
 If you are a student at Goethe University Frankfurt, enjoyed ALGO1, and have relevant programming experience, you can apply for a HiWi position to help develop the [Algo-Learn](https://tcs.uni-frankfurt.de/algo-learn) platform!
 It is an open-source project, and you can look at the source code here: [github.com/goethe-tcs/algo-learn](https://github.com/goethe-tcs/algo-learn).
