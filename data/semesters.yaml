@@ -76,7 +76,7 @@
     name: Algorithmen und Datenstrukturen 1
     desc: Course
   - url: /seminar/paper/
-    img: /images/breakthrough.png
+    img: /images/breakthrough-small.png
     img_bg_white: true
     name: "Recent breakthroughs in TCS"
     desc: Seminar
