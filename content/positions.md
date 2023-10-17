@@ -121,7 +121,7 @@ The project focuses on designing, developing, implementing, and evaluating exerc
 - Ensuring rigorous quality assurance processes.
 - Collaboratively evaluating the didactic quality of tasks and the entire platform.
 
-Our aim for the platform is to match the quality and style of Duolingo. See [tcs.uni-frankfurt.de/algo-learn](https://tcs.uni-frankfurt.de/algo-learn/) for an early prototype.
+Our aim for the platform is to match the quality and style of Duolingo. Check out an [early prototype](https://tcs.uni-frankfurt.de/algo-learn/) and its [source code](https://github.com/goethe-tcs/algo-learn).
 
 **We Offer.**
 
