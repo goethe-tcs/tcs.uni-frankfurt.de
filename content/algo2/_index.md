@@ -26,11 +26,26 @@ schedule:
       - "[📽️](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week01-APSP.mp4)"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week01-APSP.pdf)"
   - title: Network Flow I
-    subtitle: Max-flow min-cut theorem, augmenting paths, Ford-Fulkerson
+    subtitle: Ford-Fulkerson, max-flow min-cut, capacity scaling, Edmonds-Karp
     weekstart: "2023-10-23"
+    links:
+      - "E 10 (oder KT 7.1, 7.2, 7.3)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-02-Netzwerkfluss-I.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1a.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1b.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1c.mp4)"
+      - "[📽️4](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1d.mp4)"
+      - "[📽️5](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1e.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week02-NetworkFlowI.pdf)"
   - title: Network Flow II
-    subtitle: scaling, Edmonds-Karp, applications, maximum bipartite matching, disjoint paths
+    subtitle: applications, maximum bipartite matching, disjoint paths
     weekstart: "2023-10-30"
+    links:
+      - "E 11 (oder KT 7.3, 7.5, 7.6)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-03-Netzwerkfluss-II.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-review.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-applications.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week03-NetworkFlowII.pdf)"
   - title: Amortisierte Analyse
     subtitle: Dynamische Tabellen, MultiPop Stacks, Splay Trees
     weekstart: "2023-11-06"
