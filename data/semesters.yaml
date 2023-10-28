@@ -1,3 +1,13 @@
+- name: Summer 2024
+  start: 2024-04-01
+  courses:
+  - url: /parameterized/2024/
+    name: Fine-grained Parameterized Algorithms
+    desc: Advanced Course
+  - url: /seminar/dais/
+    name: Current Topics in Theoretical Computer Science
+    img: /images/RMU_DAIS_logo.svg
+    desc: B.Sc./M.Sc. Seminar
 - name: Winter 2023/24
   start: 2023-10-01
   courses:
@@ -83,7 +93,7 @@
 - name: Winter 2020/21
   start: 2020-10-01
   courses:
-  - url: /parameterized/
+  - url: /parameterized/2020/
     name: Fine-grained Parameterized Algorithms
     desc: Course
   - url: /seminar/wigderson/
