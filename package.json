@@ -20,8 +20,8 @@
     "@fortawesome/fontawesome-free": "^6.4.2",
     "academicons": "^1.9.2",
     "autoprefixer": "^10.4.16",
-    "concurrently": "^8.2.1",
-    "daisyui": "^3.9.2",
+    "concurrently": "^8.2.2",
+    "daisyui": "^3.9.4",
     "katex": "^0.16.9",
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",
@@ -30,17 +30,17 @@
     "postcss-scss": "^4.0.9",
     "postcss-simple-vars": "^7.0.1",
     "postcss-syntax": "^0.36.2",
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.3.5"
   },
   "devDependencies": {
     "prettier": "^3.0.3",
     "prettier-plugin-css-order": "^2.0.1",
     "prettier-plugin-go-template": "^0.0.15",
-    "prettier-plugin-tailwindcss": "^0.5.5",
+    "prettier-plugin-tailwindcss": "^0.5.6",
     "standard": "^17.1.0",
-    "stylelint": "^15.10.3",
+    "stylelint": "^15.11.0",
     "stylelint-config-standard-scss": "^11.0.0",
-    "stylelint-scss": "^5.2.1"
+    "stylelint-scss": "^5.3.0"
   },
   "stylelint": {
     "extends": [
