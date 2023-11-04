@@ -46,15 +46,39 @@ schedule:
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-review.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-applications.mp4)"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week03-NetworkFlowII.pdf)"
-  - title: Amortisierte Analyse
-    subtitle: Dynamische Tabellen, MultiPop Stacks, Splay Trees
+  - title: Amortisierte Analyse von Datenstrukturen
+    subtitle: Aggregationsmethode, Buchhaltungsmethode, Potentialmethode, Dynamische Tabellen, Stack mit MultiPop, Splay-Bäume
     weekstart: "2023-11-06"
+    links:
+      - "CLRS 17.4"
+      - "Ericksons Director's Cut, [Kapitel 9](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/09-amortize.pdf) und [Kapitel 10.1, 10.5, 10.6](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/10-scapegoat-splay.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-04-Amortisierte-Analyse.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-a-aggregate.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-b-accounting.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-c-stack.mp4)"
+      - "[📽️4](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-d-potential.mp4)"
+      - "[📽️5](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-e-splay-trees.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week04-Amortized.pdf)"
   - title: Randomisierte Algorithmen I
     subtitle: Contention resolution, Minimum cut
     weekstart: "2023-11-13"
+    links:
+      - "KT 13, 13.1, 13.2, 13.12"
+      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-a-probability.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-b-contention-resolution.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-c-minimum-cut.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week05-randomized-I.pdf)"
   - title: Randomisierte Algorithmen II
     subtitle: Selection, Quicksort
     weekstart: "2023-11-20"
+    links:
+      - "KT 13.3, 13.5"
+      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
+      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-a-expectation.mp4)"
+      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4)"
+      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4)"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week06-randomized-II.pdf)"
   - title: Hartnäckigkeit I
     subtitle: Sprachen, Polynomialzeitreduktionen
     weekstart: "2023-11-27"
