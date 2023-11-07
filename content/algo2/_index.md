@@ -64,7 +64,7 @@ schedule:
     weekstart: "2023-11-13"
     links:
       - "KT 13, 13.1, 13.2, 13.12"
-      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-a-probability.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-b-contention-resolution.mp4)"
       - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-c-minimum-cut.mp4)"
@@ -74,7 +74,7 @@ schedule:
     weekstart: "2023-11-20"
     links:
       - "KT 13.3, 13.5"
-      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-a-expectation.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4)"
       - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4)"
