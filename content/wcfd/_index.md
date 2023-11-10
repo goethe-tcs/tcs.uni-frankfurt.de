@@ -22,17 +22,18 @@ Die Programmieraufgaben sind eigens für die Veranstaltung so konstruiert, dass 
 Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code For Drinks* nicht um einen Wettbewerb – es gibt keine Preise für Programmierfähigkeiten und es gibt keine Preisverleihung.
 
 
-## Wann und Wo?
+## WCFD 2023
 
 - **Wann?** 10. November 2023 von 16 bis 19 Uhr
 - **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024) (Robert-Mayer-Straße 10), Raum 711
 - **Wie?** Siehe [(Keine) Vorbereitung](#keine-vorbereitung) und [Details](#details) weiter unten.
 - **Kontakt**: bembel-coding \[Klammeraffe\]  dlist.server.uni-frankfurt.de
 
-Willst du auf jeden Fall oder vielleicht mitmachen? Dann melde dich doch gerne vorab unverbindlich [hier](https://nuudel.digitalcourage.de/JwNZUPKaXGNmuMOJ) an.
+<!-- Willst du auf jeden Fall oder vielleicht mitmachen? Dann melde dich doch gerne vorab unverbindlich [hier](https://nuudel.digitalcourage.de/JwNZUPKaXGNmuMOJ) an. -->
 Du kannst auch spontan und ohne Anmeldung vorbei kommen!
 Wir wollen lediglich einschätzen, wie viele Personen ungefähr kommen werden.
 
+[**Lösungfolien für WCFD 2023**](https://thorehusfeldt.github.io/wcfd/assets/solutions-2023-web.en.pdf)
 
 ## An wen richtet sich *Will Code for Drinks*?
 
