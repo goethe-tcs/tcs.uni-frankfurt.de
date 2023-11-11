@@ -10,6 +10,11 @@ Teams von Freunden lösen unterhaltsame Programmieraufgaben, um im Gegenzug kost
 
 ![Team up + Write some code = Free drinks!](wcfd-banner.png)
 
+
+<div class="alert font-bold">
+ <a href="https://thorehusfeldt.github.io/wcfd/assets/solutions-2023-web.en.pdf">Lösungfolien für WCFD 2023</a>
+</div>
+
 *Will Code for Drinks* ist eine [internationale Veranstaltung](https://thorehusfeldt.github.io/wcfd/), die gleichzeitig an der *IT University of Copenhagen* und an der *Aarhus University* stattfindet.
 
 <div class="alert italic">
@@ -22,7 +27,7 @@ Die Programmieraufgaben sind eigens für die Veranstaltung so konstruiert, dass 
 Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code For Drinks* nicht um einen Wettbewerb – es gibt keine Preise für Programmierfähigkeiten und es gibt keine Preisverleihung.
 
 
-## WCFD 2023
+## WCFD 2023 Frankfurt
 
 - **Wann?** 10. November 2023 von 16 bis 19 Uhr
 - **Wo?** [Matheturm](https://www.openstreetmap.org/way/30119024) (Robert-Mayer-Straße 10), Raum 711
@@ -33,7 +38,7 @@ Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code 
 Du kannst auch spontan und ohne Anmeldung vorbei kommen!
 Wir wollen lediglich einschätzen, wie viele Personen ungefähr kommen werden.
 
-[**Lösungfolien für WCFD 2023**](https://thorehusfeldt.github.io/wcfd/assets/solutions-2023-web.en.pdf)
+*Will Code for Drinks 2023 Frankfurt* wurde organisiert von [Prof. Dr. Holger Dell](https://tcs.uni-frankfurt.de/~dell/), [Claudia Gressler](https://tcs.uni-frankfurt.de/~gressler/) und [Lars Huth](https://algo.cs.uni-frankfurt.de/~lhuth/index.en.shtml).
 
 ## An wen richtet sich *Will Code for Drinks*?
 
