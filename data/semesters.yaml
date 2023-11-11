@@ -15,15 +15,19 @@
     img: /algo2/pnp.svg
     name: Algorithmen und Datenstrukturen 2
     desc: Course
-  - url: /wcfd/
-    img: /wcfd/wcfd-169.png
-    name: Bembel-Coding — Will Code for Drinks
-    desc: Social and fun coding event on **November 10, 2023** from 16h00 to 19h00 in the "Matheturm" (Room 711)
   - url: https://dais.rhein-main-universitaeten.de/
     img: /images/RMU_DAIS_logo.svg
     img_bg_white: true
     name: Discrete Algorithm Insights Seminar
-    desc: Joint research seminar of the RMU universities, with talks on discrete algorithms and related topics.
+    desc: "Joint research seminar of the RMU universities, with talks on discrete algorithms and related topics. In Fankfurt on **Friday, November 24, 2023** at 1-3pm."
+  - url: /aoc/
+    img: /aoc/Advent-of-Code-Logo.png
+    name: Advent of Code at FB12
+    desc: Social and fun coding marathon every day on **December 1-24, 2023**.
+  - url: /wcfd/
+    img: /wcfd/wcfd-169.png
+    name: Bembel-Coding — Will Code for Drinks
+    desc: Social and fun coding event on **November 10, 2023** from 16h00 to 19h00 in the "Matheturm" (Room 711)
   - url: /projects/
     img: /images/blackboard.jpg
     name: Thesis / Project
