@@ -79,10 +79,21 @@ schedule:
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4)"
       - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4)"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week06-randomized-II.pdf)"
-  - title: Hartnäckigkeit I
-    subtitle: Sprachen, Polynomialzeitreduktionen
+  - title: NP-Härte I
+    # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
     weekstart: "2023-11-27"
-  - title: Hartnäckigkeit II
+    links:
+      - "E 12"
+      - "[📽️ Motivation](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-a-Motivation.mp4) [8 min]"
+      - "[📽️ CircuitSAT](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-b-CircuitSAT.mp4) [7 min]"
+      - "[📽️ P versus NP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-c-P-versus-NP.mp4) [10 min]"
+      - "[📽️ NP-hardness and NP-completeness](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-d-NP-hardness.mp4) [7 min]"
+      - "[📽️ SAT](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-e-SAT.mp4) [8 min]"
+      - "[📽️ 3SAT](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-f-3SAT.mp4) [8 min]"
+      - "[📽️ Maximum Independent Set](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-g-MaxIndSet.mp4) [9 min]"
+      - "[📽️ Maximum Clique, Minimum Vertex-Cover](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-h-Clique-VC.mp4) [9 min]"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week07-NP-I.pdf)"
+  - title: NP-Härte II
     subtitle: P, NP, NP-Vollständigkeit
     weekstart: "2023-12-04"
   - title: Berechnungsmodelle
