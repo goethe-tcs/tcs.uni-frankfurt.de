@@ -65,9 +65,9 @@ schedule:
     links:
       - "KT 13, 13.1, 13.2, 13.12"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
-      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-a-probability.mp4)"
-      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-b-contention-resolution.mp4)"
-      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-c-minimum-cut.mp4)"
+      - "[📽️ Grundlagen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-a-probability.mp4) [13 min]"
+      - "[📽️ Contention Resolution](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-b-contention-resolution.mp4) [19 min]"
+      - "[📽️ Minimum Cut](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-c-minimum-cut.mp4) [24 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week05-randomized-I.pdf)"
   - title: Randomisierte Algorithmen II
     subtitle: Selection, Quicksort
@@ -75,9 +75,9 @@ schedule:
     links:
       - "KT 13.3, 13.5"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
-      - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-a-expectation.mp4)"
-      - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4)"
-      - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4)"
+      - "[📽️ Erwartungswert](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-a-expectation.mp4) [23 min]"
+      - "[📽️ Median und Select](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4) [13 min]"
+      - "[📽️ Quicksort](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4) [10 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week06-randomized-II.pdf)"
   - title: NP-Härte I
     # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
