@@ -83,7 +83,8 @@ schedule:
     # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
     weekstart: "2023-11-27"
     links:
-      - "E 12"
+      - "E 12.1–12.9"
+      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-07-NP-Haerte-I.pdf)"
       - "[📽️ Motivation](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-a-Motivation.mp4) [8 min]"
       - "[📽️ CircuitSAT](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-b-CircuitSAT.mp4) [7 min]"
       - "[📽️ P versus NP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-c-P-versus-NP.mp4) [10 min]"
@@ -94,8 +95,13 @@ schedule:
       - "[📽️ Maximum Clique, Minimum Vertex-Cover](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-h-Clique-VC.mp4) [9 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week07-NP-I.pdf)"
   - title: NP-Härte II
-    subtitle: P, NP, NP-Vollständigkeit
+    # subtitle: P, NP, NP-Vollständigkeit
     weekstart: "2023-12-04"
+    links:
+      - "E 12.10–12.14"
+      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-07-NP-Haerte-I.pdf)"
+      # - "[📽️ ???](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-a-???.mp4) [??? min]"
+      # - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
   - title: Berechnungsmodelle
     subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     weekstart: "2023-12-11"
