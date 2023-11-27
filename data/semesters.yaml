@@ -7,6 +7,7 @@
   - url: /seminar/dais/
     name: Current Topics in Theoretical Computer Science
     img: /images/RMU_DAIS_logo.svg
+    img_bg_white: true
     desc: B.Sc./M.Sc. Seminar
 - name: Winter 2023/24
   start: 2023-10-01
