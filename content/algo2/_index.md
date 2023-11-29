@@ -99,9 +99,11 @@ schedule:
     weekstart: "2023-12-04"
     links:
       - "E 12.10–12.14"
-      # - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-08-NP-Haerte-II.pdf)"
-      # - "[📽️ ???](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-a-???.mp4) [??? min]"
-      # - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-08-NP-Haerte-II.pdf)"
+      - "[📽️ Graphfärbung](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-a-Coloring.mp4) [13 min]"
+      - "[📽️ Hamiltonische Kreise](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-b-DirectedHamiltonianCycle.mp4) [20 min]"
+      - "[📽️ Teilmengensumme](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-c-SubsetSum.mp4) [19 min]"
+      - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
   - title: Berechnungsmodelle
     subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     weekstart: "2023-12-11"
