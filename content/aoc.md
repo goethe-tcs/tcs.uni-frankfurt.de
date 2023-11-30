@@ -16,7 +16,7 @@ Der *Advent of Code* eignet sich für Alle, die Lust auf Programmieren haben, eg
 
 ## Kick-Off am 1. Dezember 2023 {#kick-off}
 
-Wir treffen uns zum **Kick-Off am 1. Dezember 2023 um 13-14 Uhr** in Seminarraum 307 (Robert-Mayer-Straße 11-15, Frankfurt-Bockenheim), und hybrid via Videokonferenz: [[zoom-link](https://uni-frankfurt.zoom-x.de/j/69370857347?pwd=OWdUbDVKWEpwbzN0Nm5TLzB1QjhTZz09)].
+Wir treffen uns zum **Kick-Off am 1. Dezember 2023 um 13:15 - 14:00 Uhr** in Seminarraum 307 (Robert-Mayer-Straße 11-15, Frankfurt-Bockenheim), und hybrid via Videokonferenz: [[zoom-link](https://uni-frankfurt.zoom-x.de/j/69370857347?pwd=OWdUbDVKWEpwbzN0Nm5TLzB1QjhTZz09)].
 Wir wollen uns vernetzen und gemeinsam die ersten Puzzles lösen.
 
 ## Mitmachen
