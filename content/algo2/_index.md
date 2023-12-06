@@ -104,12 +104,24 @@ schedule:
       - "[📽️ Hamiltonische Kreise](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-b-DirectedHamiltonianCycle.mp4) [20 min]"
       - "[📽️ Teilmengensumme](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-c-SubsetSum.mp4) [19 min]"
       - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
-  - title: Berechnungsmodelle
-    subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
+  - title: Turingmaschinen
+    # subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     weekstart: "2023-12-11"
+    links:
+      - "[Kapitel 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-09-Turingmaschinen.pdf)"
+      - "[📽️ Turing-Maschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-a-tm-motivation_definition.mp4) [24 min]"
+      - "[📽️ Entscheidbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-b-entscheidbarkeit.mp4) [23 min]"
+      - "[📽️ Berechenbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-c-berechenbarkeit.mp4) [5 min]"
+      - "[📽️ Semi-Entscheidbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-d-semi-entscheidbarkeit.mp4) [10 min]"
+      - "[📽️ Variationen der Turing-Maschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-e-tm-variationen.mp4) [18 min]"
+      - "[📽️ Komplexität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-f-tm-komplexität.mp4) [9 min]"
+      - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week09-Turingmaschinen.pdf)"
   - title: Recap I
+    number: 0
     weekstart: "2023-12-18"
   - title: Berechenbarkeit
+    number: 10
     subtitle: Halteproblem, Satz von Rice
     weekstart: "2024-01-08"
   - title: Lineare Programmierung I
@@ -122,6 +134,7 @@ schedule:
     subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
     weekstart: "2024-01-29"
   - title: Recap II
+    number: 0
     weekstart: "2024-02-05"
 ---
 
