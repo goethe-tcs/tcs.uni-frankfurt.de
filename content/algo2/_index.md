@@ -124,15 +124,25 @@ schedule:
     number: 10
     subtitle: Halteproblem, Satz von Rice
     weekstart: "2024-01-08"
+    links:
+        - "[Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/models/07-undecidable.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
+        - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-10-Berechenbarkeit.pdf)"
+        - "[📽️ Entscheidbarkeit und Semientscheidbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-a-eigenschaften_entscheidbarkeit.mp4) [10 min]"
+        - "[📽️ Eine universelle Turingmaschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-b-universelle_turingmaschine.mp4) [19 min]"
+        - "[📽️ Eine unentscheidbare Sprache](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-c-unentscheidbare_sprache.mp4) [5 min]"
+        - "[📽️ Unentscheidbarkeit mittels Reduktion](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-d-reduktion_fuer_unentscheidbarkeit.mp4) [12 min]"
+        - "[📽️ Der Satz von Rice](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-e-satz_von_rice.mp4) [17 min]"
+        - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week10-Unentscheidbarkeit.pdf)"
+
+  - title: Algorithmen für NP-schwere Probleme
+    subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
+    weekstart: "2024-01-29"
   - title: Lineare Programmierung I
     subtitle: Konvexität, Polytope, Simplex-Algorithmus
     weekstart: "2024-01-15"
   - title: Lineare Programmierung II
     subtitle: Dualität, Integrale Lineare Programmierung
     weekstart: "2024-01-22"
-  - title: Algorithmen für NP-schwere Probleme
-    subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
-    weekstart: "2024-01-29"
   - title: Recap II
     number: 0
     weekstart: "2024-02-05"
