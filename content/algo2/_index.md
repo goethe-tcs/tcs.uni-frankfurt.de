@@ -21,16 +21,16 @@ schedule:
   - title: Einführung und All-Pairs Shortest Paths
     weekstart: "2023-10-16"
     links:
-      - "E 9.1, 9.2, 9.5, 9.6, 9.8"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-01-APSP.pdf)"
+      - "E 9.1, 9.2, 9.5, 9.6, 9.8"
       - "[📽️](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week01-APSP.mp4)"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week01-APSP.pdf)"
   - title: Network Flow I
     subtitle: Ford-Fulkerson, max-flow min-cut, capacity scaling, Edmonds-Karp
     weekstart: "2023-10-23"
     links:
-      - "E 10 (oder KT 7.1, 7.2, 7.3)"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-02-Netzwerkfluss-I.pdf)"
+      - "E 10 (oder KT 7.1, 7.2, 7.3)"
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1a.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1b.mp4)"
       - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week02-NF1c.mp4)"
@@ -41,8 +41,8 @@ schedule:
     subtitle: applications, maximum bipartite matching, disjoint paths
     weekstart: "2023-10-30"
     links:
-      - "E 11 (oder KT 7.3, 7.5, 7.6)"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-03-Netzwerkfluss-II.pdf)"
+      - "E 11 (oder KT 7.3, 7.5, 7.6)"
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-review.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week03-NF-applications.mp4)"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week03-NetworkFlowII.pdf)"
@@ -50,9 +50,9 @@ schedule:
     subtitle: Aggregationsmethode, Buchhaltungsmethode, Potentialmethode, Dynamische Tabellen, Stack mit MultiPop, Splay-Bäume
     weekstart: "2023-11-06"
     links:
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-04-Amortisierte-Analyse.pdf)"
       - "CLRS 17.4"
       - "Ericksons Director's Cut, [Kapitel 9](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/09-amortize.pdf) und [Kapitel 10.1, 10.5, 10.6](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/10-scapegoat-splay.pdf)"
-      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-04-Amortisierte-Analyse.pdf)"
       - "[📽️1](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-a-aggregate.mp4)"
       - "[📽️2](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-b-accounting.mp4)"
       - "[📽️3](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week04-c-stack.mp4)"
@@ -63,8 +63,8 @@ schedule:
     subtitle: Contention resolution, Minimum cut
     weekstart: "2023-11-13"
     links:
-      - "KT 13, 13.1, 13.2, 13.12"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
+      - "KT 13, 13.1, 13.2, 13.12"
       - "[📽️ Grundlagen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-a-probability.mp4) [13 min]"
       - "[📽️ Contention Resolution](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-b-contention-resolution.mp4) [19 min]"
       - "[📽️ Minimum Cut](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week05-c-minimum-cut.mp4) [24 min]"
@@ -73,8 +73,8 @@ schedule:
     subtitle: Selection, Quicksort
     weekstart: "2023-11-20"
     links:
-      - "KT 13.3, 13.5"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
+      - "KT 13.3, 13.5"
       - "[📽️ Erwartungswert](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-a-expectation.mp4) [23 min]"
       - "[📽️ Median und Select](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4) [13 min]"
       - "[📽️ Quicksort](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4) [10 min]"
@@ -83,8 +83,8 @@ schedule:
     # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
     weekstart: "2023-11-27"
     links:
-      - "E 12.1–12.9"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-07-NP-Haerte-I.pdf)"
+      - "E 12.1–12.9"
       - "[📽️ Motivation](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-a-Motivation.mp4) [8 min]"
       - "[📽️ CircuitSAT](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-b-CircuitSAT.mp4) [7 min]"
       - "[📽️ P versus NP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-c-P-versus-NP.mp4) [10 min]"
@@ -98,8 +98,8 @@ schedule:
     # subtitle: P, NP, NP-Vollständigkeit
     weekstart: "2023-12-04"
     links:
-      - "E 12.10–12.14"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-08-NP-Haerte-II.pdf)"
+      - "E 12.10–12.14"
       - "[📽️ Graphfärbung](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-a-Coloring.mp4) [13 min]"
       - "[📽️ Hamiltonische Kreise](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-b-DirectedHamiltonianCycle.mp4) [20 min]"
       - "[📽️ Teilmengensumme](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-c-SubsetSum.mp4) [19 min]"
@@ -108,8 +108,8 @@ schedule:
     # subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     weekstart: "2023-12-11"
     links:
-      - "[Kapitel 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-09-Turingmaschinen.pdf)"
+      - "[Kapitel 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
       - "[📽️ Turing-Maschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-a-tm-motivation_definition.mp4) [24 min]"
       - "[📽️ Entscheidbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-b-entscheidbarkeit.mp4) [23 min]"
       - "[📽️ Berechenbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-c-berechenbarkeit.mp4) [5 min]"
@@ -125,8 +125,8 @@ schedule:
     subtitle: Halteproblem, Satz von Rice
     weekstart: "2024-01-08"
     links:
-        - "[Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/models/07-undecidable.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
         - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-10-Berechenbarkeit.pdf)"
+        - "[Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/models/07-undecidable.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
         - "[📽️ Entscheidbarkeit und Semientscheidbarkeit](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-a-eigenschaften_entscheidbarkeit.mp4) [10 min]"
         - "[📽️ Eine universelle Turingmaschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-b-universelle_turingmaschine.mp4) [19 min]"
         - "[📽️ Eine unentscheidbare Sprache](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-c-unentscheidbare_sprache.mp4) [5 min]"
@@ -137,12 +137,44 @@ schedule:
   - title: Algorithmen für NP-schwere Probleme
     subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
     weekstart: "2024-01-29"
+    links:
+      - "Übungsblatt kommt noch"
+      - "[Notes J](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/J-approx.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
+      - "KT 10.1"
+      - "(ergänzend: **V** 12, 13.1, 1, 2; **KT** 11.4, 11.6; **CFKLMPPS** 3.1)"
+      - "[📽️ Approximationsalgorithmen für Vertex-Cover](https://cloud.tcs.uni-frankfurt.de/s/mtiBdFHHTa6Loiy) [4 min]"
+      - "[📽️ LP-Rundung, **E** J.6, J.2](https://cloud.tcs.uni-frankfurt.de/s/4knDibdeXNBAnA9) [15 min]"
+      - "[📽️ Randomisierte LP-Rundung, **E** J.7](https://cloud.tcs.uni-frankfurt.de/s/3C5cGo3zQ2WWkws) [8 min]"
+      - "[📽️ Gierige Algorithmen, **E** J.3, J.5](https://cloud.tcs.uni-frankfurt.de/s/wQznae6ABkSWz8k) [13 min]"
+      - "[📽️ Übersicht](https://cloud.tcs.uni-frankfurt.de/s/zLjAoJbLGLZPwCA) [2 min]"
+      - "[📽️ Approximationsalgorithmen für Load Balancing, **E** J.1](https://cloud.tcs.uni-frankfurt.de/s/tH664Y8e6rBs2r8) [24 min]"
+      - "[📽️ Exakter Bounded Search Tree Algorithmus für Vertex-Cover, **KT** 10.1](https://cloud.tcs.uni-frankfurt.de/s/PBnkAapNWLZrB38) [14 min]"
+      - "[**Gekritzel**](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week11-AlgorithmsForHardProblems.pdf)"
+
   - title: Lineare Programmierung I
-    subtitle: Konvexität, Polytope, Simplex-Algorithmus
     weekstart: "2024-01-15"
+    links:
+      - "Übungsblatt kommt noch"
+      - "[Notes I](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/I-simplex.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
+      - "[Linear Programming I](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingI.pdf) von Kevin Wayne"
+      - "[Linear Programming III](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingIII.pdf) von Kevin Wayne"
+      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
+      - "[📽️ LP Definition](https://cloud.tcs.uni-frankfurt.de/s/aYxRwaCEGwKXiYT) [12 min]"
+      - "[📽️ Zulässige und optimale Lösungen](https://cloud.tcs.uni-frankfurt.de/s/zqJ4dGJ2sTcqTkR) [22 min]"
+      - "[📽️ LP Algorithmen](https://cloud.tcs.uni-frankfurt.de/s/wpn6JDtmAbmXYMk) [17 min]"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week12-LP-I.pdf)"
+
   - title: Lineare Programmierung II
-    subtitle: Dualität, Integrale Lineare Programmierung
     weekstart: "2024-01-22"
+    links:
+      - "Übungsblatt kommt noch"
+      - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
+      - "[Linear Programming II](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingII.pdf) von Kevin Wayne"
+      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
+      - "[📽️ Primal und Dual LP](https://cloud.tcs.uni-frankfurt.de/s/RwniTb83bPFeXAf) [10 min]"
+      - "[📽️ Dualität](https://cloud.tcs.uni-frankfurt.de/s/bwKePa4cDDggqeG) [20 min]  [⛴](https://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)#Smart_ship_testbed)"
+      - "[📽️ (M)(I)LP Komplexität](https://cloud.tcs.uni-frankfurt.de/s/rjFiDnb26Znnqte) [20 min]"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week13-LP-II.pdf)"
   - title: Recap II
     number: 0
     weekstart: "2024-02-05"
