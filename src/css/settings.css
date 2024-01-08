@@ -21,11 +21,11 @@ $small: 640px;
   --font-size-medium: 1.272rem;
   --font-size-large: 1.618rem;
   --font-size-small: 0.786rem;
+}
 
-  /* font families */
-  --font-base: "Georgia", serif;
-  --font-alternate: "HelveticaNeue-Light", "Helvetica Neue Light",
-    "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
+html {
+  font-size: var(--font-size-base);
+  font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {

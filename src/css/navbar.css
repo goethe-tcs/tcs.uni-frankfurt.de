@@ -1,7 +1,6 @@
 header,
 footer {
   font-weight: 300;
-  font-family: var(--font-alternate);
 }
 
 header :any-link:not(.plain) {

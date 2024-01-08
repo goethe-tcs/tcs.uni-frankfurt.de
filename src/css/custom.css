@@ -27,7 +27,6 @@ h1 {
   font-weight: 600;
   font-size: var(--font-size-large);
   line-height: 1.2;
-  font-family: var(--font-alternate);
 }
 
 h2 {
