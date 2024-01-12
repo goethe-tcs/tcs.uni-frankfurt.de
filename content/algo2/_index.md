@@ -154,7 +154,7 @@ schedule:
   - title: Lineare Programmierung I
     weekstart: "2024-01-22"
     links:
-      - "Übungsblatt kommt noch"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-12-Lineare-Programmierung-I.pdf)"
       - "[Notes I](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/I-simplex.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
       - "[Linear Programming I](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingI.pdf) von Kevin Wayne"
       - "[Linear Programming III](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingIII.pdf) von Kevin Wayne"
@@ -167,7 +167,7 @@ schedule:
   - title: Lineare Programmierung II
     weekstart: "2024-01-29"
     links:
-      - "Übungsblatt kommt noch"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-13-Lineare-Programmierung-II.pdf)"
       - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
       - "[Linear Programming II](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingII.pdf) von Kevin Wayne"
       - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
