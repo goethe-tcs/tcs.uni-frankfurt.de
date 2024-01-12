@@ -136,9 +136,9 @@ schedule:
 
   - title: Algorithmen für NP-schwere Probleme
     subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
-    weekstart: "2024-01-29"
+    weekstart: "2024-01-15"
     links:
-      - "Übungsblatt kommt noch"
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-11-Fortgeschrittene-Algorithmen.pdf)"
       - "[Notes J](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/J-approx.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
       - "KT 10.1"
       - "(ergänzend: **V** 12, 13.1, 1, 2; **KT** 11.4, 11.6; **CFKLMPPS** 3.1)"
@@ -152,7 +152,7 @@ schedule:
       - "[**Gekritzel**](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week11-AlgorithmsForHardProblems.pdf)"
 
   - title: Lineare Programmierung I
-    weekstart: "2024-01-15"
+    weekstart: "2024-01-22"
     links:
       - "Übungsblatt kommt noch"
       - "[Notes I](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/I-simplex.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
@@ -165,7 +165,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week12-LP-I.pdf)"
 
   - title: Lineare Programmierung II
-    weekstart: "2024-01-22"
+    weekstart: "2024-01-29"
     links:
       - "Übungsblatt kommt noch"
       - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
