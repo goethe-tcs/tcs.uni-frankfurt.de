@@ -6,7 +6,7 @@ toc: yes
 
 ## PhD position (100%, 3+2 years) in TCS {#phd}
 
-We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting as soon as possible.
+We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting as soon as possible (likely April 1st).
 The research is going to be carried out under the supervision of [Holger Dell](/~dell).
 
 **Topics.**
@@ -59,7 +59,7 @@ Please also include as separate PDF files:
 - Your Bachelor thesis (if available)
 - Your Master thesis or a draft (if available)
 
-We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later.
+We will start reviewing applications on **Feb 1st, 2024** until the position is filled. Interviews will be held via video call in early Febuary.
 
 <!--
 ## Fully-funded PhD position (3 years) in ADYN research unit
