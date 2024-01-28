@@ -106,7 +106,7 @@ Please also include as separate PDF files:
 **The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 -->
 
-## E13 Position (75%, 16 months) as a Software Developer for Algo-Learn {#algo-learn}
+<!-- ## E13 Position (75%, 16 months) as a Software Developer for Algo-Learn {#algo-learn}
 
 We are excited to announce a position that combines modern front-end development with teaching algorithms: The _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
 The work is going to be carried out under the supervision of [Holger Dell](/~dell).
@@ -151,15 +151,15 @@ Please also include as separate PDF files:
 
 - Your most relevant piece of scientific writing (e.g., publication or thesis), where you have written most of the text.
 
-We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later.
+We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later. -->
 
-## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn {#algo-learn-hiwi}
+<!-- ## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn {#algo-learn-hiwi}
 
 If you are a student at Goethe University Frankfurt, enjoyed ALGO1, and have relevant programming experience, you can apply for a HiWi position to help develop the [Algo-Learn](https://tcs.uni-frankfurt.de/algo-learn) platform!
 It is an open-source project, and you can look at the source code here: [github.com/goethe-tcs/algo-learn](https://github.com/goethe-tcs/algo-learn).
 We expect that you work from the Bockenheim office for at least 5 hours per week, in the remaining hours you can also work remotely.
 Please apply by sending an informal email to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de).
-Please use "Algo-Learn HiWi" in the subject line, and include your motivation for applying, your grades in DISMOD, ALGO1, and ALGO2, as well as a short description of your relevant programming experience.
+Please use "Algo-Learn HiWi" in the subject line, and include your motivation for applying, your grades in DISMOD, ALGO1, and ALGO2, as well as a short description of your relevant programming experience. -->
 
 ## Applicants from Abroad
 
