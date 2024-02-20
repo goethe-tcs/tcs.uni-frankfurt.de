@@ -25,10 +25,10 @@
   url: /positions
   hiring: true
 
-# - name: You? We're hiring!
-#   position: 1x Front-end Developer for Algo-Learn
-#   url: /positions
-#   hiring: true
+- name: You? We're hiring!
+  position: 1x _Wiss. Mitarbeiter:in_ for Algo-Learn
+  url: /positions
+  hiring: true
 
 # - name: You? We're hiring!
 #   position: 2x HiWis for Algo-Learn

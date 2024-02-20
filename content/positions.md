@@ -106,52 +106,58 @@ Please also include as separate PDF files:
 **The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 -->
 
-<!-- ## E13 Position (75%, 16 months) as a Software Developer for Algo-Learn {#algo-learn}
+## Full-time position in the e-Learning Project Algo-Learn {#algo-learn}
 
-We are excited to announce a position that combines modern front-end development with teaching algorithms: The _Algo-Learn_ project of the Theoretical Computer Science group at Goethe University Frankfurt is seeking applications for an E13 position to develop an ambitious learning platform in Algorithms and Complexity. The position is commencing as soon as possible.
-The work is going to be carried out under the supervision of [Holger Dell](/~dell).
+The _Theoretical Computer Science_ group at Goethe University Frankfurt is looking for a computer scientist (or similar) with a passion for teaching algorithms to help develop our e-learning platform _Algo-Learn_. We offer a full-time or part-time position for 16 months. If necessary, the work can be done remotely from within Germany. Moreover, part of the time (25%) can be used for self-guided research either in theoretical computer science or in e-learning (but it is not a PhD position). The project is commencing as soon as possible and is going to be carried out under the supervision of Prof. [Holger Dell](/~dell).
+
 
 **Project Overview.**
-The project focuses on designing, developing, implementing, and evaluating exercise generators that cover foundational competencies in theoretical computer science and algorithms. The exercises will facilitate interactive problem-solving activities, providing students with hands-on experiences that can be used for practice and self-assessment. The role entails:
+The goal of the project is to develop a fun and interactive e-learning platform for typical undergraduate algorithms courses. The project focuses on designing exercises that facilitate interactive problem-solving activities, providing students with hands-on experiences that can be used for practice and self-assessment. The role entails:
 
-- Leading a team of student assistants who help develop and test the platform.
-- Crafting didactic objectives for each exercise generator.
-- Implementing these exercise generators using industry-standard tools, such as [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), and [Tailwind CSS](https://tailwindcss.com/).
+- Crafting didactic objectives for the platform.
+- Coding interactive exercises and visualizations.
 - Enhancing the learning experience, e.g., by incorporating gamification elements.
 - Ensuring rigorous quality assurance processes.
-- Collaboratively evaluating the didactic quality of tasks and the entire platform.
+- Leading a team of student assistants who help develop and test the platform.
+- Learning industry-standard web development tools, such as [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), and [Tailwind CSS](https://tailwindcss.com/).
 
 Our aim for the platform is to match the quality and style of Duolingo. Check out an [early prototype](https://tcs.uni-frankfurt.de/algo-learn/) and its [source code](https://github.com/goethe-tcs/algo-learn).
 
 **We Offer.**
 
-- A unique opportunity to shape the future of digital education in computer science.
-- Collaborative working environment.
-- The possibility to work on a fun and meaningful open-source project, while learning software development and leadership skills that are highly sought-after in industry.
-- Flexible working hours, with potential for remote work.
-- Part-time position with a competitive public-sector salary (30 hours/week, 75% E13, roughly 37k € gross per year).
+- The possibility to work on a fun and meaningful e-learning project.
+- Collaborative and fun working environment.
+- The opportunity to extend your software development and leadership skills.
+- Flexible working hours and location.
+- Full-time position with a competitive public-sector salary (40 hours/week, 100% E13, roughly 53k € gross per year). The position is also available part-time, please indicate your preference in your application.
+- 25% of your time can be used for self-guided research in theoretical computer science or in e-learning.
 
 **We Expect.**
 
-- Proven knowledge in algorithms and complexity, e.g., through publications, your thesis, or tutoring experience.
-- Proficiency in software development. Familiarity with front-end development is a plus.
+- A finished or almost finished Master's degree (or equivalent) in Computer Science, Mathematics, Physics, or similar.
+- Proven knowledge in algorithms and complexity, e.g., through your thesis or tutoring experience.
 - Capacity to lead a small team of student research assistants.
-- Professional proficiency in English; German skills are a plus but not mandatory.
+- Professional proficiency in English; German skills are a plus, but not mandatory.
+- Preexisting knowledge of web development is a plus, but not mandatory.
+- Working 3 days per week on-site in Frankfurt is a plus. If this is not possible for you, you must be willing to travel for occasional meetings. Moreover, for legal reasons, you must be registered in Germany, or be willing to move to Germany at least for the first few months of the project.
 
 **Apply.**
 
-Interested candidates are requested to compile their application and send it to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de). Your application should include **as a single PDF file**:
+Interested candidates are requested to compile their application and send it to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de). Please use "Algo-Learn" in the subject line. In the email body, please state:
 
-- A cover letter detailing your interest in the role and your relevant expertise.
-- Reference contacts: Names and contact details of at least two references.
-- Your detailed curriculum vitae.
-- Your transcripts of grades (both Bachelor and Master, if available).
+- Your interest in the role
+- Your relevant expertise
+- Whether you prefer a full-time or part-time position
+- Your earliest possible starting date
+- Whether you are willing to work on-site in Frankfurt
 
-Please also include as separate PDF files:
+In the attachment, please include **as PDF files**:
 
-- Your most relevant piece of scientific writing (e.g., publication or thesis), where you have written most of the text.
+- Detailed curriculum vitae.
+- Transcripts of grades (both Bachelor and Master, if available).
+- Most relevant piece of scientific writing (e.g., thesis or publication), where you have written most of the text.
 
-We will start reviewing applications on **October 31, 2023** until the position is filled. Interviews will be held via video call in November or later. -->
+We will start reviewing applications on **February 28, 2024** until the position is filled. Interviews will be held via video call in early March.
 
 <!-- ## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn {#algo-learn-hiwi}
 
