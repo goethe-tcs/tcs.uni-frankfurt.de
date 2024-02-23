@@ -251,6 +251,8 @@ Die Kursleitung ist nur über [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@un
 
 ## Klausur
 
+- **Klausureinsicht zur Erstklausur**: Für Reklamationen in den Freitextaufgaben erscheinen Sie bitte am 23. Februar von 13:00 bis 14:30 Uhr zu einem persönlichen Gespräch.
+  Dieses wird virtuell in folgendem Zoom-Raum statt: [Link](https://uni-frankfurt.zoom-x.de/j/61784403300?pwd=dUhtbEQ1R2R0UXZXSWxlQ05tZlc5Zz09)
 - **Anmeldung:** Die Anmeldung zu den Klausuren erfolgt ausschließlich über QIS.
 - **Erstklausur:** 13.02.2024
   - Die Klausur dauert drei Stunden und findet am Dienstag, 13.02.2024, im Zeitfenster zwischen 9:00 Uhr und 13:00 Uhr statt. Klausurbeginn 9:00, sein Sie bitte 15 Minuten vorher da.
