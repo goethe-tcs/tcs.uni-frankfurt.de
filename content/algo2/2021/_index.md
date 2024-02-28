@@ -49,23 +49,23 @@ schedule:
     links:
       - KT 13.3, 13.5
       - "[Übungsblatt](https://files.tcs.uni-frankfurt.de/algo2/2021/ALGO2-week06.pdf)"
-  - title: Hartnäckigkeit I
+  - title: NP-Vollständigkeit I
     subtitle: Sprachen, Polynomialzeitreduktionen
     links:
       - E 12, 12.1-12.3, 12.5-12.9
       - "[Übungsblatt](https://files.tcs.uni-frankfurt.de/algo2/2021/ALGO2-week07.pdf)"
-  - title: Hartnäckigkeit II
+  - title: NP-Vollständigkeit II
     subtitle: P, NP, NP-Vollständigkeit
     links:
       - E 12.10-12.14
       - "[Übungsblatt](https://files.tcs.uni-frankfurt.de/algo2/2021/ALGO2-week08.pdf)"
   - title: Recap I
-  - title: Turingmaschinen
+  - title: Berechenbarkeit I
     subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     links:
       - "[Kapitel 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
       - "[Übungsblatt](https://files.tcs.uni-frankfurt.de/algo2/2021/ALGO2-week10.pdf)"
-  - title: Berechenbarkeit
+  - title: Berechenbarkeit II
     subtitle: Halteproblem, Satz von Rice
     links:
       - "[Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/models/07-undecidable.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"

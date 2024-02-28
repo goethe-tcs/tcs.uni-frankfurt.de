@@ -79,7 +79,7 @@ schedule:
       - "[📽️ Median und Select](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-b-quickselect.mp4) [13 min]"
       - "[📽️ Quicksort](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week06-c-quicksort.mp4) [10 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week06-randomized-II.pdf)"
-  - title: NP-Härte I
+  - title: NP-Vollständigkeit I
     # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
     weekstart: "2023-11-27"
     links:
@@ -94,7 +94,7 @@ schedule:
       - "[📽️ Maximum Independent Set](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-g-MaxIndSet.mp4) [9 min]"
       - "[📽️ Maximum Clique, Minimum Vertex-Cover](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week07-h-Clique-VC.mp4) [9 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week07-NP-I.pdf)"
-  - title: NP-Härte II
+  - title: NP-Vollständigkeit II
     # subtitle: P, NP, NP-Vollständigkeit
     weekstart: "2023-12-04"
     links:
@@ -104,7 +104,7 @@ schedule:
       - "[📽️ Hamiltonische Kreise](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-b-DirectedHamiltonianCycle.mp4) [20 min]"
       - "[📽️ Teilmengensumme](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week08-c-SubsetSum.mp4) [19 min]"
       - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
-  - title: Turingmaschinen
+  - title: Berechenbarkeit I
     # subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
     weekstart: "2023-12-11"
     links:
@@ -120,7 +120,7 @@ schedule:
   - title: Recap I
     number: 0
     weekstart: "2023-12-18"
-  - title: Berechenbarkeit
+  - title: Berechenbarkeit II
     number: 10
     subtitle: Halteproblem, Satz von Rice
     weekstart: "2024-01-08"
