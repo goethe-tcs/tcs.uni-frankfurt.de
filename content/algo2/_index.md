@@ -251,15 +251,11 @@ Die Kursleitung ist nur über [algo2-2023@uni-frankfurt.de](mailto:algo2-2023@un
 
 ## Klausur
 
-- **Klausureinsicht zur Erstklausur**: Für Reklamationen in den Freitextaufgaben erscheinen Sie bitte am 23. Februar von 13:00 bis 14:30 Uhr zu einem persönlichen Gespräch.
-  Dieses wird virtuell in folgendem Zoom-Raum statt: [Link](https://uni-frankfurt.zoom-x.de/j/61784403300?pwd=dUhtbEQ1R2R0UXZXSWxlQ05tZlc5Zz09)
 - **Anmeldung:** Die Anmeldung zu den Klausuren erfolgt ausschließlich über QIS.
 - **Erstklausur:** 13.02.2024
-  - Die Klausur dauert drei Stunden und findet am Dienstag, 13.02.2024, im Zeitfenster zwischen 9:00 Uhr und 13:00 Uhr statt. Klausurbeginn 9:00, sein Sie bitte 15 Minuten vorher da.
-  - Die Klausur findet im Hörsaalgebäude Bockenheim statt.
-    - Letzte Ziffer der Matrikelnummer 0,1,2,3: in Hörsaal V
-    - Letzte Ziffer der Matrikelnummer 4,5,6,7,8,9: in Hörsaal VI
 - **Zweitklausur:** 26.03.2024
+  - Die Klausur dauert drei Stunden und findet am 26.03.2024 im Zeitfenster zwischen 9:00 Uhr und 13:00 Uhr statt. Klausurbeginn 9:00, sein Sie bitte 15 Minuten vorher da.
+  - Die Klausur findet im Hörsaalgebäude Bockenheim statt. Die Hörsaalzuordnung erfahren Sie spätestens am Tag vor der Klausur hier an dieser Stelle.
 - **Altklausuren.** [Dieses Verzeichnis](https://files.tcs.uni-frankfurt.de/algo2/exams/) enthält alle ALGO2-Klausuren samt Lösungsvorschlägen seitdem das Modul B-ALGO-2 in der aktuellen Form existiert.
 - **Bonuspunkte:** Es gibt keine "Bonuspunkte".
 
