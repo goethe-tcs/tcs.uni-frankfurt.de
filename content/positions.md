@@ -4,6 +4,9 @@ layout: single
 toc: yes
 ---
 
+There are currently no open positions in the TCS team at Goethe University Frankfurt.
+
+<!-- 
 ## PhD position (100%, 3+2 years) in TCS {#phd}
 
 We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting as soon as possible (likely April 1st).
@@ -59,7 +62,7 @@ Please also include as separate PDF files:
 - Your Bachelor thesis (if available)
 - Your Master thesis or a draft (if available)
 
-We will start reviewing applications on **Feb 1st, 2024** until the position is filled. Interviews will be held via video call in early Febuary.
+We will start reviewing applications on **Feb 1st, 2024** until the position is filled. Interviews will be held via video call in early Febuary. -->
 
 <!--
 ## Fully-funded PhD position (3 years) in ADYN research unit
@@ -106,7 +109,7 @@ Please also include as separate PDF files:
 **The application deadline is June 16, 2023, at 2pm Frankfurt time.** We hope that all interviews will be held via video call on June 22 between 10am and 5pm Frankfurt time. If the funding agency gives final approval, which is likely, then the position can start from July or later.
 -->
 
-## Full-time position in the e-Learning Project Algo-Learn {#algo-learn}
+<!-- ## Full-time position in the e-Learning Project Algo-Learn {#algo-learn}
 
 The _Theoretical Computer Science_ group at Goethe University Frankfurt is looking for a computer scientist (or similar) with a passion for teaching algorithms to help develop our e-learning platform _Algo-Learn_. We offer a full-time or part-time position for 16 months. If necessary, the work can be done remotely from within Germany. Moreover, part of the time (25%) can be used for self-guided research either in theoretical computer science or in e-learning (but it is not a PhD position). The project is commencing as soon as possible and is going to be carried out under the supervision of Prof. [Holger Dell](/~dell).
 
@@ -157,7 +160,7 @@ In the attachment, please include **as PDF files**:
 - Transcripts of grades (both Bachelor and Master, if available).
 - Most relevant piece of scientific writing (e.g., thesis or publication), where you have written most of the text.
 
-We will start reviewing applications on **February 28, 2024** until the position is filled. Interviews will be held via video call in early March.
+We will start reviewing applications on **February 28, 2024** until the position is filled. Interviews will be held via video call in early March. -->
 
 <!-- ## Two HiWi Positions (up to 40 hours per month) to help develop Algo-Learn {#algo-learn-hiwi}
 
@@ -169,8 +172,6 @@ Please use "Algo-Learn HiWi" in the subject line, and include your motivation fo
 
 ## Applicants from Abroad
 
-<!-- There are currently no open positions in the TCS team at Goethe University Frankfurt. -->
-
 If you're from abroad, you can apply for **scholarships** to join us:
 
 - Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
@@ -178,4 +179,4 @@ If you're from abroad, you can apply for **scholarships** to join us:
   - If you're an undergraduate student from India, you can apply for a [DAAD WISE scholarship](https://daad.de/go/en/stipa50015295) to join the group for a few months.
   - If you're an undergraduate student, a graduate student, or a PhD candidate from the USA, Canada, Britain, or Ireland, you can apply for a [DAAD RISE scholarship](https://www.daad.de/rise/en/) to join the group for a few months.
 
-Unfortunately, we cannot offer any financial support for research internships. However, if you have your own funding, you are welcome to apply for a research internship in our group!
+Unfortunately, we cannot offer any financial support for research internships. If you have your own funding, you are welcome to apply for a research internship in our group!
