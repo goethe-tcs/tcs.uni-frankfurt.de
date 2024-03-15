@@ -159,9 +159,9 @@ schedule:
       - "[Linear Programming I](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingI.pdf) von Kevin Wayne"
       - "[Linear Programming III](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingIII.pdf) von Kevin Wayne"
       - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
-      - "[📽️ LP Definition](https://cloud.tcs.uni-frankfurt.de/s/aYxRwaCEGwKXiYT) [12 min]"
-      - "[📽️ Zulässige und optimale Lösungen](https://cloud.tcs.uni-frankfurt.de/s/zqJ4dGJ2sTcqTkR) [22 min]"
-      - "[📽️ LP Algorithmen](https://cloud.tcs.uni-frankfurt.de/s/wpn6JDtmAbmXYMk) [17 min]"
+      - "[📽️ LP Definition](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-a-lp_definition.mp4) [12 min]"
+      - "[📽️ Zulässige und optimale Lösungen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-b-feasible_region_optimal_solutions.mp4) [22 min]"
+      - "[📽️ LP Algorithmen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-c-lp_algorithms.mp4) [17 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week12-LP-I.pdf)"
 
   - title: Lineare Programmierung II
@@ -171,9 +171,9 @@ schedule:
       - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
       - "[Linear Programming II](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingII.pdf) von Kevin Wayne"
       - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
-      - "[📽️ Primal und Dual LP](https://cloud.tcs.uni-frankfurt.de/s/RwniTb83bPFeXAf) [10 min]"
-      - "[📽️ Dualität](https://cloud.tcs.uni-frankfurt.de/s/bwKePa4cDDggqeG) [20 min]  [⛴](https://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)#Smart_ship_testbed)"
-      - "[📽️ (M)(I)LP Komplexität](https://cloud.tcs.uni-frankfurt.de/s/rjFiDnb26Znnqte) [20 min]"
+      - "[📽️ Primal und Dual LP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-a-primal_dual_lp.mp4) [10 min]"
+      - "[📽️ Dualität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-b-duality_theorems.mp4) [20 min]  [⛴](https://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)#Smart_ship_testbed)"
+      - "[📽️ (M)(I)LP Komplexität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-c-milp_complexity.mp4) [20 min]"
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week13-LP-II.pdf)"
   - title: Recap II
     number: 0
