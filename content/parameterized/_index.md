@@ -68,10 +68,11 @@ You will discover beautiful algorithmic techniques to develop algorithms that ar
 
 ## Organizational Details
 
-- **Time:** Tue/Wed/Thu 14-16
-- **Location:** in Bockenheim Hörsaalzentrum, H 3.
-- **Format:** in-person lectures and exercise groups
-- **Exam:** to be determined. Likely a project with an oral exam.
+- **First lecture:** April 16, 2024 at 14:15.
+- **Time:** Tue/Wed/Thu 14-16.
+- **Location:** Bockenheim Hörsaalzentrum, H 3.
+- **Format:** In-person lectures and exercises.
+- **Exam:** Mandatory take-home and in-class tests throughout the semester. The final exam is an oral exam.
 - **Time commitment:** 10 ECTS with 25h each = 250h. Subtracting 50 hours of exam preparation, we arrive at 14h per week. Of these, 4h are lectures, 2h are exercise groups, and 8h are self-study.
 
 ## Learning goals
