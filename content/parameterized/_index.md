@@ -68,11 +68,18 @@ You will discover beautiful algorithmic techniques to develop algorithms that ar
 
 ## Organizational Details
 
+- **Moodle:** Please register at the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259), all further communication will be done there.
 - **First lecture:** April 16, 2024 at 14:15.
 - **Time:** Tue/Wed/Thu 14-16.
 - **Location:** Bockenheim Hörsaalzentrum, H 3.
-- **Format:** In-person lectures and exercises.
-- **Exam:** Mandatory take-home and in-class tests throughout the semester. The final exam is an oral exam.
+- **Format:** In-person lectures and tutorials.
+- **Mandatory activities:** Mandatory exercises, in-class tests, hand-in assignments, and oral presentations throughout the semester. For each activity, you will receive constructive feedback and an evaluation according to the [EMRN rubric](/images/EMRN-rubric-2020.png).
+  - **Exercises.** Every week, you will work on a set of exercises. The solutions will be discussed each Tuesday. The solutions are not directly graded, but they are a prerequisite for the in-class tests.
+  - **In-class tests.** During the semester, you will write six in-class tests, typically on a Wednesday. The tests ask you to reproduce some parts of the material of the preceding two weeks. To be admitted to the exam, you must earn at least *Meets Expectations* in five of the tests.
+  - **Hand-in assignments.** You will hand in solutions to two assignments during the course. You can discuss the solutions beforehand, but you are not allowed to share the writing. The point of this activity is to train you to use precise formal mathematical language and reasoning, so your solution must be as formal and complete as you are able, and it must be written in LaTeX using this LaTeX-template: [https://github.com/goethe-tcs/note-template](github.com/goethe-tcs/note-template). To be admitted to the exam, you must submit two written solutions and receive at least *Meets Expectations* on both submissions.
+  - **Oral presentations.** You must present at least one solution to an exercise during the tutorial session, and you must present at least one topic from the lecture (typically a proof from the book). Blackboard presentations are welcome. To be admitted to the exam, you must receive at least *Meets Expectations* on both presentations.
+  - **Revisions.** If you received *Revision Needed* in an activity, you can still earn *Meets Expectations* by revising your answers in writing - we discuss your revision orally and your evaluation may get updated. If you receive *Not Assessable*, you must individually meet with the senior staff to discuss your learning progress, and you will be re-assessed on the same material at a later point during the semester.
+- **Exam:** The final exam is an oral exam.
 - **Time commitment:** 10 ECTS with 25h each = 250h. Subtracting 50 hours of exam preparation, we arrive at 14h per week. Of these, 4h are lectures, 2h are exercise groups, and 8h are self-study.
 
 ## Learning goals
