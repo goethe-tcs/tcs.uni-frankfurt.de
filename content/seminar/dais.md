@@ -24,8 +24,8 @@ This is because attending all sessions of the research colloquium [Discrete Algo
 
 ## Organization
 
-- **Time:** During the semester, every Friday at 13-15h, in-person.
-- **Location:** Bockenheim Hörsaalzentrum, H 3. _Important: Several sessions will take place in Mainz or Darmstadt!_
+- **Time:** During the semester, Fridays at 13h or at 14h, in-person.
+- **Location:** Room 307, Robert-Mayer-Straße 11-15, 60325 Frankfurt am Main. _Important: Several sessions will take place in Mainz or Darmstadt!_
 
 ## Required activities
 

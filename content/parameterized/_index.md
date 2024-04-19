@@ -75,7 +75,7 @@ You will discover beautiful algorithmic techniques to develop algorithms that ar
 - **Moodle:** Please register at the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259), all further communication will be done there.
 - **First lecture:** April 16, 2024 at 14:15.
 - **Time:** Tue/Wed/Thu 14-16.
-- **Location:** Bockenheim Hörsaalzentrum, H 3.
+- **Location:** Room 307, Robert-Mayer-Straße 11-15, 60325 Frankfurt am Main.
 - **Format:** In-person lectures and tutorials.
 - **Mandatory activities:** The course has mandatory activities! They are required to be admitted to the exam. For each activity, you will receive constructive feedback and an evaluation according to the [EMRN rubric](/images/EMRN-rubric-2020.png). Moreover, you get several chances to be reassessed if you did not meet the expectations the first time.
   - **Exercises.** Every week, you will work on a problem set. You can discuss the solutions in groups beforehand, but you are not allowed to share the writing. Some problems are marked with ‼️. It is mandatory to hand in these solutions on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259) by the following Monday at 14:00. They will be graded, but you may get the chance to revise your answers. To be admitted to the exam, you must eventually prove to us that you are at the level of *Meets Expectations* in **every** marked exercise.
