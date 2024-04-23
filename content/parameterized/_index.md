@@ -7,7 +7,11 @@ kürzel:
   - program: "Master"
     modul: "M-AfgD-12-K"
     veranstaltung: "FPA12"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=372653&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+links:
+  - name: QIS
+    url: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=372653&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+  - name: Moodle
+    url: https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259
 toc: yes
 layout: single
 aliases:
@@ -68,10 +72,20 @@ You will discover beautiful algorithmic techniques to develop algorithms that ar
 
 ## Organizational Details
 
-- **Lectures & Exercises**: Tue/Wed/Thu 14-16 (subject to change)
-- **Format**: in-person lectures and exercise groups
-- **Exam**: to be determined. Likely a project with an oral exam.
-- **Time commitment**: 10 ECTS with 25h each = 250h. Subtracting 50 hours of exam preparation, we arrive at 14h per week. Of these, 4h are lectures, 2h are exercise groups, and 8h are self-study.
+- **Moodle:** Please register at the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259), all further communication will be done there.
+- **First lecture:** April 16, 2024 at 14:15.
+- **Time:** Tue/Wed/Thu 14-16.
+- **Location:** Room 307, Robert-Mayer-Straße 11-15, 60325 Frankfurt am Main.
+- **Format:** In-person lectures and tutorials.
+- **Mandatory activities:** The course has mandatory activities! They are required to be admitted to the exam. For each activity, you will receive constructive feedback and an evaluation according to the [EMRN rubric](/images/EMRN-rubric-2020.png). Moreover, you get several chances to be reassessed if you did not meet the expectations the first time.
+  - **Exercises.** Every week, you will work on a problem set. You can discuss the solutions in groups beforehand, but you are not allowed to share the writing. Some problems are marked with ‼️. It is mandatory to hand in these solutions on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259) by the following Monday at 14:00. They will be graded, but you may get the chance to revise your answers. To be admitted to the exam, you must eventually prove to us that you are at the level of *Meets Expectations* in **every** marked exercise.
+  - **Formal writing.** On the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259), you must hand in two solutions for any non-trivial problem of your choice (most likely from the problem sets). In this activity, we will place a much higher standard at the formality of your writing. You should use very precise formal mathematical language and reasoning, so your solution must be as formal and complete as you are able, and it must be written in LaTeX using this LaTeX-template: [https://github.com/goethe-tcs/note-template](github.com/goethe-tcs/note-template). To be admitted to the exam, you must submit two written solutions and receive at least *Meets Expectations* on both submissions.
+  - **Oral presentations.** We expect that you present several times throughout the semester. For example, you must present at least twice a solution to an exercise during the tutorial session, and at least once a topic from the lecture (typically a proof from the book). Blackboard presentations are welcome. To be admitted to the exam, you must receive at least *Meets Expectations* on two presentations.
+  - **Revisions.** If you received *Revision Needed* in an activity, you can still earn *Meets Expectations* by revising your answers in writing - we discuss your revision orally and your evaluation may get updated. If you receive *Not Assessable*, you must individually meet with the senior staff to discuss your learning progress, and you will be re-assessed on the same material (likely with a different task) at a later point during the semester.
+- **Exam:** The final exam is an oral exam. Since you are only admitted to the exam if you have completed all mandatory activities, the purpose of the oral exam is to verify that (1) your submissions are your own work, and (2) that you can explain important concepts and proofs that were covered in the lectures.
+- **Time commitment:** 10 ECTS with 25h each = 250h. Subtracting 50 hours of exam preparation, we arrive at 14h per week. Of these, 4h are lectures, 2h are exercise groups, and 8h are self-study.
+
+<!-- - **In-class tests.** During the semester, you will write six in-class tests, typically on a Wednesday. The tests ask you to reproduce some parts of the material of the preceding two weeks. To be admitted to the exam, you must earn at least *Meets Expectations* in five of the tests. -->
 
 ## Learning goals
 
