@@ -112,10 +112,12 @@ In particular:
 Implementation projects have some or all of the following components:
 
 - Must-read: Chapters 1 and 2 of McGeoch (2012). *A Guide to Experimental Algorithmics*. [[full text in the library](https://ubffm.hds.hebis.de/Record/HEB418724474)]
+- One of the most important aspects of the thesis is that your hypotheses are made explicit, and that the experimental setup is discussed separately from the experimental results.
 - Formulate your hypotheses:
   - “When executing our implementation on inputs X Y Z, we will measure a running time O(2^k n).”
   - “Reduction rule X reduces graphs more than reduction rule Y.“
   - “For graphs of at most 20 nodes, the adjacency matrix representation is faster for algorithm Z than the adjacency list representation.”
+- Before you continue, think of at most 3 concrete plots that could best validate or falsify your hypotheses. Your experiments will work towards creating these plots, and your thesis will work towards interpreting them.
 - Design suitable experiments to test your hypotheses. For example:
   - Which factors does the experiment have (e.g., input parameters n and k, input instances, algorithm parameters, used data structures, ...)
   - Which combination of factors will you test and how? (e.g., fully factorial, doubling, ...)
