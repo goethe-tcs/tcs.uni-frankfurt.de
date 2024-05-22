@@ -4,12 +4,11 @@ layout: single
 toc: yes
 ---
 
-There are currently no open positions in the TCS team at Goethe University Frankfurt.
+<!-- There are currently no open positions in the TCS team at Goethe University Frankfurt. -->
 
-<!-- 
 ## PhD position (100%, 3+2 years) in TCS {#phd}
 
-We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting as soon as possible (likely April 1st).
+We are excited to announce an open PhD position in the research group _Theoretical Computer Science_ at Goethe University Frankfurt, starting on October 1st, 2024.
 The research is going to be carried out under the supervision of [Holger Dell](/~dell).
 
 **Topics.**
@@ -50,19 +49,19 @@ Our research group uses rigorous mathematical proofs, not empirical evaluations 
 - Professional level of English in both speaking and writing. (German is not necessary.)
 
 **Apply.**
-Please compile your application and e-mail it to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de). Your application should include **as a single PDF file**:
+Please compile your application and e-mail it to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de) as follows:
 
-- A cover letter, indicating why you are interested in this particular position and what you can contribute in terms of your skills and interests. (This can be a short text and should be as concrete as possible.)
-- The names and contact details of one or two references.
+- Your email should use the subject "Application PhD October 2024"
+- Your email text should be an informal cover letter, indicating why you are interested in this particular position and what skills you can contribute to the research topics listed above. (This should be a short text and as concrete as possible.)
+
+Please also include as **PDF files**:
+
 - Your curriculum vitae.
 - Your transcripts of grades (both Bachelor and Master).
-
-Please also include as separate PDF files:
-
 - Your Bachelor thesis (if available)
 - Your Master thesis or a draft (if available)
 
-We will start reviewing applications on **Feb 1st, 2024** until the position is filled. Interviews will be held via video call in early Febuary. -->
+We will start reviewing applications on **June 17th, 2024** until the position is filled. Interviews will be held via video call.
 
 <!--
 ## Fully-funded PhD position (3 years) in ADYN research unit
