@@ -19,49 +19,73 @@ aliases:
 schedule:
   - title: "Introduction to Parameterized Algorithms"
     subtitle: "Vertex-Cover, Kernelization"
+    weekstart: "2024-04-15"
     links:
       - "Cygan et al., Chapter 1+2"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-01.pdf)"
   - title: "Bounded-search trees"
+    weekstart: "2024-04-22"
     links:
       - "Cygan et al., Chapter 3"
-  - title: "Iterative Compression"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-02.pdf)"
+  - title: "Iterative Compression and Randomized Algorithms"
+    weekstart: "2024-04-29"
     links:
       - "Cygan et al., Chapter 4"
-  - title: "Randomized Algorithms"
-    links:
       - "Cygan et al., Chapter 5"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-03.pdf)"
   - title: "Dynamic Programming Techniques"
     subtitle: "Pathwidth, Treewidth, Tree Decompositions, Courcelle's Theorem"
+    weekstart: "2024-05-06"
     links:
       - "Cygan et al., Chapter 7"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-04.pdf)"
   - title: "Treewidth"
     subtitle: "Computing Treewidth, Cops and Robber, Graph Minor Theorem, Win/Win-Algorithms"
+    weekstart: "2024-05-13"
     links:
       - "Cygan et al., Chapter 7"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-05.pdf)"
   - title: "Algebraic Algorithms I"
     subtitle: "Inclusion-Exclusion, Möbius Transform, Subset Convolution"
+    weekstart: "2024-05-20"
     links:
       - "Cygan et al., Chapter 10"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-06.pdf)"
   - title: "Algebraic Algorithms II"
-    subtitle: "k-Path`"
+    subtitle: "k-Path"
+    weekstart: "2024-05-27"
     links:
       - "Cygan et al., Chapter 10"
+      - "[Problem set](https://goethe-tcs.github.io/fpa-2024-exercises/FPA-Exercises-07.pdf)"
+  - title: "Recap"
+    subtitle: "no new material"
+    weekstart: "2024-06-03"
   - title: "Fixed-Parameter Intractability"
     subtitle: "Parameterized reductions, Clique, Independent Set, Vertex Cover, W-Hierarchy"
+    weekstart: "2024-06-10"
     links:
       - "Cygan et al., Chapter 13"
   - title: "Introduction to Fine-grained Complexity"
     subtitle: "Schoening's Algorithm for k-CNF-SAT, Strong Exponential Time Hypothesis (SETH), Orthogonal Vectors"
+    weekstart: "2024-06-17"
     links:
       - "Bringmann/Künnemann, Chapter 1+2"
   - title: "The Polynomial Method"
     subtitle: "Fast Matrix Multiplication, Fast Multivariate Polynomial Evaluation, Razborov/Smolensky"
+    weekstart: "2024-06-24"
     links:
       - "Bringmann/Künnemann, Chapter 4"
   - title: "The Polynomial Method for APSP"
+    weekstart: "2024-07-01"
     links:
       - "Bringmann/Künnemann, Chapter 5"
-  - title: "Review of the Semester"
+  - title: "TBD"
+    subtitle: "to be determined"
+    weekstart: "2024-07-08"
+  - title: "Final Week"
+    subtitle: "no new material"
+    weekstart: "2024-07-15"
 ---
 
 ## Contents
