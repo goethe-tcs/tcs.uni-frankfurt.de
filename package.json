@@ -17,30 +17,30 @@
     "upload": "rsync --update -lrvz --progress --delete public/ tcs.uni-frankfurt.de:/var/www/html/tcs.uni-frankfurt.de/"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/fontawesome-free": "^6.5.2",
     "academicons": "^1.9.2",
-    "autoprefixer": "^10.4.18",
+    "autoprefixer": "^10.4.19",
     "concurrently": "^8.2.2",
-    "daisyui": "^4.7.3",
-    "katex": "^0.16.9",
-    "postcss": "^8.4.35",
+    "daisyui": "^4.11.1",
+    "katex": "^0.16.10",
+    "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
-    "postcss-html": "^1.6.0",
-    "postcss-import": "^16.0.1",
+    "postcss-html": "^1.7.0",
+    "postcss-import": "^16.1.0",
     "postcss-scss": "^4.0.9",
     "postcss-simple-vars": "^7.0.1",
     "postcss-syntax": "^0.36.2",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.3"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
-    "prettier-plugin-css-order": "^2.0.1",
+    "prettier-plugin-css-order": "^2.1.2",
     "prettier-plugin-go-template": "^0.0.15",
-    "prettier-plugin-tailwindcss": "^0.5.12",
+    "prettier-plugin-tailwindcss": "^0.5.14",
     "standard": "^17.1.0",
-    "stylelint": "^16.2.1",
-    "stylelint-config-standard-scss": "^13.0.0",
-    "stylelint-scss": "^6.2.1"
+    "stylelint": "^16.6.0",
+    "stylelint-config-standard-scss": "^13.1.0",
+    "stylelint-scss": "^6.3.0"
   },
   "stylelint": {
     "extends": [
