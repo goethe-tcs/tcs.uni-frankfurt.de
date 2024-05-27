@@ -4,7 +4,6 @@ ects: "8"
 sws: "3V, 2Ü"
 aliases:
   - "/algo2/2024"
-  - "/algo2/2024/"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"
@@ -19,8 +18,10 @@ toc: yes
 layout: single
 lang: de
 schedule:
-  - title: Einführung und All-Pairs Shortest Paths
-    weekstart: "2023-10-16"
+  - title: Einführung
+    weekstart: "2024-10-14"
+  - title: All-Pairs Shortest Paths
+    weekstart: "2024-10-21"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-01-APSP.pdf)"
       - "E 9.1, 9.2, 9.5, 9.6, 9.8"
@@ -28,7 +29,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week01-APSP.pdf)"
   - title: Network Flow I
     subtitle: Ford-Fulkerson, max-flow min-cut, capacity scaling, Edmonds-Karp
-    weekstart: "2023-10-23"
+    weekstart: "2024-10-28"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-02-Netzwerkfluss-I.pdf)"
       - "E 10 (oder KT 7.1, 7.2, 7.3)"
@@ -40,7 +41,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week02-NetworkFlowI.pdf)"
   - title: Network Flow II
     subtitle: applications, maximum bipartite matching, disjoint paths
-    weekstart: "2023-10-30"
+    weekstart: "2024-11-04"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-03-Netzwerkfluss-II.pdf)"
       - "E 11 (oder KT 7.3, 7.5, 7.6)"
@@ -49,7 +50,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week03-NetworkFlowII.pdf)"
   - title: Amortisierte Analyse von Datenstrukturen
     subtitle: Aggregationsmethode, Buchhaltungsmethode, Potentialmethode, Dynamische Tabellen, Stack mit MultiPop, Splay-Bäume
-    weekstart: "2023-11-06"
+    weekstart: "2024-11-11"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-04-Amortisierte-Analyse.pdf)"
       - "CLRS 17.4"
@@ -62,7 +63,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week04-Amortized.pdf)"
   - title: Randomisierte Algorithmen I
     subtitle: Contention resolution, Minimum cut
-    weekstart: "2023-11-13"
+    weekstart: "2024-11-18"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-05-Randomisierte-Algorithmen-I.pdf)"
       - "KT 13, 13.1, 13.2, 13.12"
@@ -72,7 +73,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week05-randomized-I.pdf)"
   - title: Randomisierte Algorithmen II
     subtitle: Selection, Quicksort
-    weekstart: "2023-11-20"
+    weekstart: "2024-11-25"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-06-Randomisierte-Algorithmen-II.pdf)"
       - "KT 13.3, 13.5"
@@ -82,7 +83,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week06-randomized-II.pdf)"
   - title: NP-Vollständigkeit I
     # subtitle: Sprachen, Polynomialzeitreduktionen, P, NP, CircuitSAT, 3SAT, Independent Set, Clique, Vertex-Cover
-    weekstart: "2023-11-27"
+    weekstart: "2024-12-02"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-07-NP-Haerte-I.pdf)"
       - "E 12.1–12.9"
@@ -97,7 +98,7 @@ schedule:
       - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week07-NP-I.pdf)"
   - title: NP-Vollständigkeit II
     # subtitle: P, NP, NP-Vollständigkeit
-    weekstart: "2023-12-04"
+    weekstart: "2024-12-09"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-08-NP-Haerte-II.pdf)"
       - "E 12.10–12.14"
@@ -107,7 +108,7 @@ schedule:
       - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week08-NP-II.pdf)"
   - title: Berechenbarkeit I
     # subtitle: Endliche Automaten, Turing-Maschinen, Nicht-Determinismus, starke Church-Turing Hypothese, Word-RAM
-    weekstart: "2023-12-11"
+    weekstart: "2024-12-16"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-09-Turingmaschinen.pdf)"
       - "[Kapitel 6](https://jeffe.cs.illinois.edu/teaching/algorithms/models/06-turing-machines.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
@@ -118,13 +119,9 @@ schedule:
       - "[📽️ Variationen der Turing-Maschine](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-e-tm-variationen.mp4) [18 min]"
       - "[📽️ Komplexität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week09-f-tm-komplexität.mp4) [9 min]"
       - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week09-Turingmaschinen.pdf)"
-  - title: Recap I
-    number: 0
-    weekstart: "2023-12-18"
   - title: Berechenbarkeit II
-    number: 10
     subtitle: Halteproblem, Satz von Rice
-    weekstart: "2024-01-08"
+    weekstart: "2025-01-13"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-10-Berechenbarkeit.pdf)"
       - "[Kapitel 7](https://jeffe.cs.illinois.edu/teaching/algorithms/models/07-undecidable.pdf) in Ericksons [_Models of Computation_](https://jeffe.cs.illinois.edu/teaching/algorithms/#models)"
@@ -135,9 +132,34 @@ schedule:
       - "[📽️ Der Satz von Rice](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week10-e-satz_von_rice.mp4) [17 min]"
       - "[Gekritzel](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week10-Unentscheidbarkeit.pdf)"
 
+  - title: Lineare Programmierung I
+    weekstart: "2025-01-20"
+    links:
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-12-Lineare-Programmierung-I.pdf)"
+      - "[Notes I](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/I-simplex.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
+      - "[Linear Programming I](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingI.pdf) von Kevin Wayne"
+      - "[Linear Programming III](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingIII.pdf) von Kevin Wayne"
+      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
+      - "[📽️ LP Definition](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-a-lp_definition.mp4) [12 min]"
+      - "[📽️ Zulässige und optimale Lösungen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-b-feasible_region_optimal_solutions.mp4) [22 min]"
+      - "[📽️ LP Algorithmen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-c-lp_algorithms.mp4) [17 min]"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week12-LP-I.pdf)"
+
+  - title: Lineare Programmierung II
+    weekstart: "2025-02-27"
+    links:
+      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-13-Lineare-Programmierung-II.pdf)"
+      - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
+      - "[Linear Programming II](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingII.pdf) von Kevin Wayne"
+      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
+      - "[📽️ Primal und Dual LP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-a-primal_dual_lp.mp4) [10 min]"
+      - "[📽️ Dualität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-b-duality_theorems.mp4) [20 min]  [⛴](https://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)#Smart_ship_testbed)"
+      - "[📽️ (M)(I)LP Komplexität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-c-milp_complexity.mp4) [20 min]"
+      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week13-LP-II.pdf)"
+
   - title: Algorithmen für NP-schwere Probleme
     subtitle: Approximationsalgorithmen für Vertex-Cover durch LP-Relaxierung, Randomisiertes Runden, Greedy; FPT-Algorithmus für Vertex-Cover durch Bounded Search Trees
-    weekstart: "2024-01-15"
+    weekstart: "2025-02-03"
     links:
       - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-11-Fortgeschrittene-Algorithmen.pdf)"
       - "[Notes J](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/J-approx.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
@@ -151,34 +173,8 @@ schedule:
       - "[📽️ Approximationsalgorithmen für Load Balancing, **E** J.1](https://cloud.tcs.uni-frankfurt.de/s/tH664Y8e6rBs2r8) [24 min]"
       - "[📽️ Exakter Bounded Search Tree Algorithmus für Vertex-Cover, **KT** 10.1](https://cloud.tcs.uni-frankfurt.de/s/PBnkAapNWLZrB38) [14 min]"
       - "[**Gekritzel**](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week11-AlgorithmsForHardProblems.pdf)"
-
-  - title: Lineare Programmierung I
-    weekstart: "2024-01-22"
-    links:
-      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-12-Lineare-Programmierung-I.pdf)"
-      - "[Notes I](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/I-simplex.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
-      - "[Linear Programming I](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingI.pdf) von Kevin Wayne"
-      - "[Linear Programming III](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingIII.pdf) von Kevin Wayne"
-      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
-      - "[📽️ LP Definition](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-a-lp_definition.mp4) [12 min]"
-      - "[📽️ Zulässige und optimale Lösungen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-b-feasible_region_optimal_solutions.mp4) [22 min]"
-      - "[📽️ LP Algorithmen](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week12-c-lp_algorithms.mp4) [17 min]"
-      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week12-LP-I.pdf)"
-
-  - title: Lineare Programmierung II
-    weekstart: "2024-01-29"
-    links:
-      - "[Übungsblatt](https://goethe-tcs.github.io/algo2-exercises/ALGO2-Blatt-13-Lineare-Programmierung-II.pdf)"
-      - "[Notes H](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/H-lp.pdf) von Ericksons [Extended Lecture Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)"
-      - "[Linear Programming II](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/LinearProgrammingII.pdf) von Kevin Wayne"
-      - "[Linear Programming and Polyhedral Combinatorics](https://math.mit.edu/~goemans/18433S13/polyhedral.pdf) von Michel Goemans"
-      - "[📽️ Primal und Dual LP](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-a-primal_dual_lp.mp4) [10 min]"
-      - "[📽️ Dualität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-b-duality_theorems.mp4) [20 min]  [⛴](https://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)#Smart_ship_testbed)"
-      - "[📽️ (M)(I)LP Komplexität](https://files.tcs.uni-frankfurt.de/algo2/vid/ALGO2-week13-c-milp_complexity.mp4) [20 min]"
-      - "[Folien](https://files.tcs.uni-frankfurt.de/algo2/ALGO2-week13-LP-II.pdf)"
-  - title: Recap II
-    number: 0
-    weekstart: "2024-02-05"
+  - title: Abschluss
+    weekstart: "2025-02-10"
 ---
 
 ## Organisatorisches
@@ -200,9 +196,9 @@ schedule:
 
 Der Kurs findet als _Flipped Classroom_ statt, das heißt:
 
-- **Eigenständige Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
-- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden und Professor oder Dozent:in): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen und Lösungsspaziergänge. _Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen._
-- **„Tutorium“** (in kleinen Gruppen mit Tutor:in): Individuelles Feedback, betreute Präsenzübungen und schriftliche Projekte. _Diese Präsenzzeit findet ausschließlich im Seminarraum statt und wird nicht hybrid übertragen._
+- **Vorbereitung**: Video der Woche, Buchkapitel und erste Übungen durcharbeiten.
+- **„Plenum“** (Dienstag und Donnerstag, 8:15–9:30 in Hörsaal VI, mit allen Studierenden): Fragen & Antworten, Quizze, Kurzpräsentationen, Präsenzübungen, Minitests und Lösungsspaziergänge. _Diese Präsenzzeit findet ausschließlich im Hörsaal statt und wird nicht hybrid übertragen._
+- **„Tutorium“** (in kleinen Gruppen): Individuelles Feedback. _Diese Präsenzzeit findet ausschließlich im Seminarraum statt und wird nicht hybrid übertragen._
 - **Lernzentrum**: Das [Ingo Wegner-Lernzentrum](https://www.tinygu.de/lz-inf) hat flexible Öffnungszeiten und bietet fachliche Beratung zu den Lerninhalten von ALGO-2 an. Einfach ohne Anmeldung hineinschauen!
 
 ## Notenrelevante Übungsaufgaben
@@ -210,7 +206,7 @@ Der Kurs findet als _Flipped Classroom_ statt, das heißt:
 Während des Semesters werden Übungsaufgaben angeboten, die für deine Modulnote relevant sind:
 
 - **20 Standardaufgaben**, die in regelmäßigen Minitests im Hörsaal und ohne Hilfsmittel überprüft werden. Jede Standardaufgabe wird im Semesterverlauf _dreimal_ angeboten. Du hast also mehrere Chancen, das zugehörige Lernziel zu erreichen.
-- **10 Vertiefungsaufgaben**, an denen du mit anderen Studierenden knobeln kannst, aber die du eigenständig aufschreiben und abgeben musst. Falls deine Abgabe nicht zufriedenstellend war, kannst du es beliebig oft neu versuchen. Allerdings kannst du jede Woche nur bis zu zwei Vertiefungsaufgaben abgeben (z.B. eine neue Abgabe und eine überarbeitete Abgabe). Nach dem 14. Februar 2025 ist keine Abgabe mehr möglich!
+- **10 Vertiefungsaufgaben**, an denen du knobeln kannst, und die du eigenständig aufschreiben und abgeben musst. Falls deine Abgabe nicht zufriedenstellend war, kannst du es beliebig oft neu versuchen. Allerdings kannst du jede Woche nur bis zu zwei Vertiefungsaufgaben abgeben (z.B. eine neue Abgabe und eine überarbeitete Abgabe). Nach dem 14. Februar 2025 ist keine Abgabe mehr möglich!
 
 Jede abgegebene Lösung wird vom Vorlesungsteam mit _zufriedenstellend_ oder _nicht zufriedenstellend_ bewertet.
 Um _zufriedenstellend_ zu erreichen, darf kein Zweifel daran bestehen, dass du das Lernziel erreicht hast (_zufriedenstellend_ entspricht also in etwa der Notenstufe _gut_).
@@ -220,8 +216,9 @@ Bei Vertiefungsaufgaben gibt es zusätzlich die Auszeichnung _exzellent_ für be
 
 Deine Abgaben zu Vertiefungsaufgaben müssen folgende Anforderungen erfüllen, damit sie bewertet werden:
 
-- **Eigenständigkeit.** Du musst die Aufgabe eigenständig lösen und aufschreiben. Unter keinen Umständen ist es zulässig, deine schriftliche Lösung anderen zu zeigen oder von anderen abzuschreiben, auch nicht in Auszügen. Falls Plagiate entdeckt werden, führt dies für alle betroffenen Studierenden zum sofortigen Ausschluss aus der Veranstaltung. Abschreiben ist auch gar nicht nötig, da du beliebig viele Versuche hast, um dich zu verbessern, und die Abgaben nicht zum Bestehen notwendig sind.
-- **Dateiformat.** Verwende ein Textverarbeitungsprogramm, das mathematische Formeln korrekt setzen kann (z.B. LaTeX, oder Word unter Nutzung des Formeleditors). Reiche deine Abgabe als PDF-Datei auf Moodle ein. Abgaben, die ganz oder teilweise handschriftlich verfasst sind, werden nicht akzeptiert.
+- **Dateiformat.** Verwende ein Textverarbeitungsprogramm, das mathematische Formeln korrekt setzen kann (LaTeX mit [diesem Template](https://github.com/goethe-tcs/note-template)). Reiche deine Abgabe als PDF-Datei auf Moodle ein. Abgaben, die ganz oder teilweise handschriftlich verfasst sind oder bei denen mathematische Formeln nicht korrekt gesetzt sind, werden nicht akzeptiert.
+- **KI-Tools.** Es ist **nicht zulässig**, sich Lösungen ganz oder teilweise von großen Sprachmodellen generieren zu lassen (z.B. GPT, Gemini, Claude, Llama, etc.). Falls der Anschein besteht, dass du gegen diese Anforderung verstoßen hast, wird dies als Betrugsversuch betrachtet, führt zum Ausschluss aus der Veranstaltung und kann rechtliche Konsequenzen haben. *Es lohnt sich nicht, deine Karriere aufs Spiel zu setzen!* Explizit zulässig sind die Rechtschreibe- und Grammatikprüfung. Große Sprachmodelle sind zugelassen, um Fragen zu korrekter LaTeX-Syntax zu beantworten (z.B. "Wie schreibe ich eine Liste in LaTeX?" oder "Warum kompilieren die folgenden Zeilen LaTeX-Code nicht richtig?"), sowie allgemeine Fragen zum Vorlesungsmaterial ("Hilf mir, den Ford-Fulkerson Algorithmus zu verstehen." oder "Welche Aspekte sind wichtig, wenn ich einen Beweis verständlich aufschreiben möchte?").
+- **Eigenständigkeit.** Du musst die Aufgaben eigenständig aufschreiben. Unter keinen Umständen ist es zulässig, deine schriftliche Lösung anderen direkt oder indirekt zu zeigen, oder Lösungen abzuschreiben, die von anderen Menschen oder Sprachmodellen generiert wurden, auch nicht in modifizierten Auszügen. Falls Plagiate entdeckt werden, führt dies für alle betroffenen Studierenden zum sofortigen Ausschluss aus der Veranstaltung und kann rechtliche Konsequenzen haben. **Betrügen ist gar nicht nötig**, da du beliebig viele Versuche hast, um dich zu verbessern. Außerdem sind die Abgaben nicht zum Bestehen notwendig.
 
 ## Berechnung der Modulnote
 
@@ -279,8 +276,8 @@ Die Basisnote für das Modul berechnet sich wie folgt:
 
 ### Hinweise zur Notengebung
 
-- Die Abstufungen innerhalb einer Basisnote (z.B. 1,7 oder 2,0 oder 2,3) entstehen in Randfällen, wenn die Anforderungen knapp erreicht oder verfehlt werden.
 - Deine Endnote kann nie schlechter sein als deine Note in der Abschlussklausur.
+- **Alle Angaben zur Notengebung sind ohne Gewähr und können sich noch in jede Richtung ändern.**
 
 ## Klausur
 

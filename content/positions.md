@@ -183,4 +183,3 @@ In addition to the above fully-funded PhD position, there are other ways to join
   - If you're an undergraduate student from India, you can apply for a [DAAD WISE scholarship](https://daad.de/go/en/stipa50015295) to join the group for a few months.
   - If you're an undergraduate student, a graduate student, or a PhD candidate from the USA, Canada, Britain, or Ireland, you can apply for a [DAAD RISE scholarship](https://www.daad.de/rise/en/) to join the group for a few months.
 - If you have your own source of funding, you are welcome to apply for a research internship in our group.
-
