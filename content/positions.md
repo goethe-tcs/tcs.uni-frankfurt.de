@@ -169,13 +169,18 @@ We expect that you work from the Bockenheim office for at least 5 hours per week
 Please apply by sending an informal email to [tcs-applications@dlist.uni-frankfurt.de](mailto:tcs-applications@dlist.uni-frankfurt.de).
 Please use "Algo-Learn HiWi" in the subject line, and include your motivation for applying, your grades in DISMOD, ALGO1, and ALGO2, as well as a short description of your relevant programming experience. -->
 
-## Applicants from Abroad
+## Scholarships and Internships {#scholarships}
 
-If you're from abroad, you can apply for **scholarships** to join us:
+In addition to the above fully-funded PhD position, there are other ways to join our research group.
+**Note that for the options below, we are unable to offer any direct financial support from our side! You need to apply for the scholarships yourself or bring your own source of funding.**
 
-- Apply for a postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship).
-- Apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/). For example:
+- If you already have a PhD, you can apply for these grants, among others:
+  - [DFG postdoc fellowship](https://www.dfg.de/resource/blob/168134/cd1783036cd3725834311f9ef3508e37/52-02-en-data.pdf)
+  - [Marie Skłodowska-Curie Individual Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
+  - postdoc fellowship by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
+  - [Emmy Noether group](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether)
+- If you're from abroad, you can apply for a PhD, postdoc, or visitor fellowship by [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/). For example:
   - If you're an undergraduate student from India, you can apply for a [DAAD WISE scholarship](https://daad.de/go/en/stipa50015295) to join the group for a few months.
   - If you're an undergraduate student, a graduate student, or a PhD candidate from the USA, Canada, Britain, or Ireland, you can apply for a [DAAD RISE scholarship](https://www.daad.de/rise/en/) to join the group for a few months.
+- If you have your own source of funding, you are welcome to apply for a research internship in our group.
 
-Unfortunately, we cannot offer any financial support for research internships. If you have your own funding, you are welcome to apply for a research internship in our group!
