@@ -11,8 +11,8 @@ kürzel:
   - program: "Master"
     modul: "M-AuK-S-K"
     veranstaltung: "ATTI-MS"
-semester: "SoSe-2024"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=377103&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+semester: "WiSe-2024/25"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=380885&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: no
 ---
 
