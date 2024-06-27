@@ -27,7 +27,7 @@ After you have applied, we will contact you and propose some available thesis to
 
 - _Solving Systems of Polynomial Equations over Finite Fields_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Solving%20Systems%20of%20Polynomial%20Equations%20over%20Finite%20Fields.pdf)]
 -  _Analyzing MILPs for Linear and Differential Cryptanalysis_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Analyzing%20MILPs%20for%20Linear%20and%20Differential%20Cryptanalysis.pdf)]
-- _Counting Graph Homomorphisms in Rust_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Counting%20Graph%20Homomorphisms%20in%20Rust.pdf)]
+- _Counting Graph Homomorphisms in Rust_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Counting%20Graph%20Homomorphisms%20in%20Rust.pdf), [github](https://github.com/goethe-tcs/homomorphism-counting)]
 - _Systematic Evaluation of Graph Sampling Methods_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Systematic%20Evaluation%20of%20Graph%20Sampling%20Methods.pdf)]
 - _Visualization of Network Dynamics_ [[pdf](https://files.tcs.uni-frankfurt.de/thesis/Visualization%20of%20Network%20Dynamics.pdf)]
 - _Visualisierung von MST und SSSP Algorithmen_ [[www](https://jamyumyum.github.io/), [source](https://github.com/JamYumYum/JamYumYum.github.io)]
