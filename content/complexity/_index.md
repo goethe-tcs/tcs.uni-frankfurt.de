@@ -9,8 +9,8 @@ kürzel:
    - program: "Master"
      modul: "M-KLOG-12-K"
      veranstaltung: "KTH12"
-semester: "SoSe-2022"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330124&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+semester: "WiSe-2024/25"
+qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
 ---
@@ -21,64 +21,55 @@ Complexity Theory is a beautiful field that studies different models of computat
 
 ## Time and Place
 
-- **Lectures.** Tue 12-14, Wed 10-12 in H9.
-- **Tutorials.** Tue 10-12 in H9.
+- **First Session.** Monday, October 14th, 2024 at 10-14 in Bockenheim Hörsaal H1.
+- **Lectures.** Mon 12-14, Wed 14-16 in H1.
+- **Tutorials.** Mon 10-12 in H1.
 
 ## Grading
 
-- There will be 3-4 mandatory written assignments; you can solve them in teams of size 2.
-- The **written exam** will take place on Tuesday, July 19 at 10-13 in H10.
+The grade will be based on your performance throughout the course and the final exam. There will be ample opportunity to receive feedback and improve your performance based on this feedback. Detailed rules will be published here later.
 
 ## Week plan
 
-The summer term has 14 weeks, the following is a preliminary plan:
+The winter term has 15 weeks, the following is a *preliminary* plan copied from an old iteration of this course. Please expect changes.
 
-1. ✓ **Introduction: Efficient universal Turing machine.** [AB 1.2-1.4, 1.6-1.7]\
+0. **Introduction.**\
+   Course structure, grading scheme, and the first assignment.
+1. **Efficient universal Turing machine.** [AB 1.2-1.4, 1.6-1.7]\
    In-class exercises: Example 1.1, Claims 1.5 and 1.6.\
    Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
-
-2. ✓ **NP and NP completeness** [AB ch. 2.1-2.3, 2.5-2.7]\
+2. **NP and NP completeness** [AB ch. 2.1-2.3, 2.5-2.7]\
    Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*
-
-3. ✓ **Diagonalization** [AB, ch. 3]\
+3. **Diagonalization** [AB, ch. 3]\
    Homework: 3.5, 3.6, 3.7*, 3.8*
-
-4. ✓ **Space complexity** [AB, ch. 4]\
+4. **Space complexity** [AB, ch. 4]\
    Homework: 4.1, 4.2, 4.3, 4.7\
    Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
-
-5. ✓ **The polynomial hierarchy and alternations** [AB, ch.5]\
+5. **The polynomial hierarchy and alternations** [AB, ch.5]\
    Homework: 5.3, 5.7, 5.10, 5.13
-
-6. ✓ **Boolean circuits** [AB, ch. 6]\
+6. **Boolean circuits** [AB, ch. 6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
-
-7. ✓ **Randomized computation** [AB, ch.7]\
+7. **Randomized computation** [AB, ch.7]\
    Homework: 7.4, 7.7, 7.9\
-   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf). Please consider handing in the assignment as a team of size 2.
-
-8. ✓ **Interactive proofs** [AB, ch. 8.1-8.3]\
+   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf).
+8. **Interactive proofs** [AB, ch. 8.1-8.3]\
    Homework: 8.1, 8.2, 8.6*
-
-9. ✓ **PCP Theorem** [AB, ch. 11]\
+9. **PCP Theorem** [AB, ch. 11]\
    Homework: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15
-
-10. ✓ **Decision Trees** [AB, ch. 12]\
+10. **Decision Trees** [AB, ch. 12]\
    Homework: 12.1, 12.2, 12.3, 12.6
-
-11. ✓ **Complexity of Counting** [AB, ch. 17] (this week happening via [Zoom](https://uni-frankfurt.zoom.us/j/61915979722?pwd=Q01LN3hTeFRyV1FlRGkzYXBvT1Z5QT09)!)\
-   Homework: 17.2, 17.4, 17.6*
-
-12. ✓ Self-study: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf). Please consider handing in the assignment as a team of size 2.
-
-13. ✓ **⊕ ∉ AC0** [AB, ch. 14.1]
-14. ✓ **Recap**
-<!-- 15. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)] -->
+11. **Complexity of Counting** [AB, ch. 17]\
+   Homework: 17.2, 17.4, 17.6*\
+   Written Assignment: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf).
+12. **⊕ ∉ AC0** [AB, ch. 14.1]
+13. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
+14. To be announced.
+15. **Final Assessment Week**
 
 ## Prerequisites
 
 This course is available for Bachelor _and_ Master students!
-You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent) and you must love mathematics.
+You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent).
 
 ## Contents
 
