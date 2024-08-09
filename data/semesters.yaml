@@ -1,3 +1,16 @@
+- name: Winter 2024/25
+  start: 2024-10-01
+  courses:
+  - url: /complexity/
+    img: /complexity/AB-cover-169.jpg
+    name: Complexity Theory
+    desc: Course
+    loc: Mo 10-14, Mi 14-16, H1
+  - url: /seminar/dais/
+    name: Current Topics in Theoretical Computer Science
+    img: /images/RMU_DAIS_logo.svg
+    img_bg_white: true
+    desc: B.Sc./M.Sc. Seminar
 - name: Summer 2024
   start: 2024-04-01
   courses:

@@ -125,29 +125,29 @@ The winter term has 15 weeks, the following is a *preliminary* plan copied from 
    Course structure, grading scheme, and the first assignment.
 1. **Efficient universal Turing machine.** [AB 1.2-1.4, 1.6-1.7]\
    In-class exercises: Example 1.1, Claims 1.5 and 1.6.\
-   Homework: Exercises 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
+   Exercises: 1.5, 1.6*, 1.9, 1.10, 1.15. (* = hard, but well worth the effort)
 2. **NP and NP completeness** [AB ch. 2.1-2.3, 2.5-2.7]\
-   Homework: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*
+   Exercises: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*
 3. **Diagonalization** [AB, ch. 3]\
-   Homework: 3.5, 3.6, 3.7*, 3.8*
+   Exercises: 3.5, 3.6, 3.7*, 3.8*
 4. **Space complexity** [AB, ch. 4]\
-   Homework: 4.1, 4.2, 4.3, 4.7\
+   Exercises: 4.1, 4.2, 4.3, 4.7\
    Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
 5. **The polynomial hierarchy and alternations** [AB, ch.5]\
-   Homework: 5.3, 5.7, 5.10, 5.13
+   Exercises: 5.3, 5.7, 5.10, 5.13
 6. **Boolean circuits** [AB, ch. 6]\
-   Homework: 6.3, 6.8, 6.9*, 6.12
+   Exercises: 6.3, 6.8, 6.9*, 6.12
 7. **Randomized computation** [AB, ch.7]\
-   Homework: 7.4, 7.7, 7.9\
+   Exercises: 7.4, 7.7, 7.9\
    Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf).
 8. **Interactive proofs** [AB, ch. 8.1-8.3]\
-   Homework: 8.1, 8.2, 8.6*
+   Exercises: 8.1, 8.2, 8.6*
 9. **PCP Theorem** [AB, ch. 11]\
-   Homework: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15
+   Exercises: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15
 10. **Decision Trees** [AB, ch. 12]\
-   Homework: 12.1, 12.2, 12.3, 12.6
+   Exercises: 12.1, 12.2, 12.3, 12.6
 11. **Complexity of Counting** [AB, ch. 17]\
-   Homework: 17.2, 17.4, 17.6*\
+   Exercises: 17.2, 17.4, 17.6*\
    Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf).
 12. **⊕ ∉ AC0** [AB, ch. 14.1]
 13. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
