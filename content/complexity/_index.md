@@ -21,13 +21,101 @@ Complexity Theory is a beautiful field that studies different models of computat
 
 ## Time and Place
 
-- **First Session.** Monday, October 14th, 2024 at 10-14 in Bockenheim Hörsaal H1.
-- **Lectures.** Mon 12-14, Wed 14-16 in H1.
-- **Tutorials.** Mon 10-12 in H1.
+- **Moodle:** Please register at the Moodle-Page (link to be announced).
+- **First Session:** Monday, October 14th, 2024 at 10:15.
+- **Lectures:** Monday 12-14, Wednesday 14-16.
+- **Tutorials:** Monday 10-12.
+- **Location:** Hörsaal H1, Hörsaalzentrum Bockenheim, 60325 Frankfurt am Main.
+- **Format:** In-person lectures and tutorials.
+- **Time commitment:** 10 ECTS with 25h each = 250h. Subtracting 50 hours of exam preparation, we arrive at 14h per week. Of these, 4h are lectures, 2h are exercise groups, and 8h are self-study.
+
+## Learning activities
+
+Your grade in this course will be based on your performance on learning activities throughout this course and the final exam.
+For each activity, you will receive constructive feedback.
+After receiving feedback, you get the chance to revise your work and improve your performance.
+
+- **Exercises.** We provide many exercises that you are encouraged to solve alone or in groups. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
+- **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand, but you are not allowed to share or read any parts of the writing of other students. Your submission must be written in LaTeX using [this LaTeX-template](github.com/goethe-tcs/note-template) and handed in on the Moodle-Page by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
+- **Tests.** On a regular basis, tests will be written in class. Each test consists of one or multiple questions that ask you to reproduce or apply some parts of the material of the preceding weeks. If you miss a test or produce unsatisfactory answers, you can retake the test at a later point during the semester to earn credit for the test.
+- **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15-20 minutes during the lecture and during the tutorial session.
+
+
+## Evaluation rubrics
+
+The assignments you submit will be evaluated using the [EMRN rubric](/images/EMRN-rubric-2020.png). The following criteria help to assign the grade:
+
+- **E: Exemplary.** The solution consists of a clear, correct, and complete proof that not only contains no major errors (computation, logic, syntax, or semantic), it is also exceptionally clear, and the write-up is professional in its look and style. The solution would be at home in a professional lecture or publication.
+- **M: Meets Expectations.** The solution consists of a clear, correct, and complete proof that contains no major errors (computation, logic, syntax, or semantic) and which is neatly and professionally written.
+- **R: Revision Needed.** The solution contains at least one significant logical error or gap and requires revision. An R may also be given for write-ups that do not expend sufficient effort to produce a good-looking write-up.
+- **N: Not assessable.** It is not possible to assess this submission. For example, large portions of the solution are missing; or the solution is for a significantly altered version of the problem; or the student has submitted solutions to more than one problem; or the submission is excessively cluttered, messy, or difficult to read.
+
+All other activities, such as tests and presentations, are evaluated as follows:
+
+- **S: Satisfactory.** The student has demonstrated a satisfactory understanding of the material.
+- **U: Unsatisfactory.** The student has not demonstrated a satisfactory understanding of the material.
 
 ## Grading
 
-The grade will be based on your performance throughout the course and the final exam. There will be ample opportunity to receive feedback and improve your performance based on this feedback. Detailed rules will be published here later.
+Satisfactory performance during the oral exam is required to pass the course. To pass the oral exam, you need to prove that you can explain your own submissions and reproduce the basic course contents from the entire syllabus. Your grade is mostly based on the demonstration of your learning during the semester. In total, this course will have **10 assignments** and **20 minitest questions**. Each week, you can submit solutions to at most two assignments: for example, one new solution and one revision on an old solution. **After February 10, no further submissions or revisions are possible!** Here is how your grade will be determined:
+
+
+<table class="ring-accent ring-1 mx-auto">
+  <thead class="bg-accent text-accent-content">
+    <tr>
+      <th class="p-2">grade</th>
+      <th class="p-2">minimum required performance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="bg-base text-base-content">
+      <td class="p-2"><em>sehr gut</em></td>
+      <td class="p-2">
+        <ul>
+          <li><strong>19</strong> minitest questions</li>
+          <li><strong>10</strong> assignments, at least <strong>5</strong> <em>exemplary</em></li>
+          <li><strong>5</strong> presentations</li>
+          <li><em>pass</em> the exam</li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="bg-base-200 text-base-content">
+      <td class="p-2"><em>gut</em></td>
+      <td class="p-2">
+        <ul>
+          <li><strong>17</strong> minitest questions</li>
+          <li><strong>8</strong> assignments, at least <strong>3</strong> <em>exemplary</em></li>
+          <li><strong>3</strong> presentations</li>
+          <li><em>pass</em> the exam</li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="bg-base text-base-content">
+      <td class="p-2"><em>befriedigend</em></td>
+      <td class="p-2">
+        <ul>
+          <li><strong>15</strong> minitest questions</li>
+          <li><strong>6</strong> assignments</li>
+          <li><strong>1</strong> presentation</li>
+          <li><em>pass</em> the exam</li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="bg-base-200 text-base-content">
+      <td class="p-2"><em>ausreichend</em></td>
+      <td class="p-2">
+        <ul>
+          <li><strong>10</strong> minitest questions</li>
+          <li><strong>5</strong> assignments</li>
+          <li><em>pass</em> the exam</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+- **Important Remark: This table is subject to change!**
+- Your final grade may contain further gradations (1,7 vs 2,3, etc.), which are determined by the oral exam (if you pass), your engagement with the course (attendance, interaction), and if you are close to the thresholds according to the above scheme.
 
 ## Week plan
 
@@ -44,14 +132,14 @@ The winter term has 15 weeks, the following is a *preliminary* plan copied from 
    Homework: 3.5, 3.6, 3.7*, 3.8*
 4. **Space complexity** [AB, ch. 4]\
    Homework: 4.1, 4.2, 4.3, 4.7\
-   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
+   Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)
 5. **The polynomial hierarchy and alternations** [AB, ch.5]\
    Homework: 5.3, 5.7, 5.10, 5.13
 6. **Boolean circuits** [AB, ch. 6]\
    Homework: 6.3, 6.8, 6.9*, 6.12
 7. **Randomized computation** [AB, ch.7]\
    Homework: 7.4, 7.7, 7.9\
-   Written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf).
+   Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf).
 8. **Interactive proofs** [AB, ch. 8.1-8.3]\
    Homework: 8.1, 8.2, 8.6*
 9. **PCP Theorem** [AB, ch. 11]\
@@ -60,7 +148,7 @@ The winter term has 15 weeks, the following is a *preliminary* plan copied from 
    Homework: 12.1, 12.2, 12.3, 12.6
 11. **Complexity of Counting** [AB, ch. 17]\
    Homework: 17.2, 17.4, 17.6*\
-   Written Assignment: Third and final written assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf).
+   Assignment: [pdf](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf).
 12. **⊕ ∉ AC0** [AB, ch. 14.1]
 13. **NEXP ⊈ ACC0** [[AB, addendum](https://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf) · [paper](https://people.csail.mit.edu/rrw/acc-lbs-ccc.pdf)]
 14. To be announced.
