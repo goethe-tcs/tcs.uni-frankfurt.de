@@ -3,14 +3,18 @@ title: "Complexity Theory"
 ects: "10"
 sws: "4V, 2Ü"
 kürzel:
-   - program: "Bachelor"
-     modul: "B-GeA-12"
-     veranstaltung: "KTH12"
-   - program: "Master"
-     modul: "M-KLOG-12-K"
-     veranstaltung: "KTH12"
+    - program: "Bachelor"
+      modul: "B-GeA-12"
+      veranstaltung: "KTH12"
+    - program: "Master"
+      modul: "M-KLOG-12-K"
+      veranstaltung: "KTH12"
+links:
+    - name: "Moodle"
+      url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486"
+    - name: "QIS"
+      url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 semester: "WiSe-2024/25"
-qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 toc: yes
 layout: single
 ---
@@ -21,7 +25,7 @@ Complexity Theory is a beautiful field that studies different models of computat
 
 ## Time and Place
 
-- **Moodle:** Please register at the Moodle-Page (link to be announced).
+- **Moodle:** Please register at the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486).
 - **First Session:** Monday, October 14th, 2024 at 10:15.
 - **Lectures:** Monday 12-14, Wednesday 14-16.
 - **Tutorials:** Monday 10-12.
@@ -36,7 +40,7 @@ For each activity, you will receive constructive feedback.
 After receiving feedback, you get the chance to revise your work and improve your performance.
 
 - **Exercises.** We provide many exercises that you are encouraged to solve alone or in groups. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
-- **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand, but you are not allowed to share or read any parts of the writing of other students. Your submission must be written in LaTeX using [this LaTeX-template](github.com/goethe-tcs/note-template) and handed in on the Moodle-Page by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
+- **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand, but you are not allowed to share or read any parts of the writing of other students. Your submission must be written in LaTeX using [this LaTeX-template](github.com/goethe-tcs/note-template) and handed in on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
 - **Tests.** On a regular basis, tests will be written in class. Each test consists of one or multiple questions that ask you to reproduce or apply some parts of the material of the preceding weeks. If you miss a test or produce unsatisfactory answers, you can retake the test at a later point during the semester to earn credit for the test.
 - **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15-20 minutes during the lecture and during the tutorial session.
 
