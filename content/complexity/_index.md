@@ -15,7 +15,7 @@ links:
     - name: "QIS"
       url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 semester: "WiSe-2024/25"
-toc: yes
+toc: true
 layout: single
 ---
 

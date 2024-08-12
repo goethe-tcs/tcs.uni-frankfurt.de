@@ -2,9 +2,9 @@
 title: "General project flavors"
 author: "[Holger Dell](/~dell)"
 date: "2019-01-12"
-show_author_date_info: no
-estimated_reading_time: no
-toc: yes
+show_author_date_info: false
+estimated_reading_time: false
+toc: true
 ---
 
 ## Who is this document for?

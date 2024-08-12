@@ -1,7 +1,7 @@
 ---
 title: Open positions
 layout: single
-toc: yes
+toc: true
 ---
 
 <!-- There are currently no open positions in the TCS team at Goethe University Frankfurt. -->

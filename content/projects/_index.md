@@ -2,9 +2,9 @@
 title: "Thesis Projects"
 author: "[Holger Dell](/~dell)"
 date: "2021-01-11"
-show_author_date_info: no
-estimated_reading_time: no
-toc: no
+show_author_date_info: false
+estimated_reading_time: false
+toc: false
 aliases:
   - "/teaching/project-ideas"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Teaching
 layout: single
-toc: yes
+toc: true
 ---
 
 {{% all-courses %}}

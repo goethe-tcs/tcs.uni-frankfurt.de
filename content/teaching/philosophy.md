@@ -2,9 +2,9 @@
 title: Teaching Philosophy
 author: "[Holger Dell](/~dell)"
 date: "2022-01-29"
-show_author_date_info: yes
+show_author_date_info: true
 layout: single
-toc: no
+toc: false
 ---
 
 ## Teaching Philosophy

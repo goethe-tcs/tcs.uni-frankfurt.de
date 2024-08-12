@@ -2,9 +2,9 @@
 title: "Project Guidelines"
 author: "[Holger Dell](/~dell)"
 date: "2022-04-01"
-show_author_date_info: no
-estimated_reading_time: no
-toc: yes
+show_author_date_info: false
+estimated_reading_time: false
+toc: true
 aliases:
   - "/projects/process"
 ---

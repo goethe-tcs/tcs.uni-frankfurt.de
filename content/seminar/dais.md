@@ -11,7 +11,7 @@ kürzel:
     veranstaltung: "ATTI-MS"
 semester: "WiSe-2024/25"
 qis: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=380885&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-toc: no
+toc: false
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 title: "PACE challenge"
 shortname: "PACE"
 semester: "WiSe-2021/22"
-toc: yes
+toc: true
 ---
 
 

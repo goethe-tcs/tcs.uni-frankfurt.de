@@ -37,7 +37,7 @@
     "prettier": "^3.3.3",
     "prettier-plugin-css-order": "^2.1.2",
     "prettier-plugin-go-template": "^0.0.15",
-    "prettier-plugin-tailwindcss": "^0.6.5",
+    "prettier-plugin-tailwindcss": "^0.6.6",
     "standard": "^17.1.0",
     "stylelint": "^16.8.1",
     "stylelint-config-standard-scss": "^13.1.0",

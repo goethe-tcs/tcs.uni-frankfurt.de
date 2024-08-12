@@ -12,7 +12,7 @@ links:
     url: https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=372653&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
   - name: Moodle
     url: https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6259
-toc: yes
+toc: true
 layout: single
 aliases:
   - "/parameterized/2024"
