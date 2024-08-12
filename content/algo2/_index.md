@@ -4,7 +4,6 @@ ects: "8"
 sws: "3V, 2Ü"
 aliases:
   - "/algo2/2023"
-  - "/algo2"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"

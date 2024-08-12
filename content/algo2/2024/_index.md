@@ -1,9 +1,8 @@
 ---
+draft: true
 title: "Algorithmen und Datenstrukturen 2"
 ects: "8"
 sws: "3V, 2Ü"
-aliases:
-  - "/algo2/2024"
 kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"
