@@ -7,7 +7,7 @@ kürzel:
   - program: "Bachelor"
     modul: "B-ALGO-2"
     veranstaltung: "ALGO2"
-semester: "WiSe-2024/25"
+semester: "!!draft!!"
 links:
   - name: QIS
     url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=380890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -178,7 +178,7 @@ schedule:
 
 ## Organisatorisches
 
-- **Erste Veranstaltung:** Dienstag, 15.10.2023, 8:30-9:45 Uhr, H VI (Hörsaaltrakt Bockenheim).
+- **Erste Veranstaltung:** Dienstag, 15.10.2024, 8:30-9:45 Uhr, H VI (Hörsaaltrakt Bockenheim).
 - **Termine.** Dienstag und Donnerstag, 8:30-9:45, H VI (Hörsaaltrakt Bockenheim).
 - **Voraussetzungen.** Der Kurs baut auf [Algorithmen und Datenstrukturen 1](/algo1/) (ALGO1) auf.
 - **Organisatorische und inhaltliche Fragen:** Die meisten Fragen sind vielleicht weiter unten bereits beantwortet? Ansonsten gerne eine E-Mail an die Kursleitung: [algo2-2024@dlist.uni-frankfurt.de](mailto:algo2-2024@dlist.uni-frankfurt.de) (nicht: dell@ oder moodle)
