@@ -17,7 +17,7 @@ semester: "WiSe 2022/23"
 
 This seminar explores the rich connection between the number of induced subgraphs, not necessarily induced subgraphs, graph homomorphisms, and other graph parameters.
 We will discuss elegant combinatorics, efficient algorithms, and hardness results.
-The focus will be  on algorithms and complexity of problems related to finding and counting homomorphisms between graphs.
+The focus will be on algorithms and complexity of problems related to finding and counting homomorphisms between graphs.
 
 ## Teachers
 
@@ -29,7 +29,7 @@ The focus will be  on algorithms and complexity of problems related to finding a
 
 Weekly 2-hour sessions during the semester.
 
-In the beginning, we will read Chapters 1-5 of _Large networks and graph limits_ by Lázló Lovász together, with each participant giving a short talk on part of it.
+In the beginning, we will read Chapters 1-5 of _Large networks and graph limits_ by László Lovász together, with each participant giving a short talk on part of it.
 Subsequently, each participant will present an advanced topic from the area based on one of the papers listed below in a longer talk and in a short written report.
 
 A detailed schedule will follow later.

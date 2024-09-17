@@ -130,7 +130,7 @@ After receiving feedback, you get the chance to revise your work and improve you
 - **Exercises.** We provide many exercises that you are encouraged to solve alone or in groups. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
 - **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand. Your submission must be written in LaTeX using [this LaTeX-template](https://github.com/goethe-tcs/note-template) and handed in on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
 - **Tests.** On a regular basis, tests will be written in class. Each test consists of one or multiple questions that ask you to reproduce or apply some parts of the material of the preceding weeks. If you miss a test or produce unsatisfactory answers, you can retake the test at a later point during the semester to earn credit for the test.
-- **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15-20 minutes during the lecture and during the tutorial session.
+- **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15–20 minutes during the lecture and during the tutorial session.
 
 
 ## Evaluation rubrics
@@ -238,7 +238,7 @@ You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent).
 <img src="/complexity/AB-cover.jpg" alt="book cover" width="126" height="150" style="float: left; padding-right: 1em;" /></a>
 
 **AB**: _Computational Complexity: A Modern Approach_ by Sanjeev Arora and Boaz Barak.\
-[[Volltext als E-Book](https://ubffm.hds.hebis.de/Record/HEB48053893X)].
+[[full text as E-Book](https://ubffm.hds.hebis.de/Record/HEB48053893X)].
 
 There is also a [pdf](https://theory.cs.princeton.edu/complexity/book.pdf) on the [book website](https://theory.cs.princeton.edu/complexity/), but be aware that it is not a final draft and has different chapter numbers.
 
