@@ -8,7 +8,7 @@ contact:
   - "fa fa-fax": '+49-69-798-28814'
   - "fa fa-search": 'Room 301, RMS 11-15'
   - "fa fa-envelope": '<i>rochaavila</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
-#photo: /images/claudia_gressler.jpg
+photo: /images/tatiana_rocha_avila.jpg
 # profiles:
   # - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"
   # - "ai ai-google-scholar": "[Google Scholar](https://scholar.google.de/citations?user=zcZSZ4MAAAAJ)"
