@@ -12,6 +12,7 @@
   position: Postdoc
   photo: /images/haak_sqr.jpg
   url: /~haak
+  former: true
 
 - name: Tatiana Rocha Avila
   position: PhD student
@@ -21,6 +22,9 @@
   position: PhD student
   url: /~brinkmann
 
+- name: Janette Welker
+  position: Scientific Staff
+
 - name: Jasper Forth
   position: Student Assistant
 
@@ -29,6 +33,7 @@
 
 - name: Grégoire Dhimoïla
   position: Research Intern
+  former: true
 
 - name: You? We're hiring!
   position: 1x PhD student
