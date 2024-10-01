@@ -111,6 +111,12 @@ schedule:
 
 Complexity Theory is a beautiful field that studies different models of computation as well as their relationships to each other. The most famous open problem in this field is the P vs. NP problem. In this course, you will discover elegant proof techniques, fascinating ideas, and exciting open questions.
 
+## Course Staff
+
+- Holger Dell (professor)
+- Julian Brinkmann (teaching assistant)
+- Claudia Gressler (secretary)
+
 ## Time and Place
 
 - **Moodle:** Please register at the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486).

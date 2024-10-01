@@ -21,6 +21,14 @@ You will learn about and present on brand-new research in the area.
 Moreover, you will actually get to meet international researchers in person!
 This is because attending all sessions of the research colloquium [Discrete Algorithm Insights Seminar (DAIS)](https://dais.rhein-main-universitaeten.de/) is an integral part of this seminar.
 
+## Course Staff
+
+- Holger Dell (professor)
+- Pascal Schweitzer (professor)
+- Julian Brinkmann (teaching assistant)
+- Tatiana Rocha Avila (teaching assistant)
+- Claudia Gressler (secretary)
+
 ## Organization
 
 - **First session:** You will be invited by email.
