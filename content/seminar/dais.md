@@ -58,7 +58,7 @@ For the short talk, you can choose the same paper, a different paper, or a suita
 
 Note: The grading scheme is preliminary and subject to change!
 
-- The _performance_ of each talk will be evaluated as _satisfactory_ or _unsatisfactory_. If a talk is evaluated as _unsatisfactory_, you can repeat it at most once.
+- The _performance_ of each talk will be evaluated as _satisfactory_ or _unsatisfactory_. A talk can be evaluated as _unsatisfactory_ if the slides are severely unfinished, you are absent or too late without excuse, or you demonstrate a severe lack of understanding; in this case, you can repeat the talk at most once to try to obtain a _satisfactory_ performance.
 - The _slides_ and the _report_ will be evaluated as _exemplary_, _satisfactory_, or _unsatisfactory_. If you submit your slides and your report early enough, you will receive feedback with an initial grade, and you have the opportunity to submit an improved final version without disadvantages. If you submit after the deadline, there is no guarantee that you receive feedback.
 
 Your final course grade is calculated as follows.
