@@ -3,17 +3,17 @@ title: "Complexity Theory"
 ects: "10"
 sws: "4V, 2Ü"
 kürzel:
-    - program: "Bachelor"
-      modul: "B-GeA-12"
-      veranstaltung: "KTH12"
-    - program: "Master"
-      modul: "M-KLOG-12-K"
-      veranstaltung: "KTH12"
+  - program: "Bachelor"
+    modul: "B-GeA-12"
+    veranstaltung: "KTH12"
+  - program: "Master"
+    modul: "M-KLOG-12-K"
+    veranstaltung: "KTH12"
 links:
-    - name: "Moodle"
-      url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486"
-    - name: "QIS"
-      url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+  - name: "Moodle"
+    url: "https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486"
+  - name: "QIS"
+    url: "https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=391816&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 semester: "WiSe-2024/25"
 toc: true
 layout: single
@@ -104,16 +104,21 @@ schedule:
   - title: "Final week"
     subtitle: "Review and Assessment"
     weekstart: "2025-02-10"
-
 ---
 
 ## Description
 
 Complexity Theory is a beautiful field that studies different models of computation as well as their relationships to each other. The most famous open problem in this field is the P vs. NP problem. In this course, you will discover elegant proof techniques, fascinating ideas, and exciting open questions.
+The highlights of this course include:
 
-## Course Staff
+- Complexity classes: Log-space, NP, BPP, polynomial-time hierarchy, ACC0, EXP, NEXP, NP/poly, #P, etc.
+- Karp-Lipton's Theorem, Hardness vs. Randomness, NEXP ⊈ ACC0, PCP theorem, etc.
 
-- Holger Dell (professor)
+This course is taught in English, and it is available for Bachelor _and_ Master students!
+
+## Staff
+
+- Holger Dell (professor); _Office hours:_ most Mondays at 14-15 in Room 302, Robert-Mayer-Str. 11-15.
 - Julian Brinkmann (teaching assistant)
 - Claudia Gressler (secretary)
 
@@ -133,11 +138,10 @@ Your grade in this course will be based on your performance on learning activiti
 For each activity, you will receive constructive feedback.
 After receiving feedback, you get the chance to revise your work and improve your performance.
 
-- **Exercises.** We provide many exercises that you are encouraged to solve alone or in groups. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
+- **Exercises.** We provide many exercises that you are encouraged to solve in groups or alone. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
 - **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand. Your submission must be written in LaTeX using [this LaTeX-template](https://github.com/goethe-tcs/note-template) and handed in on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
 - **Tests.** On a regular basis, tests will be written in class. Each test consists of one or multiple questions that ask you to reproduce or apply some parts of the material of the preceding weeks. If you miss a test or produce unsatisfactory answers, you can retake the test at a later point during the semester to earn credit for the test.
 - **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15–20 minutes during the lecture and during the tutorial session.
-
 
 ## Evaluation rubrics
 
@@ -155,15 +159,20 @@ All other activities, such as tests and presentations, are evaluated as follows:
 
 ## Collaboration and AI rules
 
-You are encouraged to discuss the course material and the exercises with your fellow students, including the assignment problems.
-However, you must not share your written solutions for the assignments, and you must not read any parts of written solutions that are provided by other students or by AI tools.
-You are encouraged to use AI tools to help you understand the course contents, but you must not use AI tools to outright solve the assignments.
-Providing the text of the assignment problem to the AI tool is considered a violation of this rule.
+You are **encouraged** to
+
+- _discuss_ the course material and the exercises with your fellow students, including the assignment problems, and
+- use AI tools to _help you understand_ the course contents. For example, if there's a concept or a proof in the book that you did not fully understand, you can explain your issue to the AI tool and ask it to help you with any misunderstandings. AI tools are often wrong, so be skeptical.
+
+The assignments you submit must be your own work, otherwise you will not learn much. Therefore, you are **not allowed** to
+
+- _share your written solutions_ for the assignments with others,
+- _read any parts of written solutions_ that are provided by other students or by AI tools, or
+- use AI tools to _outright solve_ the assignments; **describing the assignment problem to the AI tool is considered a violation of this rule**.
 
 ## Grading
 
 Satisfactory performance during the oral exam is required to pass the course. To pass the oral exam, you need to prove that you can explain your own submissions and reproduce the basic course contents from the entire syllabus. Your grade is mostly based on the demonstration of your learning during the semester. In total, this course will have **12 assignments** and **24 minitest questions**. Each week, you can submit solutions to at most two assignments: for example, one new solution and one revision on an old solution. **After February 10, no further submissions or revisions are possible!** Here is how your grade will be determined:
-
 
 <table class="ring-accent ring-1 mx-auto">
   <thead class="bg-accent text-accent-content">
@@ -224,19 +233,9 @@ Satisfactory performance during the oral exam is required to pass the course. To
 
 ## Week plan
 
-The winter term has 15 weeks, the following is a *preliminary* plan copied from an old iteration of this course. Please expect changes.
+The winter term has 15 weeks, the following is a _preliminary_ plan copied from an old iteration of this course. Please expect changes.
 
 {{< weekplan >}}
-
-## Prerequisites
-
-This course is available for Bachelor _and_ Master students!
-You must have mastered Algorithms and Data Structures 1 and 2 (or equivalent).
-
-## Contents
-
-- Complexity classes: Log-space, NP, BPP, polynomial-time hierarchy, ACC0, EXP, NEXP, NP/poly, #P, etc.
-- Karp-Lipton's Theorem, Hardness vs. Randomness, NEXP ⊈ ACC0, PCP theorem, etc.
 
 ## Literature
 
