@@ -46,7 +46,6 @@ schedule:
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 4"
       - "Exercises: 4.1, 4.2, 4.3, 4.7"
-      - "[Assignment](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex1.pdf)"
 
   - title: "The polynomial hierarchy and alternations"
     weekstart: "2024-11-18"
@@ -65,7 +64,6 @@ schedule:
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 7"
       - "Exercises: 7.4, 7.7, 7.9"
-      - "[Assignment](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex2.pdf)"
 
   - title: "Interactive proofs"
     weekstart: "2024-12-09"
@@ -94,7 +92,6 @@ schedule:
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 17"
       - "Exercises: 17.2, 17.4, 17.6*"
-      - "[Assignment](https://github.com/goethe-tcs/complexity22-assignments/releases/download/latest/complexity-ex3.pdf)"
 
   - title: "⊕ ∉ AC0"
     weekstart: "2025-02-03"
@@ -233,7 +230,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
 
 ## Week plan
 
-The winter term has 15 weeks, the following is a _preliminary_ plan copied from an old iteration of this course. Please expect changes.
+The winter term has 15 weeks, the following is a _preliminary_ plan copied from an old iteration of this course. Please expect changes! **Note: This will not be updated, see [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) for the most recent information.**
 
 {{< weekplan >}}
 
