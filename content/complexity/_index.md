@@ -218,7 +218,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
         <ul>
           <li><strong>12</strong> minitest questions</li>
           <li><strong>6</strong> assignments</li>
-          <li><strong>4</strong> presentations</li>
+          <li><strong>6</strong> presentations</li>
           <li><em>pass</em> the exam</li>
         </ul>
       </td>
