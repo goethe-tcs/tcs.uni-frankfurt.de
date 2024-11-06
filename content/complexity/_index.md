@@ -137,7 +137,7 @@ After receiving feedback, you get the chance to revise your work and improve you
 
 - **Exercises.** We provide many exercises that you are encouraged to solve in groups or alone. Unless the exercise is used for an assignment, you cannot hand in written solutions to these exercises. However, you can ask questions about them in class or in the tutorial sessions.
 - **Assignments.** Assignments are specially marked exercises for which you are expected to hand in written solutions. You can discuss the solutions in groups beforehand. Your submission must be written in LaTeX using [this LaTeX-template](https://github.com/goethe-tcs/note-template) and handed in on the [Moodle-Page](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) by Monday at 10:00. You will receive feedback on your submission and have the chance to revise it based on this feedback.
-- **Tests.** On a regular basis, tests will be written in class. Each test consists of one or multiple questions that ask you to reproduce or apply some parts of the material of the preceding weeks. If you miss a test or produce unsatisfactory answers, you can retake the test at a later point during the semester to earn credit for the test.
+- **Oral mini-exam.** On a regular basis, you will be evaluated in an oral mini-exam on the contents from the previous three weeks. We will talk about the results and proofs from the book, as well as possibly the assignments you submitted.
 - **Presentations.** Depending on what grade you want to earn, you are expected to give one or multiple oral presentations of at most 15 minutes during the lecture and during the tutorial session.
 
 ## Evaluation rubrics
@@ -149,7 +149,7 @@ The assignments you submit will be evaluated using the following rubric:
 - **R: Revision Needed.** The solution contains at least one significant logical error or gap and requires revision. An R may also be given for write-ups that do not expend sufficient effort to produce a good-looking write-up.
 <!-- - **N: Not assessable.** It is not possible to assess this submission. For example, large portions of the solution are missing; or the solution is for a significantly altered version of the problem; or the student has submitted solutions to more than one problem; or the submission is excessively cluttered, messy, or difficult to read. -->
 
-All other activities, such as tests and presentations, are evaluated as follows:
+All other activities, such as mini-exams and presentations, are evaluated as follows:
 
 - **S: Satisfactory.** The student has demonstrated a satisfactory understanding of the material.
 - **U: Unsatisfactory.** The student has not demonstrated a satisfactory understanding of the material.
@@ -169,7 +169,7 @@ The assignments you submit must be your own work, otherwise you will not learn m
 
 ## Grading
 
-Satisfactory performance during the oral exam is required to pass the course. To pass the oral exam, you need to prove that you can explain your own submissions and reproduce the basic course contents from the entire syllabus. Your grade is mostly based on the demonstration of your learning during the semester. In total, this course will have **12 assignments** and **24 minitest questions**. Each week, you can submit solutions to at most two assignments: for example, one new solution and one revision on an old solution. **After February 10, no further submissions or revisions are possible!** Here is how your grade will be determined:
+Satisfactory performance during the oral exam is required to pass the course. To pass the oral exam, you need to prove that you can explain your own submissions and reproduce the basic course contents from the entire syllabus. Your grade is mostly based on the demonstration of your learning during the semester. In total, this course will have **12 assignments** and **4 oral mini-exams**. Each week, you can submit solutions to at most two assignments: for example, one new solution and one revision on an old solution. **After February 10, no further submissions or revisions are possible!** Here is how your grade will be determined:
 
 <table class="ring-accent ring-1 mx-auto">
   <thead class="bg-accent text-accent-content">
@@ -183,7 +183,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
       <td class="p-2"><em>sehr gut</em></td>
       <td class="p-2">
         <ul>
-          <li><strong>21</strong> minitest questions</li>
+          <li><strong>4</strong> oral mini-exams (10-15 minutes each)</li>
           <li><strong>12</strong> assignments, at least <strong>6</strong> <em>exemplary</em></li>
           <li><strong>9</strong> presentations</li>
           <li><em>pass</em> the exam</li>
@@ -194,7 +194,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
       <td class="p-2"><em>gut</em></td>
       <td class="p-2">
         <ul>
-          <li><strong>18</strong> minitest questions</li>
+          <li><strong>4</strong> oral mini-exams (10-15 minutes each)</li>
           <li><strong>10</strong> assignments, at least <strong>4</strong> <em>exemplary</em></li>
           <li><strong>7</strong> presentations</li>
           <li><em>pass</em> the exam</li>
@@ -205,7 +205,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
       <td class="p-2"><em>befriedigend</em></td>
       <td class="p-2">
         <ul>
-          <li><strong>15</strong> minitest questions</li>
+          <li><strong>3</strong> oral mini-exams (10-15 minutes each)</li>
           <li><strong>8</strong> assignments</li>
           <li><strong>6</strong> presentations</li>
           <li><em>pass</em> the exam</li>
@@ -216,7 +216,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
       <td class="p-2"><em>ausreichend</em></td>
       <td class="p-2">
         <ul>
-          <li><strong>12</strong> minitest questions</li>
+          <li><strong>2</strong> oral mini-exams (10-15 minutes each)</li>
           <li><strong>6</strong> assignments</li>
           <li><strong>6</strong> presentations</li>
           <li><em>pass</em> the exam</li>
