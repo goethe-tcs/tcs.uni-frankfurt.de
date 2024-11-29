@@ -186,7 +186,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
           <li><strong>4</strong> oral mini-exams</li>
           <li><strong>12</strong> assignments, at least <strong>6</strong> <em>exemplary</em></li>
           <li><strong>9</strong> presentations</li>
-          <li><em>pass</em> the exam</li>
+          <li><em>pass</em> the final exam</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
           <li><strong>4</strong> oral mini-exams</li>
           <li><strong>10</strong> assignments, at least <strong>4</strong> <em>exemplary</em></li>
           <li><strong>7</strong> presentations</li>
-          <li><em>pass</em> the exam</li>
+          <li><em>pass</em> the final exam</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +208,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
           <li><strong>3</strong> oral mini-exams</li>
           <li><strong>8</strong> assignments</li>
           <li><strong>6</strong> presentations</li>
-          <li><em>pass</em> the exam</li>
+          <li><em>pass</em> the final exam</li>
         </ul>
       </td>
     </tr>
@@ -219,13 +219,14 @@ Satisfactory performance during the oral exam is required to pass the course. To
           <li><strong>2</strong> oral mini-exams</li>
           <li><strong>6</strong> assignments</li>
           <li><strong>6</strong> presentations</li>
-          <li><em>pass</em> the exam</li>
+          <li><em>pass</em> the final exam</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
+- If you only want to pass half of the course (KTH1), you need to fulfil at least half of the requirements (rounded up to the next integer).
 - **Important Remark: This table is subject to change!**
 - Your final grade may contain further gradations (1,7 vs 2,3, etc.), which are determined by the oral exam (if you pass), your engagement with the course (attendance, interaction), and if you are close to the thresholds according to the above scheme.
 
