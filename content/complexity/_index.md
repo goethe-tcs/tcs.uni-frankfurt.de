@@ -75,11 +75,11 @@ schedule:
     subtitle: "Review and Assessment"
     weekstart: "2025-12-16"
 
-  - title: "PCP Theorem"
+  - title: "Complexity of Counting"
     weekstart: "2025-01-13"
     links:
-      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 11"
-      - "Exercises: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15"
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 17"
+      - "Exercises: 17.2, 17.4, 17.6*"
 
   - title: "Decision Trees"
     weekstart: "2025-01-20"
@@ -87,16 +87,16 @@ schedule:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 12"
       - "Exercises: 12.1, 12.2, 12.3, 12.6"
 
-  - title: "Complexity of Counting"
+  - title: "⊕ ∉ AC0"
     weekstart: "2025-01-27"
     links:
-      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 17"
-      - "Exercises: 17.2, 17.4, 17.6*"
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 14.1"
 
-  - title: "⊕ ∉ AC0"
+  - title: "PCP Theorem"
     weekstart: "2025-02-03"
     links:
-      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 14.1"
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 11"
+      - "Exercises: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15"
 
   - title: "Final week"
     subtitle: "Review and Assessment"
