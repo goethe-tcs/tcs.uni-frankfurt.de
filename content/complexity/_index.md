@@ -185,7 +185,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
         <ul>
           <li><strong>4</strong> oral mini-exams</li>
           <li><strong>12</strong> assignments, at least <strong>6</strong> <em>exemplary</em></li>
-          <li><strong>9</strong> presentations</li>
+          <li><strong>7</strong> presentations</li>
           <li><em>pass</em> the final exam</li>
         </ul>
       </td>
@@ -196,7 +196,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
         <ul>
           <li><strong>4</strong> oral mini-exams</li>
           <li><strong>10</strong> assignments, at least <strong>4</strong> <em>exemplary</em></li>
-          <li><strong>7</strong> presentations</li>
+          <li><strong>6</strong> presentations</li>
           <li><em>pass</em> the final exam</li>
         </ul>
       </td>
@@ -207,7 +207,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
         <ul>
           <li><strong>3</strong> oral mini-exams</li>
           <li><strong>8</strong> assignments</li>
-          <li><strong>6</strong> presentations</li>
+          <li><strong>5</strong> presentations</li>
           <li><em>pass</em> the final exam</li>
         </ul>
       </td>
@@ -218,7 +218,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
         <ul>
           <li><strong>2</strong> oral mini-exams</li>
           <li><strong>6</strong> assignments</li>
-          <li><strong>6</strong> presentations</li>
+          <li><strong>4</strong> presentations</li>
           <li><em>pass</em> the final exam</li>
         </ul>
       </td>
