@@ -38,10 +38,10 @@
   position: Research Intern
   former: true
 
-- name: You? We're hiring!
-  position: 1x PhD student
-  url: /positions/#phd
-  hiring: true
+# - name: You? We're hiring!
+#   position: 1x PhD student
+#   url: /positions/#phd
+#   hiring: true
 
 # - name: You? We're hiring!
 #   position: 1x _Wiss. Mitarbeiter:in_ for Algo-Learn
