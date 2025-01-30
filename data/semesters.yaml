@@ -1,120 +1,126 @@
 - name: Winter 2024/25
   start: 2024-10-01
   courses:
-  - url: /complexity/
-    img: /complexity/AB-cover-169.jpg
-    name: Complexity Theory
-    desc: Course
-    loc: Mo 10-14, Mi 14-16, H1
-  - url: /seminar/dais/
-    name: Current Topics in Theoretical Computer Science
-    img: /images/RMU_DAIS_logo.svg
-    img_bg_white: true
-    desc: B.Sc./M.Sc. Seminar
+    - url: /complexity/
+      img: /complexity/AB-cover-169.jpg
+      name: Complexity Theory
+      desc: Course
+      loc: Mo 10-14, Mi 14-16, H1
+    - url: /seminar/dais/
+      name: Current Topics in Theoretical Computer Science
+      img: /images/RMU_DAIS_logo.svg
+      img_bg_white: true
+      desc: B.Sc./M.Sc. Seminar
 - name: Summer 2024
   start: 2024-04-01
   courses:
-  - url: /parameterized/2024/
-    name: Fine-grained Parameterized Algorithms
-    desc: Advanced Course
-  - url: /seminar/dais/
-    name: Current Topics in Theoretical Computer Science
-    img: /images/RMU_DAIS_logo.svg
-    img_bg_white: true
-    desc: B.Sc./M.Sc. Seminar
+    - url: /parameterized/2024/
+      name: Fine-grained Parameterized Algorithms
+      desc: Advanced Course
+    - url: /seminar/dais/
+      name: Current Topics in Theoretical Computer Science
+      img: /images/RMU_DAIS_logo.svg
+      img_bg_white: true
+      desc: B.Sc./M.Sc. Seminar
 - name: Winter 2023/24
   start: 2023-10-01
   courses:
-  - url: /algo2/
-    img: /algo2/pnp.svg
-    name: Algorithmen und Datenstrukturen 2
-    desc: Course
-  - url: https://dais.rhein-main-universitaeten.de/
-    img: /images/RMU_DAIS_logo.svg
-    img_bg_white: true
-    name: Discrete Algorithm Insights Seminar
-    desc: "Joint research seminar of the RMU universities, with talks on discrete algorithms and related topics. In Fankfurt on **Friday, November 24, 2023** at 1-3pm."
-  - url: /aoc/
-    img: /aoc/Advent-of-Code-Logo.png
-    name: Advent of Code at FB12
-    desc: Social and fun coding marathon every day on **December 1-24, 2023**.
-  - url: /wcfd/
-    img: /wcfd/wcfd-169.png
-    name: Bembel-Coding — Will Code for Drinks
-    desc: Social and fun coding event on **November 10, 2023** from 16h00 to 19h00 in the "Matheturm" (Room 711)
-  - url: /projects/
-    img: /images/blackboard.jpg
-    name: Thesis / Project
-    desc: Apply by **April 1** or **October 1** for a thesis or research project.
+    - url: /algo2/
+      img: /algo2/pnp.svg
+      name: Algorithmen und Datenstrukturen 2
+      desc: Course
+    - url: https://dais.rhein-main-universitaeten.de/
+      img: /images/RMU_DAIS_logo.svg
+      img_bg_white: true
+      name: Discrete Algorithm Insights Seminar
+      desc: "Joint research seminar of the RMU universities, with talks on discrete algorithms and related topics. In Fankfurt on **Friday, November 24, 2023** at 1-3pm."
+    - url: /aoc/
+      img: /aoc/Advent-of-Code-Logo.png
+      name: Advent of Code at FB12
+      desc: Social and fun coding marathon every day on **December 1-24, 2023**.
+    - url: /wcfd/
+      img: /wcfd/wcfd-169.png
+      name: Bembel-Coding — Will Code for Drinks
+      desc: Social and fun coding event on **November 10, 2023** from 16h00 to 19h00 in the "Matheturm" (Room 711)
+    - url: /projects/
+      img: /images/blackboard.jpg
+      name: Thesis / Project
+      desc: Apply by **April 1** or **October 1** for a thesis or research project.
 - name: Summer 2023
   start: 2023-04-01
   courses:
-  - url: /algo1/
-    img: /algo1/doors169-small.jpg
-    name: Algorithmen und Datenstrukturen 1
-    desc: Course
-  - url: /pace/
-    img: /pace/turtle-169.svg
-    name: PACE challenge
-    desc: Participate in a fun, group-based implementation challenge!
+    - url: /algo1/
+      img: /algo1/doors169-small.jpg
+      name: Algorithmen und Datenstrukturen 1
+      desc: Course
+    - url: /pace/
+      img: /pace/turtle-169.svg
+      name: PACE challenge
+      desc: Participate in a fun, group-based implementation challenge!
+    - url: /events/2023_06_competitive_coding
+      name: Competitive Coding
+      desc: "Team-based fun activity on June 23, 2023 from 15h00 to 18h00"
 - name: Winter 2022/23
   start: 2022-10-01
   courses:
-  - url: /seminar/homomorphisms/
-    img: /images/graph_homomorphism_C5.svg
-    imgw: 155
-    imgh: 150
-    name: "Graph Homomorphisms"
-    desc: Seminar
-    loc: Di 12-14, H5
+    - url: /seminar/homomorphisms/
+      img: /images/graph_homomorphism_C5.svg
+      imgw: 155
+      imgh: 150
+      name: "Graph Homomorphisms"
+      desc: Seminar
+      loc: Di 12-14, H5
 - name: Summer 2022
   start: 2022-04-01
   courses:
-  - url: /complexity/
-    img: /complexity/AB-cover-169.jpg
-    name: Complexity Theory
-    desc: Course
-    loc: Di 10-14, Mi 10-12, H9
-  - url: /seminar/atti/
-    img: /teaching/cr.png
-    img_bg_white: true
-    name: "Graph kernels"
-    desc: Seminar
-    loc: Di 8-10, H9
+    - url: /complexity/
+      img: /complexity/AB-cover-169.jpg
+      name: Complexity Theory
+      desc: Course
+      loc: Di 10-14, Mi 10-12, H9
+    - url: /seminar/atti/
+      img: /teaching/cr.png
+      img_bg_white: true
+      name: "Graph kernels"
+      desc: Seminar
+      loc: Di 8-10, H9
+    - url: /tt-82
+      name: Theorietag
+      desc: "The 82th Workshop on Algorithms and Complexity (_Theorietag_) on June 8-9, 2022"
 - name: Winter 2021/22
   start: 2021-10-01
   courses:
-  - url: /algo2/2021
-    img: /algo2/pnp.svg
-    name: Algorithmen und Datenstrukturen 2
-    desc: Course
-  - url: /seminar/wigderson/
-    img: /seminar/wigderson-cover-169.jpg
-    name: Mathematics and Computation
-    desc: Seminar
-  - url: /pace/
-    img: /pace/turtle-169.svg
-    name: PACE challenge
-    desc: Participate in a fun, group-based implementation challenge!
+    - url: /algo2/2021
+      img: /algo2/pnp.svg
+      name: Algorithmen und Datenstrukturen 2
+      desc: Course
+    - url: /seminar/wigderson/
+      img: /seminar/wigderson-cover-169.jpg
+      name: Mathematics and Computation
+      desc: Seminar
+    - url: /pace/
+      img: /pace/turtle-169.svg
+      name: PACE challenge
+      desc: Participate in a fun, group-based implementation challenge!
 - name: Summer 2021
   start: 2021-04-01
   courses:
-  - url: /algo1/2021/
-    img: /algo1/doors169-small.jpg
-    name: Algorithmen und Datenstrukturen 1
-    desc: Course
-  - url: /seminar/paper/
-    img: /images/breakthrough-small.png
-    img_bg_white: true
-    name: "Recent breakthroughs in TCS"
-    desc: Seminar
+    - url: /algo1/2021/
+      img: /algo1/doors169-small.jpg
+      name: Algorithmen und Datenstrukturen 1
+      desc: Course
+    - url: /seminar/paper/
+      img: /images/breakthrough-small.png
+      img_bg_white: true
+      name: "Recent breakthroughs in TCS"
+      desc: Seminar
 - name: Winter 2020/21
   start: 2020-10-01
   courses:
-  - url: /parameterized/2020/
-    name: Fine-grained Parameterized Algorithms
-    desc: Course
-  - url: /seminar/wigderson/
-    img: /seminar/wigderson-cover-169.jpg
-    name: Mathematics and Computation
-    desc: Seminar
+    - url: /parameterized/2020/
+      name: Fine-grained Parameterized Algorithms
+      desc: Course
+    - url: /seminar/wigderson/
+      img: /seminar/wigderson-cover-169.jpg
+      name: Mathematics and Computation
+      desc: Seminar
