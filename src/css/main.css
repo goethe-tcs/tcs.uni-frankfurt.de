@@ -1,9 +1,122 @@
+@import "tailwindcss";
 @import "katex/dist/katex.css";
 @import "academicons/css/academicons.css";
 @import "@fortawesome/fontawesome-free/css/all.min.css";
-@import "settings.css";
-@import "tailwind.css";
-@import "custom.css";
-@import "structure.css";
-@import "navbar.css";
-@import "print.css";
+
+@theme {
+  --color-primary: rgb(0, 97, 143);
+  --color-accent: rgb(134, 0, 71);
+  --color-primary-content: white;
+  --color-accent-content: white;
+
+  --color-base: white;
+  --color-base-content: oklch(0.278078 0.029596 256.848);
+  /* --color-base-100: rgb(248,246,245); */
+  --color-base-200: oklch(0.90619 0.002351 48.7194);
+  --color-base-300: oklch(0.924169 0.00108 197.138);
+
+  --color-goethe-50: #d5e5ec;
+  --color-goethe-100: #aacada;
+  --color-goethe-200: #80b0c7;
+  --color-goethe-300: #5596b4;
+  --color-goethe-400: #2b7ba2;
+  --color-goethe-500: hsl(199deg 100% 28%);
+  --color-goethe-600: #005177;
+  --color-goethe-700: #00415f;
+  --color-goethe-800: #003148;
+  --color-goethe-900: #002030;
+  --color-goethe: hsl(199deg 100% 28%);
+}
+
+/* @layer theme {
+  @media (prefers-color-scheme: dark) {
+    --color-base: black;
+    --color-base-content: oklch(0.746477 0.0216 264.436);
+    --color-base-100: #111;
+    --color-base-200: #333;
+    --color-base-300: oklch(0.211484 0.01165 254.088);
+  }
+} */
+
+@layer base {
+  :root {
+    font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
+      sans-serif;
+  }
+
+  main a:not(.plain),
+  main a:hover:not(.plain),
+  main a:active:not(.plain),
+  main :any-link:not(.plain),
+  main .link:not(.plain) {
+    @apply text-primary underline outline-none;
+  }
+
+  main .link:hover:not(.plain),
+  main :any-link:hover:not(.plain) {
+    @apply bg-primary/10;
+  }
+
+  h1 {
+    @apply text-3xl leading-tight font-bold;
+  }
+
+  h2 {
+    @apply text-2xl font-semibold;
+  }
+
+  h2::after {
+    @apply block border-t border-dashed content-[""];
+  }
+
+  h3 {
+    @apply text-xl;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply mt-8;
+  }
+
+  b,
+  strong {
+    @apply font-bold;
+  }
+
+  ol {
+    @apply list-decimal;
+  }
+
+  ul {
+    @apply list-[circle];
+  }
+
+  ul,
+  ol {
+    @apply pl-4;
+  }
+
+  p,
+  ul,
+  ol {
+    @apply my-4;
+  }
+
+  .alert {
+    @apply bg-base-200 flex w-full content-start gap-4 rounded-lg p-4;
+  }
+
+  header,
+  main,
+  footer {
+    @apply mx-auto w-full max-w-2xl p-4 sm:p-6;
+  }
+
+  .katex {
+    font-weight: inherit !important;
+    font-size: inherit !important;
+  }
+}

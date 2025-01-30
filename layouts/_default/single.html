@@ -1,10 +1,12 @@
 {{ define "main" }}
-{{ $de := eq .Params.lang "de" }}
+  {{ $de := eq .Params.lang "de" }}
   <div class="mt-8">
-    <h1 class="inline-block mt-0">{{ .Title }}</h1>
-  {{- with .Params.semester -}}<b class="block font-sans">{{ . }}</b>{{ end -}}
-</div>
-  <ul class="event-head">
+    <h1 class="mt-0 inline-block">{{ .Title }}</h1>
+    {{- with .Params.semester -}}
+      <b class="block">{{ . }}</b>
+    {{ end -}}
+  </div>
+  <ul class="list-['-_'] text-xs">
     {{ if .Params.kürzel }}
       <li>
         {{ if $de }}Modulkürzel:{{ else }}Course codes:{{ end }}
@@ -14,11 +16,22 @@
       </li>
     {{ end }}
     {{- with .Params.links }}
-      <li>{{ if $de }}Externe Links:{{ else }}External links:{{ end }}
-        <div class="inline-flex">{{- range . -}}<a href="{{ .url }}" class="inline-block [&:not(:first-child)]:border-l-2 px-1">{{ .name | $.RenderString }}</a>{{- end -}}</div></li>
+      <li>
+        {{ if $de }}Externe Links:{{ else }}External links:{{ end }}
+        <div class="inline-flex">
+          {{- range . -}}
+            <a href="{{ .url }}" class="inline-block px-1 not-first:border-l-2"
+              >{{ .name | $.RenderString }}</a
+            >
+          {{- end -}}
+        </div>
+      </li>
     {{ end -}}
     {{- with .Params.qis }}
-      <li>{{ if $de }}Externe Links:{{ else }}External links:{{ end }} <a href="{{ . }}">qis</a></li>
+      <li>
+        {{ if $de }}Externe Links:{{ else }}External links:{{ end }}
+        <a href="{{ . }}">qis</a>
+      </li>
     {{ end -}}
   </ul>
   {{ if or .Params.show_author_date_info .Params.estimated_reading_time }}
@@ -26,12 +39,15 @@
       {{ if .Params.show_author_date_info }}
         Written
         {{ with .Params.author }}
-          by {{ . | $.RenderString }}
+          by
+          {{ . | $.RenderString }}
         {{ end }}{{ with .PublishDate.Format "January 2006" }}
-          in {{ . }}
+          in
+          {{ . }}
         {{ end }},
         {{ with .Lastmod.Format "January 2006" }}
-          last modified in {{ . }}
+          last modified in
+          {{ . }}
         {{ end }}.
       {{ end }}
       {{ if .Params.estimated_reading_time }}

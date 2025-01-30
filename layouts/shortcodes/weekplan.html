@@ -26,7 +26,7 @@
   </div> -->
 
       {{- if $weekstart -}}
-        <span class="block font-sans text-xs text-primary dark:text-gray-400">
+        <span class="block text-xs text-primary">
           {{- if eq $.Page.Params.lang "de" -}}
             {{ $weekstart.Day }}.
             {{ index $.Site.Data.monat (printf "%d" $weekstart.Month) }}
@@ -40,7 +40,7 @@
         </span>
       {{- end -}}
       <span
-        class="aspect-square w-min content-center bg-black px-1 font-sans text-white dark:bg-white dark:text-black"
+        class="aspect-square w-min content-center bg-black px-1 text-white"
         >{{ $number }}</span
       >
       <strong>{{ $week.title }}{{ if $week.subtitle }}:{{ end }}</strong>

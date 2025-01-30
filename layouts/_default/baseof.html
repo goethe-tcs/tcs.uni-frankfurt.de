@@ -29,27 +29,30 @@
       <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
     {{- end }}
   </head>
-  <body>
-    <div class="header-container bg-primary text-white">
-      <header class="flex justify-between">
-        <nav class="site-links">
-          <a class="goethe" href="https://www.uni-frankfurt.de">
+  <body
+    class="grid min-h-dvh grid-rows-[min-content_1fr_max-content] print:block print:text-sm"
+  >
+    <div class="bg-primary text-primary-content print:hidden">
+      <header class="flex justify-between font-thin">
+        <nav class="flex h-14">
+          <a href="https://www.uni-frankfurt.de">
             <img
+              class="h-full"
               alt="Goethe-Universität Frankfurt"
               src="/images/Goethe-weiss.svg"
             />
           </a>
-          <a class="tcs-logo" href="/">
-            <div class="tcs-logo-long">
+          <a class="flex items-center px-3" href="/">
+            <div class="hidden min-w-max sm:block">
               Research Group for<br />
               <b>Theoretical Computer Science</b>
             </div>
-            <div class="tcs-logo-short"><b>TCS</b> Group</div>
+            <div class="sm:hidden"><b>TCS</b> Group</div>
           </a>
         </nav>
-        <nav>
+        <nav class="flex h-14">
           <div
-            class="group relative flex flex-col items-center justify-center p-2 text-center hover:bg-goethe-900"
+            class="group hover:bg-goethe-900 relative flex flex-col items-center justify-center p-2 text-center"
           >
             <a class="w-max" href="/research/">
               <i class="fas fa-flask"></i>
@@ -57,29 +60,33 @@
             </a>
           </div>
           <div
-            class="group relative flex flex-col justify-center p-2 text-center hover:bg-goethe-900"
+            class="group hover:bg-goethe-900 relative flex flex-col justify-center p-2 text-center"
           >
             <a class="w-max" href="/teaching/">
               <i class="fas fa-chalkboard-teacher"></i>
               <div class="text-xs">Teaching</div></a
             >
             <div
-              class="absolute right-0 top-full z-50 hidden min-h-full w-max flex-col place-items-center items-stretch bg-inherit text-center focus:outline-none group-hover:flex"
+              class="absolute top-full right-0 z-50 hidden min-h-full w-max flex-col place-items-center items-stretch bg-inherit text-center group-hover:flex focus:outline-hidden"
             >
-              <a href="/complexity/" class="plain p-2 no-underline hover:bg-white/10"
+              <a
+                href="/complexity/"
+                class="p-2 no-underline hover:bg-white/10"
                 >Complexity Theory</a
               >
-              <a href="/seminar/dais/" class="plain p-2 no-underline hover:bg-white/10"
+              <a
+                href="/seminar/dais/"
+                class="p-2 no-underline hover:bg-white/10"
                 >Seminar</a
               >
               <a
                 href="/projects/"
-                class="plain p-2 text-white no-underline hover:bg-white/10"
+                class="p-2 text-white no-underline hover:bg-white/10"
                 >Thesis &amp; Projects</a
               >
               <a
                 href="/teaching/"
-                class="plain block p-2 text-white no-underline hover:bg-white/10"
+                class="block p-2 text-white no-underline hover:bg-white/10"
                 >All Courses</a
               >
             </div>
@@ -87,19 +94,24 @@
         </nav>
       </header>
     </div>
-    <div class="main-container {{ .Layout }}">
-      <main>{{ block "main" . }}{{ end }}</main>
+    <div class="bg-base text-base-content">
+      <main class="print:m-0 print:p-0">{{ block "main" . }}{{ end }}</main>
     </div>
-    <div class="footer-container text-right flex h-28 items-center text-sm align-right bg-base-200">
+    <div
+      class="bg-base-200 flex h-28 items-center text-right text-sm print:hidden"
+    >
       <footer>
         {{ if .GitInfo }}
           {{ .GitInfo.AuthorName }} |
           {{ with .Lastmod.Format "January 2, 2006" }}{{ . }} |{{ end }}
         {{ end }}
-        <a href="https://github.com/goethe-tcs/tcs.uni-frankfurt.de"><i class="fa-brands fa-github"></i></a
-    >
+        <a
+          class="underline hover:bg-primary/10"
+          href="https://github.com/goethe-tcs/tcs.uni-frankfurt.de"
+          ><i class="fa-brands fa-github"></i
+        ></a>
         |
-        <a href="/legal/">Impressum und Datenschutz</a>
+        <a class="underline hover:bg-primary/10" href="/legal/">Impressum und Datenschutz</a>
       </footer>
     </div>
   </body>

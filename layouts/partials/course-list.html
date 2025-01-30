@@ -1,13 +1,12 @@
-<div class="mx-auto mt-7 grid max-w-screen-sm grid-cols-1 gap-10 font-sans">
+<div class="mx-auto mt-7 grid grid-cols-1 gap-10">
   {{- range .courses -}}
     <a
       href="{{ .url }}"
-      class="group flex
-w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl  no-underline transition duration-500 hover:bg-goethe-50 dark:hover:bg-slate-900"
+      class="group hover:bg-goethe-50 flex w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl no-underline transition duration-500"
     >
       <div
         class="{{ if .img_bg_white }}
-          dark:bg-white
+          darkkk:bg-white
         {{ end }} flex aspect-video w-[40%] flex-none place-items-center justify-center overflow-hidden rounded-3xl"
       >
         {{ if .img -}}
@@ -17,10 +16,10 @@ w-full flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3
         {{- end -}}
       </div>
       <div class="px-3">
-        <div class="font-bold text-goethe-600 dark:text-goethe-100">
+        <div class="text-goethe-600 font-bold">
           {{ .name | markdownify }}
         </div>
-        <div class="text-sm font-light text-slate-600 dark:text-gray-400">
+        <div class="text-sm font-light text-slate-600">
           {{ .desc | markdownify }}
         </div>
       </div>

@@ -1,14 +1,14 @@
-<div class="mx-auto mt-7 grid w-full max-w-max gap-7 font-sans sm:grid-cols-2">
+<div class="mx-auto mt-7 grid w-full max-w-max gap-7 sm:grid-cols-2">
   {{ range $.Site.Data.members }}
     {{- if not .former -}}
       <a
         class="{{ if .url }}
-          hover:bg-goethe-100 dark:hover:bg-goethe-800
+          hover:bg-goethe-100 
         {{ end }} {{ if .hiring }}
-          bg-red-100 hover:bg-red-200 dark:hover:bg-red-800
+          bg-red-100 hover:bg-red-200 
         {{ else }}
           bg-goethe-50
-        {{ end }} group flex flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl no-underline transition duration-500 dark:bg-gray-900"
+        {{ end }} group flex flex-row place-items-center justify-start gap-2 overflow-hidden rounded-3xl no-underline transition duration-500"
         {{ if .url }}href="{{ .url }}"{{ end }}
       >
         <div
@@ -28,12 +28,12 @@
         <div class="pr-3">
           <div
             class="{{ if .hiring }}
-              text-red-900 dark:text-red-100
-            {{ end }} font-bold text-goethe-600 dark:text-goethe-200"
+              text-red-900 
+            {{ end }} font-bold text-goethe-600 "
           >
             {{ .name }}
           </div>
-          <div class="text-sm font-light text-slate-600 dark:text-slate-300">
+          <div class="text-sm font-light text-slate-600">
             {{ .position }}
           </div>
         </div>

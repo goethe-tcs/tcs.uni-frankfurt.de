@@ -1,125 +1,112 @@
 <html>
-<head>
+  <head>
+    <script>
+      let countDownDate
+      const hash = location.hash.substr(1)
+      if (hash != null) {
+        ;[hours, minutes] = hash.split(":")
+        console.log(hash, hours, minutes)
+        const now = new Date()
+        let then = now
+        then.setMilliseconds(0)
+        then.setSeconds(0)
+        then.setMinutes(minutes)
+        then.setHours(hours)
+        countDownDate = then.getTime()
+      } else {
+        countDownDate = new Date("August 2, 2021 12:00").getTime()
+      }
 
-<script>
-let countDownDate
-const hash = location.hash.substr(1);
-if (hash != null) {
-  [hours, minutes] = hash.split(":")
-  console.log(hash, hours, minutes)
-  const now = new Date()
-  let then = now
-  then.setMilliseconds(0)
-  then.setSeconds(0)
-  then.setMinutes(minutes)
-  then.setHours(hours)
-  countDownDate = then.getTime();
-} else {
-  countDownDate = new Date("August 2, 2021 12:00").getTime();
-}
+      function show(id) {
+        document.getElementById(id).style.display = ""
+      }
 
-function show(id)
-{
-    document.getElementById(id).style.display = '';
-}
+      function hide(id) {
+        document.getElementById(id).style.display = "none"
+      }
+    </script>
 
-function hide(id)
-{
-    document.getElementById(id).style.display = 'none';
-}
-
-</script>
-
-<style>
-
-    *{
+    <style>
+      * {
         background-color: #000;
-        color: #FFF;
-    }
-    
-    #timer
-    {
-        width: 60%; 
-        margin:auto; 
-        margin-top:1em; 
+        color: #fff;
+      }
+
+      #timer {
+        margin: auto;
+        margin-top: 1em;
+        width: 60%;
         font-size: 5em;
         text-align: center;
-    }
-    
-    .bathroom
-    {
+      }
+
+      .bathroom {
+        margin: auto;
+        margin-top: 2em;
         width: 30%;
-        margin:auto;
-        margin-top:2em; 
         font-size: 3em;
         text-align: center;
-    }
-    
-    .bathroom > span
-    {
+      }
+
+      .bathroom > span {
         cursor: pointer;
-    }
-    
-    .bathroom > #br-1
-    {
-        color: #0A0;
-    }
-    
-    .bathroom > #br-2
-    {
-        color: #A00;
-    }
+      }
 
-</style>
+      .bathroom > #br-1 {
+        color: #0a0;
+      }
 
+      .bathroom > #br-2 {
+        color: #a00;
+      }
+    </style>
 
+    <body>
+      <div id="timer"></div>
 
-<body>
+      <div class="bathroom" id="bathroom-1">
+        Toilette
+        <br />
+        <span id="br-1" onclick="hide('br-1');show('br-2');">frei</span>
 
-<div id="timer"></div>
+        <span
+          id="br-2"
+          style="display:none;"
+          onclick="hide('br-2');show('br-1');"
+          >besetzt</span
+        >
+      </div>
 
-<div class="bathroom" id="bathroom-1">
-    Toilette
-    <br>
-    <span id="br-1" onclick="hide('br-1');show('br-2');">frei</span>
-    
-    <span id="br-2" style="display:none;" onclick="hide('br-2');show('br-1');">besetzt</span>
-</div>
+      <script>
+        // Update the count down every 1 second
+        var x = setInterval(function () {
+          // Get currnet date and time
+          var now = new Date().getTime()
 
-<script>
+          // Find the distance between now and the count down date
+          var distance = Math.floor((countDownDate - now) / 1000)
+          var minutes = Math.floor(distance / 60)
+          var seconds = distance % 60
 
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get currnet date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = Math.floor((countDownDate - now)/1000);
-  var minutes = Math.floor(distance / 60);
-  var seconds = distance % 60;
-  
-  if(minutes >= 60)
-  {
-    document.getElementById("timer").innerHTML = "Noch ca. <b>" + (minutes - (minutes % 15)) + "</b> Minuten";
-  }
-  else if(minutes >= 5)
-  {
-    document.getElementById("timer").innerHTML = "Noch ca. <b>" + (minutes - (minutes % 5)) + "</b> Minuten";
-  }
-  else if(minutes >= 1)
-  {
-    document.getElementById("timer").innerHTML = "Noch <b>" + minutes + "</b> Minuten";
-  }
-  else if(distance > 0)
-  {
-    document.getElementById("timer").innerHTML = "Noch <b>" + seconds + "</b> Sekunden";
-  }
-  else
-  {
-    clearInterval(x);
-    document.getElementById("timer").innerHTML = "Ende<br>Stifte weglegen.";
-  }
-}, 1000);
-
-</script>
+          if (minutes >= 60) {
+            document.getElementById("timer").innerHTML =
+              "Noch ca. <b>" + (minutes - (minutes % 15)) + "</b> Minuten"
+          } else if (minutes >= 5) {
+            document.getElementById("timer").innerHTML =
+              "Noch ca. <b>" + (minutes - (minutes % 5)) + "</b> Minuten"
+          } else if (minutes >= 1) {
+            document.getElementById("timer").innerHTML =
+              "Noch <b>" + minutes + "</b> Minuten"
+          } else if (distance > 0) {
+            document.getElementById("timer").innerHTML =
+              "Noch <b>" + seconds + "</b> Sekunden"
+          } else {
+            clearInterval(x)
+            document.getElementById("timer").innerHTML =
+              "Ende<br>Stifte weglegen."
+          }
+        }, 1000)
+      </script>
+    </body>
+  </head>
+</html>
