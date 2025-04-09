@@ -2,13 +2,13 @@
 title: Holger Dell
 layout: member
 position: |
-    Professor of [Theoretical Computer Science](https://tcs.uni-frankfurt.de) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de)
+  Professor of [Theoretical Computer Science](https://tcs.uni-frankfurt.de) at [Goethe-Universität Frankfurt](https://www.uni-frankfurt.de)
 
-    Associate Professor at <a href="https://algorithms.itu.dk">ITU Copenhagen</a>,
-    affiliated with <a href="https://barc.ku.dk">BARC</a>
+  Associate Professor at <a href="https://algorithms.itu.dk">ITU Copenhagen</a>,
+  affiliated with <a href="https://barc.ku.dk">BARC</a>
 contact:
-  - "fa fa-phone": '+49-69-798-28327'
-  - "fa fa-building": 'Room 302, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)'
+  - "fa fa-phone": "+49-69-798-28327"
+  - "fa fa-building": "Room 302, [Robert-Mayer-Str. 11-15](https://goo.gl/maps/h7xTTc3xG7GRQ9wn7)"
   # - "fa fa-clock": 'Office Hour: most Mondays at 14-15pm.'
   - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
 photo: /images/161019-HD-quadratic.jpg
@@ -16,10 +16,9 @@ profiles:
   - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"
   - "ai ai-google-scholar": "[Google Scholar](https://scholar.google.de/citations?user=zcZSZ4MAAAAJ)"
   - "ai ai-arxiv": "[arxiv.org](https://arxiv.org/a/dell_h_1)"
-  - "fab fa-orcid": "[orcid](https://orcid.org/0000-0001-8955-0786)"
-  - "fab fa-github": "[Github](https://github.com/holgerdell)"
-  - "fab fa-twitter": "[Twitter](https://twitter.com/holgerdell)"
-  - "fab fa-keybase": "[keybase.io](https://keybase.io/holgerdell)"
+  - "fa-brands fa-orcid": "[orcid](https://orcid.org/0000-0001-8955-0786)"
+  - "fa-brands fa-github": "[Github](https://github.com/holgerdell)"
+  - "fa-brands fa-bluesky": "[Bluesky](https://bsky.app/profile/holgerdell.com)"
 ---
 
 ## <i class="fas fa-flask"></i> Research
