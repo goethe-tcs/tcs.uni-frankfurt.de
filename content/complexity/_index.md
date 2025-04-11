@@ -18,88 +18,106 @@ semester: "WiSe-2024/25"
 toc: true
 layout: single
 schedule:
-  - title: "Introduction"
+  - title: "Introduction, Turing machines, time complexity"
     weekstart: "2024-10-14"
     subtitle: "Course structure, grading scheme, and the first assignment."
+    links:
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 1.2-1.4, 1.2, 1.3, 1.6"
+      - "Assignment: Ex. 1.5 or 1.6"
+      - "Exercises: Ex. 1.9, 1.10, 1.11"
+      - "Presentations: Claim 1.5, 1.6, 1.8"
 
   - title: "Efficient universal Turing machine"
     weekstart: "2024-10-21"
     links:
-      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 1.2-1.4, 1.6-1.7"
-      - "In-class exercises: Example 1.1, Claims 1.5 and 1.6."
-      - "Exercises: 1.5, 1.6*, 1.9, 1.10, 1.15 (* = hard, but well worth the effort)"
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 1.4, 1.7"
+      - "Assignment: Ex. 2.6(b)"
 
   - title: "NP and NP completeness"
     weekstart: "2024-10-28"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 2.1-2.3, 2.5-2.7"
-      - "Exercises: 2.10, 2.8, 2.25, 2.29, 2.6b*, 2.30*"
+      - "Assignment: Ex. 2.30"
+      - "Exercises: 2.10, 2.25, 2.29"
+      - "Presentations: Theorem 2.6, Lemma 2.11"
 
   - title: "Diagonalization"
     weekstart: "2024-11-04"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 3"
-      - "Exercises: 3.5, 3.6, 3.7*, 3.8*"
+      - "Assignment: Ex. 3.7"
+      - "Exercises: 3.5, 3.6, 3.8"
+      - "Presentations: Theorems 3.2, 3.3, 3.7"
 
   - title: "Space complexity"
     weekstart: "2024-11-11"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 4"
-      - "Exercises: 4.1, 4.2, 4.3, 4.7"
+      - "Assignment: Ex. 4.11"
+      - "Exercises: 4.2, 4.3, 4.7, 4.8"
+      - "Presentations: Theorem 4.13"
 
   - title: "The polynomial hierarchy and alternations"
     weekstart: "2024-11-18"
     links:
-      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 5"
-      - "Exercises: 5.3, 5.7, 5.10, 5.13"
+      - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 5.1-5.3"
+      - "Assignment: Ex. 5.7"
+      - "Exercises: 5.3, 5.10, 5.11"
 
   - title: "Boolean circuits"
     weekstart: "2024-11-25"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 6"
-      - "Exercises: 6.3, 6.8, 6.9*, 6.12"
+      - "Assignment: Ex. 6.5"
+      - "Exercises: 6.3, 6.8, 6.12"
 
   - title: "Randomized computation"
     weekstart: "2024-12-02"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 7"
+      - "Assignment: Ex. 7.6"
       - "Exercises: 7.4, 7.7, 7.9"
+      - "Presentations: Theorem 7.15"
 
   - title: "Interactive proofs"
     weekstart: "2024-12-09"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 8.1-8.3"
-      - "Exercises: 8.1, 8.2, 8.6*"
+      - "Assignment: Ex. 8.6"
+      - "Exercises: 8.1, 8.2, 8.4"
 
-  - title: "Recap"
-    subtitle: "Review and Assessment"
+  - title: "Recap and assessment"
     weekstart: "2025-12-16"
 
-  - title: "Complexity of Counting"
+  - title: "Complexity of counting"
     weekstart: "2025-01-13"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 17"
-      - "Exercises: 17.2, 17.4, 17.6*"
+      - "Assignment: 17.2"
+      - "Exercises: 17.1, 17.4"
 
-  - title: "Decision Trees"
+  - title: "Decision trees"
     weekstart: "2025-01-20"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 12"
-      - "Exercises: 12.1, 12.2, 12.3, 12.6"
+      - "Assignment: Ex. 12.2"
+      - "Exercises: 12.1, 12.3, 12.6"
 
   - title: "⊕ ∉ AC0"
     weekstart: "2025-01-27"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 14.1"
+      - "Assignment: Ex. 14.2"
+      - "Exercises: 14.1, 14.3, 14.7"
 
-  - title: "PCP Theorem"
+  - title: "PCP theorem"
     weekstart: "2025-02-03"
     links:
       - "[AB](https://ubffm.hds.hebis.de/Record/HEB48053893X) 11"
-      - "Exercises: Read!, 11.2, 11.3, 11.6, 11.9*, 11.15"
+      - "Exercises: 11.1, 11.2, 11.3, 11.6"
 
   - title: "Final week"
-    subtitle: "Review and Assessment"
+    subtitle: "Recap and Assessment"
     weekstart: "2025-02-10"
 ---
 
@@ -232,7 +250,7 @@ Satisfactory performance during the oral exam is required to pass the course. To
 
 ## Week plan
 
-The winter term has 15 weeks, the following is a _preliminary_ plan copied from an old iteration of this course. Please expect changes! **Note: This will not be updated, see [Moodle](https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=6486) for the most recent information.**
+The winter term has 15 weeks:
 
 {{< weekplan >}}
 
