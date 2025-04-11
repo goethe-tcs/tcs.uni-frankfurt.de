@@ -50,7 +50,7 @@
             <div class="sm:hidden"><b>TCS</b> Group</div>
           </a>
         </nav>
-        <nav class="flex h-14">
+        <nav class="hidden h-14">
           <div
             class="group hover:bg-goethe-900 relative flex flex-col items-center justify-center p-2 text-center"
           >
@@ -69,9 +69,7 @@
             <div
               class="absolute top-full right-0 z-50 hidden min-h-full w-max flex-col place-items-center items-stretch bg-inherit text-center group-hover:flex focus:outline-hidden"
             >
-              <a
-                href="/complexity/"
-                class="p-2 no-underline hover:bg-white/10"
+              <a href="/complexity/" class="p-2 no-underline hover:bg-white/10"
                 >Complexity Theory</a
               >
               <a
@@ -106,12 +104,14 @@
           {{ with .Lastmod.Format "January 2, 2006" }}{{ . }} |{{ end }}
         {{ end }}
         <a
-          class="underline hover:bg-primary/10"
+          class="hover:bg-primary/10 underline"
           href="https://github.com/goethe-tcs/tcs.uni-frankfurt.de"
           ><i class="fa-brands fa-github"></i
         ></a>
         |
-        <a class="underline hover:bg-primary/10" href="/legal/">Impressum und Datenschutz</a>
+        <a class="hover:bg-primary/10 underline" href="/legal/"
+          >Impressum und Datenschutz</a
+        >
       </footer>
     </div>
   </body>

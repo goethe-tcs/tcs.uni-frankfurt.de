@@ -16,4 +16,8 @@ The group is part of the [Computer Science Department](https://www.goethe-univer
 We study _theoretical computer science_, broadly understood. Our areas of interest include complexity theory, algebraic graph algorithms, dynamic algorithms, graph neural networks, logics, integer linear programming, and combinatorics.
 [Read more...](/research/)
 
-{{% current-semester-course-list %}}
+## Teaching
+
+Here is a [list of all past courses](/teaching/).
+
+<!-- {{% current-semester-course-list %}} -->
