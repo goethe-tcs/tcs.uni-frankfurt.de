@@ -7,7 +7,7 @@ contact:
   # - "fa fa-phone": '+49-69-798-28325'
   - "fa fa-fax": '+49-69-798-28814'
   # - "fa fa-search": 'Room 301, RMS 11-15'
-  - "fa fa-envelope": '<i>{my lastname}</i>@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
+  - "fa fa-envelope": 'J.Brinkmann@<span style="display: none;">ignoreme-</span><span>em.uni-frankfurt.de</span>'
 #photo: /images/claudia_gressler.jpg
 # profiles:
   # - "ai ai-dblp": "[DBLP](https://dblp.org/pers/hd/d/Dell:Holger)"
