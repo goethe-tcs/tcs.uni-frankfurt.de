@@ -1,6 +1,6 @@
 ---
 title: "General project flavors"
-author: "[Holger Dell](/~dell)"
+author: "[Holger Dell](https://holgerdell.com)"
 date: "2019-01-12"
 show_author_date_info: false
 estimated_reading_time: false

@@ -1,6 +1,6 @@
 ---
 title: "Project Guidelines"
-author: "[Holger Dell](/~dell)"
+author: "[Holger Dell](https://holgerdell.com)"
 date: "2022-04-01"
 show_author_date_info: false
 estimated_reading_time: false

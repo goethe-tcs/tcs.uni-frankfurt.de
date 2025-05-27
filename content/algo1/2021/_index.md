@@ -34,7 +34,7 @@ Bitte melden Sie sich in [Moodle](https://moodle.studiumdigitale.uni-frankfurt.d
 
 ### Dozent
 
-- [Holger Dell](https://tcs.uni-frankfurt.de/~dell/)
+- [Holger Dell](https://holgerdell.com/)
 
 ### Tutor:innen
 

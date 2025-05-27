@@ -1,18 +1,7 @@
-- name: Holger Dell
-  position: Professor
-  photo: /images/161019-HD-quadratic.jpg
-  url: /~dell
-
 - name: Claudia Gressler
   position: Secretary
   photo: /images/claudia_gressler.jpg
   url: /~gressler
-
-- name: Anselm Haak
-  position: Postdoc
-  photo: /images/haak_sqr.jpg
-  url: /~haak
-  former: true
 
 - name: Tatiana Rocha Avila
   position: PhD student
@@ -27,16 +16,10 @@
 - name: Janette Welker
   position: Scientific Staff
 
-- name: Jasper Forth
-  position: Student Assistant
-
 - name: Fabian Stiewe
   position: Student Assistant
   photo: /images/fabian_stiewe.jpg
 
-- name: Grégoire Dhimoïla
-  position: Research Intern
-  former: true
 # - name: You? We're hiring!
 #   position: 1x PhD student
 #   url: /positions/#phd

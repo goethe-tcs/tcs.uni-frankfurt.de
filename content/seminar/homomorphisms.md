@@ -21,9 +21,9 @@ The focus will be on algorithms and complexity of problems related to finding an
 
 ## Teachers
 
-- [Holger Dell](/~dell/)
-- [Anselm Haak](/~haak/)
-- [Leo Krull](/~krull/)
+- Holger Dell
+- Anselm Haak
+- Leo Krull
 
 ## Schedule
 

@@ -26,10 +26,10 @@ Manche Themen sind rein theoretischer Natur (Graphentheorie, Graphalgorithmen, K
 
 ## Dozent:in
 
-- [Holger Dell](/~dell/)
-- [Hilde Kuehne](https://hildekuehne.github.io/)
-- [Anselm Haak](/~haak/)
-- [Leo Krull](/~krull/)
+- Holger Dell
+- Hilde Kuehne
+- Anselm Haak
+- Leo Krull
 
 ## Ablauf
 

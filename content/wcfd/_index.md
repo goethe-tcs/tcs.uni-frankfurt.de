@@ -38,7 +38,7 @@ Anders als bei vielen ähnlichen Veranstaltungen handelt es sich bei *Will Code 
 Du kannst auch spontan und ohne Anmeldung vorbei kommen!
 Wir wollen lediglich einschätzen, wie viele Personen ungefähr kommen werden.
 
-*Will Code for Drinks 2023 Frankfurt* wurde organisiert von [Prof. Dr. Holger Dell](https://tcs.uni-frankfurt.de/~dell/), [Claudia Gressler](https://tcs.uni-frankfurt.de/~gressler/) und [Lars Huth](https://algo.cs.uni-frankfurt.de/~lhuth/index.en.shtml).
+*Will Code for Drinks 2023 Frankfurt* wurde organisiert von [Prof. Dr. Holger Dell](https://holgerdell.com/), [Claudia Gressler](https://tcs.uni-frankfurt.de/~gressler/) und [Lars Huth](https://algo.cs.uni-frankfurt.de/~lhuth/index.en.shtml).
 
 ## An wen richtet sich *Will Code for Drinks*?
 

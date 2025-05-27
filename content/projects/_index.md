@@ -1,6 +1,6 @@
 ---
 title: "Thesis Projects"
-author: "[Holger Dell](/~dell)"
+author: "[Holger Dell](https://holgerdell.com)"
 date: "2021-01-11"
 show_author_date_info: false
 estimated_reading_time: false
